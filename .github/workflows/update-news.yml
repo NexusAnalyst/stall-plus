@@ -1,0 +1,125 @@
+name: Update privacy news feed
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-news
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run news scoring tests
+        run: npm run test:news
+
+      - name: Refresh news feed
+        env:
+          NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
+          NEWSDATA_KEY: ${{ secrets.NEWSDATA_KEY }}
+          NEWSAPI_ORG_KEY: ${{ secrets.NEWSAPI_ORG_KEY }}
+        run: npm run update-news
+
+      - name: Sync pending review issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("node:fs");
+            const path = "data/why-stallplus-news.json";
+
+            if (!fs.existsSync(path)) {
+              console.log("No feed file found; skipping issue sync.");
+              return;
+            }
+
+            const feed = JSON.parse(fs.readFileSync(path, "utf8"));
+            const pending = feed.pendingReview || [];
+            const issueTitlePrefix = "News feed:";
+            const { owner, repo } = context.repo;
+
+            const openIssues = await github.rest.issues.listForRepo({
+              owner,
+              repo,
+              state: "open",
+              per_page: 100
+            });
+
+            const reviewIssue = openIssues.data.find((issue) =>
+              issue.title.startsWith(issueTitlePrefix)
+            );
+
+            if (pending.length === 0) {
+              if (reviewIssue) {
+                await github.rest.issues.update({
+                  owner,
+                  repo,
+                  issue_number: reviewIssue.number,
+                  state: "closed"
+                });
+              }
+              return;
+            }
+
+            const body = [
+              "The daily news updater flagged the following articles for manual review.",
+              "Move approved items from `pendingReview` to `articles` in `data/why-stallplus-news.json` and add `\"reviewStatus\": \"approved\"`.",
+              "",
+              ...pending.map((article) => [
+                `### ${article.title}`,
+                `- Confidence: ${article.confidence}`,
+                `- Category: ${article.category}`,
+                `- Reasons: ${(article.matchReasons || []).join(", ")}`,
+                `- Source: ${article.source}`,
+                `- URL: ${article.url}`,
+                ""
+              ].join("\n"))
+            ].join("\n");
+
+            const title = `News feed: ${pending.length} article${pending.length === 1 ? "" : "s"} need review`;
+
+            if (reviewIssue) {
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: reviewIssue.number,
+                title,
+                body
+              });
+              return;
+            }
+
+            await github.rest.issues.create({
+              owner,
+              repo,
+              title,
+              body
+            });
+
+      - name: Commit feed updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/why-stallplus-news.json
+          if git diff --staged --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "chore: refresh privacy news feed"
+            git push
+          fi
