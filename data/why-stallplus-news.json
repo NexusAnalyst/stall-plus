@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T16:52:17.104Z",
+  "updatedAt": "2026-06-23T14:43:49.897Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,10 +11,10 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 4,
-    "pending": 2,
-    "rejected": 65,
-    "carriedForward": 3
+    "published": 3,
+    "pending": 4,
+    "rejected": 63,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "viral-stall-gaps",
       "label": "Viral Social Media About US Bathroom Stalls",
-      "count": 1
+      "count": 0
     },
     {
       "id": "womens-safety",
@@ -56,25 +56,24 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Yakima man arrested for secretly recording female coworker",
-      "description": "A Yakima man is accused of recording a co-worker inside a workplace restroom. Court documents say 48-year-old James Bender allegedly placed a cellphone beneath a bathroom stall while a female co-worker was using the restroom. Investigators say the victim noticed the phone, took a photo of it and immediately reported the incident. Police later identified Bender as the owner of the device, launching a criminal investigation. Prosecutors charged Bender with cyber voyeurism, a felony under Washington law. He is scheduled to face further court proceedings in Yakima County Superior Court.",
-      "url": "https://www.triyaknews.com/features/yakima-man-arrested-for-secretly-recording-female-coworker/article_eaa5989f-f6eb-4457-8dda-07d420a34101.html",
-      "source": "TriYakNews.com",
-      "image": "https://bloximages.chicago2.vip.townnews.com/triyaknews.com/content/tncms/custom/image/ef90295b-2419-4dde-9fe9-f30a76806811.png?resize=600%2C315",
-      "publishedAt": "2026-06-16T01:00:00Z",
+      "title": "Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom",
+      "description": "Bradley Austin Moyer of Port Carbon, Pennsylvania. Mugshot courtesy Charlestown Police Department. LOUISVILLE, Ky. (WDRB) -- A Pennsylvania man has pleaded guilty after authorities said a disturbing incident at a Southern Indiana grocery store escalated into multiple felony charges, according to court records. Bradley Moyer pleaded guilty to battery, voyeurism and auto theft. Court documents said the incident happened in October of last year at a Jay C Food Store in Charlestown. Investigators said Moyer inappropriately touched a 7-year-old girl inside a women's restroom and pulled off her shoe. Police also alleged he used a phone in an attempt to record under a bathroom stall. According to authorities, the child's mother confronted Moyer inside the store. He then fled the scene, getting into a vehicle and driving away. Police say a bystander who tried to intervene was struck during the confrontation. Moyer is scheduled to be sentenced July 22.",
+      "url": "https://www.wdrb.com/news/man-pleads-guilty-to-battery-voyeurism-after-targeting-child-in-grocery-store-restroom/article_05b12408-0dd8-4d6f-b818-a8d2d8e0f9f0.html",
+      "source": "WDRB",
+      "image": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/f/a3/fa37de23-7b28-522b-beb9-3f82e4c51b63/6a39f35c29b80.image.jpg?crop=1280%2C672%2C0%2C23&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-06-23T02:46:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 95,
+      "confidence": 75,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (2)",
+        "restroom context (4 terms)",
+        "category terms (1)",
         "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
+        "published within 7 days"
       ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Yakima man arrested for secretly recording female coworker\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     },
     {
       "provider": "NewsAPI.ai",
@@ -117,71 +116,96 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Church worker charged with video voyeurism in Lake County, deputies say\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "'I Just Don't Understand the Purpose': A UK TikToker's Confusion About American Bathroom Stalls Just Went Viral on X -- and Americans Are Divided on How to Explain It",
-      "description": "A UK TikToker's experience with American bathrooms from December 2025 has resurfaced on X. The woman wondered why there were gaps in public bathroom stalls in America. The clip, now viral on X, drew responses from Americans and Europeans alike about bathroom privacy and design. @gabbyfromtheuk first shared the video on December 19, 2025, on TikTok. By the time it resurfaced on X, the original TikTok had drawn 10,000 views and more than 800 comments. In her video, she highlighted the one thing in America that didn't make sense to her: gaps in public bathroom stalls. After visiting multiple countries across the globe, she had never seen a bathroom stall that had gaps, like those in America. She said the gaps left her feeling exposed whenever she used one. The TikToker explained her confusion, saying, \"I just don't understand the purpose of someone else being able to see you in the bathroom; I don't like it.\" Although she claimed to understand the purpose of safety for the gap, for her, it was still too wide a gap. Some of her followers, who appeared to be American, responded with their own suggestions behind the gap. One user joked, \"Those gaps are for talking to people and for greetings and for waving to each other...\" The same TikTok user added, \"And for passing notes or passing toilet paper, and for sign language so others can see what you are saying.\" The TikToker replied with laughing emojis. Some commenters sided with her. \"I don't like it either,\" wrote one user. A user addressed the woman's question about whether the men's restroom also had gaps in its bathroom stalls. The user confirmed, saying, \"Yes, men's restrooms look like that too. We've been trained not to look in the gaps.\" Are Gaps in Public Bathroom Stalls a Culture Shock to Europeans? UK TikToker's Experience Sparked Debate on X The video was reshared by @AngelMD1103, a verified user on X. Since then, it has amassed nearly 1 million views, sparking debate over the gap and its overall purpose. Many X users related to the TikToker's surprise, saying bathroom gaps are a consistent point of confusion for European visitors. A user commented, \"Those gaps always throw off Europeans -- feels wide open compared to their full-height doors.\" The same person added, \"Classic 'safety-gap' versus 'privacy-first' elsewhere.\" Others believed that the gap was a result of allegedly low budgets for public bathrooms in America. One such individual sarcastically said, \"It's cause here in America, we do things the cheap way. We don't want things to be too expensive or look too nice.\"",
-      "url": "https://dailydot.com/i-just-dont-understand-the-purpose-a-uk-tiktokers-confusion-about-american-bathroom-stalls-just-went-viral-on-x-and-americans-are-divided-on-how-to-explain-it/",
-      "source": "The Daily Dot",
-      "image": "https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2026/06/UK-TikTokers-Experience-About-American-Public-Bathrooms-and-the-gap-resurfaces-on-the-internet.jpg",
-      "publishedAt": "2026-06-16T13:33:22Z",
-      "category": "Viral Social Media About US Bathroom Stalls",
-      "categoryId": "viral-stall-gaps",
-      "priority": 5,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Stall-gap discourse makes the U.S. restroom privacy problem easy to recognize. \"'I Just Don't Understand the Purpose': A UK TikToker's Confusion About American Bathroom Stalls Just Went Viral on X -- and Americans Are Divided on How to Explain It\" supports demand for gap guards that close exposed sightlines in commercial stalls."
     }
   ],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Florida Man Arrested for Allegedly Hiding Camera in Church Bathroom to Record Girls - Internewscast Journal",
-      "description": "A church \"overseer\" in Fruitland Park, Florida, has been arrested on video voyeurism charges after authorities said images from a church bathroom and another area were discovered on his work laptop, according to the Lake County Sheriff's Office. Charles Barton Lucas, 59, was taken into custody Friday after the IT director at RoMac Building Supply alerted the Leesburg Police Department to a Google Drive folder containing inappropriate images of adolescent girls and adult women. RoMac said in a statement that Lucas is no longer employed by the company following the discovery. \"The material was discovered by our team during a routine company process and was immediately reported to law enforcement. We have cooperated fully with the authorities from the outset and will continue to do so. Mr. Lucas is no longer employed by RoMac,\" the statement read in part. In a statement, a Lake County Sheriff's Office spokesperson said detectives uncovered additional videos that appeared to show adolescent girls changing inside a church bathroom. Investigators later determined the footage had been recorded by a hidden camera placed in one of the church's changing rooms and bathrooms. When deputies later returned to examine the bathroom, the cameras were no longer there, the sheriff's office said. ALSO READ: Biden Needs Stage Directions at Obama Library Debut, Raising Fresh Questions Lucas was arrested Friday evening and booked into the Lake County Jail. He was released Saturday afternoon after posting a $25,000 bond, according to the sheriff's office. MMA FIGHTER HELPS NAB FLORIDA UNIVERSITY STUDENT LEADER IN SUSPECTED CHILD PREDATOR STING An arrest affidavit from the sheriff's office said Lucas was listed as an \"Overseer\" at Fruitland Park's Heritage Community Church. The church released a statement saying that they were \"praying for [Lucas] and his family\" amid the investigation, but later issued a follow-up statement highlighting their concerns for those impacted. \"Our primary concern is for any individuals or families who may have been impacted by these allegations. We recognize the seriousness of situations like this and the deep hurt, confusion, and pain they can cause,\" the church said in part of a statement to FOX35 Orlando. \"Heritage Community Church does not condone conduct that harms others or is inconsistent with our biblical values. We are fully cooperating with law enforcement and any other appropriate authorities and will continue to do so throughout this process. While we await additional information, Heritage Community Church is committed to being open, honest, and transparent with our church family regarding information that we are able to share\" the statement continued. The investigation remains ongoing and News Agency has reached out to the Lake County Sheriff's Office for further comment.",
-      "url": "https://internewscast.com/news/us/florida-man-arrested-for-allegedly-hiding-camera-in-church-bathroom-to-record-girls/",
-      "source": "Internewscast Journal",
-      "image": "https://internewscast.com/wp-content/uploads/2026/06/Florida-man-allegedly-recorded-girls-in-church-bathroom-with-hidden.png",
-      "publishedAt": "2026-06-22T16:46:47Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "provider": "NewsData.io",
+      "title": "Docs: 55-year-old man arrested months after hidden bathroom camera found in Canutillo",
+      "description": "CANUTILLO, TEXAS (KFOX14/CBS4) — A 55-year-old man is facing multiple charges of invasive visual recording months after a hidden camera was discovered by a",
+      "url": "https://www.newsbreak.com/news/4726372960335-docs-55-year-old-man-arrested-months-after-hidden-bathroom-camera-found-in-canutillo",
+      "source": "Newsbreak",
+      "image": "https://img.particlenews.com/img/id/1VJrwQ_1CbOmHSC00",
+      "publishedAt": "2026-06-23 00:00:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Florida Man Arrested for Allegedly Hiding Camera in Church Bathroom to Record Girls - Internewscast Journal\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-22T16:52:17.104Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Docs: 55-year-old man arrested months after hidden bathroom camera found in Canutillo\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-23T14:43:49.897Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Maine Girl Dads Fighting to Protect Women's Sports",
-      "description": "Maine fathers are standing up for their daughters, challenging the secretary of state's decision to invalidate their ballot initiative that aims to protect women's sports from men claiming to be transgender. \"Maine is far too progressive to continue allowing sexist, regressive, and illegal sex-based discrimination in our schools, and the daily violation of the civil rights of our state's most vulnerable population: its children,\" Leyland Streiff, leader of Maine Girl Dads, told the Daily Signal in a statement Thursday. \"Yet shockingly, we have watched this violation of sex-based civil rights happen every day in Maine's schools,\" he added. \"Just this past April, young female schoolchildren (and their mothers, coaches, and advocates) testified to the State Judiciary Committee in Augusta about voyeurism, masturbation, violence, and mental trauma from males in female bathrooms and locker rooms.\" He also noted that a male athlete won a state women's pole vault competition last year. Streiff's group acquired more than enough signatures to put an initiative on the ballot. The initiative would prevent boy students from competing on girls' teams and protect girls locker rooms and bathrooms from boys, even if they claim to identify as transgender. Maine Secretary of State Shenna Bellows announced in March that her office found the initiative, formally titled \"An Act to Designate School Sports Participation and Facilities by Sex,\" valid, with 71,033 signatures -- far more than the 67,682 signatures required. Yet Streiff noted that the Maine Women's Lobby and EqualityMaine opposed his effort. He said the groups recruited three citizens to file a legal challenge against the effort. He claimed the legal challenge is headed by the Elias Law Group, the firm of Democrat lawyer Marc Elias. \"We believe democracy should be protected and exercised, and this referendum should be debated by Mainers at the ballot box -- not by a bunch of out-of-state lawyers,\" Streiff said. The Daily Signal reached out to the Women's Lobby, EqualityMaine, and Elias Law Group for comment, and none of them responded by publication time. The Daily Signal asked them who is funding the efforts against the initiative. A coalition of groups led by EqualityMaine, GLAD Law, and the Maine Women's Lobby condemned the initiative in February as an \"attack on public education.\" The coalition condemned the campaign's financial backing, referring to an $800,000 contribution from conservative megadonor Richard Uihlein. Last month, Bellows announced that, after reviewing the signatures again, the ballot initiative fell short. Her office found 67,150 signatures valid, slightly more than 500 below the threshold. Bellows' office, when reached for comment, referred the Daily Signal to the May press release finding the signatures insufficient. \"We have appealed to the Maine Supreme Judicial Court and remain very confident in the challenges we've raised to the Secretary of State's reasoning and decisioning,\" the Maine Girl Dads leader said. \"Oral arguments have been scheduled for July 1st, and we anticipate a ruling by mid-July. A successful appeal will keep us on the November 2026 ballot.\" Streiff described his position as \"progressive\" and the transgender activist position as regressive. \"Everyone has a sex, sex is not gender, and there is no right or wrong way to be a male or female (dress, feel, present, even identify however you want - we believe that's fantastic),\" he told the Daily Signal. \"Sex is big enough for everyone, and does not require anyone to conform to regressive stereotypes.\" He also noted that Maine Girl Dads is \"non-partisan by design, as our daughters' rights shouldn't be a political ploy or a party-line issue.\" The Maine Girl Dads say their position is \"purely paternal, never political, and based on common sense.\" Streiff said the group has \"tons of Democrats and independents alongside Republicans in our midst.\" \"The elected bureaucrats in Augusta have taken radical positions that are simply at odds with the beliefs of those who voted them in,\" he argued. \"The truth is the majority of Mainers -- of all walks of life and political persuasions -- believe in sex-designated sports and spaces in schools. To them, to us, and to our daughters, this is not a political stance but a common sense approach to fairness, dignity, and the protection of long-held federal civil rights.\" \"We dads are simply doing what dads do -- showing our kids that we're willing to do the right thing, especially when it's hard, because our example will shape them and shape their world,\" Streiff concluded.",
-      "url": "https://www.dailysignal.com/2026/06/22/maine-too-progressive-allow-men-womens-sports-girl-dad-leader-says-he-fights-keep-initiative-ballot/",
-      "source": "The Daily Signal",
-      "image": "https://static.dailysignalmedia.org/20260618-Shenna-Bellows.jpg",
-      "publishedAt": "2026-06-22T14:00:07Z",
+      "title": "Florida church worker arrested for allegedly recording girls in bathroom with hidden camera",
+      "description": "An \"overseer\" at a Fruitland Park, Florida, church was arrested on video voyeurism charges after images from the church's bathroom and another area were found on the suspect's work laptop, according to the Lake County Sheriff's Office. Authorities arrested 59-year-old Charles Barton Lucas on Friday after the IT director at RoMac Building Supply contacted the Leesburg Police Department after finding a Google Drive folder full of inappropriate images of adolescent girls and adult women. A statement from RoMac confirmed that Lucas was no longer employed at the company following the incident. \"The material was discovered by our team during a routine company process and was immediately reported to law enforcement. We have cooperated fully with the authorities from the outset and will continue to do so. Mr. Lucas is no longer employed by RoMac,\" the statement read in part. A spokesperson for the Lake County Sheriff's Office said in a statement that investigators found more videos of what appeared to be adolescent girls changing inside a church bathroom. Further investigation determined that the videos came from a hidden camera installed in one of the church's changing rooms and bathrooms. The cameras were no longer present when the Lake County Sheriff's Office went back to inspect the bathroom. Lucas was arrested on Friday evening and taken to Lake County Jail, but was released on a $25,000 bond on Saturday afternoon, according to the sheriff's office. An arrest affidavit from the sheriff's office said Lucas was listed as an \"Overseer\" at Fruitland Park's Heritage Community Church. The church released a statement saying that they were \"praying for [Lucas] and his family\" amid the investigation, but later issued a follow-up statement highlighting their concerns for those impacted. \"Our primary concern is for any individuals or families who may have been impacted by these allegations. We recognize the seriousness of situations like this and the deep hurt, confusion, and pain they can cause,\" the church said in part of a statement to FOX35 Orlando. \"Heritage Community Church does not condone conduct that harms others or is inconsistent with our biblical values. We are fully cooperating with law enforcement and any other appropriate authorities and will continue to do so throughout this process. While we await additional information, Heritage Community Church is committed to being open, honest, and transparent with our church family regarding information that we are able to share,\" the statement continued. The investigation remains ongoing, and Fox News Digital has reached out to the Lake County Sheriff's Office for further comment.",
+      "url": "https://nypost.com/2026/06/22/us-news/florida-man-arrested-for-allegedly-recording-girls-in-church-bathroom-with-hidden-camera/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131862502.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-06-22T21:30:54Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 50,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Maine Girl Dads Fighting to Protect Women's Sports\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-22T16:52:17.104Z"
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Florida church worker arrested for allegedly recording girls in bathroom with hidden camera\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-23T14:43:49.897Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Church overseer arrested on video voyeurism charges",
+      "description": "A church overseer and youth pastor with Heritage Community Church is no longer a member after his arrest on video voyeurism charges. Charles Barton \"Bart\" Lucas, 59, of Fruitland Park, was arrested June 19 after an IT director at his workplace found inappropriate photographs of young girls on his computer. Investigators say the images were recorded by a camera Lucas placed in the church's restroom and baptismal area. \"We also want to clarify that Bart Lucas is no longer an overseer at Heritage Community Church and is not serving in any leadership, volunteer or ministry capacity whatsoever,\" read a statement Heritage Community posted on its social media accounts. \"We are deeply saddened that this situation may be causing additional pain, and we are committed to providing support and care to those who need it.\" Lucas' photo had remained on the Heritage Community's website for two days after his arrest. \"The pastor of the church is cooperating with us,\" said Sgt. John Vachon, with the Lake County Sheriff's Office. \"Of course, you know, they're heartbroken about this whole situation, but anything we need, they've been able to provide us with it.\" According to the arrest report, \"There were multiple photos of topless pubescent photos of what clearly were white females.\" The report also said there were \"upskirt style photos of unidentified juveniles and possible adult females.\" Investigators said they're working to identify the victims in these images, and there could be more. \"The videos were located in a cloud storage device, so there's potentially more videos that just haven't been located yet, and there's potential more victims,\" said Sgt. Vachon. Lucas was fired from his company after his arrest and is due back in court in July. Heritage Community said it will offer counseling to anyone affected by this. The church also hired an electronic detection company to conduct a sweep of the premises to ensure no unauthorized recording devices are present. Click here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.",
+      "url": "https://www.yahoo.com/news/us/articles/church-overseer-arrested-video-voyeurism-034538350.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/3453b63f825761679ce910191b2bb5c0f20f6a8deab3d55ec78a5bfec1e9b72a/lightyear_networkapi/resizefill_w300_h169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwftv_cox_articles_135%2F841f3d3120acb3ab741e51dd7f1a967f",
+      "publishedAt": "2026-06-23T03:45:38Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Church overseer arrested on video voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-23T14:43:49.897Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom",
+      "description": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.newsbreak.com/news/4726577809212-man-pleads-guilty-to-battery-voyeurism-after-targeting-child-in-grocery-store-restroom",
+      "source": "Newsbreak",
+      "image": null,
+      "publishedAt": "2026-06-23 00:00:00",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-23T14:43:49.897Z"
     }
   ]
 }
