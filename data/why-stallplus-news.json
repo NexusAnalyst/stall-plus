@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T14:43:49.897Z",
+  "updatedAt": "2026-06-24T14:25:42.908Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 4,
+    "pending": 5,
     "rejected": 63,
-    "carriedForward": 2
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
@@ -120,36 +120,13 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Docs: 55-year-old man arrested months after hidden bathroom camera found in Canutillo",
-      "description": "CANUTILLO, TEXAS (KFOX14/CBS4) — A 55-year-old man is facing multiple charges of invasive visual recording months after a hidden camera was discovered by a",
-      "url": "https://www.newsbreak.com/news/4726372960335-docs-55-year-old-man-arrested-months-after-hidden-bathroom-camera-found-in-canutillo",
-      "source": "Newsbreak",
-      "image": "https://img.particlenews.com/img/id/1VJrwQ_1CbOmHSC00",
-      "publishedAt": "2026-06-23 00:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Docs: 55-year-old man arrested months after hidden bathroom camera found in Canutillo\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-23T14:43:49.897Z"
-    },
-    {
       "provider": "NewsAPI.ai",
-      "title": "Florida church worker arrested for allegedly recording girls in bathroom with hidden camera",
-      "description": "An \"overseer\" at a Fruitland Park, Florida, church was arrested on video voyeurism charges after images from the church's bathroom and another area were found on the suspect's work laptop, according to the Lake County Sheriff's Office. Authorities arrested 59-year-old Charles Barton Lucas on Friday after the IT director at RoMac Building Supply contacted the Leesburg Police Department after finding a Google Drive folder full of inappropriate images of adolescent girls and adult women. A statement from RoMac confirmed that Lucas was no longer employed at the company following the incident. \"The material was discovered by our team during a routine company process and was immediately reported to law enforcement. We have cooperated fully with the authorities from the outset and will continue to do so. Mr. Lucas is no longer employed by RoMac,\" the statement read in part. A spokesperson for the Lake County Sheriff's Office said in a statement that investigators found more videos of what appeared to be adolescent girls changing inside a church bathroom. Further investigation determined that the videos came from a hidden camera installed in one of the church's changing rooms and bathrooms. The cameras were no longer present when the Lake County Sheriff's Office went back to inspect the bathroom. Lucas was arrested on Friday evening and taken to Lake County Jail, but was released on a $25,000 bond on Saturday afternoon, according to the sheriff's office. An arrest affidavit from the sheriff's office said Lucas was listed as an \"Overseer\" at Fruitland Park's Heritage Community Church. The church released a statement saying that they were \"praying for [Lucas] and his family\" amid the investigation, but later issued a follow-up statement highlighting their concerns for those impacted. \"Our primary concern is for any individuals or families who may have been impacted by these allegations. We recognize the seriousness of situations like this and the deep hurt, confusion, and pain they can cause,\" the church said in part of a statement to FOX35 Orlando. \"Heritage Community Church does not condone conduct that harms others or is inconsistent with our biblical values. We are fully cooperating with law enforcement and any other appropriate authorities and will continue to do so throughout this process. While we await additional information, Heritage Community Church is committed to being open, honest, and transparent with our church family regarding information that we are able to share,\" the statement continued. The investigation remains ongoing, and Fox News Digital has reached out to the Lake County Sheriff's Office for further comment.",
-      "url": "https://nypost.com/2026/06/22/us-news/florida-man-arrested-for-allegedly-recording-girls-in-church-bathroom-with-hidden-camera/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131862502.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-06-22T21:30:54Z",
+      "title": "Hawaii Supreme Court overturns guilty verdict for man who admitted to trying to take video of teen in shower",
+      "description": "HONOLULU (KHON2) -- The Hawaii Supreme Court has overturned a guilty verdict for a man who admitted to trying to take video of a girl while she was showering. Many lawyers said they agree with the ruling. It's June 2018 in Kona. A man is outside a vacation home and holds his phone up to the bathroom window, trying to take video of a teenage girl taking a shower. That man goes on trial in 2022 and is found guilty. But on Monday, the Hawaii Supreme Court ruled to overturn that conviction. \"I presented the argument that the rule, the statute, the rule of law, made his conduct not a crime,\" said Hermann Heimgartner, defendant's attorney. The man was charged with violation of privacy in the first degree, which states in part, \"installed or used, or both, in a private place without the consent of the person or persons entitled to privacy, any device for observing, recording, amplifying and/or broadcasting another person in a stage of undress in that place.\" You see the word \"in\" twice in that statute. And according to Justice Todd Eddins, who wrote the Supreme Court's opinion on this case, that is the key, stating simply, \"in means inside.\" And since the camera was not inside, the conviction cannot stand. \"I understand that feeling like, oh, here's a guilty guy and he got off because of a procedural problem, but it wasn't just procedural,\" said Victor Bakke, defense attorney. \"They charged him with a crime that he did not commit. Did he commit another crime? Arguably, yes. On the record that we have. But then he should have been charged with that crime.\" Bakke said the suspect could've been charged as a peeping tom, which would've been a misdemeanor with up to a year in prison. The privacy charge is a felony with up to five years. The statute was amended by lawmakers in 2018. \"At that point in time, the legislature was examining that being the prevailing issue, and so they wrote the law to combat that, but then they just didn't think about what if someone's standing outside of the home and recording,\" said Megan Kau, defense attorney. \"It's almost impossible to A, predict every single possible way that something like this would come up, and B, to craft the words as to capture every single possible scenario,\" said Sen. Karl Rhoads, Judiciary Committee Chair. Many - including Rhoads - said they do expect state lawmakers to address this next session. And they feel the Supreme Court's decision was correct. \"Cause it isn't based upon a ruling of ethical or moral, it's about what the law says,\" said Heimgartner. We reached out to Big Island prosecutors about this case, but did not hear back.",
+      "url": "https://www.khon2.com/hawaii-crime/hawaii-supreme-court-overturns-verdict/",
+      "source": "KHON2",
+      "image": "https://www.khon2.com/wp-content/uploads/sites/8/2026/06/supreme-court-02.png?strip=1&w=640",
+      "publishedAt": "2026-06-24T04:37:26Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -160,39 +137,83 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Florida church worker arrested for allegedly recording girls in bathroom with hidden camera\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-23T14:43:49.897Z"
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Hawaii Supreme Court overturns guilty verdict for man who admitted to trying to take video of teen in shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-24T14:25:42.908Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Church overseer arrested on video voyeurism charges",
-      "description": "A church overseer and youth pastor with Heritage Community Church is no longer a member after his arrest on video voyeurism charges. Charles Barton \"Bart\" Lucas, 59, of Fruitland Park, was arrested June 19 after an IT director at his workplace found inappropriate photographs of young girls on his computer. Investigators say the images were recorded by a camera Lucas placed in the church's restroom and baptismal area. \"We also want to clarify that Bart Lucas is no longer an overseer at Heritage Community Church and is not serving in any leadership, volunteer or ministry capacity whatsoever,\" read a statement Heritage Community posted on its social media accounts. \"We are deeply saddened that this situation may be causing additional pain, and we are committed to providing support and care to those who need it.\" Lucas' photo had remained on the Heritage Community's website for two days after his arrest. \"The pastor of the church is cooperating with us,\" said Sgt. John Vachon, with the Lake County Sheriff's Office. \"Of course, you know, they're heartbroken about this whole situation, but anything we need, they've been able to provide us with it.\" According to the arrest report, \"There were multiple photos of topless pubescent photos of what clearly were white females.\" The report also said there were \"upskirt style photos of unidentified juveniles and possible adult females.\" Investigators said they're working to identify the victims in these images, and there could be more. \"The videos were located in a cloud storage device, so there's potentially more videos that just haven't been located yet, and there's potential more victims,\" said Sgt. Vachon. Lucas was fired from his company after his arrest and is due back in court in July. Heritage Community said it will offer counseling to anyone affected by this. The church also hired an electronic detection company to conduct a sweep of the premises to ensure no unauthorized recording devices are present. Click here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.",
-      "url": "https://www.yahoo.com/news/us/articles/church-overseer-arrested-video-voyeurism-034538350.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/3453b63f825761679ce910191b2bb5c0f20f6a8deab3d55ec78a5bfec1e9b72a/lightyear_networkapi/resizefill_w300_h169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwftv_cox_articles_135%2F841f3d3120acb3ab741e51dd7f1a967f",
-      "publishedAt": "2026-06-23T03:45:38Z",
+      "title": "Florida church 'overseer' arrested on digital voyeurism charges: 'Tragic situation'",
+      "description": "A worker at a Florida church was arrested last week on digital voyeurism charges after illicit images from the church bathroom and another area were reportedly found on the suspect's work computer at his other job. Charles Barton Lucas, 59, who worked as a volunteer \"overseer\" at Heritage Community Church in Fruitland Park, was arrested last Friday after the IT director at RoMac Building Supply, where Lucas also worked, discovered a Google Drive on his computer with inappropriate images of women and adolescent girls, according to local FOX35 Orlando. A spokesperson for the Lake County Sheriff's Office said in a statement that police uncovered other videos of what appeared to be adolescent girls changing inside a church bathroom, which was determined to be from a hidden camera that had been installed there. When police investigated the premises of Heritage Community Church, they reportedly found that the cameras had already been removed. After being arrested Friday and taken to the Lake County Jail, Lucas was released Saturday afternoon after posting a $25,000 bond, the sheriff's department said. An arrest affidavit obtained by Fox News Digital showed that Lucas was listed as an \"Overseer\" at Heritage Community Church, whose leadership posted a statement about the situation Monday on its Facebook page. \"Our hearts are heavy as we continue to process this tragic situation. We recognize that many within our church family are experiencing a wide range of emotions, including hurt, confusion, anger, sadness, and grief,\" the statement read in part. \"Above all, our concern is for those who have been impacted and for the families walking through this difficult time. We are praying for healing, truth, and justice, and we are committed to providing care, support, and compassion to those who need it.\" The church's staff said they were cooperating with authorities investigating the case, and noted that Lucas is no longer serving at the church \"in any leadership, volunteer, or ministry capacity whatsoever.\" Lucas is also no longer employed with RoMac Building Supply, Fox News reports. Heritage Community Church further informed congregants that they are employing a professional electronic detection and sweep company to detect any other potential recording devices, as well as \"actively exploring professional counseling resources and support services for individuals and families impacted by this tragedy.\" \"We understand that news such as this can resurface painful experiences from the past or trigger difficult emotional responses related to previous experiences of abuse, sexual misconduct, or trauma,\" the church said. \"If that is part of your story, please know that our hearts grieve with you. We are deeply saddened that this situation may be causing additional pain, and we are committed to providing support and care for those who need it.\" Church leadership also addressed the allegations against Lucas with the congregation in-person on Sunday, according to local News 6. \"Our greatest concern today is the individuals and families that may have been impacted,\" Lead Pastor Sidney Brock told them. \"These are very serious allegations.\" Administrative Pastor Melvin Davison told News 6 that the church is \"being fully cooperative and our congregation, our staff, we're just kind of heartbroken right now over everything that's going on.\"",
+      "url": "https://www.christianpost.com/news/florida-church-staffer-arrested-on-digital-voyeurism-charges.html",
+      "source": "The Christian Post",
+      "image": "https://cdn.christianpost.com/files/original/thumbnail/27/08/270818.jpg",
+      "publishedAt": "2026-06-24T01:09:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 45,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Church overseer arrested on video voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-23T14:43:49.897Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Florida church 'overseer' arrested on digital voyeurism charges: 'Tragic situation'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-24T14:25:42.908Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Florida man allegedly recorded girls in church bathroom with hidden camera, arrested on voyeurism charges",
+      "description": "A Florida church overseer allegedly hid cameras in a bathroom and changing room, leading to video voyeurism charges after images were found on his laptop.",
+      "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
+      "source": "Fox News",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/lucas-church-voyeur-fox-news.png",
+      "publishedAt": "2026-06-22T16:09:17Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Florida man allegedly recorded girls in church bathroom with hidden camera, arrested on voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-24T14:25:42.908Z"
     },
     {
       "provider": "NewsData.io",
-      "title": "Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/4726577809212-man-pleads-guilty-to-battery-voyeurism-after-targeting-child-in-grocery-store-restroom",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-06-23 00:00:00",
+      "title": "Ex-RoMac VP reveals finances in wake of church bathroom camera scandal",
+      "description": "RoMac’s former vice president of sales has revealed his financial status in the wake of a church bathroom camera scandal. Read more: Ex-RoMac VP reveals finances in wake of church bathroom camera scandal",
+      "url": "https://www.villages-news.com/2026/06/23/ex-romac-vp-reveals-finances-in-wake-of-church-bathroom-camera-scandal/",
+      "source": "Villages-news.com",
+      "image": "https://www.villages-news.com/wp-content/uploads/2026/06/Bart-Lucas-featured-image-600x418.jpeg",
+      "publishedAt": "2026-06-23 22:59:51",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-RoMac VP reveals finances in wake of church bathroom camera scandal\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-24T14:25:42.908Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "J.K. Rowling hits out at H&M after voyeurism arrest in Castlepoint store",
+      "description": "A famous children's author and gender-critical campaigner, J.K. Rowling, has hit out at H&M after a man was arrested for voyeurism in the Bournemouth store's changing rooms. It was previously reported that a 47-year-old man from Bournemouth was arrested for allegedly taking photos of female customers in Castlepoint. J.K. Rowling is known for writing the famous Harry Potter books; however, she has also become known for her controversial opinions on transgender people and women's rights. She shared the Bournemouth Echo article on her X account with the caption: \"One of those things that never happens if you open up women's changing rooms to any man who wants to come inside has happened. \"Again.\" A spokesperson for J.K. Rowling said she will not be commenting further on the matter. When contacted about its policy on shared changing rooms in Bournemouth, a spokesperson for H&M said it wants all customers to feel welcome. A spokesperson for H&M said: \"At H&M, we want our customers to feel welcome, comfortable, and respected when shopping with us. \"We are committed to being inclusive, and our fitting rooms are designed for everyone. \"Our colleagues are available to support customers where needed and to help ensure a positive experience in store.\"",
+      "url": "https://www.bournemouthecho.co.uk/news/26223763.j-k-rowling-hits-h-m-bournemouth-arrest/",
+      "source": "Daily Echo Sport",
+      "image": "https://www.bournemouthecho.co.uk/resources/images/19527688.jpg?type=og-image",
+      "publishedAt": "2026-06-24T11:51:12Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -204,8 +225,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man pleads guilty to battery, voyeurism after targeting child in grocery store restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-23T14:43:49.897Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"J.K. Rowling hits out at H&M after voyeurism arrest in Castlepoint store\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-06-24T14:25:42.908Z"
     }
   ]
 }
