@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T14:28:21.153Z",
+  "updatedAt": "2026-06-26T14:20:31.626Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 12,
-    "rejected": 54,
+    "pending": 5,
+    "rejected": 63,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -120,119 +120,79 @@
   ],
   "pendingReview": [
     {
+      "provider": "NewsAPI.ai",
+      "title": "An FBI Agent and Flight Attendant Share the 5 'Just in Case' Safety Items You Need for Hotel and Airbnb Stays",
+      "description": "We found these essential safety items on Amazon, and prices start at just $9. Your hotel room should feel like a cozy home away from home after a chaotic day of travel, not a scary room in a building full of strangers, where you could be spied on, robbed, or bitten by insects in your sleep. Disturbingly, the space that's meant to be your little safe haven while you explore a destination can be the most dangerous place of all. We scoured TikTok to find out what experts say to pack for peace of mind the next time you check into a hotel or Airbnb. Whether you're planning your first solo trip or already consider yourself a seasoned pro, consider these safety tips from a flight attendant, FBI agent, dermatologist, and cybersecurity educator before you head off on your next vacation. The TikTok-famous flight attendant Cici in the Sky said in a recent video that hotel rooms are actually designed to be broken into -- \"I know,\" she said, \"because I've seen it.\" So, she always travels with this Sabre door wedge alarm that screams a 120-decibel siren when triggered. Among the almost 5,000 customers who have rated the $10 gadget five stars at Amazon are other flight attendants who agree it's a \"must-have\" for travel. The device is compact and TSA-friendly, and yes, there's an \"off\" switch, so it won't accidentally go off in your luggage. Cici in the Sky also recommends Sabre's portable door lock, which latches onto the strike plate to reinforce the existing lock. Her video shows that if you just use the \"panic-proof\" mechanism of most hotel room doors -- the kind that automatically unlocks when you turn the handle -- an intruder could easily get in by slipping a hook under the door to catch the handle. \"Unfortunately, this has happened way too many times, and videos are circulating online,\" she said. This tiny device is only about six inches long and 2.5 inches wide, and costs just $13, so you have no excuse not to keep one in your carry-on. In a video with 3.6 million likes, former FBI agent and crime book author Steve Lazarus recommended travelers spend two or three minutes doing a security sweep when they first enter their room. \"Check hiding spots like closets and behind curtains, inspect door locks, deadbolts, and the peep hole to make sure they haven't been tampered with,\" he said. \"If you want to go full James Bond here, there are affordable devices...that will scan for radiofrequencies, magnets, and infrared, all of which are used in spy cameras and hidden microphones.\" This hidden camera detector is easy to pack and use, and is just $26. Your biggest hotel fears probably concern intruders, thieves, and Peeping Toms, but one dermatologist says you also need to be cautious of the dangers lurking in the corners of your mattress. Dr. Mary Mcdaniel offered the 411 on bedbugs -- how to find them and how to avoid a catastrophic infestation. She says that you should never put luggage on carpet or furniture, avoid putting clothes in the dresser, and pull those bed sheets off to get a good look at the mattress seams. \"Ideally, get a bright light [and] flash it, because it'll make them move,\" she added. We found a packable UV flashlight that will help you see the little critters (and perhaps a lot more than you bargained for, too). A cybersecurity educator raised another concern you may not be aware of: juice jacking. That's when hackers steal your data from, or install malware on, your phone through a compromised USB port. And with so many tech devices now charging this way, USB ports are becoming more common on bedside lamps and wall outlets. Cybersecurity creator Caitlin says to use traditional AC power outlets instead -- and with this multi-plug adaptor that has its own USB-A and USB-C ports, you can still travel without a million charging bricks in your bag. Love a great deal? Sign up for our T+L Recommends newsletter and we'll send you our favorite travel products each week.",
+      "url": "https://www.travelandleisure.com/airbnb-hotel-personal-safety-devices-fbi-agent-expert-picks-june-2026-11992146",
+      "source": "Travel + Leisure",
+      "image": "https://www.travelandleisure.com/thmb/PeUwWgD8ghKnnJZ84YuKIpekBvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-amazon-airbnb-hotel-just-in-case-safety-items-hidden-camera-detector-door-wedge-alarm-and-1-door-lock-or-bedbug-device-tout-9e7d06a134f34f6d8ec824859aecf625.jpg",
+      "publishedAt": "2026-06-26T08:04:20Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 55,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"An FBI Agent and Flight Attendant Share the 5 'Just in Case' Safety Items You Need for Hotel and Airbnb Stays\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-26T14:20:31.626Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ram Mandir donation scam: Hidden cameras captured theft of cash and jewellery by staff",
+      "description": "As an FIR has been filed in the Ram Mandir donation theft case, it has been reported that the alleged theft of cash offerings and jewellery was uncovered through the strategic installation of hidden cameras in the note-counting room. The discovery came after trust officials noticed glaring discrepancies in daily bank deposits during the last week of May, prompting a discreet internal probe that ultimately exposed a well-orchestrated nexus operating right under the nose of existing surveillance systems. As per reports, officials of the Shri Ram Janmabhoomi Teerth Kshetra Trust observed that while donation boxes were regularly yielding substantial collections, between ₹6 lakh to ₹8 lakh in cash per box, the amounts being deposited in the bank consistently fell short. The shortages were particularly noticeable in bundles of ₹500 notes. This pattern raised immediate suspicions of pilferage. To get to the bottom of the matter without alerting the suspects, hidden cameras were installed in the room where donation boxes were opened, counted, notes sorted, bundled and prepared for bank deposit. When the footage from these hidden cameras was reviewed after about a week, it exposed the entire modus operandi. Employees involved in counting the notes were seen stealing currency directly from the bundles and concealing it in their clothes. To evade the regular CCTV cameras installed in the room, one employee would deliberately stand in front of the visible camera, shielding his accomplice while the theft took place. In another method exposed by the footage, counting staff would insert extra notes into each bundle. During transportation to the bank, the bundles were counted only by number rather than individual notes. Deposit slips were prepared accordingly, and the extra notes were quietly removed en route, ensuring the deposited amount matched the slip while the stolen cash remained with the culprits. Specific clips showed certain individuals, including one identified as Avinash, later depositing portions of the stolen money into their personal bank accounts. Bank reconciliation by the trust confirmed these deposits matched the missing amounts. The hidden camera footage further revealed that jewellery items donated by devotees, including earrings, jhumkas, nose rings, bangles, bracelets and anklets, were also being stolen before they could be properly recorded in the official ledgers. These items were allegedly taken first and entered later, creating a gap that allowed the theft to go undetected for weeks. The investigation uncovered a tight-knit nexus of employees and their associates, many of whom were hired through personal recommendations and family connections. Key figures included Ramashankar Yadav alias Tinnu Yadav, described as a close associate and former driver of Trust General Secretary Champat Rai, who reportedly managed operations in the donation area and possessed keys to the donation boxes. Tinnu is said to have brought in his cousin Manish Yadav for the counting work. Anukalp Mishra, involved in preparing donation vouchers, emerged as a central figure in the conspiracy, allegedly roping in his brother-in-law Luvkush Mishra. Other accused named in the FIR include Subhash, Karunesh Pandey, Ramashankar Mishra and Avinash Shukla. Following the evidence gathered from the hidden cameras, the Trust lodged a formal complaint. On June 25, an FIR was registered at the Ram Janmabhoomi police station against eight named individuals and unknown others on charges of embezzlement, fraud, criminal conspiracy and breach of trust. All eight accused have since been arrested. Police have recovered substantial cash, around ₹10 lakh from Luvkush Mishra's house, ₹20 lakh from Anukalp Mishra's residence, and other amounts from different accused and their bank accounts. The Special Investigation Team (SIT), which had already been probing the matter, used this footage as crucial evidence. Champat Rai, who resigned as General Secretary of the Trust on moral grounds today, has been linked to the case through his associate Tinnu Yadav, though direct involvement of senior trust functionaries in the actual theft has not been established in the camera footage so far. The SIT has recommended systemic reforms, including stricter monitoring, proper frisking of staff, and overhauling the donation management process to prevent such incidents in the future. The Uttar Pradesh administration is also considering measures to strengthen oversight at the temple.",
+      "url": "https://www.opindia.com/news-updates/ram-mandir-donation-scam-hidden-cameras-captured-theft-of-cash-and-jewellery-by-staff/",
+      "source": "OpIndia",
+      "image": "https://www.opindia.com/wp-content/uploads/2026/06/Ram-Mandir-hidden-camera.jpg",
+      "publishedAt": "2026-06-26T08:48:59Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ram Mandir donation scam: Hidden cameras captured theft of cash and jewellery by staff\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-26T14:20:31.626Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ram Temple donation row: How did offerings disappear from the Ram Temple? Hidden cameras reveal theft, nexus between...",
+      "description": "Based on a complaint by Krishnamohan, a member of the Shri Ram Janmabhoomi Teerth Kshetra Trust, an FIR was registered at the Ram Janmabhoomi police station against eight named and other unidentified accused. The Ram Temple in Ayodhya is currently in the news due to the theft of donations and questions were raised as to how thefts were taking place despite the presence of CCTV cameras and security. A hidden camera has exposed the dark secrets going on inside the temple. In fact, during the last week of May, Ram Mandir Trust Officials of the organisation looked at the details of the money being deposited in the bank. And when they investigated the daily emptying of the donation boxes, they suspected theft. Shortage in bundle of Rs 500 was a cue? Actually, Rs 6 to 7 lakh were deposited in a donation box at one go. But, for a few weeks, a shortage was noticed in the bundle of Rs 500. After this, when the suspicion deepened, some hidden cameras were installed in the note counting room. When the footage of one week of these hidden cameras was seen, it was found that the employees engaged in the process of counting the notes were actually stealing. How they did? According to reports, some employees would stand in front of the CCTV and another partner would steal the notes from the bundle of notes and hide them in the clothes. However, their theft was caught in the hidden camera. According to information received, this theft was carried out in a different way. The note-counting staff would add extra notes to each bundle. When it came time to count the money at the bank, instead of counting each note individually, only the bundle was counted and a voucher was created. When the money was taken from the temple to the bank for deposit, the extra notes in each bundle were removed. This way, the amount would match the voucher and the money would be stolen. One Anukalp Mishra was involved in the process of making donation vouchers in connivance with these people and he was doing this fraud through his brother-in-law Luv Kush Mishra. After the matter came to light, the police recovered around Rs 10 lakh from Luv Kush Mishra's house. All the employees involved in the note counting process were known to someone or the other. Champat Rai's driver Tinnu Yadav was the manager and is also an accomplish. He had put his cousin Manish Yadav in the note counting process. Similarly, Anukalp Mishra, who had been working for years, had put his brother-in-law Luv Kush Mishra in charge. The negligence of not frisking any employee upon returning from duty also resulted in a gradual increase in theft. No employee leaving the place where donation boxes were opened, notes were sorted, and bundles were made was frisked. CCTV footage of the arrested Avinash Pandey was viewed, and he was also found to be depositing the stolen money into the bank. During the investigation, the Ram Mandir Trust official conducted a reconciliation and it was confirmed that Avinash was depositing a portion of the stolen donations into his bank account. These people also stole the jewellery donated by devotees in the donation box. Jewellery like earrings, jhumkis, nose rings, Bal Roop Ram Lal's bracelets, anklets etc were also stolen. The most important thing is that they would steal first and then count the notes or make a record of the jewellery found in the donation box. Apart from this, Ram Shankar Yadav alias Tinnu Yadav and Subhash Chandra are the persons involved in this case who regularly visited the room of the Ram Mandir Trust where the donation boxes were opened. Who all have been arrested?",
+      "url": "https://www.india.com/news/india/ram-temple-donation-row-how-did-offerings-disappear-from-the-ram-temple-hidden-cameras-reveal-theft-nexus-champat-rai-updates-8457978/",
+      "source": "India News, Breaking News, Entertainment News | India.com",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/AyodhyaTheft.jpg",
+      "publishedAt": "2026-06-26T07:55:44Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ram Temple donation row: How did offerings disappear from the Ram Temple? Hidden cameras reveal theft, nexus between\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-26T14:20:31.626Z"
+    },
+    {
       "provider": "NewsAPI.org",
-      "title": "Florida man allegedly recorded girls in church bathroom with hidden camera, arrested on voyeurism charges",
-      "description": "A Florida church overseer allegedly hid cameras in a bathroom and changing room, leading to video voyeurism charges after images were found on his laptop.",
-      "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
-      "source": "Fox News",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/lucas-church-voyeur-fox-news.png",
-      "publishedAt": "2026-06-22T16:09:17Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Florida man allegedly recorded girls in church bathroom with hidden camera, arrested on voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-SDSU police sergeant sentenced for possessing child sex abuse material",
-      "description": "A federal judge on Wednesday sentenced an ex-San Diego State University police sergeant to nearly four years in federal prison for possessing child sexual abuse material while he was still a campus law enforcement officer, according to federal prosecutors in Los Angeles. Paul Aurelio McClain, 47, pleaded guilty in March to a single federal charge, admitting in his plea agreement that he possessed more than 600 photos and videos depicting child pornography, according to court documents. He also admitted in his plea that he knowingly possessed images showing victims who were under 12 years old. McClain, who lived in the Riverside County city of Menifee, was prosecuted in the Central District of California and sentenced by Los Angeles-area U.S. District Judge Sherilyn Peace Garnett to three years and 10 months in prison. She also ordered McClain to be placed on 20 years of supervised release upon finishing his federal prison sentence. The judge also ordered McClain to pay more than $22,000 in what are essentially fines, including $17,000 to a fund that assists victims who appeared in child sexual abuse material, prosecutors said in a statement. Prosecutors wrote in sentencing documents that McClain's actions were abhorrent and indefensible on their own, but even more \"disturbing and unacceptable\" given his job. \"Defendant's conduct is especially egregious given the types of child pornography that he possessed,\" prosecutors wrote. \"Defendant possessed images involving prepubescent children and children with an intellectual disability.\" In defense sentencing documents, McClain's court-appointed attorney argued there was no evidence that one of the victims was intellectually disabled, apart from the title of one video and the \"subjective observation\" of a probation officer. The defense attorney, who did not respond to a message seeking comment, also argued in sentencing documents that McClain's crime should not negate that for much of his 47 years, including 24 years as a police officer, \"he has lived a life of purpose and of service.\" According to court documents, an agent with Homeland Security Investigations was conducting an undercover operation on an online peer-to-peer sharing service when the agent was able to download child sexual abuse material from a host computer that investigators later determined was McClain's. In March 2025, federal agents served a search warrant at McClain's home in Menifee, where they seized an external hard drive containing hundreds of images of child sexual abuse material, according to his plea agreement. McClain was working as a sergeant with the San Diego State University Police Department at the time. Court records, including a letter to the court from his mother and documents filed by his attorney, indicate that McClain had previously worked as a police officer on at least one other university campus, including Cal State Fullerton. McClain is married and has three children, according to defense sentencing documents. His parents, a niece and a retired Cal State University system employee wrote letters to the judge supporting him. Prosecutors acknowledged that the strong support of his family was a mitigating factor in sentencing, but argued that the child sexual abuse material was not the only troubling file they discovered on his electronic devices. \"Law enforcement also recovered a video recording from a hidden camera inside a bathroom in defendant's residence that depicts an adult female showering and then exiting the shower fully nude,\" prosecutors wrote. The prosecutors argued that not only did McClain's actions harm the victims shown in the images he possessed, but that his conduct undermined the public's trust in law enforcement.",
-      "url": "https://www.sbsun.com/2026/06/24/ex-sdsu-police-sergeant-sentenced-for-possessing-child-sex-abuse-material/",
-      "source": "San Bernardino Sun",
-      "image": "https://www.sbsun.com/wp-content/uploads/2026/06/SUT-L-CALIF-DEGREES-First-Day_007a_203770004.jpg?w=640",
-      "publishedAt": "2026-06-24T23:47:16Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Ex-SDSU police sergeant sentenced for possessing child sex abuse material\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-SDSU police sergeant sentenced for possessing child sex abuse material",
-      "description": "A federal judge on Wednesday sentenced an ex-San Diego State University police sergeant to nearly four years in federal prison for possessing child sexual abuse material while he was still a campus law enforcement officer, according to federal prosecutors in Los Angeles. Paul Aurelio McClain, 47, pleaded guilty in March to a single federal charge, admitting in his plea agreement that he possessed more than 600 photos and videos depicting child pornography, according to court documents. He also admitted in his plea that he knowingly possessed images showing victims who were under 12 years old. McClain, who lived in the Riverside County city of Menifee, was prosecuted in the Central District of California and sentenced by Los Angeles-area U.S. District Judge Sherilyn Peace Garnett to three years and 10 months in prison. She also ordered McClain to be placed on 20 years of supervised release upon finishing his federal prison sentence. The judge also ordered McClain to pay more than $22,000 in what are essentially fines, including $17,000 to a fund that assists victims who appeared in child sexual abuse material, prosecutors said in a statement. Prosecutors wrote in sentencing documents that McClain's actions were abhorrent and indefensible on their own, but even more \"disturbing and unacceptable\" given his job. \"Defendant's conduct is especially egregious given the types of child pornography that he possessed,\" prosecutors wrote. \"Defendant possessed images involving prepubescent children and children with an intellectual disability.\" In defense sentencing documents, McClain's court-appointed attorney argued there was no evidence that one of the victims was intellectually disabled, apart from the title of one video and the \"subjective observation\" of a probation officer. The defense attorney, who did not respond to a message seeking comment, also argued in sentencing documents that McClain's crime should not negate that for much of his 47 years, including 24 years as a police officer, \"he has lived a life of purpose and of service.\" According to court documents, an agent with Homeland Security Investigations was conducting an undercover operation on an online peer-to-peer sharing service when the agent was able to download child sexual abuse material from a host computer that investigators later determined was McClain's. In March 2025, federal agents served a search warrant at McClain's home in Menifee, where they seized an external hard drive containing hundreds of images of child sexual abuse material, according to his plea agreement. McClain was working as a sergeant with the San Diego State University Police Department at the time. Court records, including a letter to the court from his mother and documents filed by his attorney, indicate that McClain had previously worked as a police officer on at least one other university campus, including Cal State Fullerton. McClain is married and has three children, according to defense sentencing documents. His parents, a niece and a retired Cal State University system employee wrote letters to the judge supporting him. Prosecutors acknowledged that the strong support of his family was a mitigating factor in sentencing, but argued that the child sexual abuse material was not the only troubling file they discovered on his electronic devices. \"Law enforcement also recovered a video recording from a hidden camera inside a bathroom in defendant's residence that depicts an adult female showering and then exiting the shower fully nude,\" prosecutors wrote. The prosecutors argued that not only did McClain's actions harm the victims shown in the images he possessed, but that his conduct undermined the public's trust in law enforcement.",
-      "url": "https://www.redlandsdailyfacts.com/2026/06/24/ex-sdsu-police-sergeant-sentenced-for-possessing-child-sex-abuse-material/",
-      "source": "Redlands Daily Facts",
-      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/06/SUT-L-CALIF-DEGREES-First-Day_007a_203770004.jpg?w=640",
-      "publishedAt": "2026-06-24T23:47:16Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Ex-SDSU police sergeant sentenced for possessing child sex abuse material\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-SDSU police sergeant sentenced for possessing child sex abuse material",
-      "description": "A federal judge on Wednesday sentenced an ex-San Diego State University police sergeant to nearly four years in federal prison for possessing child sexual abuse material while he was still a campus law enforcement officer, according to federal prosecutors in Los Angeles. Paul Aurelio McClain, 47, pleaded guilty in March to a single federal charge, admitting in his plea agreement that he possessed more than 600 photos and videos depicting child pornography, according to court documents. He also admitted in his plea that he knowingly possessed images showing victims who were under 12 years old. McClain, who lived in the Riverside County city of Menifee, was prosecuted in the Central District of California and sentenced by Los Angeles-area U.S. District Judge Sherilyn Peace Garnett to three years and 10 months in prison. She also ordered McClain to be placed on 20 years of supervised release upon finishing his federal prison sentence. The judge also ordered McClain to pay more than $22,000 in what are essentially fines, including $17,000 to a fund that assists victims who appeared in child sexual abuse material, prosecutors said in a statement. Prosecutors wrote in sentencing documents that McClain's actions were abhorrent and indefensible on their own, but even more \"disturbing and unacceptable\" given his job. \"Defendant's conduct is especially egregious given the types of child pornography that he possessed,\" prosecutors wrote. \"Defendant possessed images involving prepubescent children and children with an intellectual disability.\" In defense sentencing documents, McClain's court-appointed attorney argued there was no evidence that one of the victims was intellectually disabled, apart from the title of one video and the \"subjective observation\" of a probation officer. The defense attorney, who did not respond to a message seeking comment, also argued in sentencing documents that McClain's crime should not negate that for much of his 47 years, including 24 years as a police officer, \"he has lived a life of purpose and of service.\" According to court documents, an agent with Homeland Security Investigations was conducting an undercover operation on an online peer-to-peer sharing service when the agent was able to download child sexual abuse material from a host computer that investigators later determined was McClain's. In March 2025, federal agents served a search warrant at McClain's home in Menifee, where they seized an external hard drive containing hundreds of images of child sexual abuse material, according to his plea agreement. McClain was working as a sergeant with the San Diego State University Police Department at the time. Court records, including a letter to the court from his mother and documents filed by his attorney, indicate that McClain had previously worked as a police officer on at least one other university campus, including Cal State Fullerton. McClain is married and has three children, according to defense sentencing documents. His parents, a niece and a retired Cal State University system employee wrote letters to the judge supporting him. Prosecutors acknowledged that the strong support of his family was a mitigating factor in sentencing, but argued that the child sexual abuse material was not the only troubling file they discovered on his electronic devices. \"Law enforcement also recovered a video recording from a hidden camera inside a bathroom in defendant's residence that depicts an adult female showering and then exiting the shower fully nude,\" prosecutors wrote. The prosecutors argued that not only did McClain's actions harm the victims shown in the images he possessed, but that his conduct undermined the public's trust in law enforcement.",
-      "url": "https://www.sandiegouniontribune.com/2026/06/24/ex-sdsu-police-sergeant-sentenced-for-possessing-child-sex-abuse-material/",
-      "source": "San Diego Union-Tribune",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/04/SUT-L-CALIF-DEGREES-First-Day_007a_203770004.jpg?w=640",
-      "publishedAt": "2026-06-24T23:47:16Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Ex-SDSU police sergeant sentenced for possessing child sex abuse material\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Cal State Park Superintendent Accused Of Secretly Filming Nude Lifeguards And Others",
-      "description": "Cal State Park superintendent accused of secretly filming nude lifeguards and others - BERITAJA is one of the most discussed topics today. In this article, you will find a clear explanation, key facts, and the latest updates related to this topic, presented in a concise and easy-to-understand way. Read more news on Beritaja. Orange County prosecutors person arrested and charged a erstwhile California authorities parkland serviceman pinch secretly signaling about 2 twelve men wrong an worker locker room astatine a authorities formation successful Huntington Beach. Kevin Pearsall, 59, of Long Beach, is facing 5 felony counts of eavesdropping, 23 misdemeanor counts of secretly filming different and 3 misdemeanor counts of unlawful dissemination of backstage recordings. Pearsall turned himself successful to authorities amid a $500,000 apprehension warrant Tuesday but was released connected his ain recognizance. At slightest 1 victim, an unnamed sworn lifeguard officer, has revenge a civilian suit against Pearsall and the California Department of State Parks, alleging intersexual harassment, dispute activity situation and nonaccomplishment to forestall the forbidden behavior. The suit seeks an unspecified magnitude of wide damages for affectional distress and punitive damages. The concealed recordings took spot astatine the Bolsa Chica State Beach Lifeguard Headquarters for 11 months starting August 24, according to the Orange County District Attorney's Office. The suit alleges that the cameras whitethorn person been installed arsenic acold backmost arsenic 2019 and captured images of seasonal lifeguards, including teens arsenic young arsenic 15. Authorities said the locker room is accessible only to full-time personnel, seasonal lifeguards, agency staff, attraction and parkland aides. A spokesperson for the territory attorney's agency could not instantly beryllium reached for comment. The recordings came to ray past July erstwhile a California authorities serviceman discovered a USB camera wrong the men's worker locker room and notified the California Highway Patrol, which launched a probe, according to prosecutors. Pearsall, who had served arsenic a California State Parks Superintendent from 2023 to 2025, was placed connected administrative time off while nether investigation. Pearsall was overseeing the guidance and operations of authorities parks successful the Orange Coast District, including those successful Orange County. During their investigation, authorities investigators alleged that Pearsall had placed the hidden cameras successful the men's locker room, signaling mostly antheral lifeguards and different workers changing clothes. Investigators said they identified astatine slightest 23 men who unknowingly had their genitals aliases hips filmed by the hidden camera placed successful the locker room. Prosecutors accused Pearsall of sending respective of the photographs he recorded of nude aliases partially nude men successful the locker room to 2 men, and making sexually charged comments about his employees' genitals. \"Instead of protecting his employees, Pearsall utilized his position to spy connected the men who worked for him while they were successful the spot wherever they should person been the safest and past stock those friendly images of his victims,\" said Orange County Dist. Atty. Todd Spitzer. \"These victims had their privateness violated successful specified a disgusting way, and we will do everything we could to guarantee they person the justness they deserve.\" Ron Zambrano, an lawyer who revenge the civilian suit connected behalf of his unnamed client, alleged successful the suit that Pearsall encouraged his customer and different victims to alteration successful the building known arsenic the \"back lockers\" wherever they would person much privacy, unaware of the hidden cameras placed there. \"Pearsall took advantage of his position to taxable my customer to appalling voyeurism because California State Parks did not adequately look into reddish flags indicating he was a problem supervisor,\" he said successful a news release. Zambrano alleged successful the suit that labor believed Pearsall had been the taxable of different investigations into alleged embezzlement. Employees connected a ambush astatine the Bolsa Chica Lifeguard Headquarters successful July to those allegations because investigators seized computers, according to the lawsuit. It took months earlier Zambrano's customer learned the ambush was alternatively portion of an investigation into alleged hidden cameras. Earlier this year, according to the lawsuit, the unfortunate was told he was among those who were secretly recorded. \"For the first six months aft being identified arsenic a victim, plaintiff received virtually nary connection aliases support from Internal Affairs aliases different investigative units, allowing damaging rumors about embezzlement and hidden cameras to fester astatine work,\" the suit alleged.",
-      "url": "https://beritaja.com/cal-state-park-superintendent-accused-of-secretly-filming-nude-lifeguards-and-others-beritaja-427547.html",
-      "source": "Beritaja",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/4ff5731/2147483647/strip/true/crop/1000x525+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F49%2Ff1b66edf41b7adc671e36836304a%2Fpearsall-j.jpg",
-      "publishedAt": "2026-06-24T23:21:52Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Cal State Park Superintendent Accused Of Secretly Filming Nude Lifeguards And Others\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden Camera Exposes Alleged Abuse of Marine Veteran with Alzheimer's Disease",
-      "description": "A hidden camera installed by the wife of a disabled Marine veteran has triggered criminal charges, calls for a broader investigation, and a pledge from Department of Veterans Affairs (VA) Secretary Doug Collins to remove a federal employee accused of abusing the veteran inside a New York state-run veterans home. The case centers on Albert O'Toole, a Gulf War Marine veteran whose wife, Angela Sangro, said he suffered a traumatic brain injury during his military service and was later diagnosed with Alzheimer's disease. According to Sangro, concerns about her husband's treatment led her to secretly place a camera in his room at the New York State Veterans Home at Montrose. Sangro said she became alarmed after noticing bruises, cuts and significant changes in O'Toole's behavior, adding that her husband often appeared heavily medicated and seemed fearful or agitated during visits. Seeking an explanation, she installed a hidden camera in his room. The footage, as reported by News 12 Westchester, captured incidents involving certified nursing assistant Matthew Cox. The video appears to show Cox grabbing O'Toole, forcing him into a chair, striking him, taking food away from him, and hitting him with a broom. Sangro provided the footage to law enforcement authorities, which sparked the investigation into the allegations. Criminal Charges and Termination Westchester County authorities arrested Cox earlier this past April, charging him with first-degree endangering the welfare of an incompetent or physically disabled person -- a felony under New York law. Cox was terminated from his position at the Montrose Veterans Home after the allegations surfaced, according to the New York State Department of Health. Westchester County District Attorney Susan Cacace condemned the alleged conduct and said vulnerable residents deserve safe and respectful treatment. The criminal case remains pending, and Cox is presumed innocent unless proven guilty in court. Although the alleged abuse occurred at a state-run veterans' home, the controversy expanded when reports revealed that Cox also held a separate job with the federal VA -- which had removed him from patient care responsibilities but had not yet terminated his federal employment, awaiting a disposition in the case. The issue reached Secretary Collins after former Benghazi security contractor John Tiegen highlighted the case on social media. On June 22, Collins publicly stated on X that the department would \"immediately initiate removal proceedings\" against Cox. He also emphasized that the alleged abuse did not occur at a federal VA facility. The New York State Veterans Home at Montrose is operated by the New York State Department of Health, though state veterans homes receive support and oversight from the Department of Veterans Affairs. Questions About Conditions at Montrose The allegations against Cox have resulted in scrutiny towards the New York State Veterans Home at Montrose beyond O'Toole's individual case. State inspection records reported by News 12 Bronx show the facility accumulated more than 47 complaints and 25 citations between 2021 and 2025. Regulators cited the home for deficiencies involving abuse prevention policies, failures to properly report suspected abuse, medication management issues, and the use of restraints. Federal regulators also imposed more than $29,000 in fines in April 2025 after inspectors identified deficiencies related to resident safety and abuse prevention requirements. The allegations prompted New York State Sens. Shelley Mayer and Pete Harckham to call for a broader investigation into the facility. The lawmakers' concerns extend beyond the conduct alleged in the criminal case. The investigation they requested would examine the facility's handling of complaints, reporting procedures and resident protection policies to determine whether the problems revealed in O'Toole's case were isolated incidents or evidence of wider operational failures. \"We are calling on the attorney general and the state's Department of Health to immediately investigate the treatment of veterans at the state-run Veterans Home in Montrose,\" Harckham said. \"The images of Albert O'Toole's abuse are deeply troubling. Swift action must be taken to address this systemic failure and hold those responsible accountable. \"Our veterans deserve dignity, respect, and quality care every step of the way, and loved ones should not have to worry their veterans are being abused.\" The allegations against Cox have sparked broader questions about how vulnerable veterans are monitored and protected in long-term care facilities. O'Toole's case attracted national attention not only because of the conduct shown in the video, but because the footage appears to have revealed behavior that might otherwise have remained hidden. For Sangro, the issue remains focused on her husband's care. For policymakers and veterans advocates, however, the case has become part of a larger debate about oversight, accountability, and the treatment of aging veterans suffering from conditions such as traumatic brain injury and Alzheimer's disease.",
-      "url": "https://www.military.com/hidden-camera-exposes-alleged-abuse-of-marine-veteran-with-alzheimers-disease",
-      "source": "Military",
-      "image": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026-04/ap25126646830190.jpg?q=70&fit=crop&w=1200&h=628&dpr=1",
-      "publishedAt": "2026-06-25T00:30:39Z",
+      "title": "Former California State Parks superintendent charged with recording employees with hidden camera",
+      "description": "Prosecutors allege Kevin Pearsall recorded employees in a staff-only locker room.",
+      "url": "https://www.sfgate.com/la/article/former-state-parks-superintendent-charged-22319342.php",
+      "source": "SFGate",
+      "image": null,
+      "publishedAt": "2026-06-24T21:24:53Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -244,118 +204,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden Camera Exposes Alleged Abuse of Marine Veteran with Alzheimer's Disease\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden Camera Exposes Alleged Abuse of Marine Veteran with Alzheimer’s Disease",
-      "description": "A hidden camera installed by the wife of a disabled Marine veteran has triggered criminal charges, calls for a broader investigation, and a pledge from Dep",
-      "url": "https://www.newsbreak.com/news/4730804338076-hidden-camera-exposes-alleged-abuse-of-marine-veteran-with-alzheimer-s-disease",
-      "source": "Newsbreak",
-      "image": "https://img.particlenews.com/img/id/2zVILi_1Cfs4SkQ00",
-      "publishedAt": "2026-06-25 00:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden Camera Exposes Alleged Abuse of Marine Veteran with Alzheimer’s Disease\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "OC DA Charges Ex-Long Beach Parks Superintendent With Secretly Recording Naked Lifeguards",
-      "description": "Felony and misdemeanor charges have been leveled against a former state parks superintendent accused of recording naked lifeguards in an Orange County beach locker room and sharing the images with friends, authorities announced Wednesday. Kevin Pearsall, 59, of Long Beach, was charged with five felony counts of eavesdropping, 23 misdemeanor counts of secretly filming another and three misdemeanor counts of unlawful dissemination of private recordings, according to the Orange County District Attorney's Office. The alleged offenses occurred in the men's locker room at Bolsa Chica State Beach Lifeguard Headquarters and victimized 23 lifeguards and other workers, none of whom consented to being recorded, prosecutors said. Pearsall, who had been subject to a $500,000 arrest warrant, turned himself in on Tuesday and was released on his own recognizance with an arraignment scheduled for Aug. 6 in Westminster. According to the DA's Office, the case stems from the discovery in July 2025 of a USB memory stick data storage device with a hidden camera in the men's employee locker room at the lifeguard headquarters. State parks officials reviewed the content on the device and contacted the California Highway Patrol, which conducted an investigation that revealed Pearsall allegedly \"was responsible for placing hidden cameras in the locker room, which recorded both audio and video, and using the hidden cameras to record numerous videos over an 11-month period beginning in August 2024,\" according to prosecutors. \"From 2023 through July of 2025, Pearsall served as a California State Parks superintendent, which is a sworn law enforcement position overseeing the management and operations of state parks in the Orange Coast District, including Orange County,\" the DA's Office stated. Pearsall is further accused of sending images of nude or partially nude men in the locker room to two men, and making sexually charged comments about the victims' anatomy. \"Instead of protecting his employees, Pearsall used his position to spy on the men who worked for him while they were in the place where they should have been the safest and then share those intimate images of his victims,\" District Attorney Todd Spitzer said. \"These victims had their privacy violated in such a disgusting way, and we will do everything we can to ensure they receive the justice they deserve.\" Pearsall faces a maximum sentence of 18 years and eight months behind bars if convicted on all counts, prosecutors said.",
-      "url": "https://mynewsla.com/crime/2026/06/24/ex-parks-superintendent-charged-with-secretly-recording-naked-lifeguards/",
-      "source": "My News LA",
-      "image": "https://mynewsla.com/wp-content/uploads/2026/03/shutterstock_2499139373-scaled.jpg",
-      "publishedAt": "2026-06-24T17:42:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"OC DA Charges Ex-Long Beach Parks Superintendent With Secretly Recording Naked Lifeguards\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "J.K. Rowling hits out at H&M after voyeurism arrest in Dorset store",
-      "description": "A famous children's author and gender-critical campaigner, J.K. Rowling, has hit out at H&M after a man was arrested for voyeurism in the Bournemouth store's changing rooms. It was previously reported that a 47-year-old man from Bournemouth was arrested for allegedly taking photos of female customers in Castlepoint. J.K. Rowling is known for writing the famous Harry Potter books; however, she has also become known for her controversial opinions on transgender people and women's rights. J.K. Rowling tweet (Image: Web) She shared the Bournemouth Echo article on her X account with the caption: \"One of those things that never happens if you open up women's changing rooms to any man who wants to come inside has happened. \"Again.\" A spokesperson for J.K. Rowling said she will not be commenting further on the matter. When contacted about its policy on shared changing rooms in Bournemouth, a spokesperson for H&M said it wants all customers to feel welcome. A spokesperson for H&M said: \"At H&M, we want our customers to feel welcome, comfortable, and respected when shopping with us. \"We are committed to being inclusive, and our fitting rooms are designed for everyone. \"Our colleagues are available to support customers where needed and to help ensure a positive experience in store.\"",
-      "url": "https://www.dorsetecho.co.uk/news/26224834.j-k-rowling-hits-h-m-bournemouth-arrest/",
-      "source": "Dorset Echo",
-      "image": "https://www.dorsetecho.co.uk/resources/images/19527688.jpg?type=og-image",
-      "publishedAt": "2026-06-25T00:07:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"J.K. Rowling hits out at H&M after voyeurism arrest in Dorset store\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-Parks Superintendent Charged With Secretly Recording Naked Lifeguards",
-      "description": "Felony and misdemeanor charges have been leveled against a former state parks superintendent accused of recording naked lifeguards in an Orange County beach locker room and sharing the images with friends, authorities announced Wednesday. Kevin Pearsall, 59, of Long Beach, was charged with five felony counts of eavesdropping, 23 misdemeanor counts of secretly filming another and three misdemeanor counts of unlawful dissemination of private recordings, according to the Orange County District Attorney's Office. The alleged offenses occurred in the men's locker room at Bolsa Chica State Beach Lifeguard Headquarters and victimized 23 lifeguards and other workers, none of whom consented to being recorded, prosecutors said. Pearsall, who had been subject to a $500,000 arrest warrant, turned himself in on Tuesday and was released on his own recognizance with an arraignment scheduled for Aug. 6 in Westminster. According to the DA's Office, the case stems from the discovery in July 2025 of a USB memory stick data storage device with a hidden camera in the men's employee locker room at the lifeguard headquarters. State parks officials reviewed the content on the device and contacted the California Highway Patrol, which conducted an investigation that revealed Pearsall allegedly \"was responsible for placing hidden cameras in the locker room, which recorded both audio and video, and using the hidden cameras to record numerous videos over an 11-month period beginning in August 2024,\" according to prosecutors. \"From 2023 through July of 2025, Pearsall served as a California State Parks superintendent, which is a sworn law enforcement position overseeing the management and operations of state parks in the Orange Coast District, including Orange County,\" the DA's Office stated. Pearsall is further accused of sending images of nude or partially nude men in the locker room to two men, and making sexually charged comments about the victims' anatomy. One of the alleged victims filed a lawsuit Tuesday in Orange County Superior Court alleging hostile work environment harassment, sexual harassment and failure to prevent and remedy. The plaintiff was \"devastated\" by the allegations, his attorney, Ron Zambrano, told City News Service. \"My client is shocked, devastated -- wrapped up in betrayal,\" Zambrano said. \"He looked up to Pearsall as a mentor.\" The man began work as a seasonal lifeguard in 2018 and became a full-time employee in April 2022, Zambrano said. The man at first had one of the lockers near the front door as part of the dues lifeguards pay to earn a more desirable locker further back, Zambrano said. But Pearsall, under the guise of praising the man's work, gave him a better locker, Zambrano said. \"But it also happened to be a better angle for the camera,\" the attorney alleged. Underage junior lifeguards also used the locker room, but it's unclear if they were also filmed, Zambrano said. \"I learned directly from one of the investigators this could have been happening as early as 2019,\" Zambrano said. Pearsall appears to have retired in July 2025 when the first search warrant was executed, he added. Pearsall faces a maximum sentence of 18 years and eight months behind bars if convicted on all counts, prosecutors said. \"Instead of protecting his employees, Pearsall used his position to spy on the men who worked for him while they were in the place where they should have been the safest and then share those intimate images of his victims,\" District Attorney Todd Spitzer said. \"These victims had their privacy violated in such a disgusting way, and we will do everything we can to ensure they receive the justice they deserve.\"",
-      "url": "https://mynewsla.com/crime/2026/06/24/ex-parks-superintendent-charged-with-secretly-recording-naked-lifeguards-3/",
-      "source": "My News LA",
-      "image": "https://i0.wp.com/mynewsla.com/wp-content/uploads/2021/10/MNLA-Facebook.jpg?fit=640%2C360&ssl=1",
-      "publishedAt": "2026-06-24T22:31:05Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-Parks Superintendent Charged With Secretly Recording Naked Lifeguards\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-Parks Superintendent Charged With Secretly Recording Naked Lifeguards",
-      "description": "Felony and misdemeanor charges have been leveled against a former state parks superintendent accused of recording naked lifeguards in an Orange County beach locker room and sharing the images with friends, authorities announced Wednesday. Kevin Pearsall, 59, of Long Beach, was charged with five felony counts of eavesdropping, 23 misdemeanor counts of secretly filming another and three misdemeanor counts of unlawful dissemination of private recordings, according to the Orange County District Attorney's Office. The alleged offenses occurred in the men's locker room at Bolsa Chica State Beach Lifeguard Headquarters and victimized 23 lifeguards and other workers, none of whom consented to being recorded, prosecutors said. Pearsall, who had been subject to a $500,000 arrest warrant, turned himself in on Tuesday and was released on his own recognizance with an arraignment scheduled for Aug. 6 in Westminster. According to the DA's Office, the case stems from the discovery in July 2025 of a USB memory stick data storage device with a hidden camera in the men's employee locker room at the lifeguard headquarters. State parks officials reviewed the content on the device and contacted the California Highway Patrol, which conducted an investigation that revealed Pearsall allegedly \"was responsible for placing hidden cameras in the locker room, which recorded both audio and video, and using the hidden cameras to record numerous videos over an 11-month period beginning in August 2024,\" according to prosecutors. \"From 2023 through July of 2025, Pearsall served as a California State Parks superintendent, which is a sworn law enforcement position overseeing the management and operations of state parks in the Orange Coast District, including Orange County,\" the DA's Office stated. Pearsall is further accused of sending images of nude or partially nude men in the locker room to two men, and making sexually charged comments about the victims' anatomy. One of the alleged victims filed a lawsuit Tuesday in Orange County Superior Court alleging hostile work environment harassment, sexual harassment and failure to prevent and remedy. The plaintiff was \"devastated\" by the allegations, his attorney, Ron Zambrano, told City News Service. \"My client is shocked, devastated -- wrapped up in betrayal,\" Zambrano said. \"He looked up to Pearsall as a mentor.\" The man began work as a seasonal lifeguard in 2018 and became a full-time employee in April 2022, Zambrano said. The man at first had one of the lockers near the front door as part of the dues lifeguards pay to earn a more desirable locker further back, Zambrano said. But Pearsall, under the guise of praising the man's work, gave him a better locker, Zambrano said. \"But it also happened to be a better angle for the camera,\" the attorney alleged. Underage junior lifeguards also used the locker room, but it's unclear if they were also filmed, Zambrano said. \"I learned directly from one of the investigators this could have been happening as early as 2019,\" Zambrano said. Pearsall appears to have retired in July 2025 when the first search warrant was executed, he added. Pearsall faces a maximum sentence of 18 years and eight months behind bars if convicted on all counts, prosecutors said. \"Instead of protecting his employees, Pearsall used his position to spy on the men who worked for him while they were in the place where they should have been the safest and then share those intimate images of his victims,\" District Attorney Todd Spitzer said. \"These victims had their privacy violated in such a disgusting way, and we will do everything we can to ensure they receive the justice they deserve.\"",
-      "url": "https://mynewsla.com/crime/2026/06/24/ex-parks-superintendent-charged-with-secretly-recording-naked-lifeguards-2/",
-      "source": "My News LA",
-      "image": "https://i0.wp.com/mynewsla.com/wp-content/uploads/2021/10/MNLA-Facebook.jpg?fit=640%2C360&ssl=1",
-      "publishedAt": "2026-06-24T21:43:04Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-Parks Superintendent Charged With Secretly Recording Naked Lifeguards\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former California State Parks superintendent charged with recording employees with hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-26T14:20:31.626Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -377,7 +227,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Revered artist is caught secretly recording kids and parents using bathroom during his birthday party at home, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-25T14:28:21.153Z"
+      "flaggedAt": "2026-06-26T14:20:31.626Z"
     }
   ]
 }
