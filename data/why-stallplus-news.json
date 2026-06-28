@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T13:28:16.771Z",
+  "updatedAt": "2026-06-28T13:41:56.022Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 4,
+    "published": 4,
+    "pending": 3,
     "rejected": 60,
-    "carriedForward": 3
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 2
     },
     {
       "id": "workplace-privacy",
@@ -97,50 +97,51 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Florida man allegedly recorded girls in church bathroom with hidden camera, arrested on voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     },
     {
-      "provider": "NewsData.io",
-      "title": "Church worker charged with video voyeurism in Lake County, deputies say",
-      "description": "A man who is listed as an \"Overseer\" at a Fruitland Park church has been arrested on charges of video voyeurism after images from a church bathroom and another area were discovered on a work computer used by the suspect, according to a release from the Lake County Sheriff's Office. Lake County deputies arrested 59-year-old Charles Barton Lucas on Friday after the IT director at the business he worked at had contacted the Leesburg Police Department about files found on the Google Drive that indicated inappropriate images of adolescent girls and adult women. Further investigation revealed more photos and videos on a cloud drive that showed adolescent girls changing clothes and making use of a church bathroom after a baptism service. A spokesman for the Sheriff's Office wrote that it was determined the images came from a hidden camera that had been installed in the changing room and the bathroom at the church. Investigators went back to the church and found that the cameras were no longer present. Lucas was arrested Friday evening and transported to the Lake County Jail. He was released from the jail shortly after noon on Saturday after posting a $25,000 bond according to the Sheriff's spokesman. An arrest affidavit from the Sheriff's Office indicates that Lucas was listed as an \"Overseer\" at Heritage Community Church in Fruitland Park. FOX 35 has reached out to the church for comment.",
-      "url": "https://www.fox35orlando.com/news/lake-county-sheriff-church-worker-charged-video-voyeurism",
-      "source": "Fox 35 Orlando",
-      "image": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2026/06/931/523/charles-barton-lucas.png?ve=1&tl=1",
-      "publishedAt": "2026-06-20 19:32:12",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Church worker charged with video voyeurism in Lake County, deputies say\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    }
-  ],
-  "pendingReview": [
-    {
       "provider": "NewsAPI.ai",
-      "title": "Contractor accused of installing hidden camera in Iowa salon",
-      "description": "ALBIA, Iowa -- Authorities say an arrest has been made after a hidden camera was located inside a Monroe County business earlier this week. The Albia Police Department says officers were called to Just Teasin' Hair Salon, located at 101 Benton Ave E, on June 19 in response to a report of a hidden camera. The officer conducted a search and located the camera, which had been disguised as an electrical outlet. Authorities say the camera was positioned to view part of the salon, which included a tanning bed. Police state that the area was for personal use and was not part of their daily operations. Aided by the Iowa Division of Criminal Investigation, Albia Police say 49-year-old Kevin Zaputil was identified as the suspect in the case. According to a criminal complaint, between 2023 and 2026, Zaputil placed a hidden camera in the wall of the salon. The report states that he served as the main contractor for the space and had access to the building through a master key. Police state that Zaputil reportedly admitted to installing and monitoring videos of individuals disrobing and using the tanning bed. Zaputil was arrested for Stalking and three counts of Invasion of Privacy and taken to Monroe County Jail, according to court records. Police say Zaputil has since posted bond and been released. The Albia Police Department says the department has been working to identify and provide resources to individuals who may be impacted by this investigation. According to police, no additional cameras have been discovered or reported to law enforcement.",
-      "url": "https://who13.com/news/iowa-news/contractor-accused-of-installing-hidden-camera-in-iowa-salon/",
-      "source": "who13.com",
-      "image": "https://who13.com/wp-content/uploads/sites/19/2016/02/screen-shot-2016-02-10-at-3-35-44-pm.png?strip=1&w=640",
-      "publishedAt": "2026-06-27T00:22:05Z",
+      "title": "Heath duo accused of using public bathroom camera to make child porn",
+      "description": "Columbus man who ran a red light and T-boned an SUV at Sunbury and Morse was later fatally struck; police probe. * A Heath man and woman face charges after police allege they made child pornography. * Police accuse the pair of placing a hidden camera inside a public bathroom in Newark. * Authorities discovered the videos on a laptop and other devices on June 24. A Heath man and woman face criminal charges after prosecutors allege in court documents they were creating child pornography when they put a camera inside a public bathroom in Newark. Brianna N. Nethers, 23, and John M. Nethers, 43, each face one count of pandering sexual material involving a minor, Licking County Common Pleas Court records show. In a criminal complaint, police allege Brianna Nethers put a hidden camera from her purse inside a public bathroom in Newark before bringing a minor to that area to engage in sexual activity. Police allege that John Nethers then uploaded the video to his laptop. Police allege another video shows Brianna Nethers putting the camera on a hidden purse in a public restroom in Licking County, though the complaint doesn't state in which municipality. In the video, several people use the bathroom, including minors, police allege in the complaint Newark police found several devices June 24, including John Nethers' laptop on which they allege they found files containing the videos, according to the complaint. Deputies arrested both of them June 24, and they each had bond hearings June 25, court records show.",
+      "url": "https://www.newarkadvocate.com/story/news/crime/2026/06/27/heath-duo-accused-of-making-child-porn-in-public-bathrooms/90695036007/",
+      "source": "The Advocate",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/02/PNEW/83418690007-courtroom-dome.jpg?auto=webp&crop=4031,2269,x0,y377&format=pjpg&width=1200",
+      "publishedAt": "2026-06-27T17:34:29Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
+      "confidence": 95,
+      "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
+        "restroom context (4 terms)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Contractor accused of installing hidden camera in Iowa salon\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-27T13:28:16.771Z"
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Heath duo accused of using public bathroom camera to make child porn\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Heath duo accused of using public bathroom camera to make child porn",
+      "description": "A Heath man and woman face criminal charges after prosecutors allege in court documents they were creating child pornography when they put a camera inside a public bathroom in Newark. Brianna N. Nethers, 23, and John M. Nethers, 43, each face one count of pandering sexual material involving a minor, Licking County Common Pleas Court records show. In a criminal complaint, police allege Brianna Nethers put a hidden camera from her purse inside a public bathroom in Newark before bringing a minor to that area to engage in sexual activity. Police allege that John Nethers then uploaded the video to his laptop. Police allege another video shows Brianna Nethers putting the camera on a hidden purse in a public restroom in Licking County, though the complaint doesn't state in which municipality. In the video, several people use the bathroom, including minors, police allege in the complaint Newark police found several devices June 24, including John Nethers' laptop on which they allege they found files containing the videos, according to the complaint. Deputies arrested both of them June 24, and they each had bond hearings June 25, court records show. Advocate reporter Josué Perez can be reached at jhperez@newarkadvocate.com. This article originally appeared on Newark Advocate: Heath duo accused of using public bathroom camera to make child porn",
+      "url": "https://www.yahoo.com/news/us/articles/heath-duo-accused-using-public-173429871.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/f3375210134894b6ed916590d371aeb1bfd7e013535ee30bd884cff1d67b13e4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewark-advocate%2Fcf363b4267fe41027ff3495d5b79b55e",
+      "publishedAt": "2026-06-27T17:34:29Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 95,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Heath duo accused of using public bathroom camera to make child porn\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    }
+  ],
+  "pendingReview": [
     {
       "provider": "NewsData.io",
       "title": "Contractor accused of installing hidden camera in Iowa salon",
@@ -161,7 +162,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Contractor accused of installing hidden camera in Iowa salon\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-27T13:28:16.771Z"
+      "flaggedAt": "2026-06-28T13:41:56.022Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -183,7 +184,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former California State Parks superintendent charged with recording employees with hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-27T13:28:16.771Z"
+      "flaggedAt": "2026-06-28T13:41:56.022Z"
     },
     {
       "provider": "NewsData.io",
@@ -205,7 +206,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-church leader makes plea to use internet in spite of voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-27T13:28:16.771Z"
+      "flaggedAt": "2026-06-28T13:41:56.022Z"
     }
   ]
 }
