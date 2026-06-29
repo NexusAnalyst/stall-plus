@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T13:41:56.022Z",
+  "updatedAt": "2026-06-29T15:42:18.558Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,8 +13,8 @@
   "reviewSummary": {
     "published": 4,
     "pending": 3,
-    "rejected": 60,
-    "carriedForward": 2
+    "rejected": 59,
+    "carriedForward": 4
   },
   "categoryCounts": [
     {
@@ -143,70 +143,71 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Contractor accused of installing hidden camera in Iowa salon",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/4735316974445-contractor-accused-of-installing-hidden-camera-in-iowa-salon",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-06-27 00:00:00",
+      "provider": "NewsAPI.ai",
+      "title": "8 Best Spy Camera Solutions for Home, Family, and Workplace Security in 2026 - TFOT",
+      "description": "Security technology has evolved dramatically over the past decade or so, and it is fair to say that today's hidden cameras are much smaller, much smarter, and much more capable than they have ever been before. Whether you are looking to monitor your home while you're away, keep an eye on family caregivers, protect your business, or gather evidence that suspicious activity is going on around you, modern spy cameras are a discreet and affordable way of carrying out surveillance without drawing any attention to the fact that you are doing so. The problem is that not all spy cameras are created equal, and some of them are much better at what they do than others. Some have poor or no instructions, while others give you all the guidance you need. Then there are warranties, tech support, and product quality to consider, too, which is why we've put together a selection of 8 of the best spy camera solutions for home, family, and business below, so you can always choose the best camera for your needs. 1. Best Spy Cameras Best for expert guidance and discreet surveillance solutions When purchasing hidden cameras, the biggest challenge is often choosing the right device. Should you use a clock camera? A Wi-Fi-enabled model? A motion-activated recorder? A hidden camera disguised as a household object? For many buyers, the options can feel overwhelming. That's where Best Spy Cameras stands apart. Backed by nearly two decades of experience through The Home Security Superstore, the company has helped thousands of customers select discreet surveillance equipment for homes, families, and workplaces. Rather than functioning as a simple online retailer, Best Spy Cameras combines product selection with expert guidance. Customers have access to knowledgeable support staff who can help identify the most appropriate solution based on: * Monitoring goals * Installation environment * Recording requirements * Budget considerations * Technical preferences This level of assistance can be especially valuable for first-time buyers who may not fully understand the differences between various camera technologies. Not only that, but the platform offers a wide range of hidden surveillance products, including: * Clock cameras * USB charger cameras * Smoke detector cameras * Wi-Fi spy cameras * Motion-activated cameras * Wearable cameras * Vehicle surveillance cameras * Audio and video recording devices This variety allows customers to choose solutions tailored to specific situations rather than settling for a one-size-fits-all approach. They also have strong customer protection policies, which means that if anything goes wrong, you do not have to worry, so they are great for just about anyone who is seeking reliable spy camera technology right now. 2. BrickHouse Security Best for professional surveillance equipment BrickHouse Security is a respected name in the world of surveillance technology and with good reason: the company offers a wide selection of products that are also excellent quality for the price point they are being sold at. Products they sell include: * Hidden cameras * GPS trackers * Counter-surveillance equipment * Security systems Its extensive catalog makes it an appealing choice for both consumers and professional investigators who are looking to add a few more tools to their arsenal. 3. SpyGuy Best for beginner-friendly surveillance products SpyGuy focuses on making surveillance technology accessible to everyday users. The company offers straightforward product descriptions, educational resources, and customer support designed to help buyers navigate unfamiliar technology. Its approachable style makes it particularly appealing for first-time surveillance customers. 4. Spy Associates Best for covert recording solutions Spy Associates are another company that offers a wide selection of products that can be used for covert surveillance. Popular categories they can provide you with include: * Hidden cameras * Body-worn recorders * Vehicle surveillance systems * Specialty recording devices The retailer is one that caters to both personal and professional security applications, so whether you are looking for a small spy camera to keep an eye on the many at home or you're a professional investigator looking for new surveillance equipment, they have you covered. 5. SPY Centre Security Best for advanced surveillance technology SPY Centre Security specialises in higher-end surveillance equipment and investigative tools. The company's catalogue often includes more sophisticated recording and monitoring solutions than those found through mainstream retailers. This makes it attractive to users seeking advanced functionality, who do not need basic products or having their hand held do much. 6. The Spy Store Best for workplace security monitoring The Spy Store has built a solid relationship with customers due to its reputation for creating functional and long-lasting products that are ideal for business and personal use. Its surveillance offerings include: * Hidden cameras * Employee monitoring systems * Asset protection tools * Personal security products Businesses that are looking to improve their workplace security often don't think that this company is a good choice due to the nature nd quality of their camera products. 7. Lawmate Technology Best for innovative hidden camera design LawMate has long been recognised for producing innovative covert recording devices. The company manufactures many of its own products and is known for integrating cameras into everyday objects while maintaining high recording quality. Its products are frequently used by investigators and security professionals. 8. KJB Security Products Best for specialised investigative equipment KJB Security Products offers a wide selection of surveillance and investigative technologies, including: * Hidden cameras * Audio recorders * GPS tracking devices * Counter-surveillance equipment The company can be used by both private customers and professional users, and it offers just about everything you could ever need to carry out surveillance and keep your home security up to date, so it is a great choice for people who are looking to buy a lot of different technologies that will work in harmony together. Choosing a spy camera company As you can see, there are a lot of excellent spy camera solutions available for home, family, and business, and that means that, whatever you need equipment for, you should be able to find it amongst the eight companies we have highlighted here, whether you go with our number one pick, Best Spy Cameras, or another company we have highlighted. The key is to work out what you want from surveillance equipment before you buy, so you can choose the optimum company and the perfect product for you.",
+      "url": "https://thefutureofthings.com/28951-best-spy-camera-solutions-for-home-family-and-workplace-security/",
+      "source": "TFOT",
+      "image": "https://thefutureofthings.com/wp-content/uploads/2026/06/image-19.jpeg",
+      "publishedAt": "2026-06-29T13:15:48Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 45,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"8 Best Spy Camera Solutions for Home, Family, and Workplace Security in 2026 - TFOT\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-29T15:42:18.558Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Heath duo accused of using public bathroom camera to make child porn",
+      "description": "Two Heath residents face charges after police allege they put a camera inside a public bathroom in Newark to make child pornography.",
+      "url": "https://www.yahoo.com/news/us/articles/heath-duo-accused-using-public-173429871.html",
+      "source": "Yahoo! News",
+      "image": "https://media.zenfs.com/en/newark-advocate/cf363b4267fe41027ff3495d5b79b55e",
+      "publishedAt": "2026-06-27 17:34:29",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Contractor accused of installing hidden camera in Iowa salon\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-28T13:41:56.022Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Heath duo accused of using public bathroom camera to make child porn\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-06-29T15:42:18.558Z"
     },
     {
       "provider": "NewsAPI.org",
-      "title": "Former California State Parks superintendent charged with recording employees with hidden camera",
-      "description": "Prosecutors allege Kevin Pearsall recorded employees in a staff-only locker room.",
-      "url": "https://www.sfgate.com/la/article/former-state-parks-superintendent-charged-22319342.php",
-      "source": "SFGate",
-      "image": null,
-      "publishedAt": "2026-06-24T21:24:53Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
+      "title": "Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out",
+      "description": "If you monopolize the bathroom, don't be surprised when people look for other options. The post Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out appeared first on TwistedSifter.",
+      "url": "http://twistedsifter.com/2026/06/woman-waits-over-an-hour-for-shared-bathroom-after-roommate-refuses-to-come-out/",
+      "source": "Twistedsifter.com",
+      "image": "https://twistedsifter.com/wp-content/uploads/2026/06/woman-knocking-on-the-restrooms-door.jpg",
+      "publishedAt": "2026-06-28T08:49:51Z",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former California State Parks superintendent charged with recording employees with hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-06-28T13:41:56.022Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Ex-church leader makes plea to use internet in spite of voyeurism charges",
-      "description": "An ex-church leader charged with planting cameras in the ladies' restroom at his former home of worship is making a plea to be allowed to use the internet. Read more: Ex-church leader makes plea to use internet in spite of voyeurism charges",
-      "url": "https://www.villages-news.com/2026/06/26/ex-church-leader-makes-plea-to-use-internet-in-spite-of-voyeurism-charges/",
-      "source": "Villages-news.com",
-      "image": "https://www.villages-news.com/wp-content/uploads/2026/06/Bart-Lucas-600x344.png",
-      "publishedAt": "2026-06-26 22:59:33",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-church leader makes plea to use internet in spite of voyeurism charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-06-28T13:41:56.022Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
+      "flaggedAt": "2026-06-29T15:42:18.558Z"
     }
   ]
 }
