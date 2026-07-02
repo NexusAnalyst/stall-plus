@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T14:30:24.506Z",
+  "updatedAt": "2026-07-02T13:54:32.696Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 4,
-    "rejected": 65,
+    "pending": 0,
+    "rejected": 70,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -99,92 +99,5 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Heath duo accused of using public bathroom camera to make child porn\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.org",
-      "title": "Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out",
-      "description": "If you monopolize the bathroom, don't be surprised when people look for other options. The post Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out appeared first on TwistedSifter.",
-      "url": "http://twistedsifter.com/2026/06/woman-waits-over-an-hour-for-shared-bathroom-after-roommate-refuses-to-come-out/",
-      "source": "Twistedsifter.com",
-      "image": "https://twistedsifter.com/wp-content/uploads/2026/06/woman-knocking-on-the-restrooms-door.jpg",
-      "publishedAt": "2026-06-28T08:49:51Z",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Woman Waits Over an Hour for Shared Bathroom After Roommate Refuses to Come Out\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
-      "flaggedAt": "2026-07-01T14:30:24.506Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Photos of Coventry hotel that wears city pride like a badge of honour - VANNY RADIO",
-      "description": "A boutique style hotel, Indigo has all the expectations of a usual hotel - a variety of rooms, including suites and premium options , a gym, a bar and a restaurant.But one of the things that stands when you enter the hotel, is how obviously proud it is to be a part of Coventry. The city's various industries and pop culture moments are all celebrated, from the motor industry and watch making, through to the city's impact on the music industry through the 2-Tone movement - Indigo would make even the most self-hating Coventrian feel some sort of pride.The style is what you might call industrial-chic, which sounds odd, but it is sleek and stylish but subtle enough so you don't actually feel like you are in a manufacturing plant.Read more: Coventry and Warwickshire what's on news delivered straight to your inbox - sign up for freeRead more: 'Godiva After Dark 2026': all of the venues taking part and when this weekendWe'd been assigned a super king bed suite that was simply stunning. The room is split into working area, sleep and relaxation - a mini fridge and coffee machine are at your disposal.Artwork and accessories in the room reflect Coventry's industrial past. A huge TV comes out of the wall and greets you by name when it is switched on.The huge en suite includes twin sinks and a separate shower and a standalone clawfoot bath. Combined all of this made the room comfortable and practical - subtle and never veering into needlessly flash. The décor is thoughtful and classy with a bed that just swallows you up. It is probably one of the most beautiful, well put together hotel rooms I've been privileged to stay in.The venue has recently installed a new hotel manager and a new head chef, so our stay allowed us to sample a brand new menu.Cogs Bar and Restaurant is part of the hotel but you don't need to be a guest to dine. This section, also heavenly air conditioned, is open plan and integrated. So if you choose you can sit and watch the food being prepared.The nods to Coventry and its history can even be seen here - my dining partner opting for a Peeping Tom burger (£19) for main, having enjoyed incredibly indulgent spicy pork belly bites (£8) to start.The burger comprised of grilled chicken thighs, streaky bacon, guacamole, tomato and gem lettuce - it came with thick chips and a dressed salad garnish. It was well stacked and so deeply filled eating it traditionally was tricky - a knife and fork coming to the rescue.I stayed at top ranked Coventry hotel and didn't want to leaveI had prawn and chorizo pil pil (£9) to start. It came with crusty bread and a peppery salad garnish. The dish was swimming in the flavours from the Spanish sausage and the prawn, the bread soaking it up delightfully.For main I had half a spatchcock chicken with chimichurri (£21) which came with wonderfully crispy fries and a salad. The chicken was well cooked with plenty of moisture within - the exotic flavours seeping through, and permeating from the smoky chimichurri crisped skin.Dessert was dark chocolate brownie with salted caramel ice cream (£8) for me - an indulgent delight to end the meal. My dining partner, at the advice of the charming hotel manager, had the sticky toffee pudding - a classic and nostalgic treat that did exactly what it said on the tin. Source link",
-      "url": "https://vannymediaproduction.com/photos-of-coventry-hotel-that-wears-city-pride-like-a-badge-of-honour/",
-      "source": "VANNY RADIO",
-      "image": "https://i2-prod.coventrytelegraph.net/incoming/article34218640.ece/ALTERNATES/s615/1_DT_CET_0107_26_ihg_03.jpg",
-      "publishedAt": "2026-07-01T14:09:09Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Photos of Coventry hotel that wears city pride like a badge of honour - VANNY RADIO\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-01T14:30:24.506Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "AM Roundup: Granite Mountain Hotshots memorial, air quality alerts, Buckeye PD lawsuit",
-      "description": "The attorney for a woman who was nine months pregnant when a now former Buckeye Police officer was captured on camera hitting her says the woman will file a formal lawsuit this week. PHOENIX -- Happy Wednesday, and hello July! The US Men's National Soccer team is in action this afternoon, so hopefully that gives you something to enjoy today! We're staying on top of the latest happenings from across the Valley, state, and our nation for Wednesday, July 1; here's what you need to know as you start your day: From Meteorologist Jorge Torres - Air quality alerts across Arizona It'll be a sunny and mild start to July in the Valley. We're forecasting a high of 102º, but a High Pollution Advisory is in effect today due to ozone. We warm up to 104º tomorrow. Man arrested for allegedly secretly watching victims inside their homes in Tempe Tempe police are looking for possible additional victims after a man was arrested for allegedly secretly watching or recording women inside their homes. On Sunday, officers arrested 51-year-old Michael Dibenedetto for burglary and voyeurism following an investigation. The investigation began on June 18 when a Tempe resident reported that she saw a man outside her bathroom window while she was showering. The victim provided home surveillance video showing a suspect arriving in a blue-gray Rivian SUV, walking through an alley, climbing over a fence to enter her backyard, and leaving shortly afterward. Police say additional surveillance captured the same SUV in the area on two other occasions. Authorities were able to link the SUV to Dibenedetto. Investigators also used court-authorized records and additional evidence that placed him in the area during the reported incidents. Lawsuit against Buckeye PD coming after video of officer hitting pregnant woman The attorney for a woman who was nine months pregnant when a now-former Buckeye Police officer was captured on camera hitting her says the woman will file a formal lawsuit this week. ABC15 obtained a copy of a notice of claim filed in April against the City of Buckeye, the Buckeye Police Department, and Officer Carri Carrico. The document states the incident occurred on Nov. 1, 2025, when the woman, who was 9 months pregnant, was arrested by Carrico for an alleged reckless driving offense, handcuffed, and transported to the Buckeye Police Department station. The notice of claim states the woman suffered blunt force trauma to the face and head and continues to experience neck and back pain. It also states the City of Buckeye and the Buckeye Police Department are aware of the incident, that it triggered an internal affairs investigation, and that Carrico was placed on leave and/or terminated as a result. The notice of claim seeks $5 million and states that a formal lawsuit will be filed if the claim is not settled within 60 days of its receipt. Carri Carrico was indicted by a grand jury on May 27 on two counts of aggravated assault -- one count connected to each of two separate incidents. She entered a not guilty plea. Her trial is scheduled for November. Her attorney declined to comment. ABC15 obtained body camera footage and surveillance video from both incidents. Lawsuit against Buckeye PD coming after video of officer hitting pregnant woman Yarnell community remembers Granite Mountain Hotshots 13 years after deadly fire People filled Yarnell Hill Fire Memorial Park Tuesday afternoon as a bell tolled with each name of the 19 Granite Mountain Hotshots who died 13 years ago protecting the community. Only one member of the hotshot crew survived the fire, which remains one of the deadliest wildland firefighter tragedies in American history. The 19 hotshots honored are: Andrew Ashcraft, Robert Caldwell, Travis Carter, Dustin DeFord, Christopher MacKenzie, Eric Marsh, Grant McKee, Sean Misner, Scott Norris, Wade Parker, John Percin, Jr., Anthony Rose, Jesse Steed, Joe Thurston, Travis Turbyfill, William Warneke, Clayton Whitted, Kevin Woyjeck, and Garret Zuppiger. Yarnell community remembers Granite Mountain Hotshots 13 years after deadly fire Chandler Eagle Scouts place wreath at Tomb of the Unknown Soldier ahead of America's 250th Luke, Evan, Colin, and Dillon earned their Eagle Scout rank in Chandler and recently had the honor of placing a wreath at one of the most sacred sites in American history. A high-adventure camp took these four Eagle Scouts from Troop 285 in Chandler to Washington, D.C., and to the Tomb of the Unknown Soldier. \"It means a lot to be able to go to all of those monuments and museums and see the sacrifices that people made and the major historical situations and things our country has been through,\" said Luke Fulton. The highlight of the trip was an honor few civilians ever receive: placing a wreath at the Tomb of the Unknown Soldier. Chandler Eagle Scouts place wreath at Tomb of the Unknown Soldier ahead of America's 250th We're here for you! Share your issue, comment or story idea: Name City Email Phone Details of comment or story idea:",
-      "url": "https://www.abc15.com/news/am-roundup/am-roundup-granite-mountain-hotshots-memorial-air-quality-alerts-buckeye-pd-lawsuit",
-      "source": "abc15 Arizona",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/c455808/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5a%2Fd3%2F95ccd945428ab132d08cea0a3885%2Fyour-a-m-news-briefing.png",
-      "publishedAt": "2026-07-01T11:20:03Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"AM Roundup: Granite Mountain Hotshots memorial, air quality alerts, Buckeye PD lawsuit\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-01T14:30:24.506Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Arizona man arrested for voyeurism after police catch him watching a woman undress through a window, police say",
-      "description": "Tempe police arrested Michael Dibenedetto, 51, for burglary and voyeurism after a woman reported seeing him watching her shower through her window.",
-      "url": "https://www.12news.com/article/news/local/valley/arizona-man-arrested-for-voyeurism-after-police-catch-him-watching-a-woman-undress-through-a-window-police-say-tempe/75-a2878d24-03f1-4725-8c1b-f3fbbdf7a2ed",
-      "source": "12news",
-      "image": null,
-      "publishedAt": "2026-06-30 23:56:20",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Arizona man arrested for voyeurism after police catch him watching a woman undress through a window, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-01T14:30:24.506Z"
-    }
-  ]
+  "pendingReview": []
 }
