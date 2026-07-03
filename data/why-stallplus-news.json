@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:54:32.696Z",
+  "updatedAt": "2026-07-03T13:58:22.686Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 0,
-    "rejected": 70,
+    "pending": 3,
+    "rejected": 64,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -99,5 +99,72 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Heath duo accused of using public bathroom camera to make child porn\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Arizona Attorney Accused Of Voyeurism Claims Acting As A Private Investigator For His Clients Undergoing Divorce",
+      "description": "Arizona attorney accused of voyeurism claims acting as a private investigator for his clients undergoing divorce - BERITAJA is one of the most discussed topics today. In this article, you will find a clear explanation, key facts, and the latest updates related to this topic, presented in a concise and easy-to-understand way. Read more news on Beritaja. An Arizona attorney, accused of signaling women done their windows, claimed he was acting arsenic an interrogator for clients. Tempe Police arrested 51-year-old Michael DiBenedetto, who was charged pinch 4 counts, including 1 each of burglary and voyeurism, connected Sunday, June 28. And he gave a bizarre excuse for his actions. DiBenedetto said he was helping a divorcement client During 1 of his earlier hearings successful Illinois, the accused claimed that he was trying to thief 1 of his divorcement clients, who couldn't spend a backstage investigator. \"Regarding the 2009 incident, I was moving for a customer who ... I americium an attorney. I was doing divorcement rule astatine the time,\" he said, per the New York Post. \"I had a customer that could not spend a backstage investigator, and, essentially, I was doing that for them to prevention them immoderate money. So yes, I did observe their spouse ... but it wasn't needfully speaking to these existent allegations,\" the accused added, while explaining the logic down his recordings. One of the victims informed the constabulary aft spotting personification extracurricular her bathroom A female informed the constabulary aft she spotted a achromatic iPhone done her bath model held by a man connected June 18, per 12 News. After the constabulary called for much victims to travel forward, different women complained about akin experiences. Moreover, his car was seen successful the area 2 different times. When the female gave the investigators surveillance footage from her house, the authorities saw the fishy coming successful a blue-gray Rivian SUV. The accused past walked done the alley, climbed complete the fence, and entered the victim's residence. The conveyance was linked to DiBenedetto. Police nabbed DiBenedetto repeating his actions pinch different victim On June 28, detectives tracked him to different victim's location adjacent Parkway Boulevard. He allegedly removed his pants and engaged successful indecent intersexual activity while watching a female changing apparel done the window. Investigators detained him astatine the segment and took him into custody. \"Being watched aliases recorded without your knowledge is simply a profound penetration of privacy,\" said Tempe Police Chief Ken McCoy, per the official release. The constabulary main hailed the detectives and the consequence for their swift action. Meanwhile, DiBenedetto's neighbors were shocked upon learning the allegations. The accused has denied each charges and is presently held, pinch his bail group astatine $25,000.",
+      "url": "https://beritaja.com/arizona-attorney-accused-of-voyeurism-claims-acting-as-a-private-investigator-for-his-clients-undergoing-divorce-beritaja-429368.html",
+      "source": "Beritaja",
+      "image": "https://media.knewz.com/bdbyftnvpv/uploads/2026/07/03/Arizona-attorney-accused-of-voyeurism-claims-acting-as-a-private-investigator-for-his-clients-undergoing-divorce.jpg",
+      "publishedAt": "2026-07-03T07:53:57Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Arizona Attorney Accused Of Voyeurism Claims Acting As A Private Investigator For His Clients Undergoing Divorce\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-03T13:58:22.686Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man charged with voyeurism after leisure centre changing room incident",
+      "description": "Police were called to the centre after reports of a man \"acting suspiciously\" A man has been charged following a police investigation into an incident in the changing rooms of a Lancaster leisure centre. Lancashire Police attended the Salt Ayre Sports Centre on Salt Ayre Lane at around 8.20 pm on Tuesday (June 30) following reports of a man 'acting suspiciously'. Officers attended the scene and arrested a suspect from Heysham. In an update issued today (July 3), the force confirmed that Paul Stonell, 44, of Roeburndale Crescent, Heysham, has now been charged with voyeurism, possession of a Class A drug, and possession of a Class B drug. He appeared before Lancaster Magistrates' Court on Thursday (July 2), where he was remanded in custody. His next court hearing is scheduled for July 22. Detectives said enquiries are ongoing. Anyone who witnessed the incident or has any information is urged to contact Lancashire Police on 101, quoting log 1526 of June 30.",
+      "url": "https://www.lancs.live/news/lancashire-news/man-charged-voyeurism-after-lancaster-34230887",
+      "source": "accrington",
+      "image": "https://i2-prod.lancs.live/article34230928.ece/ALTERNATES/s1200/0_salt-ayre.jpg",
+      "publishedAt": "2026-07-03T10:56:58Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged with voyeurism after leisure centre changing room incident\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-03T13:58:22.686Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Heysham man in court accused of voyeurism and possession of drugs",
+      "description": "A Heysham man who appeared at Lancaster Magistrates' Court charged with voyeurism and possession of Class A and Class B drugs has been remanded in custody. Paul Stonell, 44, of Roeburndale Crescent, will next appear in court on July 22. Police said they were called to Salt Ayre Sports Centre on Salt Ayre Lane in Lancaster at about 8.20pm on Tuesday, June 30 following a report that a man was acting suspiciously in the changing rooms. Officers attended and a man in his 40s from Heysham was arrested. He was interviewed and after consultation with the Crown Prosecution Service he was charged. Enquiries are ongoing and anyone with information should call police on 101 quoting log 1526 of June 30.",
+      "url": "https://www.lancasterguardian.co.uk/news/national/heysham-man-in-court-accused-of-voyeurism-and-possession-of-drugs-8776422",
+      "source": "Lancaster Guardian",
+      "image": "https://www.lancasterguardian.co.uk/webimg/b25lY21zOjZhNzY2YTM0LWI0MjEtNDEzOS1iMDhkLWMyNDc1OTdmMTY4NTplNjA5ZDg4YS01Nzg4LTQxMzYtYjQxZC05M2U3OWViZjgyNTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-07-03T10:42:39Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Heysham man in court accused of voyeurism and possession of drugs\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-03T13:58:22.686Z"
+    }
+  ]
 }
