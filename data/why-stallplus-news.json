@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T13:58:22.686Z",
+  "updatedAt": "2026-07-04T13:19:45.092Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 3,
-    "rejected": 64,
+    "pending": 6,
+    "rejected": 58,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -102,56 +102,77 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Arizona Attorney Accused Of Voyeurism Claims Acting As A Private Investigator For His Clients Undergoing Divorce",
-      "description": "Arizona attorney accused of voyeurism claims acting as a private investigator for his clients undergoing divorce - BERITAJA is one of the most discussed topics today. In this article, you will find a clear explanation, key facts, and the latest updates related to this topic, presented in a concise and easy-to-understand way. Read more news on Beritaja. An Arizona attorney, accused of signaling women done their windows, claimed he was acting arsenic an interrogator for clients. Tempe Police arrested 51-year-old Michael DiBenedetto, who was charged pinch 4 counts, including 1 each of burglary and voyeurism, connected Sunday, June 28. And he gave a bizarre excuse for his actions. DiBenedetto said he was helping a divorcement client During 1 of his earlier hearings successful Illinois, the accused claimed that he was trying to thief 1 of his divorcement clients, who couldn't spend a backstage investigator. \"Regarding the 2009 incident, I was moving for a customer who ... I americium an attorney. I was doing divorcement rule astatine the time,\" he said, per the New York Post. \"I had a customer that could not spend a backstage investigator, and, essentially, I was doing that for them to prevention them immoderate money. So yes, I did observe their spouse ... but it wasn't needfully speaking to these existent allegations,\" the accused added, while explaining the logic down his recordings. One of the victims informed the constabulary aft spotting personification extracurricular her bathroom A female informed the constabulary aft she spotted a achromatic iPhone done her bath model held by a man connected June 18, per 12 News. After the constabulary called for much victims to travel forward, different women complained about akin experiences. Moreover, his car was seen successful the area 2 different times. When the female gave the investigators surveillance footage from her house, the authorities saw the fishy coming successful a blue-gray Rivian SUV. The accused past walked done the alley, climbed complete the fence, and entered the victim's residence. The conveyance was linked to DiBenedetto. Police nabbed DiBenedetto repeating his actions pinch different victim On June 28, detectives tracked him to different victim's location adjacent Parkway Boulevard. He allegedly removed his pants and engaged successful indecent intersexual activity while watching a female changing apparel done the window. Investigators detained him astatine the segment and took him into custody. \"Being watched aliases recorded without your knowledge is simply a profound penetration of privacy,\" said Tempe Police Chief Ken McCoy, per the official release. The constabulary main hailed the detectives and the consequence for their swift action. Meanwhile, DiBenedetto's neighbors were shocked upon learning the allegations. The accused has denied each charges and is presently held, pinch his bail group astatine $25,000.",
-      "url": "https://beritaja.com/arizona-attorney-accused-of-voyeurism-claims-acting-as-a-private-investigator-for-his-clients-undergoing-divorce-beritaja-429368.html",
-      "source": "Beritaja",
-      "image": "https://media.knewz.com/bdbyftnvpv/uploads/2026/07/03/Arizona-attorney-accused-of-voyeurism-claims-acting-as-a-private-investigator-for-his-clients-undergoing-divorce.jpg",
-      "publishedAt": "2026-07-03T07:53:57Z",
+      "title": "EBRSO: Baton Rouge man accused of video voyeurism arrested",
+      "description": "BATON ROUGE, La. (Louisiana First) -- A Baton Rouge man was arrested after being accused of recording a juvenile. The investigation led to Jose Cruz, 47, being charged with video voyeurism. The East Baton Rouge Sheriff's Office was contacted about this accusation on June 9. Deputies spoke with the victim, who said she learned that Cruz posted an explicit video of her on WhatsApp. The girl and her father stated that they left Cruz's home after staying there for around one month. The girl's father said he was friends with Cruz before the incident, EBRSO said. The girl told EBRSO that the video was recorded in Cruz's bathroom. An EBRSO deputy saw the video, which appeared to be shot from overhead. The 12-year-old girl was able to find and take a picture of a hole in the ceiling, according to the affidavit. A search warrant was obtained for Cruz's home. A search uncovered the hole in the ceiling, two holes in the bathroom wall which appeared to face the toilet and mirror, EBRSO said. Cruz was taken into custody and questioned at EBRSO headquarters. During the interview, Cruz said he was intoxicated when he climbed into the attic and filmed the girl showering. He also stated he thought the girl was 13 years old. Alleged drug dealer arrested after traffic stop, police chase in Baton Rouge The Baton Rouge man was arrested on June 28. Latest News Copyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.",
+      "url": "https://www.yahoo.com/news/us/articles/ebrso-baton-rouge-man-accused-022439764.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/62cc1c923e67839da00d2c0c7b7181dfda70bbf40ca9ce32813a2a3c61281b68/lightyear_networkapi/resizefill_w900_h506;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwvla_baton_rouge_articles_384%2Fb7c67b0ebcad6696e4bc12efa4f7cf2a",
+      "publishedAt": "2026-07-04T02:24:39Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 45,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Arizona Attorney Accused Of Voyeurism Claims Acting As A Private Investigator For His Clients Undergoing Divorce\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-03T13:58:22.686Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"EBRSO: Baton Rouge man accused of video voyeurism arrested\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Man charged with voyeurism after leisure centre changing room incident",
-      "description": "Police were called to the centre after reports of a man \"acting suspiciously\" A man has been charged following a police investigation into an incident in the changing rooms of a Lancaster leisure centre. Lancashire Police attended the Salt Ayre Sports Centre on Salt Ayre Lane at around 8.20 pm on Tuesday (June 30) following reports of a man 'acting suspiciously'. Officers attended the scene and arrested a suspect from Heysham. In an update issued today (July 3), the force confirmed that Paul Stonell, 44, of Roeburndale Crescent, Heysham, has now been charged with voyeurism, possession of a Class A drug, and possession of a Class B drug. He appeared before Lancaster Magistrates' Court on Thursday (July 2), where he was remanded in custody. His next court hearing is scheduled for July 22. Detectives said enquiries are ongoing. Anyone who witnessed the incident or has any information is urged to contact Lancashire Police on 101, quoting log 1526 of June 30.",
-      "url": "https://www.lancs.live/news/lancashire-news/man-charged-voyeurism-after-lancaster-34230887",
-      "source": "accrington",
-      "image": "https://i2-prod.lancs.live/article34230928.ece/ALTERNATES/s1200/0_salt-ayre.jpg",
-      "publishedAt": "2026-07-03T10:56:58Z",
+      "title": "Man charged with voyeurism after allegedly following woman into restroom",
+      "description": "EL PASO, Texas (KTSM) -- A 36-year-old man has been arrested and charged with voyeurism after he allegedly tried to follow a woman into a restroom at a convenience store in East El Paso County, the El Paso County Sheriff's Office said. A little after 9:30 a.m. on Monday, June 29, deputies with the Sheriff's Office responded to a report of a suspicious individual at a Circle K convenience store along the 12200 block of Eastlake Boulevard. During the investigation, deputies reviewed surveillance video showing an adult male lingering near the restrooms before following a female customer into the women's restroom moments after she entered. The victim reported she believed someone was attempting to watch or record her, the Sheriff's Office said. Investigators identified the suspect as 36-year-old Ivan Abraham Ponce. Based on the evidence gathered, detectives obtained an arrest warrant charging Ponce with voyeurism. Bond was set at $10,000. On Thursday, July 2, the El Paso County Sheriff's Office Fugitive Apprehension Unit located Ponce at the 7900 block of Gateway East, where he was taken into custody without incident. He was subsequently booked into the El Paso County Detention Facility.",
+      "url": "https://www.ktsm.com/news/man-charged-with-voyeurism-after-allegedly-following-woman-into-restroom/",
+      "source": "KTSM 9 News",
+      "image": "https://www.ktsm.com/wp-content/uploads/sites/38/2026/07/Ivan-Abraham-Ponce-for-web.jpg?strip=1&w=640",
+      "publishedAt": "2026-07-03T19:11:48Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 45,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged with voyeurism after leisure centre changing room incident\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-03T13:58:22.686Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged with voyeurism after allegedly following woman into restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Heysham man in court accused of voyeurism and possession of drugs",
-      "description": "A Heysham man who appeared at Lancaster Magistrates' Court charged with voyeurism and possession of Class A and Class B drugs has been remanded in custody. Paul Stonell, 44, of Roeburndale Crescent, will next appear in court on July 22. Police said they were called to Salt Ayre Sports Centre on Salt Ayre Lane in Lancaster at about 8.20pm on Tuesday, June 30 following a report that a man was acting suspiciously in the changing rooms. Officers attended and a man in his 40s from Heysham was arrested. He was interviewed and after consultation with the Crown Prosecution Service he was charged. Enquiries are ongoing and anyone with information should call police on 101 quoting log 1526 of June 30.",
-      "url": "https://www.lancasterguardian.co.uk/news/national/heysham-man-in-court-accused-of-voyeurism-and-possession-of-drugs-8776422",
-      "source": "Lancaster Guardian",
-      "image": "https://www.lancasterguardian.co.uk/webimg/b25lY21zOjZhNzY2YTM0LWI0MjEtNDEzOS1iMDhkLWMyNDc1OTdmMTY4NTplNjA5ZDg4YS01Nzg4LTQxMzYtYjQxZC05M2U3OWViZjgyNTg=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-07-03T10:42:39Z",
+      "title": "Police Say a Man Entered Backyards and Watched Women Inside Tempe Homes",
+      "description": "Tempe police are urging residents to secure their doors and windows, use motion-activated lighting, and report any suspicious activity promptly to prevent privacy breaches. A Tempe, Arizona, privacy case has become a homeowner security warning after police said a man entered backyards and watched or recorded women inside their homes. Michael Dibenedetto, 51, was arrested Sunday and charged with two counts of burglary and two counts of voyeurism, according to AZFamily. Tempe police said the investigation began June 18, when a woman reported seeing a man outside her bathroom window while she was showering. A backyard window can look shielded from the street, but an unlocked gate, dark side yard, or open alley can give someone a path close to the house. Motion lights, working locks, cameras, and window coverings give residents more warning before a privacy breach becomes a police call. Home Surveillance Helped Police Identify the Vehicle The woman gave investigators home surveillance video showing a suspect arriving in a blue-gray Rivian SUV, walking through an alley, climbing over a fence into her backyard, and leaving shortly afterward, according to police. AZFamily reported that additional video from the home allegedly showed the same SUV in the area two other times. Investigators linked the vehicle to Dibenedetto and used court-authorized records that placed him in the area during the reported incidents, police said. Detectives Say They Saw a Second Backyard Incident As the investigation continued, detectives began surveilling Dibenedetto. On June 28, police said detectives saw him enter another home's backyard near Parkway Boulevard. Investigators said he was looking into a room where a female victim was undressing. Officers arrested him without incident. FOX 10 Phoenix reported that a judge later set his bond at $25,000. Police Are Looking for More Possible Victims Tempe Police Chief Ken McCoy called being watched or recorded without knowledge \"a profound invasion of privacy,\" according to AZFamily. Police said detectives believe there may be more victims. Anyone with information is being asked to call Tempe Police at 480-350-8311. Anonymous tips can also be submitted through Silent Witness at 480-WITNESS or 480-TESTIGO for Spanish speakers. Backyard Windows Need Real Security Tempe police advised residents to secure doors and windows, use motion-activated lighting, and report suspicious activity promptly. Homeowners should save security-camera clips, vehicle descriptions, timestamps, alley or gate footage, and photos of damaged locks, screens, fences, or window areas. The charges in this case still have to move through court. Anyone who sees a person looking through a window, entering a fenced yard, or moving through an alley near homes should avoid confrontation, get to a safe place, and call police while details are still fresh. Want more articles like this one? Give us a follow on Yahoo",
+      "url": "https://www.yahoo.com/news/us/articles/police-man-entered-backyards-watched-221513230.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/4c6c612aa4902b9b1193ea7ce93ba3954cb30907e12d3a63f2bbef66a57c0fe2/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2F60cd96d28cef24720ddd956074b8768d",
+      "publishedAt": "2026-07-03T22:15:13Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Police Say a Man Entered Backyards and Watched Women Inside Tempe Homes\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room",
+      "description": "Kevin Pearsall, the accused, faces multiple felony and misdemeanor charges related to eavesdropping, secretly filming, and unlawful dissemination of private recordings, with a maximum sentence of 18 years and eight months if convicted on all counts. Three alleged victims are coming forward and suing after former California State Parks superintendent in Orange County was accused of secretly recording several men, including lifeguards, in a locker room. Attorney Gloria Allred announced that her office on Wednesday filed the lawsuit in Orange County Superior Court on behalf of the former and current employees of the California Department of Parks and Recreation. The lawsuit stems from allegations that 59-year-old Kevin Pearsall placed a hidden camera in the men's locker room at the Bolsa Chica headquarters during the summer of 2024. At least 23 victims -- all male adults -- have been identified in the case. A former California State Parks superintendent in Orange County has been released on bond after being accused of secretly recording lifeguards in a men's locker room, authorities said. The plaintiffs in the lawsuit are Richard Corey, Matthew Dawson and Nicholas Petkas. Only Corey and Dawson were present during a Thursday news conference alongside their attorney. Dawson described the moment he found out about the allegations. \"Our management sat us down for a meeting at work. They told us what Kevin did. It was like getting punched in the stomach. There were no words. I couldn't believe it. When I was naked, changing into uniform in the locker room, I remember Kevin directing me to the back area. I never thought anything of it. It just seemed eccentric and now I feel he was setting me up to undress on camera.\" The alleged victims weren't all lifeguards, but believe Pearsall betrayed their trust and failed his employees. They are also accusing the state parks department of administrative failures. \"They don't encourage us to be in uniform when we arrive. We look too much like police officers, so we have to change in there,\" said Richard Corey, a senior park aide. Allred says employers have a mandatory duty to take all reasonable steps necessary to prevent and promptly correct harassment and discrimination to ensure a workplace free of sexual harassment. Authorities said the investigation began in July of last year, when a sworn California State Parks officer discovered a USB device in the locker room. Prosecutors allege the hidden camera had been recording since August 2024, capturing footage of lifeguards while they were nude. On some occasions, Pearsall is accused of sharing those images with two other men. Now out on bail, Pearsall is charged with five felony counts of eavesdropping, 23 misdemeanor counts of secretly filming another, and three misdemeanor counts of unlawful dissemination of private recordings. He faces a maximum sentence of 18 years and eight months in the Orange County Jail if convicted on all counts. Pearsall had worked for the department since 1994, but retired shortly after the California Highway Patrol served search warrants related to the investigation. From 2023 through July of 2025, Pearsall served as a California State Parks Superintendent, which is a sworn law enforcement position overseeing the management and operations of state parks in the Orange Coast District, including Orange County, according to the DA's office. \"California State Parks takes these charges very seriously and has fully cooperated with law enforcement through every step of the investigation,\" read a statement from the agency. \"Upon being alerted to these serious criminal allegations, State Parks immediately contacted the California Highway Patrol (CHP) and requested an investigation. As this is an active criminal case, State Parks will not comment further at this time.\" Authorities said Pearsall turned himself in last week and is scheduled to appear in court in August. Eyewitness News has made multiple attempts to reach Pearsall for comment, but so far, we have not heard back. \"Instead of protecting his employees, Pearsall used his position to spy on the men who worked for him while they were in the place where they should have been the safest and then share those intimate images of his victims,\" said Orange County District Attorney Todd Spitzer. \"These victims had their privacy violated in such a disgusting way, and we will do everything we can to ensure they receive the justice they deserve.\"",
+      "url": "https://www.yahoo.com/news/us/articles/lawsuit-filed-ex-state-parks-183436351.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/9adf6c28760cb9b6b0d868dce320a3437fbab0cea8bb10184c3be4f5d83c7958/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fkabc_articles_995%2Fb48e28a38ea79ad968a74df77f97a17a",
+      "publishedAt": "2026-07-03T18:34:36Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -163,8 +184,52 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Heysham man in court accused of voyeurism and possession of drugs\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-03T13:58:22.686Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room",
+      "description": "ORANGE COUNTY, Calif. (KABC) -- Three alleged victims are coming forward and suing after former California State Parks superintendent in Orange County was accused of secretly recording several men, including lifeguards, in a locker room. Attorney Gloria Allred announced that her office on Wednesday filed the lawsuit in Orange County Superior Court on behalf of the former and current employees of the California Department of Parks and Recreation. The lawsuit stems from allegations that 59-year-old Kevin Pearsall placed a hidden camera in the men's locker room at the Bolsa Chica headquarters during the summer of 2024. At least 23 victims -- all male adults -- have been identified in the case. The plaintiffs in the lawsuit are Richard Corey, Matthew Dawson and Nicholas Petkas. Only Corey and Dawson were present during a Thursday news conference alongside their attorney. Dawson described the moment he found out about the allegations. \"Our management sat us down for a meeting at work. They told us what Kevin did. It was like getting punched in the stomach. There were no words. I couldn't believe it. When I was naked, changing into uniform in the locker room, I remember Kevin directing me to the back area. I never thought anything of it. It just seemed eccentric and now I feel he was setting me up to undress on camera.\" The alleged victims weren't all lifeguards, but believe Pearsall betrayed their trust and failed his employees. They are also accusing the state parks department of administrative failures. \"They don't encourage us to be in uniform when we arrive. We look too much like police officers, so we have to change in there,\" said Richard Corey, a senior park aide. Allred says employers have a mandatory duty to take all reasonable steps necessary to prevent and promptly correct harassment and discrimination to ensure a workplace free of sexual harassment. Authorities said the investigation began in July of last year, when a sworn California State Parks officer discovered a USB device in the locker room. Prosecutors allege the hidden camera had been recording since August 2024, capturing footage of lifeguards while they were nude. On some occasions, Pearsall is accused of sharing those images with two other men. Now out on bail, Pearsall is charged with five felony counts of eavesdropping, 23 misdemeanor counts of secretly filming another, and three misdemeanor counts of unlawful dissemination of private recordings. He faces a maximum sentence of 18 years and eight months in the Orange County Jail if convicted on all counts. Pearsall had worked for the department since 1994, but retired shortly after the California Highway Patrol served search warrants related to the investigation. From 2023 through July of 2025, Pearsall served as a California State Parks Superintendent, which is a sworn law enforcement position overseeing the management and operations of state parks in the Orange Coast District, including Orange County, according to the DA's office. \"California State Parks takes these charges very seriously and has fully cooperated with law enforcement through every step of the investigation,\" read a statement from the agency. \"Upon being alerted to these serious criminal allegations, State Parks immediately contacted the California Highway Patrol (CHP) and requested an investigation. As this is an active criminal case, State Parks will not comment further at this time.\" Authorities said Pearsall turned himself in last week and is scheduled to appear in court in August. Eyewitness News has made multiple attempts to reach Pearsall for comment, but so far, we have not heard back. \"Instead of protecting his employees, Pearsall used his position to spy on the men who worked for him while they were in the place where they should have been the safest and then share those intimate images of his victims,\" said Orange County District Attorney Todd Spitzer. \"These victims had their privacy violated in such a disgusting way, and we will do everything we can to ensure they receive the justice they deserve.\"",
+      "url": "https://abc7.com/post/lawsuit-filed-ex-state-parks-boss-accused-secretly-recording-orange-county-locker-room/19436798/",
+      "source": "ABC7",
+      "image": "https://cdn.abcotvs.com/dip/images/19442573_070326-kabc-oc-lifeguard-arrest-tn.jpg?w=1600",
+      "publishedAt": "2026-07-03T18:34:36Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room",
+      "description": "Three men are suing after a former California State Parks superintendent in Orange County was accused of secretly recording several men, including lifeguards, in a locker room.",
+      "url": "https://headtopics.com/news/lawsuit-filed-after-ex-state-parks-boss-accused-of-secretly-85201499",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/3/abc7/lawsuit-filed-after-ex-state-parks-boss-accused-of-lawsuit-filed-after-ex-state-parks-boss-accused-of-1B77B62EB64E22828C9A8ACA5AE9BBAB.webp",
+      "publishedAt": "2026-07-03 19:06:46",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lawsuit filed after ex-State Parks boss accused of secretly recording in OC locker room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-04T13:19:45.092Z"
     }
   ]
 }
