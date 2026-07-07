@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:27:01.026Z",
+  "updatedAt": "2026-07-07T14:28:02.967Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 1,
+    "published": 2,
     "pending": 1,
-    "rejected": 58,
+    "rejected": 62,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 1
     },
     {
       "id": "workplace-privacy",
@@ -74,29 +74,51 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"COMMENTARY: Sexual Abuse and Artificial Intelligence\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden cameras in hotel rooms: How real is the risk, and ways travellers can protect their privacy",
+      "description": "Imagine checking into your hotel room only to discover that someone may be secretly watching you! Scary thought, right? For any traveller, few situations are as terrifying as the possibility of a hidden camera. Let's agree that after checking into a hotel room, the first thing most travellers do is quickly connect to Wi-Fi, unpack luggage, or just head out to explore. However, in recent years, another ritual has become increasingly common, which should probably be the first. Give the room a quick privacy inspection for hidden cameras. Yes, do it as carefully as possible.Social media videos showing tiny spy cameras hidden inside clocks, smoke detectors, USB chargers, and alarm clocks have fuelled fresh anxiety among travellers worldwide. Though such incidents remain relatively rare compared to the millions of hotel stays that happen every day, hotel experts say the concern can't be neglected entirely. But the good news is that there are some simple, tried and tested checks that can significantly reduce the risk and offer peace of mind. Read onHow common are hidden cameras in hotel rooms Well there have been incidents in the past that left the hospitality industry shocked. South Korea (2019): In 2019, four men were arrested after secretly installing miniature cameras in 42 hotel rooms across 30 hotels in 10 cities. After investigations, cameras were found hidden in TV set-top boxes, hair-dryer holders and electrical outlets. There was livestreamed footage of around 1,600 guests to a paid website. The case was widely reported by international media.There have been other cases too. However, the hospitality industry maintains that hotels take guest privacy seriously. There is no evidence that hidden cameras are widespread in big legitimate hotels. However, isolated incidents involving rogue individuals, illegal surveillance devices, or vacation rentals have been reported across several countries over the years, making travellers more vigilant.What security experts saySecurity experts say that buying a miniature camera is not a big deal these days as these are inexpensive items, available easily online, and tiny enough to be hidden inside everyday objects. That's why it is important to conduct a quick room inspection, especially in unfamiliar accommodations.Most common places to hide cameras A hidden camera needs two things: A clear view Access to powerAnd that's the reason why such alien devices are often found in objects facing the bed, bathroom, or changing area. Some common hiding places travellers must check for:Smoke detectorsAlarm clocksUSB charging adaptersWall clocksTV unitsPicture framesAir freshenersLampsDigital set-top boxesBathroom ventsCheck for wall gaps, holesWays travellers can check their hotel room1) Visual inspection: Spend some time and look around the room carefully. If you see an electronic device which is oddly positioned or looks damaged, check it carefully.2) Check the room using your phone's flashlight: This is one of the tried and tested ways of finding a hidden camera. Switch off the room lights and slowly scan suspicious objects using your smartphone flashlight. 3) Check for infrared lights (IR): Many night-vision cameras use infrared LEDs. These may appear as faint white or purple dots through some smartphone cameras. Open your phone camera, dim the room lights, and slowly scan electronics.4) Mirror test: If a mirror seems unusually thick or oddly positioned, do check what's behind it. Turn off lights and shine a flashlight on mirrors to check for two-way mirrors5) Check chargers, adapters and smoke detectors: USB charging blocks and multi-port adapters are among the easiest places to hide cameras. Examine any plug-in device you did not bring yourself. A genuine smoke detector usually faces downward and has ventilation openings. If you notice an extra lens-like opening or one aimed directly at the bed, report it.Report, don't removeIf you suspect or find something suspicious, don't try removing it. Take photographs, and video. Leave the room if needed and contact local police.Should travellers be worried? Experts say travellers shouldn't let fear ruin their holidays. Hidden-camera incidents receive widespread attention because they are unusual. But a five-minute quick inspection ritual of the hotel room is a practical precaution, much like checking that the door locks properly or locating emergency exits. After all, travel should leave you with great memories, not concerns about your privacy.Sources: Korean National Police Agency, U.S. Department of State, CBS News, and SafeHome.org.",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/hidden-cameras-in-hotel-rooms-how-real-is-the-risk-and-ways-travellers-can-protect-their-privacy/articleshow/132233275.cms",
+      "source": "The Times of India",
+      "image": "https://static.toiimg.com/thumb/msid-132233404,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-07T07:22:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 80,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Hidden cameras in hotel rooms: How real is the risk, and ways travellers can protect their privacy\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Smart glasses, social media content and the law's growing blind spot",
-      "description": "The rapid rise of AI-powered smart glasses is creating new legal and regulatory questions in India, particularly around privacy, surveillance, broadcasting rights and data protection. According to a recent Bar & Bench article, institutions ranging from sports bodies to private businesses are increasingly being forced to decide how these devices should be treated under existing laws. The debate took a turn when the Board of Control for Cricket in India's (BCCI) Anti-Corruption and Security Unit reportedly banned the use of smart glasses, including Ray-Ban Meta and Oakley smart glasses, in player and match-official areas during the IPL. The BCCI labelled these products as communication and audio-video recording devices rather than normal eyewear, as per reports. The worry is about the capabilities that are built into the devices. Smart glasses can record video, capture audio, transmit information and connect to the internet, all while looking almost indistinguishable from regular sunglasses. These features can pose serious operational and security challenges in environments with stringent anti-corruption protocols and commercially valuable broadcasting agreements. As tech companies push smart glasses further into the mainstream, the debate will likely intensify. Meta introduced a new line of AI-powered glasses in June 2026, including the limited edition Meta Glasses by Kylie Jenner, aka the Starfire Kylie Edition. The glasses have a built-in camera, open-ear speakers, voice-controlled AI and a version of Meta AI voiced by Jenner herself. Meta has billed the product as a groundbreaking wearable for hands-free photography, video recording and AI assistance. The launch has sparked fresh online debate about the privacy implications of increasingly unobtrusive recording devices. Digital-rights advocates and technology watchers have cautioned that celebrity-endorsed products could accelerate adoption of wearables that constantly record video from a user's perspective, blurring the distinction between everyday accessories and surveillance tools. The article says the central legal issue is one of classification. Eyewear marketed as such may also serve as a communication device, a recording tool and an AI assistant. 2(1)(ha) of the Information Technology Act, 2000, defines 'communication devices' to mean 'apparatus used for transmission of text, audio or images'. Since smart glasses can provide these functions over connected networks, they may be subject to the same regulatory regimes that have traditionally applied to phones and other electronic communications devices. The emergence of wearable cameras has also added further privacy concerns. The article notes that \"street interviews, travel vlogs, food walks and social-media reels have normalised the recording of public spaces.\" Smart glasses allow users to record continuously without visibly holding a camera or smartphone, making such recording even less visible. In the present context, the article refers to the landmark judgement of the Supreme Court in Justice K.S. Puttaswamy v. Union of India, where the right to privacy was declared a fundamental right. The column says that people in public places can reasonably expect to be seen by others, but this does not automatically mean they consent to having their images, conversations or movements through digital platforms recorded, stored or monetised. The law is clearer where privacy expectations are more elevated. The article points out that recording restrictions have existed for a long time in places like trial rooms, locker rooms, hospital examination rooms, spas and restrooms. It refers to the provisions on voyeurism under the Bharatiya Nyaya Sanhita as existing legal safeguards that could apply whether recording is done through a smartphone, hidden camera or smart glasses. The column also addresses the implications of the Digital Personal Data Protection Act, 2023 (DPDP Act). Smart glasses footage could be classified as digital personal data, since wearable cameras can take identifiable images of individuals. But the law contains exceptions for activities undertaken for personal or domestic purposes. \"The exception would normally be for a person recording a personal holiday or family get-together,\" the article says. Questions arise when such recordings are uploaded to monetised social media accounts, to influencer channels or to commercial content platforms. As the article notes, the DPDP Act does not clearly define what constitutes commercial data processing in the case of personal recording, which means there is a lot of space for future interpretation by regulators and courts. It also highlights that the legislation was written with websites, apps and digital platforms in mind and does not specifically address AI-powered wearable cameras that continuously capture visual data. The limits on smart glasses don't need to be imposed by government regulation. Corporate offices, clubs, restaurants, educational institutions and wellness centres and private entities can set their own restrictions on recording-capable devices. The old \"No Photography\" policy might change to include smart eyewear, AI glasses, and other wearable recording technologies. With the increasing prevalence of wearable AI devices, the legal questions with respect to privacy, consent, confidentiality and data collection are likely to arise in an increasing number of settings. New releases like Meta's Kylie Jenner smart glasses are proof of how quickly the tech is moving from niche gadget to fashion statement. At the same time, regulators, courts and businesses are still figuring out how existing privacy and data-protection frameworks apply to devices that can seamlessly record, process and share information from a wearer's perspective.",
-      "url": "https://www.storyboard18.com/brand-marketing/smart-glasses-social-media-content-and-the-laws-growing-blind-spot-103268.htm",
-      "source": "storyboard18.com",
-      "image": "https://images.storyboard18.com/storyboard18/2026/05/Vis-2026-05-20T105917.031-2026-05-8838362ad09ae744511d12953d9baf5d-1019x573.png",
-      "publishedAt": "2026-07-06T03:53:18Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "title": "Man who placed cameras in Ocean City, NJ bathrooms gets jail time",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A Philadelphia man who pleaded guilty to placing hidden cameras in public bathrooms along the Ocean City Boardwalk was sentenced on Monday. Harold Perkins learned he will have to spend a year in jail. He will also have to serve five years of probation. Prosecutors said Perkins placed six hidden cameras in public bathrooms along the Ocean City boardwalk last year. The devices captured footage of multiple victims - including children - using the restrooms, investigators said. Hidden camera disguised as pen found in bathrooms on Ocean City boardwalk The cameras were found in bathrooms on 6th, 10th and 11th streets. Authorities said Perkins was arrested on June 20, 2025, after investigators used license plate reader technology to identify and locate him. He pleaded guilty to two counts of invasion of privacy back in May.",
+      "url": "https://www.yahoo.com/news/us/articles/man-placed-cameras-ocean-city-214223469.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/418a6a0381113311b5ecdb734881b97b84e56e0dc7520309efd9aea4b5d85e66/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwpvi_articles_441%2Fbbb8a047086e47b4e8e46c8748843ba1",
+      "publishedAt": "2026-07-06T21:42:23Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Smart glasses, social media content and the law's growing blind spot\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-06T15:27:01.026Z"
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Man who placed cameras in Ocean City, NJ bathrooms gets jail time\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-07T14:28:02.967Z"
     }
   ]
 }
