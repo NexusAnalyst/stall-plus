@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T14:28:02.967Z",
+  "updatedAt": "2026-07-08T13:58:50.472Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 1,
-    "rejected": 62,
-    "carriedForward": 1
+    "pending": 4,
+    "rejected": 63,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -101,24 +101,90 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Man who placed cameras in Ocean City, NJ bathrooms gets jail time",
-      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A Philadelphia man who pleaded guilty to placing hidden cameras in public bathrooms along the Ocean City Boardwalk was sentenced on Monday. Harold Perkins learned he will have to spend a year in jail. He will also have to serve five years of probation. Prosecutors said Perkins placed six hidden cameras in public bathrooms along the Ocean City boardwalk last year. The devices captured footage of multiple victims - including children - using the restrooms, investigators said. Hidden camera disguised as pen found in bathrooms on Ocean City boardwalk The cameras were found in bathrooms on 6th, 10th and 11th streets. Authorities said Perkins was arrested on June 20, 2025, after investigators used license plate reader technology to identify and locate him. He pleaded guilty to two counts of invasion of privacy back in May.",
-      "url": "https://www.yahoo.com/news/us/articles/man-placed-cameras-ocean-city-214223469.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/418a6a0381113311b5ecdb734881b97b84e56e0dc7520309efd9aea4b5d85e66/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwpvi_articles_441%2Fbbb8a047086e47b4e8e46c8748843ba1",
-      "publishedAt": "2026-07-06T21:42:23Z",
+      "title": "Winneshiek County man charged after hiding camera in bathroom",
+      "description": "OSSIAN, Iowa -- A 41-year-old Ossian man is in jail after authorities say he hid a camera in a bathroom ceiling and recorded a juvenile showering. In June, the Winneshiek County Sheriff's Office received a report of a hidden camera in a bathroom at a home on County Road B32 in Ossian. A juvenile reported seeing the camera while in the shower, and deputies immediately started an investigation. On June 20, deputies completed a search warrant at the home and were directed to the hidden camera positioned pointing downward from the bathroom ceiling. Weston Recio admitted to placing the camera in the bathroom. An arrest warrant was obtained on July 6. Recio turned himself in to the Winneshiek County Sheriff's Office on July 7. Recio was booked into the Winneshiek County Jail on two counts of invasion of privacy.",
+      "url": "https://www.kimt.com/news/winneshiek-county-man-charged-after-hiding-camera-in-bathroom/article_9bcc181b-5e42-45ce-9357-d22dcb3a91ce.html",
+      "source": "KIMT-TV 3 Mason City",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/7/db/7dbdb06f-4f4a-4b15-a3fc-1d55c614ab71/6a4d6482e8f8c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-07-07T20:36:00Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 65,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (3 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Man who placed cameras in Ocean City, NJ bathrooms gets jail time\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-07T14:28:02.967Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Winneshiek County man charged after hiding camera in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-08T13:58:50.472Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Winneshiek County man charged after allegedly placing hidden camera in shower",
+      "description": "A Winneshiek County man is facing charges after allegedly placing a hidden camera in a shower that was found by a juvenile.",
+      "url": "https://www.kcrg.com/2026/07/07/winneshiek-county-man-charged-after-allegedly-placing-hidden-camera-shower/",
+      "source": "Https://www.kcrg.com",
+      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/AUPVODUE6BAC3IJPJF52VQ33DI.jpg?auth=60592dad972e7ade15dac9e1b0c6fe877432f60fb3f32cbb95a4c53ebf0e5a8b&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-07 20:39:44",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Winneshiek County man charged after allegedly placing hidden camera in shower\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-08T13:58:50.472Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Winneshiek County man charged after allegedly placing hidden camera in shower",
+      "description": "A Winneshiek County man is facing charges after allegedly placing a hidden camera in a shower that was found by a juvenile.",
+      "url": "https://www.kyoutv.com/2026/07/07/winneshiek-county-man-charged-after-allegedly-placing-hidden-camera-shower/",
+      "source": "Https://www.kyoutv.com",
+      "image": "https://gray-kyou-prod.gtv-cdn.com/resizer/v2/AUPVODUE6BAC3IJPJF52VQ33DI.jpg?auth=60592dad972e7ade15dac9e1b0c6fe877432f60fb3f32cbb95a4c53ebf0e5a8b&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-07 20:39:44",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Winneshiek County man charged after allegedly placing hidden camera in shower\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-08T13:58:50.472Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "ADFA cadet facing 79 extra charges after hidden camera found in bathroom",
+      "description": "Police allege Tain Stephens was living at the Australian Defence Force Academy in Canberra when he hid a camera inside a soap dispenser in a female bathroom to capture intimate recordings of women.",
+      "url": "https://www.abc.net.au/news/2026-07-07/adfa-cadet-facing-further-charges-alleged-hidden-camera-bathroom/106888200",
+      "source": "ABC News (AU)",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ed190ff8cccaa176eb8b0585ad334478?impolicy=wcms_watermark_news&cropH=1701&cropW=3024&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-07-07T01:56:07Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"ADFA cadet facing 79 extra charges after hidden camera found in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-08T13:58:50.472Z"
     }
   ]
 }
