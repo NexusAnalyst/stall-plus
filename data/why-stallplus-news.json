@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T13:58:50.472Z",
+  "updatedAt": "2026-07-09T14:53:43.883Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 4,
-    "rejected": 63,
+    "pending": 7,
+    "rejected": 62,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -101,15 +101,58 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Winneshiek County man charged after hiding camera in bathroom",
-      "description": "OSSIAN, Iowa -- A 41-year-old Ossian man is in jail after authorities say he hid a camera in a bathroom ceiling and recorded a juvenile showering. In June, the Winneshiek County Sheriff's Office received a report of a hidden camera in a bathroom at a home on County Road B32 in Ossian. A juvenile reported seeing the camera while in the shower, and deputies immediately started an investigation. On June 20, deputies completed a search warrant at the home and were directed to the hidden camera positioned pointing downward from the bathroom ceiling. Weston Recio admitted to placing the camera in the bathroom. An arrest warrant was obtained on July 6. Recio turned himself in to the Winneshiek County Sheriff's Office on July 7. Recio was booked into the Winneshiek County Jail on two counts of invasion of privacy.",
-      "url": "https://www.kimt.com/news/winneshiek-county-man-charged-after-hiding-camera-in-bathroom/article_9bcc181b-5e42-45ce-9357-d22dcb3a91ce.html",
-      "source": "KIMT-TV 3 Mason City",
-      "image": "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/7/db/7dbdb06f-4f4a-4b15-a3fc-1d55c614ab71/6a4d6482e8f8c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-07-07T20:36:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "title": "Man recorded women inside Miami Dade College bathrooms, MDSO says. Woman injured",
+      "description": "A man was accused of recording two women in separate incidents while they were using restrooms on Tuesday at the Miami Dade College North Campus, according to the sheriff's office. While a woman was using a bathroom, she spotted a man recording her from a neighboring stall, the Miami-Dade Sheriff's Office said in an arrest affidavit. She quickly left the bathroom and reported the voyeurism incident to Miami Dade College Public Safety officers. As authorities were searching for the man, they found a \"hysterical\" student, the affidavit said. She was shouting and pointing in the direction of a man, who was running from her. She told authorities that she saw a black cellphone recording her from underneath the stall while she was urinating in a different women's restroom, the affidavit said. She confronted him and demanded he delete the video. The man pushed her, and she fell onto the toilet seat, causing a possible fracture to her left knee, the affidavit said. Once she regained her composure, she chased the man out of the restroom and through a breezeway. A good Samaritan joined the chase and detained Rishard Trivell Parsons, 31, of Miami, along with officers. Parsons was taken to the Miami-Dade Sheriff's Office Special Victims' Bureau for an interview, the affidavit said. He allegedly admitted to committing acts of voyeurism against both women. The women, who were not identified, are 28 and 60 years old. Parsons was arrested on one count of felony battery and two counts of misdemeanor voyeurism. He was being held Wednesday with \"bond to be set\" at Miami-Dade's Turner Guilford Knight Correctional Center, jail records show. He didn't have a defense attorney listed yet. He was convicted in connection with a 2024 voyeurism incident in Miami-Dade, court records show. Parsons was also previously convicted of burglary and aggravated battery. Anyone with information, or anyone who believes they might have been a victim, is asked to contact the Miami-Dade Sheriff's Office. Individuals may provide information anonymously by contacting Miami-Dade Crime Stoppers at 305-471-8477. A spokesperson for Miami Dade College had yet to respond Wednesday to a request for comments.",
+      "url": "https://www.miamiherald.com/news/local/crime/article316431018.html",
+      "source": "Miami Herald",
+      "image": "https://www.miamiherald.com/public/latest-news/jllg41/picture305417231/alternates/LANDSCAPE_1200/handcuffs_approved.jpg",
+      "publishedAt": "2026-07-08T19:53:46Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Man recorded women inside Miami Dade College bathrooms, MDSO says. Woman injured\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man arrested in Miami Dade College women's restroom voyeurism, 2 years after similar arrest",
+      "description": "A man has been arrested for allegedly filming people in a women’s restroom at Miami Dade College’s North Campus, more than two years after he was...",
+      "url": "https://www.nbcmiami.com/news/local/man-arrested-in-miami-dade-college-womens-restroom-voyeurism-2-years-after-similar-arrest/3831106/",
+      "source": "Nbc 6 South Florida",
+      "image": "https://media.nbcmiami.com/2026/07/070826-Miami-Dade-College-North-Campus.png?resize=1200%2C675&quality=85&strip=all",
+      "publishedAt": "2026-07-08 18:08:42",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man arrested in Miami Dade College women's restroom voyeurism, 2 years after similar arrest\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Florida Police Captain Arrested After Victim Catches Him Filming Her In Shower - Tampa Free Press",
+      "description": "A high-ranking South Florida police officer faces criminal charges after a woman discovered a recording device hidden beneath a bathroom door while she was showering. North Miami Beach Police Captain Jose Maya was arrested and appeared in court on Wednesday morning to face one count of video voyeurism. According to arrest documents, the victim was in the shower when she spotted a small, black object peeking out from under the bathroom door. She initially believed it was an insect, but when she opened the door, she discovered Maya lying flat on the floor on the other side. This was not the first suspicious encounter, according to investigators. The victim told police that roughly one year ago, she opened the same bathroom door and caught Maya on the ground, frantically scrambling to stand up. Though she found the behavior strange at the time, she did not report it. The situation escalated two weeks ago when the victim decided to set up a hidden camera to monitor the area. Police records indicate that the camera captured footage of Maya placing a recording device under the bathroom door. Armed with the video evidence, the woman went to law enforcement on Monday to file a formal report. Following the arrest, North Miami Beach Police Chief Juan Pinillos announced that Maya has been suspended from his position. The department is launching an internal administrative probe alongside the criminal case. \"I am deeply disappointed by the arrest of one of our police captains,\" Chief Pinillos said in a statement posted to Facebook. \"These allegations are deeply concerning and represent a serious breach of the public's trust.\" Pinillos noted that his department is fully cooperating with the Miami-Dade Sheriff's Office, which is handling the criminal investigation. He stated that the agency will take \"appropriate administrative action\" based on the final findings and Florida state law. \"We remain committed to transparency, accountability and holding every member of this department, regardless of rank, to the highest professional standards,\" Pinillos said. Maya's defense attorney, Eric T. Schwartzreich, released a statement reminding the public that criminal charges are not a final conviction. \"An arrest is merely an allegation, not a definitive judgment of guilt,\" Schwartzreich said. \"We are committed to thoroughly reviewing all the evidence, challenging the allegations through the judicial process, and vigorously defending our client in court.\" Schwartzreich emphasized that Maya, like any citizen accused of a crime, is presumed innocent \"until and unless the state presents evidence beyond a reasonable doubt in a court of law.\" Court records show that a judge set Maya's bond at $7,500. READ: Florida Funds Anti-Abortion Call Centers While Local Clinics Vanish Please make a small donation to the Tampa Free Press to help sustain independent journalism. Your contribution enables us to continue delivering high-quality, local, and national news coverage. Sign up: Subscribe to our free newsletter for a curated selection of top stories delivered straight to your inbox.",
+      "url": "https://www.tampafp.com/florida-police-captain-arrested-after-victim-catches-him-filming-her-in-shower/",
+      "source": "The Free Press - Tampa",
+      "image": "https://www.tampafp.com/wp-content/uploads/2026/07/Capt.-Jose-Maya-.jpeg",
+      "publishedAt": "2026-07-09T14:23:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
       "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -117,52 +160,71 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Winneshiek County man charged after hiding camera in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-08T13:58:50.472Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Florida Police Captain Arrested After Victim Catches Him Filming Her In Shower - Tampa Free Press\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man arrested at Miami-Dade College North Campus for recording women in restrooms, deputies say",
+      "description": "Ana Maria Soler is a digital content producer for CBS Miami and the South region. A man was arrested Tuesday night after two incidents of voyeurism at Miami-Dade College's North Campus, the Sheriff's Office said. According to MDSO Sexual Crimes Unit investigators, two adult women reported separately that the man, identified by deputies as 31-year-old Rishard Trivell Parsons, recorded them while they were using the women's restrooms on campus. The women were only identified as a 28-year-old Black woman and a 60-year-old white woman by deputies. Investigators also say that when the 60-year-old woman confronted Parsons, he pushed her, which caused her to fall and sustain a possible knee injury. He then fled the scene, with one of the women chasing after him and screaming for help. With assistance of the Miami-Dade College Public Safety staff and a Good Samaritan, Parsons was detained at approximately 10:03 p.m. until MDSO deputies arrived on the scene. Miami-Dade College issued a statement regarding Parson's arrest, confirming that he was not a student or employee of the school, that reads: The safety and security of our campus community remain our highest priority. Miami Dade College has zero tolerance for conduct that threatens the safety, privacy, or well-being of our students, employees, and visitors. We are committed to maintaining a safe, respectful, and supportive environment for everyone. Upon learning of reports involving inappropriate conduct by an individual who is not affiliated with the College at one of our campuses, the College immediately contacted law enforcement. Those efforts led to the prompt identification and arrest of the individual. Parsons was taken to Turner Guilford Knight Correctional Center (TGK), where he faces charges of felony battery and two counts of voyeurism. He appeared in bond court, where he was ordered to stay away from the victims and the campus. His bond was set at $21,500, with house arrest on a GPS monitor.",
+      "url": "https://www.cbsnews.com/miami/news/miami-dade-college-north-campus-voyeurism-incidents-july-2026/",
+      "source": "CBS News",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/08/ec65d943-b039-41b1-816a-7e93b76c89eb/thumbnail/1200x630/f2c3c34b55adbf2a7ffd74f612f963ea/gettyimages-2168275394.jpg",
+      "publishedAt": "2026-07-08T21:43:06Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man arrested at Miami-Dade College North Campus for recording women in restrooms, deputies say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man arrested at Miami-Dade College North Campus for recording women in restrooms, deputies say",
+      "description": "Ana Maria Soler is a digital content producer for CBS Miami and the South region. A man was arrested Tuesday night after two incidents of voyeurism at Miami-Dade College's North Campus, the Sheriff's Office said. According to MDSO Sexual Crimes Unit investigators, two adult women reported separately that the man, identified by deputies as 31-year-old Rishard Trivell Parsons, recorded them while they were using the women's restrooms on campus. The women were only identified as a 28-year-old Black woman and a 60-year-old white woman by deputies. Investigators also say that when the 60-year-old woman confronted Parsons, he pushed her, which caused her to fall and sustain a possible knee injury. He then fled the scene, with one of the women chasing after him and screaming for help. With assistance of the Miami-Dade College Public Safety staff and a Good Samaritan, Parsons was detained at approximately 10:03 p.m. until MDSO deputies arrived on the scene. Miami-Dade College issued a statement regarding Parson's arrest, confirming that he was not a student or employee of the school, that reads: The safety and security of our campus community remain our highest priority. Miami Dade College has zero tolerance for conduct that threatens the safety, privacy, or well-being of our students, employees, and visitors. We are committed to maintaining a safe, respectful, and supportive environment for everyone. Upon learning of reports involving inappropriate conduct by an individual who is not affiliated with the College at one of our campuses, the College immediately contacted law enforcement. Those efforts led to the prompt identification and arrest of the individual. Parsons was taken to Turner Guilford Knight Correctional Center (TGK), where he faces charges of felony battery and two counts of voyeurism. He appeared in bond court, where he was ordered to stay away from the victims and the campus. His bond was set at $21,500, with house arrest on a GPS monitor.",
+      "url": "https://www.cbsnews.com/miami/news/man-arrested-at-miami-dade-college-north-campus-for-recording-women-in-restrooms-deputies-say/",
+      "source": "CBS News",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/08/ec65d943-b039-41b1-816a-7e93b76c89eb/thumbnail/1200x630/f2c3c34b55adbf2a7ffd74f612f963ea/gettyimages-2168275394.jpg",
+      "publishedAt": "2026-07-08T21:39:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man arrested at Miami-Dade College North Campus for recording women in restrooms, deputies say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
     },
     {
       "provider": "NewsData.io",
-      "title": "Winneshiek County man charged after allegedly placing hidden camera in shower",
-      "description": "A Winneshiek County man is facing charges after allegedly placing a hidden camera in a shower that was found by a juvenile.",
-      "url": "https://www.kcrg.com/2026/07/07/winneshiek-county-man-charged-after-allegedly-placing-hidden-camera-shower/",
-      "source": "Https://www.kcrg.com",
-      "image": "https://gray-kcrg-prod.gtv-cdn.com/resizer/v2/AUPVODUE6BAC3IJPJF52VQ33DI.jpg?auth=60592dad972e7ade15dac9e1b0c6fe877432f60fb3f32cbb95a4c53ebf0e5a8b&width=1200&height=600&smart=true",
-      "publishedAt": "2026-07-07 20:39:44",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
+      "title": "Bathroom Creeper Busted At Miami Dade College After Women Spot Secret Phone",
+      "description": "Rishard Trivell Parsons, 31, faces voyeurism and battery counts after students say he filmed women in restrooms at Miami Dade College's North Campus.",
+      "url": "https://hoodline.com/2026/07/bathroom-creeper-busted-at-miami-dade-college-after-women-spot-secret-phone/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/7/bathroom-creeper-busted-at-miami-dade-college-after-women-spot-secret-phone-2.webp",
+      "publishedAt": "2026-07-08 19:59:03",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Winneshiek County man charged after allegedly placing hidden camera in shower\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-08T13:58:50.472Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Winneshiek County man charged after allegedly placing hidden camera in shower",
-      "description": "A Winneshiek County man is facing charges after allegedly placing a hidden camera in a shower that was found by a juvenile.",
-      "url": "https://www.kyoutv.com/2026/07/07/winneshiek-county-man-charged-after-allegedly-placing-hidden-camera-shower/",
-      "source": "Https://www.kyoutv.com",
-      "image": "https://gray-kyou-prod.gtv-cdn.com/resizer/v2/AUPVODUE6BAC3IJPJF52VQ33DI.jpg?auth=60592dad972e7ade15dac9e1b0c6fe877432f60fb3f32cbb95a4c53ebf0e5a8b&width=1200&height=600&smart=true",
-      "publishedAt": "2026-07-07 20:39:44",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Winneshiek County man charged after allegedly placing hidden camera in shower\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-08T13:58:50.472Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Bathroom Creeper Busted At Miami Dade College After Women Spot Secret Phone\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -184,7 +246,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"ADFA cadet facing 79 extra charges after hidden camera found in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-08T13:58:50.472Z"
+      "flaggedAt": "2026-07-09T14:53:43.883Z"
     }
   ]
 }
