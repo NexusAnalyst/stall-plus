@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:13:33.331Z",
+  "updatedAt": "2026-07-12T13:14:41.958Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 3,
-    "rejected": 65,
-    "carriedForward": 2
+    "published": 1,
+    "pending": 8,
+    "rejected": 60,
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 0
     },
     {
       "id": "dorm-privacy",
@@ -56,27 +56,6 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "COMMENTARY: Sexual Abuse and Artificial Intelligence",
-      "description": "The Nature of Sexual Harassment Sexual harassment is not gender specific. Historically, the discourse surrounding sexual harassment has been skewed towards women as victims and men as harassers. However, both the victim and the harasser can be either a woman or a man, and they can also be of the same sex. Many employees suffer in silence in a toxic workplace culture where the employer's views are routinely elevated over the employees'. This unchallenged hierarchical power dynamic is the foundation of a culture of sexual harassment in many workplaces. The fear of losing one's job is real. Additionally, in many workplaces, the absence of trade unions and uneven power relations creates a dual vulnerability to sexual harassment. Men who are victims of sexual harassment face the daunting challenge of deciding whether to make a formal report or risk having their sexual identity questioned. As a result of the homophobic culture in Jamaican society, many men who are sexually harassed endure the assault in solitude and silence. Silence regarding sexual harassment must be challenged not only within specific workplaces but as a broader societal issue. The workplace should be a safe environment where one's physical and mental health is taken seriously and protected. Any breach thereof is problematic and must be addressed upon receipt of a report. Artificial Intelligence Amplifying Sexual Abuse Artificial intelligence (AI) is increasingly intersecting with sexual abuse through the rise of AI -generated sexual abuse materials. One global survey found that 38 percent of women have personal experiences of online violence, and 85 percent of women online have witnessed digital violence against others. (https://onlineviolencewomen.eiu.com/). AI-facilitated violence against women refers to acts of digital abuse generated and spread by AI technology, resulting in physical, sexual, psychological, social, political, or economic harm, or other infringements of women's rights and freedoms. AI enables the creation of interactive deepfakes impersonating humans and beginning online conversations with women and girls who don't know they're interacting with a bot. The practice of \"catfishing\" has become more pronounced as AI bots adapt to simulate human conversations, luring women and girls into revealing private information or meeting up offline. Deepfakes are digitally altered images, audio, or videos created using AI that appear as though someone has said or done something they never actually did. While the technology can be used for entertainment or creative purposes, deepfakes are increasingly misused as a form of digital abuse - for example, to create non-consensual sexual images, spread disinformation, or damage a person's reputation. Sexual Harassment Legislation in the Caribbean By 1997, several English-speaking CARICOM countries had enacted sexual harassment legislation. The framers of the Treaty of Chaguaramas, which established the Caribbean Community (CARICOM), were mindful of the status of women in the Caribbean. Notably, one of the areas of functional co-operation listed in the Schedule to the Treaty is \"The Position of Women in Caribbean Society.\" Key legislative milestones across the region include: * Belize: Among the first to enact a Sexual Harassment Act, passed in August 1996. * Guyana: Protects against sexual harassment under the Prevention of Discrimination Act (1997). * Barbados: The Employment Sexual Harassment (Prevention) Act, 2017 came into operation on December 15, 2017. * Trinidad and Tobago: Addresses sexual harassment primarily through its Equal Opportunity Act, with a National Workplace Policy on Sexual Harassment developed in 2019. Jamaica's Sexual Harassment (Protection and Prevention) Act, 2021 The Sexual Harassment (Protection and Prevention) Act, 2021, which took effect on July 3, 2023, provides legal protection against unwelcome sexual conduct in Jamaica. It applies to workplaces, educational institutions, landlord-tenant relationships, and other environments, enabling victims to seek redress through an internal complaints process or a dedicated Sexual Harassment Tribunal (SHT). Sexual harassment is defined as unwelcome sexual advances, requests for sexual favours, or offensive conduct of a sexual nature that causes humiliation or creates a hostile environment. Employers are mandated to create and enforce a written sexual harassment policy and establish a complaint mechanism. Offenders found guilty by the Sexual Harassment Tribunal (SHT) can face fines of up to $1 million Jamaican dollars, imprisonment, or both, depending on the nature of the violation. Policy Compliance and Monitoring Monitoring has long been a challenge to Jamaica's development. What percentages of workplaces are compliant with the requirement to have a sexual harassment policy in place? While larger companies are more likely to be compliant given that they tend to have human resources and legal departments what about the small company that employs only two to five individuals? Victims of sexual harassment have several avenues for recourse: * If the harassment occurred at work, inform the Human Resources Manager. If it is not adequately addressed, report the incident to the police or the field officer attached to the Bureau of Gender Affairs. A complaint can also be made directly to the Tribunal once it has been established. * If the harassment occurs outside the workplace, report the matter to the police, who will advise on legal steps, including contacting the Tribunal. * Seek counseling. The Victim Services Unit at the Ministry of Justice currently provides free online and in-person counseling sessions for any victims of a crime, including sexual harassment. Forms of Sexual Harassment It is important to acknowledge that sexual harassment is not only physical. It has many manifestations: Verbal Harassment: Unwelcome comments on appearance or physical attributes, private or personal life, sexually suggestive or explicit jokes, and insults or 'put-downs' based on a person's sex. Harassers often hide behind the claim that their comments are \"compliments,\" but this does not make the behaviour acceptable. Intimidation or Bullying: Non-sexual behaviour used to facilitate sexual harassment. Any act of intimidation intended to prevent someone from reporting sexually harassing behaviour, or to punish someone for having reported it, constitutes a form of sexual harassment. Voyeurism (\"Peeping Tom\"): Watching, taping, recording, or photographing a person without their knowledge in a space where they have a reasonable expectation of privacy such as their home, a public bathroom, or a changing room. Non-Verbal/Gestures: Sexually suggestive gestures such as winks, licking of lips, or gestures with hands, fingers, and legs. Main Principles Guiding Jamaica's Sexual Harassment Act One of the main principles underpinning the Sexual Harassment Act is the Human Rights-Based Approach (HRBA) a conceptual framework for human development that is normatively grounded in international human rights standards and operationally directed towards promoting and protecting human rights. It seeks to analyze the inequalities at the heart of development problems and to address discriminatory practices and unjust distributions of power that impede progress and often leave groups of people behind (United Nations). In relation to the status of women and the girl-child, the most relevant instruments are the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), adopted on 18 December 1979, and the Convention on the Rights of the Child (CRC), adopted on 20 November 1989. Gender Equality Another foundational principle is gender equality. Gender equality was enshrined in international human rights law by the Universal Declaration of Human Rights, adopted by the UN General Assembly on 10 December 1948. That landmark document recognized that \"All human beings are born free and equal in dignity and rights\" and that \"everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, ... birth or other status.\" Gender equality is not an isolated goal; it is fundamental to achieving all seventeen United Nations Sustainable Development Goals. Decent Work The principle of decent work is also central to an analysis of the Sexual Harassment Act. The International Labour Organization (ILO) defines decent work as productive, fair-income employment that provides safety in the workplace, social protection for families, and freedom for individuals to express concerns and organize. Safety in the workplace necessarily extends to safety from sexual harassment. International Protocols and Conventions One must question why it took two years from the Act's passage in Parliament in 2021 to its implementation in 2023 for the legislation to take effect. Given the prevalence of the rape culture in Jamaican society, there should have been greater urgency. Other concerns arise from the possibility of a lengthy investigation and hearing process. Specific issues such as whether an accused employee should remain in the workplace during an investigation must be clearly addressed. The Sexual Harassment Act requires companies to appoint an Authorized Officer to receive and prepare workplace sexual harassment reports, along with an Anti-Sexual Harassment Dispute Settlement Committee. The Authorized Officer must assess each claim and act in line with the organization's internal procedures. If the matter is resolved by agreement, the officer must record the details and outcome in the organization's records. If it is not resolved, or if the Authorized Officer considers it necessary, the report must be referred to the Sexual Harassment Tribunal. International protocols and conventions to which Jamaica is committed recognize sexual harassment as a form of violence, a human rights issue, and an obstacle to development. The ILO has formally recognized workplace sexual harassment as harmful, characterizing it as a violation of workers' fundamental rights, a health and safety hazard, a form of discrimination, an unacceptable working condition, and a form of violence primarily against female workers. In its Convention No. 111 on Discrimination in Employment and Occupation, the ILO links sexual harassment to both employee welfare and workplace productivity. The Way Forward The intersection of Artificial Intelligence and sexual abuse is not just a technical challenge, it is a moral crisis. The solution requires a collaborative approach involving governments, tech companies, law enforcement and international cooperation. Treaties and cross-border enforcement are critical in tackling the societal problem. What is unmistakably clear is the urgent need for a robust public education campaign to address sexual abuse and sexual harassment. Wayne Campbell is an educator and social commentator with an interest in development policies as they affect culture and or gender issues.",
-      "url": "https://dominicanewsonline.com/news/homepage/commentary-sexual-abuse-and-artificial-intelligence/",
-      "source": "Dominica News Online",
-      "image": "https://dominicanewsonline.com/news/wp-content/uploads/2026/07/pexels-yankrukov-7640492-e1783178122327.jpg",
-      "publishedAt": "2026-07-04T15:47:19Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 85,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"COMMENTARY: Sexual Abuse and Artificial Intelligence\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Hidden cameras in hotel rooms: How real is the risk, and ways travellers can protect their privacy",
       "description": "Imagine checking into your hotel room only to discover that someone may be secretly watching you! Scary thought, right? For any traveller, few situations are as terrifying as the possibility of a hidden camera. Let's agree that after checking into a hotel room, the first thing most travellers do is quickly connect to Wi-Fi, unpack luggage, or just head out to explore. However, in recent years, another ritual has become increasingly common, which should probably be the first. Give the room a quick privacy inspection for hidden cameras. Yes, do it as carefully as possible.Social media videos showing tiny spy cameras hidden inside clocks, smoke detectors, USB chargers, and alarm clocks have fuelled fresh anxiety among travellers worldwide. Though such incidents remain relatively rare compared to the millions of hotel stays that happen every day, hotel experts say the concern can't be neglected entirely. But the good news is that there are some simple, tried and tested checks that can significantly reduce the risk and offer peace of mind. Read onHow common are hidden cameras in hotel rooms Well there have been incidents in the past that left the hospitality industry shocked. South Korea (2019): In 2019, four men were arrested after secretly installing miniature cameras in 42 hotel rooms across 30 hotels in 10 cities. After investigations, cameras were found hidden in TV set-top boxes, hair-dryer holders and electrical outlets. There was livestreamed footage of around 1,600 guests to a paid website. The case was widely reported by international media.There have been other cases too. However, the hospitality industry maintains that hotels take guest privacy seriously. There is no evidence that hidden cameras are widespread in big legitimate hotels. However, isolated incidents involving rogue individuals, illegal surveillance devices, or vacation rentals have been reported across several countries over the years, making travellers more vigilant.What security experts saySecurity experts say that buying a miniature camera is not a big deal these days as these are inexpensive items, available easily online, and tiny enough to be hidden inside everyday objects. That's why it is important to conduct a quick room inspection, especially in unfamiliar accommodations.Most common places to hide cameras A hidden camera needs two things: A clear view Access to powerAnd that's the reason why such alien devices are often found in objects facing the bed, bathroom, or changing area. Some common hiding places travellers must check for:Smoke detectorsAlarm clocksUSB charging adaptersWall clocksTV unitsPicture framesAir freshenersLampsDigital set-top boxesBathroom ventsCheck for wall gaps, holesWays travellers can check their hotel room1) Visual inspection: Spend some time and look around the room carefully. If you see an electronic device which is oddly positioned or looks damaged, check it carefully.2) Check the room using your phone's flashlight: This is one of the tried and tested ways of finding a hidden camera. Switch off the room lights and slowly scan suspicious objects using your smartphone flashlight. 3) Check for infrared lights (IR): Many night-vision cameras use infrared LEDs. These may appear as faint white or purple dots through some smartphone cameras. Open your phone camera, dim the room lights, and slowly scan electronics.4) Mirror test: If a mirror seems unusually thick or oddly positioned, do check what's behind it. Turn off lights and shine a flashlight on mirrors to check for two-way mirrors5) Check chargers, adapters and smoke detectors: USB charging blocks and multi-port adapters are among the easiest places to hide cameras. Examine any plug-in device you did not bring yourself. A genuine smoke detector usually faces downward and has ventilation openings. If you notice an extra lens-like opening or one aimed directly at the bed, report it.Report, don't removeIf you suspect or find something suspicious, don't try removing it. Take photographs, and video. Leave the room if needed and contact local police.Should travellers be worried? Experts say travellers shouldn't let fear ruin their holidays. Hidden-camera incidents receive widespread attention because they are unusual. But a five-minute quick inspection ritual of the hotel room is a practical precaution, much like checking that the door locks properly or locating emergency exits. After all, travel should leave you with great memories, not concerns about your privacy.Sources: Korean National Police Agency, U.S. Department of State, CBS News, and SafeHome.org.",
       "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/hidden-cameras-in-hotel-rooms-how-real-is-the-risk-and-ways-travellers-can-protect-their-privacy/articleshow/132233275.cms",
@@ -101,24 +80,135 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Opinion: U.S. Supreme Court removes last excuse for bathroom...",
-      "description": "After Supreme Court rulings on transgender athletes, a former Navy JAG says N.C. school boards have no legal excuse left to allow biological males in girls' bathrooms and urges statewide protections. Several weeks ago in these pages, I called on North Carolina school boards to show courage in protecting girls in their schools. Across the state, too many boards have adopted policies -- or tolerated practices -- that allow biological males into girls' bathrooms and locker rooms. In multiple districts, female students have reported biological males loitering in their private spaces and staring at them while they change, with school officials responding by telling the girls to simply \"go somewhere else.\" That is not leadership. It is abdication. In West Virginia v. B.P.J. and the companion Idaho case Little v. Hecox, decided June 30, 2026, the U.S. Supreme Court upheld state laws barring biological males who identify as girls from participating in girls' and women's school sports teams. Justice Kavanaugh's majority opinion made clear that Title IX's reference to \"sex\" means biological sex. The court recognized that biological males generally possess inherent physical advantages in strength, speed and endurance -- advantages that persist even after puberty blockers or cross-sex hormones. These distinctions justify sex-based categories to ensure competitive fairness and physical safety for biological females. While the rulings address athletics, their reasoning is directly applicable to the far more intimate and vulnerable settings of bathrooms, locker rooms and showers. If biological sex is real and relevant enough to protect girls in sports, it is even more relevant where privacy, dignity and protection from voyeurism and harassment are at stake. The North Carolina General Assembly deserves credit for acting on sports. In 2023, it passed the Fairness in Women's Sports Act (House Bill 574), which prohibits biological males from competing on girls' and women's teams in K-12 and collegiate athletics. That law remains in effect and aligns North Carolina with the approach now upheld by the Supreme Court in West Virginia and Idaho. It is now time for the General Assembly to go even further and follow the lead of West Virginia and Idaho on facilities as well. Those states have enacted clear protections that keep biological males out of girls' bathrooms, locker rooms and showers in schools and other government settings. North Carolina took an important step with House Bill 805, which took effect Jan. 1, 2026, by officially recognizing only two sexes and defining biological sex based on reproductive biology at birth. The General Assembly should build on that foundation by passing comprehensive, statewide legislation that protects girls' intimate spaces in public schools. For years, too many North Carolina school boards and officials have hidden behind the fear of litigation, more recently pointing to the Fourth Circuit's 2020 decision in Grimm v. Gloucester County School Board. In that case, a divided three-judge panel held that a school board policy requiring students to use restrooms corresponding to their biological sex violated Title IX and the Equal Protection Clause. It was a deeply flawed ruling from an activist court -- one that elevated the demands of a tiny minority over the privacy, dignity and safety of the vast majority of female students. School boards across North Carolina have repeatedly cited Grimmas justification for their inaction or for adopting policies that expose girls to unnecessary risk. That decision, however, does not handcuff North Carolina school boards today. Grimm predates the Supreme Court's recent rulings affirming that biological sex distinctions in school settings -- particularly those made to protect females -- are both lawful and often necessary. No court has ever held that school boards are prohibited from adopting policies that safeguard the privacy and safety of biological girls in bathrooms, locker rooms and other intimate facilities. The recent Supreme Court decisions have only strengthened that authority. More fundamentally, fear of being sued should never be the controlling factor when children's safety and privacy are on the line. If an elected or appointed public official is so terrified of litigation that they will not take reasonable, lawful steps to protect minors from exposure or harassment in school bathrooms and locker rooms, that official has no business serving in office. Public service demands courage, not risk aversion, especially when action is needed to protect children. Put another way, if you're afraid of getting sued, then don't run for office. North Carolina's school boards now have both the legal cover and the moral duty to act. Indeed, the moral duty to act and protect children was always there. These school board members are elected officials whose duty is to their constituents and to the children they were entrusted to protect -- not to a 2-1 split decision by a Fourth Circuit panel involving a school in Virginia. But now, there are no excuses. No, not one. North Carolina school boards that have not yet acted should immediately adopt clear, unambiguous policies: Only biological females may use girls' bathrooms, locker rooms and showers. Such policies align with the Supreme Court's recognition of biological reality, directly address the privacy and safety failures that have occurred in schools across the state, and remove the dangerous ambiguity that has left girls vulnerable in their most private spaces. Moreover, the North Carolina General Assembly should not leave this issue to local school boards alone. In many larger, left-leaning counties, school boards remain heavily influenced by woke ideologies and are unlikely to act on their own to protect girls in bathrooms and locker rooms. It is time for the legislature to follow the lead of West Virginia and Idaho by enacting clear, statewide protections for girls' intimate spaces in public schools. Ambiguity endangers children. The General Assembly now has both the constitutional authority and fresh Supreme Court precedent to eliminate it. North Carolina school boards that continue to resist these protections should take note. The Supreme Court has affirmed that biological sex is real and that protecting females in sex-segregated spaces is not only legitimate but necessary. There is no longer any credible legal basis to hide behind Title IX fears or outdated Fourth Circuit precedent. The question now is whether these boards will finally choose courage over political pressure and fear of lawsuits. Now is the time to act. Don Brown is a former Navy Judge Advocate who served at the Pentagon, best-selling author, former special assistant United States attorney and ran as a Republican candidate for the United States Senate from North Carolina. This op-ed originally appeared in The Carolina Journal.",
-      "url": "https://www.wilsontimes.com/columns/opinionus-supreme-court-removes-last-excuse-for-bathroom-chaos-at-nc-schools-16f74695",
-      "source": "The Wilson Times",
-      "image": "https://public-assets-prod.pubgen.ai/brand_2eff6b01-3fde-44a1-8313-f742f7818c2c/asset_1bb3469e-235b-4750-bc33-955eea51c7eb.jpg?w=1200",
-      "publishedAt": "2026-07-10T19:28:58Z",
+      "title": "Calgary landlord charged with voyeurism after tenant finds hidden cameras in bathroom and bedroom",
+      "description": "A Calgary landlord has been charged in connection with multiple voyeurism incidents. On Monday, June 7, a tenant in a Calgary building said they noticed a small hidden camera that was placed on a surge protector inside their bathroom as well as a hidden camera the tenant found on a smoke detector in their bedroom. The tenant told other tenants, who also found hidden cameras in their respective bedrooms and then contacted police. Later that week, on June 12, investigators executed a search warrant in the 200 block of Springborough Way S.W., where they seized multiple electronic storage devices. Police say they believe the landlord installed similar devices at another rental property located in the 3800 block of Brentwood Road N.W. On Friday, the landlord was arrested. Sooryong Park, 41, who police believe may also use the alias Nick Park, was charged a single count of break and enter and five counts of voyeurism. Park is scheduled to appear in court on Aug. 7. Police believe Park may operate as a landlord in other cities including Vancouver and Toronto, targeting women from the Korean community. Anyone with information is asked to contact police at 403-266-1234. Those wishing to remain anonymous can contact Crime Stoppers at 1-800-222-8477, online or by downloading the P3 Tips app.",
+      "url": "https://www.cp24.com/news/canada/2026/07/11/calgary-landlord-charged-with-voyeurism-after-tenant-finds-hidden-cameras-in-bathroom-and-bedroom/",
+      "source": "Pulse24.com",
+      "image": "https://www.cp24.com/resizer/v2/MLCYYYOWPSYFVL4EKBL5QKMAPY.jpg?smart=true&auth=6d7e736b246ca48e7fd2b2b06b58eb997dfb7d5832b82da394691b04614b9303&width=1200&height=630",
+      "publishedAt": "2026-07-11T22:16:13Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 65,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (4 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Opinion: U.S. Supreme Court removes last excuse for bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-11T13:13:33.331Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Calgary landlord charged with voyeurism after tenant finds hidden cameras in bathroom and bedroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Calgary landlord charged with five counts of voyeurism",
+      "description": "Calgary Police have arrested and charged a man in relation to multiple voyeurism incidents at rental properties that he owns. Last month, police were notified after tenants of a rental property noticed multiple cameras hidden around the property, including on a surge protector device in the bathroom and a smoke detector in a bedroom. Later that week, police executed a search warrant at a property in the southwest community of Springbank Hill, where they seized multiple electronic storage devices. Police believe the same landlord installed similar devices at another rental property located in the northwest community of Brentwood. On Friday, police arrested Sooryong Park, 41, who is also believed to use the alias Nick Park. He was charged with one count of break and enter and five counts of voyeurism. Police believe Park may also operate as a landlord in Vancouver and Toronto, targeting women of the Korean community, according to a statement released Saturday. Park is scheduled to appear in court on Aug. 7, and the investigation is ongoing. Police are asking anyone who may have information about this or similar incidents to contact police by calling 403-266-1234, or to submit an anonymous tip to Crime Stoppers by phone at 1-800-222-8477 or online through the Crime Stoppers website or P3 Tips app.",
+      "url": "https://ca.news.yahoo.com/calgary-landlord-charged-five-counts-215641691.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/db809e1db5ff3404bf3d7b4ed188551086139495314d7b8b49dd549c69571578/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalgary_herald_articles_312%2Ff5350bfb37b9d5798a714b3c8cc755ba",
+      "publishedAt": "2026-07-11T21:56:41Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Calgary landlord charged with five counts of voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Landlord charged with voyeurism after hidden cameras found in Calgary rental properties",
+      "description": "Calgary police say a landlord has been charged after allegedly installing hidden cameras in rental properties. One tenant first reported finding cameras in their bedroom and bathroom on June 8, with other tenants then reporting they found cameras in their bedrooms. Police executed search warrants at a property in the 200 block of Springborough Way S.W. on June 12. There, police say multiple electronic storage devices were seized. Police say it's also believed cameras were installed at a rental property in the 3800 block of Brentwood Road N.W. The landlord, a 41-year-old man, was arrested on Friday and charged with one count of break and enter and five counts of voyeurism. Calgary police say it's believed he may also operate rental properties in Vancouver and Toronto, and that he may specifically target Korean women. The man will appear in court Aug. 7.",
+      "url": "https://ca.news.yahoo.com/landlord-charged-voyeurism-hidden-cameras-215414777.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/c0d86aa0fda758175e6b40689657b7d88aeba59d0f231f2940cbdd9d3a392086/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2F9efc4b03d879733068574d0c32140f60",
+      "publishedAt": "2026-07-11T21:54:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Landlord charged with voyeurism after hidden cameras found in Calgary rental properties\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Landlord charged with voyeurism after hidden cameras found in Calgary rental properties",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. Calgary police say a landlord has been charged after allegedly installing hidden cameras in rental properties. One tenant first reported finding cameras in their bedroom and bathroom on June 8, with other tenants then reporting they found cameras in their bedrooms. Police executed search warrants at a property in the 200 block of Springborough Way S.W. on June 12. There, police say multiple electronic storage devices were seized. Police say it's also believed cameras were installed at a rental property in the 3800 block of Brentwood Road N.W. The landlord, a 41-year-old man, was arrested on Friday and charged with one count of break and enter and five counts of voyeurism. Calgary police say it's believed he may also operate rental properties in Vancouver and Toronto, and that he may specifically target Korean women. The man will appear in court Aug. 7.",
+      "url": "https://www.yahoo.com/news/articles/landlord-charged-voyeurism-hidden-cameras-215414777.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/c0d86aa0fda758175e6b40689657b7d88aeba59d0f231f2940cbdd9d3a392086/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2F9efc4b03d879733068574d0c32140f60",
+      "publishedAt": "2026-07-11T21:54:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Landlord charged with voyeurism after hidden cameras found in Calgary rental properties\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Grandson's hidden camera uncovers maid's abuse of wheelchair-bound grandfather with dementia in Singapore",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. SINGAPORE, July 12 -- A hidden camera installed by a worried grandson exposed the repeated abuse of his 97-year-old grandfather by the family's Indonesian caregiver, leading to her 18-month jail sentence. Siti Nurhayati Marwi Animan, 40, admitted to physically abusing the wheelchair-bound man, who had dementia and relied entirely on her for daily care, after video recordings captured her repeatedly hitting, poking and assaulting him over several days in October last year, Singapore-based news outlet CNA reported. \"There were bruises weeks before the incident, which prompted the installation of the camera,\" District Judge Arvindren R. was quoted as saying during sentencing last Friday. The footage showed Siti striking the man on his head, face, stomach, arms and legs, poking his eyes, throwing him onto a sofa, hitting him with a feather duster and pulling on his genitals while he was unable to defend himself, CNA reported. Prosecutors said the abuse only came to light because the victim's grandson became suspicious after noticing fresh bruises on his grandfather almost every day, prompting him to install a hidden camera with a livestream function in the family's flat. Over three consecutive days, the camera captured repeated assaults. The grandson testified in court that he recalled hearing his grandfather cry out in Teochew, \"cannot beat me\", from another room. The family reported the abuse to police in early November last year after showing the recordings to relatives and the grandfather's doctor, who had earlier questioned whether his injuries were consistent with accidental falls. Deputy Public Prosecutor Nicole Teo said the charges reflected only the abuse captured on camera and not what might have happened outside the recordings. The victim's dementia meant he was unable to accurately remember or report what had happened, making the abuse especially difficult to detect. Siti initially denied assaulting her employer before admitting the offences after police confronted her with the video evidence. She later told investigators she became tired and frustrated while caring for the elderly man and managing household chores, before apologising in court. \"I'm really really sorry,\" Siti was quoted as saying after pleading guilty, adding that she regretted her actions and promised not to reoffend. In sentencing, the judge said the victim's advanced age, dementia and physical frailty, together with the sustained pattern of violence, made the offences particularly serious.",
+      "url": "https://malaysia.news.yahoo.com/grandson-hidden-camera-uncovers-maid-061902621.html",
+      "source": "Yahoo News",
+      "image": "https://s.yimg.com/lo/mysterio/api/e348eb159a3fef91bd9f593df1a20264ed1d5683ee80a079f8dd11216657c59e/lightyear_networkapi/resizefill_w1000_h666;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmmail.com.my%2Fa5bb965785451d0dcf6a94d21bf3784c",
+      "publishedAt": "2026-07-12T06:19:02Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Grandson's hidden camera uncovers maid's abuse of wheelchair-bound grandfather with dementia in Singapore\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Grandson's hidden camera uncovers maid's abuse of wheelchair-bound grandfather with dementia in Singapore",
+      "description": "Stay updated on the latest news and insights. Subscribe to our newsletter here SINGAPORE, July 12 -- A hidden camera installed by a worried grandson exposed the repeated abuse of his 97-year-old grandfather by the family's Indonesian caregiver, leading to her 18-month jail sentence. Siti Nurhayati Marwi Animan, 40, admitted to physically abusing the wheelchair-bound man, who had dementia and relied entirely on her for daily care, after video recordings captured her repeatedly hitting, poking and assaulting him over several days in October last year, Singapore-based news outlet CNA reported. \"There were bruises weeks before the incident, which prompted the installation of the camera,\" District Judge Arvindren R. was quoted as saying during sentencing last Friday. The footage showed Siti striking the man on his head, face, stomach, arms and legs, poking his eyes, throwing him onto a sofa, hitting him with a feather duster and pulling on his genitals while he was unable to defend himself, CNA reported. Prosecutors said the abuse only came to light because the victim's grandson became suspicious after noticing fresh bruises on his grandfather almost every day, prompting him to install a hidden camera with a livestream function in the family's flat. Over three consecutive days, the camera captured repeated assaults. The grandson testified in court that he recalled hearing his grandfather cry out in Teochew, \"cannot beat me\", from another room. The family reported the abuse to police in early November last year after showing the recordings to relatives and the grandfather's doctor, who had earlier questioned whether his injuries were consistent with accidental falls. Deputy Public Prosecutor Nicole Teo said the charges reflected only the abuse captured on camera and not what might have happened outside the recordings. The victim's dementia meant he was unable to accurately remember or report what had happened, making the abuse especially difficult to detect. Siti initially denied assaulting her employer before admitting the offences after police confronted her with the video evidence. She later told investigators she became tired and frustrated while caring for the elderly man and managing household chores, before apologising in court. \"I'm really really sorry,\" Siti was quoted as saying after pleading guilty, adding that she regretted her actions and promised not to reoffend. In sentencing, the judge said the victim's advanced age, dementia and physical frailty, together with the sustained pattern of violence, made the offences particularly serious.",
+      "url": "https://www.malaymail.com/news/singapore/2026/07/12/grandsons-hidden-camera-uncovers-maids-abuse-of-wheelchair-bound-grandfather-with-dementia-in-singapore/227314",
+      "source": "Malay Mail",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/12/351513.jpg",
+      "publishedAt": "2026-07-12T06:19:02Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Grandson's hidden camera uncovers maid's abuse of wheelchair-bound grandfather with dementia in Singapore\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
     },
     {
       "provider": "NewsData.io",
@@ -140,29 +230,29 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former WVU Medicine physician arrested in Wood County after hidden camera found in hospital staff restroom, prosecutors say\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-11T13:13:33.331Z"
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Man faces 15-30 years in prison for hiding cameras in girls' bedrooms",
-      "description": "The National Center for Missing and Exploited Children operates the CyberTipline, a tool allowing individuals and online platforms to report suspected child sexual exploitation. Here's how it works. * A 32-year-old man pleaded guilty to federal charges after hiding spy cameras in a family's home. * David Mitsnefes recorded two teenage girls in their bedrooms over several years. * Mitsnefes knew the family and had access to their home after working on their internet system. A man who over several years hid spy cameras in a Blue Ash family's home to videorecord two teen girls in various states of undress faces 15 to 30 years in prison, after pleading guilty to federal charges. David Mitsnefes, 32, told investigators that he had gone into the family's home multiple times beginning in 2021 to place cameras in the girls' bedrooms, according to court documents. The family repeatedly found hidden cameras in the girls' bedrooms over the next several years. The first one was found in September 2021 in one of the girls' bedrooms. She was 14 at the time. At least three hidden cameras were found in the home the next year. A fifth hidden camera was found in one of the girls' bedrooms in 2023. Mitsnefes used wi-fi to save videos of the girls to his iPhone. Mitsnefes also took bras and underwear from girls' rooms, according to court documents, to keep in his bedroom. He knew the family and had worked on their internet system and knew the code to the front door. In November 2025, while the family was out of town, their Ring security camera captured an image of the suspect, wearing a dark hoodie, enter the home. A few weeks later, investigators went to the Blue Ash home where Mitsnefes lived with his mother and searched his electronic devices. They found videos of the girls as well as more than 3,000 videos and 5,000 images of child sexual abuse material he had obtained on the internet. Mitsnefes was arrested and charged in December 2025. He pleaded guilty July 9 in U.S. District Court in Cincinnati to sexual exploitation of children. A sentencing date has not been set.",
-      "url": "https://eu.cincinnati.com/story/news/crime/2026/07/10/blue-ash-ohio-man-mitsnefes-hid-spy-cameras-girls-bedrooms-pleaded-guilty/90874529007/",
-      "source": "Cincinnati",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/12/18/PCIN/87831333007-vlcsnap-2025121814-h-36-m-36-s-256.png?auto=webp&crop=369,207,x0,y0&format=pjpg&width=1200",
-      "publishedAt": "2026-07-10T15:26:43Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 40,
+      "title": "Calgary landlord charged with five counts of voyeurism",
+      "description": "Try refreshing your browser, or tap here to see other videos from our team. Later that week, police executed a search warrant at a property in the southwest community of Springbank Hill, where they seized multiple electronic storage devices. Police believe the same landlord installed similar devices at another rental property located in the northwest community of Brentwood. On Friday, police arrested Sooryong Park, 41, who is also believed to use the alias Nick Park. He was charged with one count of break and enter and five counts of voyeurism. Police believe Park may also operate as a landlord in Vancouver and Toronto, targeting women of the Korean community, according to a statement released Saturday. Park is scheduled to appear in court on Aug. 7, and the investigation is ongoing. Police are asking anyone who may have information about this or similar incidents to contact police by calling 403-266-1234, or to submit an anonymous tip to Crime Stoppers by phone at 1-800-222-8477 or online through the Crime Stoppers website or P3 Tips app.",
+      "url": "https://calgarysun.com/news/local-news/landlord-charged-with-voyeurism-in-multiple-incidents",
+      "source": "Calgary Sun",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/07/camera.jpg",
+      "publishedAt": "2026-07-11T23:34:31Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"Man faces 15-30 years in prison for hiding cameras in girls' bedrooms\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-11T13:13:33.331Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Calgary landlord charged with five counts of voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-12T13:14:41.958Z"
     }
   ]
 }
