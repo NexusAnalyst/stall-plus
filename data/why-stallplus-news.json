@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T13:28:57.515Z",
+  "updatedAt": "2026-07-15T13:38:48.805Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 7,
-    "rejected": 62,
+    "pending": 4,
+    "rejected": 65,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -56,49 +56,6 @@
   "articles": [],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Don Brown: US Supreme Court removes last excuse for bathroom chaos at NC schools",
-      "description": "Several weeks ago, I called on North Carolina school boards to show courage in protecting girls in their schools. Across the state, too many boards have adopted policies -- or tolerated practices -- that allow biological males into girls' bathrooms and locker rooms. In multiple districts, female students have reported biological males loitering in their private spaces and staring at them while they change, with school officials responding by telling the girls to simply \"go somewhere else.\" That is not leadership. It is abdication. In West Virginia v. B.P.J. and the companion Idaho case Little v. Hecox, decided June 30, 2026, the US Supreme Court upheld state laws barring biological males who identify as girls from participating in girls' and women's school sports teams. Justice Kavanaugh's majority opinion made clear that Title IX's reference to \"sex\" means biological sex. The court recognized that biological males generally possess inherent physical advantages in strength, speed and endurance -- advantages that persist even after puberty blockers or cross-sex hormones. These distinctions justify sex-based categories to ensure competitive fairness and physical safety for biological females. While the rulings address athletics, their reasoning is directly applicable to the far more intimate and vulnerable settings of bathrooms, locker rooms and showers. If biological sex is real and relevant enough to protect girls in sports, it is even more relevant where privacy, dignity and protection from voyeurism and harassment are at stake. The North Carolina General Assembly deserves credit for acting on sports. In 2023, it passed the Fairness in Women's Sports Act (House Bill 574), which prohibits biological males from competing on girls' and women's teams in K-12 and collegiate athletics. That law remains in effect and aligns North Carolina with the approach now upheld by the Supreme Court in West Virginia and Idaho. It is now time for the General Assembly to go even further and follow the lead of West Virginia and Idaho on facilities as well. Those states have enacted clear protections that keep biological males out of girls' bathrooms, locker rooms and showers in schools and other government settings. North Carolina took an important step with House Bill 805, which took effect Jan. 1, 2026, by officially recognizing only two sexes and defining biological sex based on reproductive biology at birth. The General Assembly should build on that foundation by passing comprehensive, statewide legislation that protects girls' intimate spaces in public schools. For years, too many North Carolina school boards and officials have hidden behind the fear of litigation, more recently pointing to the Fourth Circuit's 2020 decision in Grimm v. Gloucester County School Board. In that case, a divided three-judge panel held that a school board policy requiring students to use restrooms corresponding to their biological sex violated Title IX and the Equal Protection Clause. It was a deeply flawed ruling from an activist court -- one that elevated the demands of a tiny minority over the privacy, dignity and safety of the vast majority of female students. School boards across North Carolina have repeatedly cited Grimm as justification for their inaction or for adopting policies that expose girls to unnecessary risk. That decision, however, does not handcuff North Carolina school boards today. Grimm predates the Supreme Court's recent rulings affirming that biological sex distinctions in school settings -- particularly those made to protect females -- are both lawful and often necessary. No court has ever held that school boards are prohibited from adopting policies that safeguard the privacy and safety of biological girls in bathrooms, locker rooms and other intimate facilities. The recent Supreme Court decisions have only strengthened that authority. More fundamentally, fear of being sued should never be the controlling factor when children's safety and privacy are on the line. If an elected or appointed public official is so terrified of litigation that they will not take reasonable, lawful steps to protect minors from exposure or harassment in school bathrooms and locker rooms, that official has no business serving in office. Public service demands courage, not risk aversion, especially when action is needed to protect children. Put another way, if you're afraid of getting sued, then don't run for office. North Carolina's school boards now have both the legal cover and the moral duty to act. Indeed, the moral duty to act and protect children was always there. These school board members are elected officials whose duty is to their constituents and to the children they were entrusted to protect -- not to a 2-1 split decision by a Fourth Circuit panel involving a school in Virginia. But now, there are no excuses. No, not one. North Carolina school boards that have not yet acted should immediately adopt clear, unambiguous policies: Only biological females may use girls' bathrooms, locker rooms and showers. Such policies align with the Supreme Court's recognition of biological reality, directly address the privacy and safety failures that have occurred in schools across the state, and remove the dangerous ambiguity that has left girls vulnerable in their most private spaces. Moreover, the North Carolina General Assembly should not leave this issue to local school boards alone. In many larger, left-leaning counties, school boards remain heavily influenced by woke ideologies and are unlikely to act on their own to protect girls in bathrooms and locker rooms. It is time for the legislature to follow the lead of West Virginia and Idaho by enacting clear, statewide protections for girls' intimate spaces in public schools. Ambiguity endangers children. The General Assembly now has both the constitutional authority and fresh Supreme Court precedent to eliminate it. North Carolina school boards that continue to resist these protections should take note. The Supreme Court has affirmed that biological sex is real and that protecting females in sex-segregated spaces is not only legitimate but necessary. There is no longer any credible legal basis to hide behind Title IX fears or outdated Fourth Circuit precedent. The question now is whether these boards will finally choose courage over political pressure and fear of lawsuits. Now is the time to act. Don Brown is a former Navy Judge Advocate who served at the Pentagon, best-selling author, former special assistant United States attorney and ran as a Republican candidate for the United States Senate from North Carolina.",
-      "url": "https://www.salisburypost.com/2026/07/14/us-supreme-court-removes-last-excuse-for-bathroom-chaos-at-nc-schools/",
-      "source": "Salisbury Post",
-      "image": "https://www.salisburypost.com/wp-content/uploads/sites/9/2025/07/Salisbury-Post.png",
-      "publishedAt": "2026-07-14T05:30:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Don Brown: US Supreme Court removes last excuse for bathroom chaos at NC schools\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Landlord charged in multiple voyeurism incidents",
-      "description": "District 2 members have charged a man who is believed to have installed hidden cameras in the bathrooms and bedrooms of rental properties without the tenant's knowledge. On Monday, June 8, 2026, one of the tenants noticed a small hidden camera placed on a surge protector device located in the bathroom, as well as a hidden camera found on a smoke detector in their bedroom. The tenant notified other tenants who found similar hidden cameras in their respective bedrooms and then notified police. Later that same week, on Friday, June 12, 2026, investigators executed a search warrant in the 200 block of Springborough Way S.W., and seized multiple electronic storage devices. It is believed the landlord installed similar devices at another rental property located in the 3800 block of Brentwood Road N.W. On Friday, July 10, 2026, the landlord was arrested. As a result, Sooryong PARK, 41, who is also believed to use the alias Nick PARK, has been charged with one count of break and enter and five counts of voyeurism. He is scheduled to appear in court on Friday, Aug. 7, 2026. It is believed that PARK may operate as a landlord in other jurisdictions including Vancouver and Toronto, targeting women of the Korean community. Police continue to investigate and are asking anyone who may have information about this or similar incidents to contact police by calling 403-266-1234. Tips can also be submitted anonymously to Crime Stoppers through any of the following methods:",
-      "url": "https://newsroom.calgary.ca/landlord-charged-in-multiple-voyeurism-incidents/",
-      "source": "Calgary Police Service welcomes its first Operational Stress Intervention Dog",
-      "image": "https://content.presspage.com/uploads/1485/1920_cps-logo.png?53193",
-      "publishedAt": "2026-07-14T13:20:13Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Landlord charged in multiple voyeurism incidents\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
-    },
-    {
       "provider": "NewsAPI.org",
       "title": "Landlord charged with voyeurism after hidden cameras found in Calgary rental properties",
       "description": "Calgary police say a landlord has been charged after allegedly installing hidden cameras in the bedrooms and bathrooms of rental properties.",
@@ -118,16 +75,16 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Landlord charged with voyeurism after hidden cameras found in Calgary rental properties\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
+      "flaggedAt": "2026-07-15T13:38:48.805Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows man stealing women's innerwear, arrested",
-      "description": "Residents of Bengaluru noticed an unusual pattern, with the stolen garments often being replaced by older clothes the following day. Bengaluru: Indiranagar Police arrested a man on Monday, July 13, accused of repeatedly stealing women's innerwear from a residential locality in Hoysala Nagar after residents installed a hidden camera to identify the suspect. The accused has been identified as Saddam Hussain. According to the police, young women in the neighbourhood had been troubled for nearly six months as innerwear hung out to dry on balconies and verandas mysteriously disappeared. Residents also noticed an unusual pattern, with the stolen garments often being replaced by older clothes the following day before new ones were allegedly taken again. Installed hidden cameras Determined to identify the culprit, the women secretly installed a hidden camera near the drying area on July 1. The closed circuit television (CCTV) camera footage allegedly captured the accused entering the premises around 3 am on July 2 and taking the garments. The footage also reportedly showed him engaging in inappropriate behaviour while wearing the stolen clothing. Based on the video evidence, the women lodged a complaint with the Indiranagar Police. Acting swiftly, police traced and arrested Saddam Hussain. Investigators are questioning him to determine the motive behind the alleged acts and whether he was involved in similar incidents elsewhere. Police have registered a case and further investigation is underway.",
-      "url": "https://www.siasat.com/hidden-camera-shows-man-stealing-womens-innerwear-arrested-3507017/",
-      "source": "The Siasat Daily",
-      "image": "https://cdn.siasat.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-14-at-17.26.44.jpeg",
-      "publishedAt": "2026-07-14T12:41:08Z",
+      "title": "Uttar Pradesh: How A Wife's Hidden Camera Exposed Her Teacher Husband's Classroom Affair",
+      "description": "Two UP school teachers have been suspended and face a departmental inquiry after a viral video exposed their indecent classroom behavior in Kannauj. In a shocking incident, a male and a female teacher from a primary school in Uttar Pradesh's Kannauj were suspended after they were caught behaving indecently on camera. The video, which has gone viral on social media, shows the two teachers getting physically close in an empty classroom. The clip was reportedly captured after the male teacher's wife installed a hidden camera inside the classroom because she suspected him of cheating. Meanwhile, the education department has suspended both assistant teachers and initiated a departmental inquiry against them. CCTV Footage Shows Male and Female Teacher in Compromising Position The viral video circulating on social media on July 13 and 14 shows both teachers behaving indecently, getting physically close, and looking around to check if anyone is watching them. The state education department has stated that the authenticity of the video is still being investigated. District Basic Education Officer (BSA) Sandeep Kumar ordered an investigation into the matter. According to reports, the preliminary investigation concluded that the behavior of both teachers in the video was extremely inappropriate. Authorities emphasized that such activities are unacceptable and could have a negative impact on students. Based on the report, both teachers were suspended, and a departmental inquiry has been initiated against them. Who Disclosed the Viral Clip of Indecent Behavior? According to reports, the male teacher's wife installed the hidden camera inside the classroom. The male teacher has reportedly been having marital disputes with his wife, to whom he has been married for four years. Working as a panchayat secretary, she grew suspicious of her husband's activities inside the school. Upon learning about the extramarital affair, she installed a hidden camera in the classroom. Reports claim that she was the one who made the video of her husband public. Meanwhile, the female teacher's husband has stated that his wife recently filed a dowry harassment case against him. The couple has two children, and he claimed she does not allow him to meet them. The viral video is believed to have been filmed around the winter season, as both teachers can be seen wearing jackets.",
+      "url": "https://www.newsx.com/regionals/uttar-pradesh-kannauj-how-a-wifes-hidden-camera-exposed-her-teacher-husbands-classroom-affair-248855/",
+      "source": "NewsX",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/07/up-viral-video-1.png",
+      "publishedAt": "2026-07-15T12:25:58Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -139,17 +96,39 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows man stealing women's innerwear, arrested\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Uttar Pradesh: How A Wife's Hidden Camera Exposed Her Teacher Husband's Classroom Affair\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-15T13:38:48.805Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Delta police investigate alleged voyeurism in FedEx staff washroom",
-      "description": "Add Yahoo as a preferred source to see more of our stories on Google. Police in Delta, B.C., are investigating allegations of voyeurism amid reports of a recording device installed in a staff washroom at a FedEx in the Tilbury area. The Delta Police Department said Monday an employee of the business was arrested on July 7, and was subsequently released on conditions \"pending further investigation.\" Staff Sgt. Mike Whitely told CBC News police began investigating based on a report from an employee. \"Investigators believe the incident was isolated to this workplace, and there is no information to suggest a broader risk to the public,\" Whitely said. The allegations have sparked furor at the Delta facility, where employees and supporters gathered Monday evening to protest. Women's advocacy group the Kaur Movement said six women have since come forward to report seeing videos of themselves using the washrooms on pornographic websites. Group founder Gurpreet Kaur alleged that a camera was hidden on garbage cans inside individual women's toilet stalls, and said the company informed workers last week that recordings had been posted online. In an emailed statement, FedEx said its first concern is the women affected by the crime. \"Upon learning of the situation, we acted immediately, including co-operating with law enforcement, terminating the employment of the individual responsible, strengthening security and providing counseling and support resources for our team members,\" the company said. But Kaur said the company received and failed to act on several verbal complaints that the suspect had been entering the women's washroom at the 300-worker facility. \"FedEx needs to do better, they knew about these reports, several reports have been made by several different employees in the past two years,\" she said. \"Why weren't any of those reports taken seriously? This was all preventable.\" CBC News asked FedEx about the timeline of the complaints, but has yet to receive a reply. Kaur said since workers were told about the allegations, dozens of employees have not been showing up to work. Whitely confirmed FedEx has been co-operating with police. \"With the advancement of technology and it becoming smaller and more accessible we'd just like to tell the public, especially in places where privacy is expected, if you see anything unusual or out of place please contact the police,\" he added.",
-      "url": "https://www.yahoo.com/news/articles/delta-police-investigate-alleged-voyeurism-013046153.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/33432e0c4af637c21c7073b84bdfd9fc90a08f39eccea4a0b4a808ca683ea49a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2F5709ec41f1ded185cff2ce7d15c86bbc",
-      "publishedAt": "2026-07-14T01:30:46Z",
+      "title": "Kannauj School Viral Video: Wife Uses Hidden Camera To Catch Teacher Husband With Colleague; Both Suspended",
+      "description": "Two assistant teachers at a Composite School in Uttar Pradesh's Kannauj have been suspended following the circulation of a viral video that allegedly captured them engaging in inappropriate conduct within a classroom. The incident has prompted significant public outcry and an administrative investigation by the state's Education Department. Allegations and Viral Footage The two teachers, who were stationed at a Composite School in the village of Bajhedi, Saurikh Block, were recorded in footage that reportedly shows them participating in undignified acts during school hours. The videos, which have circulated widely on social media, appear to have been filmed during the winter season, as the individuals in the footage are seen wearing jackets. Kannauj Hit and Run: Elderly Man Flung in Air After Being Hit by Speeding Scooter While Crossing Road in UP, Police React After CCTV Video Surfaces. Male Teacher and Colleague's Romance Caught on Camera in Kannauj According to reports, the male teacher is a resident of Umripur (Haseran), while the female teacher hails from Manikothi, Auraiya. Allegations suggest that the teachers frequently engaged in such behaviour instead of fulfilling their educational duties. Local community members expressed strong disapproval, emphasising that schools are intended to be professional environments and that such conduct disregards the sanctity of the teaching profession and the well-being of the students. Wife Uses Hidden Camera To Catch Teacher Husband With Colleague It is reported that the wife of the male teacher installed a hidden camera to expose her husband's inappropriate behaviour. The male teacher and his colleague were caught on camera engaging in inappropriate conduct inside a classroom. A video of the same has also gone viral on social media. In the video, the male teacher is seen hugging and kissing a female colleague. Administrative Action and Suspension Following an initial inquiry conducted by the Block Education Officer (BEO) of Saurikh, District Basic Education Officer (BSA) Sandeep Kumar took formal disciplinary action. The BSA ordered a probe into the matter on July 13, leading to the immediate suspension of both assistant teachers. In the official suspension order, the BSA stated that the conduct of both teachers was \"highly objectionable and undignified\", noting that their actions within the school premises violated the decorum expected of government servants. Kannauj Youth Falls to Death After Climbing Mobile Tower to Demand Marriage in UP Village; Video Surfaces. As part of the disciplinary proceedings: * The male teacher has been attached to the Gugrapur BRC. * The female teacher has been attached to the Talgram BRC. A further inquiry report has been requested from the BEOs of Sadar and Umarda, to be submitted within 15 days. The incident sparked additional tension on Tuesday when family members of the teachers reportedly arrived at the school to confront the situation, though the teachers were not present at the time. Education officials have reiterated that the department maintains strict standards for professional behaviour and that the inquiry will continue to determine if further action is required. (The above story first appeared on LatestLY on Jul 15, 2026 10:34 AM IST. For more news and updates on politics, world, sports, entertainment and lifestyle, log on to our website latestly.com).",
+      "url": "https://www.latestly.com/india/news/kannauj-school-viral-video-wife-uses-hidden-camera-to-catch-teacher-husband-with-colleague-both-suspended-7517227.html",
+      "source": "LatestLY",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/Kannauj-School-Viral-Video-784x441.jpg",
+      "publishedAt": "2026-07-15T05:04:48Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Kannauj School Viral Video: Wife Uses Hidden Camera To Catch Teacher Husband With Colleague; Both Suspended\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-15T13:38:48.805Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "FedEx employees say they reported voyeurism concerns to management, were told to 'relax'",
+      "description": "Several FedEx employees in Delta, B.C., are calling on the company to do more to protect their privacy, following allegations of voyeurism. They told Global News that their concerns were raised to management in the past, but they were ignored. On Monday, Delta police said it is suspected a recording device was hidden in a staff washroom at the Tilbury FedEx depot and employees alleged that those images were uploaded online. \"I was really shocked, and the first thing that came to my mind was like, 'Oh my God, I could be one of them!' Like, I was panicking,\" Bara, a FedEx employee, said. Global News is not releasing her last name due to privacy concerns. Last Tuesday, an employee was arrested and released without charges, police said. FedEx said in a statement to Global News on Monday that he was terminated. Victim's advocate Gurpreet Kaur, who founded Kaur Movement, said that since word has spread about the voyeurism investigation, several employees have been making damning accusations. \"Now I have seven people coming forward, including men, that have said that they saw him walking into the washroom, female washroom, several times,\" she said. \"They reported him, but nothing was done.\" Global News spoke to two employees who say they saw the suspect entering and exiting the women's washroom at least three times in the last year. They said they reported it to management and were told to \"relax.\" Global News repeatedly asked the FedEx spokespeople about the allegations, but they did not directly address them. They did say that an internal investigation is underway. Employees said they want to ensure their dignity is protected. \"We deserve to feel safe and private in the bathrooms that we use every single day,\" Bara said.",
+      "url": "https://globalnews.ca/news/11966015/fedex-employees-reported-voyeurism-concerns-management-told-relax/",
+      "source": "Global News",
+      "image": "https://globalnews.ca/wp-content/uploads/2023/11/20231123111128-655f7e0c571e723910dc6fc5jpeg.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-07-14T23:22:22Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -161,52 +140,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Delta police investigate alleged voyeurism in FedEx staff washroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Delta police investigate alleged voyeurism in FedEx staff washroom",
-      "description": "Police in Delta, B.C., are investigating allegations of voyeurism amid reports of a recording device installed in a staff washroom at a FedEx in the Tilbury area. The Delta Police Department said Monday an employee of the business was arrested on July 7, and was subsequently released on conditions \"pending further investigation.\" Staff Sgt. Mike Whitely told CBC News police began investigating based on a report from an employee. \"Investigators believe the incident was isolated to this workplace, and there is no information to suggest a broader risk to the public,\" Whitely said. The allegations have sparked furor at the Delta facility, where employees and supporters gathered Monday evening to protest. Women's advocacy group the Kaur Movement said six women have since come forward to report seeing videos of themselves using the washrooms on pornographic websites. Group founder Gurpreet Kaur alleged that a camera was hidden on garbage cans inside individual women's toilet stalls, and said the company informed workers last week that recordings had been posted online. In an emailed statement, FedEx said its first concern is the women affected by the crime. \"Upon learning of the situation, we acted immediately, including co-operating with law enforcement, terminating the employment of the individual responsible, strengthening security and providing counseling and support resources for our team members,\" the company said. But Kaur said the company received and failed to act on several verbal complaints that the suspect had been entering the women's washroom at the 300-worker facility. \"FedEx needs to do better, they knew about these reports, several reports have been made by several different employees in the past two years,\" she said. \"Why weren't any of those reports taken seriously? This was all preventable.\" CBC News asked FedEx about the timeline of the complaints, but has yet to receive a reply. Kaur said since workers were told about the allegations, dozens of employees have not been showing up to work. Whitely confirmed FedEx has been co-operating with police. \"With the advancement of technology and it becoming smaller and more accessible we'd just like to tell the public, especially in places where privacy is expected, if you see anything unusual or out of place please contact the police,\" he added.",
-      "url": "https://ca.news.yahoo.com/delta-police-investigate-alleged-voyeurism-013046153.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/33432e0c4af637c21c7073b84bdfd9fc90a08f39eccea4a0b4a808ca683ea49a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbc.ca%2F5709ec41f1ded185cff2ce7d15c86bbc",
-      "publishedAt": "2026-07-14T01:30:46Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Delta police investigate alleged voyeurism in FedEx staff washroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-softball coach faces 47 charges, including illegal nudity and voyeurism counts",
-      "description": "GERMANTOWN, Ohio (WKEF) -- A former high school softball coach is now facing nearly 50 charges in relation to allegedly having an inappropriate relationship with a minor and other alleged predatory behaviors. According to Montgomery County Prosecutor Mat Heck, 48-year-old James Ryan Grubbs was charged with the following 47 charges: * 30 counts of Illegal Use of a Minor in Nudity -Oriented Material or Performance * 14 counts of Voyeurism * Two counts of Possession of Criminal Tools * One count of Grooming Grubbs was the former assistant coach of a varsity softball team within the Valley View Local Schools. The school district said Grubbs was hired as the junior varsity coach of the team in the fall of 2023 and, a year later, was brought on to be the assistant coach for the varsity team. Prosecutor Heck said the school district contacted the German Township Police Department after receiving reports that Grubbs had \"inappropriate electronic communications\" with an athlete on the girls' softball team, and through an investigation, police said numerous communications were revealed - detailing them as \"disturbing\" and \"inappropriate.\" Officials said Grubbs' cellphone was forensically analyzed, leading to the discovery of photos of minors in several states of nudity. Officials said those photos seemed to have been taken with a hidden camera. Prosecutor Heck made this statement: This defendant was hired by Valley View Schools to coach female softball players. Instead, he sent inappropriate text messages to at least one underage player. Additionally, and unrelated to Valley View Schools, he installed hidden cameras and took images of other minors when they were in various states of nudity. Clearly, this defendant is attracted to underage girls. He was grooming one girl and violated the privacy of all the victims. This defendant is a danger to the community. Grubbs is now being held at the Montgomery County Jail with a $1,500,000 bond and is scheduled to go back to court on July 16 for arraignment. When more information becomes available, this story will be updated.",
-      "url": "https://dayton247now.com/news/local/ex-softball-coach-faces-47-charges-including-illegal-nudity-and-voyeurism-counts",
-      "source": "WKEF",
-      "image": "https://dayton247now.com/resources/media2/16x9/595/1320/6x0/90/b39aa38b-3f44-456a-b0cf-ae8c317df096-Screenshot20260713205841.png",
-      "publishedAt": "2026-07-14T01:14:27Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ex-softball coach faces 47 charges, including illegal nudity and voyeurism counts\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-14T13:28:57.515Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"FedEx employees say they reported voyeurism concerns to management, were told to 'relax'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-15T13:38:48.805Z"
     }
   ]
 }
