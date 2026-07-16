@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T13:38:48.805Z",
+  "updatedAt": "2026-07-16T13:45:06.880Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 4,
-    "rejected": 65,
+    "pending": 3,
+    "rejected": 64,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -56,92 +56,69 @@
   "articles": [],
   "pendingReview": [
     {
-      "provider": "NewsAPI.org",
-      "title": "Landlord charged with voyeurism after hidden cameras found in Calgary rental properties",
-      "description": "Calgary police say a landlord has been charged after allegedly installing hidden cameras in the bedrooms and bathrooms of rental properties.",
-      "url": "https://www.cbc.ca/news/canada/calgary/calgary-police-hidden-cameras-rent-9.7267102",
-      "source": "CBC News",
-      "image": "https://i.cbc.ca/ais/a4dd22b7-fd68-484d-9361-905fc22123b0,1782433932348/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2026-07-11T21:54:14Z",
+      "provider": "NewsAPI.ai",
+      "title": "India News | Karnataka: Gym Owner Booked for Blackmail, Sexual Assault in Davangere",
+      "description": "Davangere (Karnataka) [India], July 16 (ANI): The Davangere Women Police in Karantaka's Davangere district, on Thursday, registered a First Information Report (FIR) against a local gym owner for allegedly blackmailing and repeatedly sexually assaulting a 30-year-old housewife. According to the police report, the complainant said she had been attending the gym located near Durgambika School in Nituvalli for the past one and a half years and accused the owner-cum-trainer of sexually exploiting women members, secretly recording private moments and blackmailing victims using photos and videos. Also Read | Puri Jagannath Rath Yatra Sees Stampede-Like Situation, 1 Devotee Dead, Several Injured (Watch Videos). The accused allegedly captured nude videos and photographs of the victim without her consent inside the gym's changing room. The complainant stated that over the last three to four months, the accused repeatedly threatened her with these recordings, demanding sexual favours. He allegedly threatened to leak the videos on social media platforms, aiming to tarnish her reputation and that of her husband, who is a local professor. Fearing social stigma, the victim initially kept the ordeal to herself. However, on the night of March 28, this year, the trainer allegedly sexually assaulted her after calling her to the gym by threatening to bring the photos to her house and expose her to her family if she did not show up. Out of fear, the victim went to the gym at around 23:00 hours, where the accused allegedly took advantage of her helplessness and sexually assaulted her. He further threatened to murder her and her family if she disclosed the incident to anyone. The victim eventually confided in her husband, leading to the delayed filing of the formal complaint on July 15. Also Read | Who Is Janaki Devi? Bihar's 'Snake Lady' Safely Rescues 10-Foot King Cobra From Family's Home (Video). Following a written complaint, the Davanagere Women Police registered a case under various sectons of the Bharatiya Nyaya Sanhita (BNS), 2023 incluidng Rape under aggravated circumstances, criminal intimidation, and voyeurism / stalking protections. The investigation is currently underway under the supervision of Police Inspector Manjappa Kuppeluru. Speaking to ANI, the woman has alleged that the accused, who is the owner-cum-trainer of the gym in Davangere had been secretly recording women and threatening to leak the footage on social media if they refused to comply with his demands. \"I have been going to this gym for the last one to one and a half years. Recently, about five months ago, they placed a hidden camera in the ladies' dressing room, recorded it, and now they are blackmailing us,\" the complainant alleged. Claiming that several women had been similarly targeted, she said the police recovered multiple videos after seizing the accused's mobile phone. \"This should not happen to any other women. It has happened to many people. When the police seized their mobile phone, there were many similar videos found on it. They are currently investigating all of it,\" she said.Davanagere Superintendant of Police, Shekhar HT said, \"With respect to the gym incident that occurred one week ago, the victim has filed a complaint alleging harassment and sexual abuse. Accordingly, we have registered a case of sexual assault, and the investigation is currently underway.\" \"We are conducting a free and fair investigation into the matter...We have taken precautionary measures. We visited gyms where women regularly work out and instructed all gym owners to strictly follow the prescribed safety guidelines,\" the police official said. He said that on Wednesday he had called a meeting of all gym owners to discuss measures they should implement to ensure the safety and security of women at these fitness centres. (ANI)",
+      "url": "https://www.latestly.com/agency-news/india-news-karnataka-gym-owner-booked-for-blackmail-sexual-assault-in-davangere-7519361.html",
+      "source": "LatestLY",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260716122250-588x441.jpg",
+      "publishedAt": "2026-07-16T13:00:25Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 60,
+      "confidence": 55,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"India News | Karnataka: Gym Owner Booked for Blackmail, Sexual Assault in Davangere\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-16T13:45:06.880Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Karnataka: Gym owner booked for blackmail, sexual assault in Davangere",
+      "description": "Davangere (Karnataka) [India], July 16 (ANI): The Davangere Women Police in Karantaka's Davangere district, on Thursday, registered a First Information Report (FIR) against a local gym owner for allegedly blackmailing and repeatedly sexually assaulting a 30-year-old housewife. According to the police report, the complainant said she had been attending the gym located near Durgambika School in Nituvalli for the past one and a half years and accused the owner-cum-trainer of sexually exploiting women members, secretly recording private moments and blackmailing victims using photos and videos. The accused allegedly captured nude videos and photographs of the victim without her consent inside the gym's changing room. The complainant stated that over the last three to four months, the accused repeatedly threatened her with these recordings, demanding sexual favours. He allegedly threatened to leak the videos on social media platforms, aiming to tarnish her reputation and that of her husband, who is a local professor. Fearing social stigma, the victim initially kept the ordeal to herself. However, on the night of March 28, this year, the trainer allegedly sexually assaulted her after calling her to the gym by threatening to bring the photos to her house and expose her to her family if she did not show up. Out of fear, the victim went to the gym at around 23:00 hours, where the accused allegedly took advantage of her helplessness and sexually assaulted her. He further threatened to murder her and her family if she disclosed the incident to anyone. The victim eventually confided in her husband, leading to the delayed filing of the formal complaint on July 15. Following a written complaint, the Davanagere Women Police registered a case under various sectons of the Bharatiya Nyaya Sanhita (BNS), 2023 incluidng Rape under aggravated circumstances, criminal intimidation, and voyeurism / stalking protections. The investigation is currently underway under the supervision of Police Inspector Manjappa Kuppeluru. Speaking to ANI, the woman has alleged that the accused, who is the owner-cum-trainer of the gym in Davangere had been secretly recording women and threatening to leak the footage on social media if they refused to comply with his demands. \"I have been going to this gym for the last one to one and a half years. Recently, about five months ago, they placed a hidden camera in the ladies' dressing room, recorded it, and now they are blackmailing us,\" the complainant alleged. Claiming that several women had been similarly targeted, she said the police recovered multiple videos after seizing the accused's mobile phone. \"This should not happen to any other women. It has happened to many people. When the police seized their mobile phone, there were many similar videos found on it. They are currently investigating all of it,\" she said. Davanagere Superintendant of Police, Shekhar HT said, \"With respect to the gym incident that occurred one week ago, the victim has filed a complaint alleging harassment and sexual abuse. Accordingly, we have registered a case of sexual assault, and the investigation is currently underway.\" \"We are conducting a free and fair investigation into the matter...We have taken precautionary measures. We visited gyms where women regularly work out and instructed all gym owners to strictly follow the prescribed safety guidelines,\" the police official said. He said that on Wednesday he had called a meeting of all gym owners to discuss measures they should implement to ensure the safety and security of women at these fitness centres. (ANI)",
+      "url": "https://www.aninews.in/news/national/general-news/karnataka-gym-owner-booked-for-blackmail-sexual-assault-in-davangere20260716175300/",
+      "source": "Asian News International (ANI)",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260716122250-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-16T12:23:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 55,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Karnataka: Gym owner booked for blackmail, sexual assault in Davangere\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-16T13:45:06.880Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ok, I'm Crazy Now. How About Y'all? Ain't You Crazy, Too?",
+      "description": "If you know someone I once knew in the long ago days when I was drinking my way through midlife, one or another of them might tell you I've always been a crackpot. If you knew people who knew me because of my penchant for writing left wing opinion essays over the course of a lifetime, you'll easily find people, especially on the far right, who thought and still may remember me as bull goose loony. But though I've had my moments, as we all do, I'd say I numbered among the saner people among all the various people I've met, known, or hung out with over the course of my tenure on this planet. Most days it seems I stayed too long at the fair. I'll freely admit, however, that I now number among those heretofore sane Americans whose sanity has been assaulted since we first witnessed Donald J. Trump and the mother of his anchor baby descend that escalator to kick off his ambition to become the master of all he commands, the guy in charge of the nuke codes, the Commander-in-Chief of the Armed Forces, the unofficial custodian of the economy, our national security, the environment, and the future of what is perhaps the only planet in all the known universe we could call home once this one was no longer able to support human life. Because I was still sane, I knew on sight that man was not a person to be given the responsibility for all that. I was, in fact, so entirely sane that I knew I wouldn't want him to manage a McDonald's in the Islamic State of Japan, a Bed and Breakfast in Coeur d'Alene. Idaho or, god forbid, a child-care business in any of our 50 states, territories, or even in foreign countries. Though I may have finally flipped my lid countless assaults on my sanity, I resisted becoming a lunatic for what seemed like an eternity. Less stable men being driven crazy had far shorter rides . Without bragging, I knew of Trump and disapproved of him even before he had a TV \"reality\" show starring himself as a guy who took delight in firing people. Call me odd, but I never liked people who took such delight in firing people. I never thought that was an attractive quality attractive quality in a person. I knew him to be insufferably bad, a sleazeball, a real estate crook, a son of privilege, an entirely self-satisfied asshole, and something of a bigot cut from the same cloth as his father, himself a reprehensible nogoodnik My internal gyroscope had taught me that that bastard's son was, metaphorically speaking, halfway to being a bastard himself just by the scummy gene pool from whence he swam. Everything I'd read of him told me he was not the sort of person I should never trust. Everything about him seemed to provide clues: his vanity, his power handshakes, his hairdo, and his need to be the center of attention in any situation or setting. You'd have to be crazy not to have noticed, and I wasn't insane yet. After nearly a decade of Trump's daily bullshit, however I am now crazy, along with probably three-fourths of the whole damn country, which it seems to be after all the harm that has been done. America is united at last, crazy on both ends of the political spectrum. But just so you know, I was sane before the insanity even began. Like so many others, I knew that a presidential wannabe who bragged to one of George W. Bush's kin about his pleasure in grabbing women he didn't know by their pussies was rotted wood in the forest of presidential timber. I knew a guy who mocked a disabled reporter lacked the character or simple good judgment to be admitted to any group that found him qualified for membership. I wasn't crazy enough to think that the best guy we could find to lead us was a guy who would buy a teenage beauty pageant just so he could play peeping Tom, ogling the very young contestants when they were backstage changing clothes. Did we really and truly have enough people crazy enough to elect a man not once, but twice, a guy who'd already told them thousands of easily detectable and verifiable lies on a TV \"news\" channel dedicated to peddling prevarication and fooling fools .Who could like or trust the babbling nitwits and sexual predators at Fox \"News,\" guys like Roger Ailes or Bill O'Reilly, guys who were apparently just foxy enough to forge an audience of Americans crazy able to believe they were 'fair and balanced\" when they were hardly ever fair and most certainly unbalanced? Whatever you could say about that outfit, they sure as hell were beyond the bounds of honest journalism. If you were divorced from reality, however, and if Donald J. Trump looked to you like a do-over of the Jesus effort to save us all from Satan's power, you wound up with a very bad divorce. You should have stayed faithful to reality., or to Jesus. Even if that old reality spouse could be a real bitch at times, or a son-of-a-bitch, you'd have to have been crazy to think Trump's version of \"reality\" was going to be better. You'd have to have started worrying about your initial vote for him at least by the time he was telling you that global warming was a hoax, or that only wimpy liberals would wear masks to protect them from a deadly airborne virus when COVID-19 hit and people began dying in droves. America was at the top of that fatality list. USA, USA. By the time Trump installed a cabinet from Cuckoo Land, how could anyone who'd voted for him still believe they were not at least slightly ding-a-ling. Maybe it wasn't truly patriotic or entirely sane to believe that invading Canada or annexing Venezuela for its oil, or exchanging \"love\" letters with a North Korean dictator provided proof that you loved your country. You'd have to be pretty damned crazy to believe that it was just excitable tourists who showed up at Trump's behest on January 6, 2021 to \"fight like hell\" for him to continue as POTUS. Did you really think that smearing shit on the walls wasn't the very definition of insanity?. You'd have to have been a bull goose loony (or a gosling) to believe that immigrants from \"shithole\" countries were stealing and eating your cats and dogs, or that wind-generated power was worse, by far, than burning fossil fuel to get to and from work each day no matter the consequences or the expense. Would anyone who hadn't taken leave of his or her senses believe in a president who thought people like Putin, Netanyahu, or Mohammed bin Salman were the best friends Americans had, or could ever get? And what kind of \"family values\" political party could be persuaded to believe that writing a payoff check to Stormy Daniels, or losing a case brought by a woman who said she was raped in a New York department store changing room was just the sort of regular fella to hold up as a model to their children? I could go on, and on, and beyond, babbling like an idiot. There is just so much to talk about with all the other cuckoos in this nest Trump flies over now, high above us in his \"gift' from the Qataris, a present the Constitution, (which he swore to defend and uphold) expressly forbade him to accept. Still, he couldn't turn it down, could he? It was an expensive jet fit for a king, but not quite good enough yet for a very stable genius like him, a truly great man who does better on cognitive tests than anyone has ever seen before. His cognitive abilities are off the charts, and that upgraded gift will be a thrill for generations of future visitors to see when they flock to Trump's presidential library with hardly a book to be found except maybe in the gift shop. But don't go by me. Though I won't be buying a MAGA cap, or writing a check to the RNC, or attending shindigs at Mar-a-Lago or the Beautiful New Ballroom anytime soon, this Hellhole for Fascists has driven me stark raving mad. How about you? Dazed and confused? Concerned about your mental health? If so, you can take comfort in the fact that a guy who eats roadkill, has a worm in his brain, and used to snort cocaine off toilet seats was appointed to be in charge of American health. Check your coverage, and if further reassurance is needed, just think about the drunken incompetents who were put in charge of the \"War\" Department, the FBI, or the liars who oversee the Treasury Department, or the Dept. of Commerce, or right on down the line to the woman in charge of dismantling the Department of Education, a wealthy wrestling entrepreneur, also without experience or competence. There are others I could name, but you must excuse me now. I have an appointment with Nurse Ratshit. Usually, she asks me to dance with her. She loves Trump's favorite tune: \"YMCA,\" that new American anthem. So easy to dance to if you don't miss the beat. And you won't if you only take your meds. The good nurse is ever-so-sweet. I always look forward to waltzing with her. Don't you?.",
+      "url": "http://www.smirkingchimp.com/thread/jaime-o-neill/117571/ok-i-m-crazy-now-how-about-y-all-ain-t-you-crazy-too",
+      "source": "The Smirking Chimp",
+      "image": "https://www.thoughtco.com/thmb/exv5bPUROKOypwKe01rOglFdnhE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-74105434-dc8e559ee6194b15a4b186408227338d.jpg",
+      "publishedAt": "2026-07-16T10:15:06Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Landlord charged with voyeurism after hidden cameras found in Calgary rental properties\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-15T13:38:48.805Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Uttar Pradesh: How A Wife's Hidden Camera Exposed Her Teacher Husband's Classroom Affair",
-      "description": "Two UP school teachers have been suspended and face a departmental inquiry after a viral video exposed their indecent classroom behavior in Kannauj. In a shocking incident, a male and a female teacher from a primary school in Uttar Pradesh's Kannauj were suspended after they were caught behaving indecently on camera. The video, which has gone viral on social media, shows the two teachers getting physically close in an empty classroom. The clip was reportedly captured after the male teacher's wife installed a hidden camera inside the classroom because she suspected him of cheating. Meanwhile, the education department has suspended both assistant teachers and initiated a departmental inquiry against them. CCTV Footage Shows Male and Female Teacher in Compromising Position The viral video circulating on social media on July 13 and 14 shows both teachers behaving indecently, getting physically close, and looking around to check if anyone is watching them. The state education department has stated that the authenticity of the video is still being investigated. District Basic Education Officer (BSA) Sandeep Kumar ordered an investigation into the matter. According to reports, the preliminary investigation concluded that the behavior of both teachers in the video was extremely inappropriate. Authorities emphasized that such activities are unacceptable and could have a negative impact on students. Based on the report, both teachers were suspended, and a departmental inquiry has been initiated against them. Who Disclosed the Viral Clip of Indecent Behavior? According to reports, the male teacher's wife installed the hidden camera inside the classroom. The male teacher has reportedly been having marital disputes with his wife, to whom he has been married for four years. Working as a panchayat secretary, she grew suspicious of her husband's activities inside the school. Upon learning about the extramarital affair, she installed a hidden camera in the classroom. Reports claim that she was the one who made the video of her husband public. Meanwhile, the female teacher's husband has stated that his wife recently filed a dowry harassment case against him. The couple has two children, and he claimed she does not allow him to meet them. The viral video is believed to have been filmed around the winter season, as both teachers can be seen wearing jackets.",
-      "url": "https://www.newsx.com/regionals/uttar-pradesh-kannauj-how-a-wifes-hidden-camera-exposed-her-teacher-husbands-classroom-affair-248855/",
-      "source": "NewsX",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/07/up-viral-video-1.png",
-      "publishedAt": "2026-07-15T12:25:58Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Uttar Pradesh: How A Wife's Hidden Camera Exposed Her Teacher Husband's Classroom Affair\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-15T13:38:48.805Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Kannauj School Viral Video: Wife Uses Hidden Camera To Catch Teacher Husband With Colleague; Both Suspended",
-      "description": "Two assistant teachers at a Composite School in Uttar Pradesh's Kannauj have been suspended following the circulation of a viral video that allegedly captured them engaging in inappropriate conduct within a classroom. The incident has prompted significant public outcry and an administrative investigation by the state's Education Department. Allegations and Viral Footage The two teachers, who were stationed at a Composite School in the village of Bajhedi, Saurikh Block, were recorded in footage that reportedly shows them participating in undignified acts during school hours. The videos, which have circulated widely on social media, appear to have been filmed during the winter season, as the individuals in the footage are seen wearing jackets. Kannauj Hit and Run: Elderly Man Flung in Air After Being Hit by Speeding Scooter While Crossing Road in UP, Police React After CCTV Video Surfaces. Male Teacher and Colleague's Romance Caught on Camera in Kannauj According to reports, the male teacher is a resident of Umripur (Haseran), while the female teacher hails from Manikothi, Auraiya. Allegations suggest that the teachers frequently engaged in such behaviour instead of fulfilling their educational duties. Local community members expressed strong disapproval, emphasising that schools are intended to be professional environments and that such conduct disregards the sanctity of the teaching profession and the well-being of the students. Wife Uses Hidden Camera To Catch Teacher Husband With Colleague It is reported that the wife of the male teacher installed a hidden camera to expose her husband's inappropriate behaviour. The male teacher and his colleague were caught on camera engaging in inappropriate conduct inside a classroom. A video of the same has also gone viral on social media. In the video, the male teacher is seen hugging and kissing a female colleague. Administrative Action and Suspension Following an initial inquiry conducted by the Block Education Officer (BEO) of Saurikh, District Basic Education Officer (BSA) Sandeep Kumar took formal disciplinary action. The BSA ordered a probe into the matter on July 13, leading to the immediate suspension of both assistant teachers. In the official suspension order, the BSA stated that the conduct of both teachers was \"highly objectionable and undignified\", noting that their actions within the school premises violated the decorum expected of government servants. Kannauj Youth Falls to Death After Climbing Mobile Tower to Demand Marriage in UP Village; Video Surfaces. As part of the disciplinary proceedings: * The male teacher has been attached to the Gugrapur BRC. * The female teacher has been attached to the Talgram BRC. A further inquiry report has been requested from the BEOs of Sadar and Umarda, to be submitted within 15 days. The incident sparked additional tension on Tuesday when family members of the teachers reportedly arrived at the school to confront the situation, though the teachers were not present at the time. Education officials have reiterated that the department maintains strict standards for professional behaviour and that the inquiry will continue to determine if further action is required. (The above story first appeared on LatestLY on Jul 15, 2026 10:34 AM IST. For more news and updates on politics, world, sports, entertainment and lifestyle, log on to our website latestly.com).",
-      "url": "https://www.latestly.com/india/news/kannauj-school-viral-video-wife-uses-hidden-camera-to-catch-teacher-husband-with-colleague-both-suspended-7517227.html",
-      "source": "LatestLY",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/Kannauj-School-Viral-Video-784x441.jpg",
-      "publishedAt": "2026-07-15T05:04:48Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Kannauj School Viral Video: Wife Uses Hidden Camera To Catch Teacher Husband With Colleague; Both Suspended\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-15T13:38:48.805Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "FedEx employees say they reported voyeurism concerns to management, were told to 'relax'",
-      "description": "Several FedEx employees in Delta, B.C., are calling on the company to do more to protect their privacy, following allegations of voyeurism. They told Global News that their concerns were raised to management in the past, but they were ignored. On Monday, Delta police said it is suspected a recording device was hidden in a staff washroom at the Tilbury FedEx depot and employees alleged that those images were uploaded online. \"I was really shocked, and the first thing that came to my mind was like, 'Oh my God, I could be one of them!' Like, I was panicking,\" Bara, a FedEx employee, said. Global News is not releasing her last name due to privacy concerns. Last Tuesday, an employee was arrested and released without charges, police said. FedEx said in a statement to Global News on Monday that he was terminated. Victim's advocate Gurpreet Kaur, who founded Kaur Movement, said that since word has spread about the voyeurism investigation, several employees have been making damning accusations. \"Now I have seven people coming forward, including men, that have said that they saw him walking into the washroom, female washroom, several times,\" she said. \"They reported him, but nothing was done.\" Global News spoke to two employees who say they saw the suspect entering and exiting the women's washroom at least three times in the last year. They said they reported it to management and were told to \"relax.\" Global News repeatedly asked the FedEx spokespeople about the allegations, but they did not directly address them. They did say that an internal investigation is underway. Employees said they want to ensure their dignity is protected. \"We deserve to feel safe and private in the bathrooms that we use every single day,\" Bara said.",
-      "url": "https://globalnews.ca/news/11966015/fedex-employees-reported-voyeurism-concerns-management-told-relax/",
-      "source": "Global News",
-      "image": "https://globalnews.ca/wp-content/uploads/2023/11/20231123111128-655f7e0c571e723910dc6fc5jpeg.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-07-14T23:22:22Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"FedEx employees say they reported voyeurism concerns to management, were told to 'relax'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-15T13:38:48.805Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Ok, I'm Crazy Now. How About Y'all? Ain't You Crazy, Too\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-16T13:45:06.880Z"
     }
   ]
 }
