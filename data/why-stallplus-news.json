@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T13:45:06.880Z",
+  "updatedAt": "2026-07-17T13:22:47.063Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 0,
+    "published": 2,
     "pending": 3,
-    "rejected": 64,
+    "rejected": 62,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 2
     },
     {
       "id": "workplace-privacy",
@@ -53,72 +53,116 @@
       "count": 0
     }
   ],
-  "articles": [],
+  "articles": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man arrested after hidden camera found in San Jose Starbucks bathroom",
+      "description": "A San Jose man was arrested after a hidden camera was discovered in a public restroom at a Starbucks coffee shop last month, police said Thursday. The San Jose Police Department said an employee of the Starbucks on East Santa Clara Street in Downtown San Jose, just across the street from City Hall, discovered a camera under the sink in the restroom and reported it. Investigators checked the camera's footage and determined that it had been installed by an adult male suspect the same morning it was reported, police said. It had been up for about 30 minutes before it was discovered, and police found that it had recorded two victims, police spokesperson Stacie Shih. Using automated licence plate reader cameras, detectives with the department's sexual assault unit identified the suspect's car and the suspect, 38-year-old David Perales. On July 2, Perales was arrested in San Jose and booked into the Santa Clara County Main Jail for invasion of privacy, police said. Anyone with information about this case or similar cases was asked to contact Detective Gregory #4435 of the Police Department's sexual assault unit at 4435@sanjoseca.gov or 408-277-4102.",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/san-jose-starbucks-bathroom-hidden-camera/",
+      "source": "CBS News",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/29/8a045e14-b362-4864-b3db-b0602af1d6a9/thumbnail/1200x630/ae5cb6e5ffda432b4c03d56721ef92dc/san-jose-police-generic.jpg",
+      "publishedAt": "2026-07-17T00:12:16Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Man arrested after hidden camera found in San Jose Starbucks bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "San Jose: Man arrested for allegedly installing hidden camera in coffee shop bathroom",
+      "description": "SAN JOSE -- Police arrested a man arrested July 2 for allegedly installing a secret camera in the bathroom of a downtown coffee shop, authorities said. The 38-year-old man, a resident of San Jose, was booked into Santa Clara County Main Jail on suspicion of invasion of privacy, according to a news release Thursday from the San Jose Police Department. Around 9:30 a.m. June 9, an employee noticed a hidden camera in the public restroom of the coffee shop, which is located on the 100 block of East Santa Clara Street, and reported it to police, authorities said. SJPD's Sexual Assaults Investigation Unit carried out an investigation which found that the camera was installed by an adult man earlier that morning and identified the suspect with the assistance of SJPD's Real Time Intelligence Center and Automatic License Plate Reader cameras, authorities said. Police then obtained an arrest warrant for the suspect, authorities added. Anyone with further information on this incident is asked to contact Detective Gregory #4435 at 4435@sanjoseca.gov or 408-277-4102.",
+      "url": "https://www.eastbaytimes.com/2026/07/16/san-jose-man-arrested-for-allegedly-installing-hidden-camera-in-coffee-shop-bathroom/",
+      "source": "East Bay Times",
+      "image": "https://www.eastbaytimes.com/wp-content/uploads/2025/04/generic-body-found-police-crime-scene-03.webp?w=640",
+      "publishedAt": "2026-07-16T18:48:09Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"San Jose: Man arrested for allegedly installing hidden camera in coffee shop bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    }
+  ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "India News | Karnataka: Gym Owner Booked for Blackmail, Sexual Assault in Davangere",
-      "description": "Davangere (Karnataka) [India], July 16 (ANI): The Davangere Women Police in Karantaka's Davangere district, on Thursday, registered a First Information Report (FIR) against a local gym owner for allegedly blackmailing and repeatedly sexually assaulting a 30-year-old housewife. According to the police report, the complainant said she had been attending the gym located near Durgambika School in Nituvalli for the past one and a half years and accused the owner-cum-trainer of sexually exploiting women members, secretly recording private moments and blackmailing victims using photos and videos. Also Read | Puri Jagannath Rath Yatra Sees Stampede-Like Situation, 1 Devotee Dead, Several Injured (Watch Videos). The accused allegedly captured nude videos and photographs of the victim without her consent inside the gym's changing room. The complainant stated that over the last three to four months, the accused repeatedly threatened her with these recordings, demanding sexual favours. He allegedly threatened to leak the videos on social media platforms, aiming to tarnish her reputation and that of her husband, who is a local professor. Fearing social stigma, the victim initially kept the ordeal to herself. However, on the night of March 28, this year, the trainer allegedly sexually assaulted her after calling her to the gym by threatening to bring the photos to her house and expose her to her family if she did not show up. Out of fear, the victim went to the gym at around 23:00 hours, where the accused allegedly took advantage of her helplessness and sexually assaulted her. He further threatened to murder her and her family if she disclosed the incident to anyone. The victim eventually confided in her husband, leading to the delayed filing of the formal complaint on July 15. Also Read | Who Is Janaki Devi? Bihar's 'Snake Lady' Safely Rescues 10-Foot King Cobra From Family's Home (Video). Following a written complaint, the Davanagere Women Police registered a case under various sectons of the Bharatiya Nyaya Sanhita (BNS), 2023 incluidng Rape under aggravated circumstances, criminal intimidation, and voyeurism / stalking protections. The investigation is currently underway under the supervision of Police Inspector Manjappa Kuppeluru. Speaking to ANI, the woman has alleged that the accused, who is the owner-cum-trainer of the gym in Davangere had been secretly recording women and threatening to leak the footage on social media if they refused to comply with his demands. \"I have been going to this gym for the last one to one and a half years. Recently, about five months ago, they placed a hidden camera in the ladies' dressing room, recorded it, and now they are blackmailing us,\" the complainant alleged. Claiming that several women had been similarly targeted, she said the police recovered multiple videos after seizing the accused's mobile phone. \"This should not happen to any other women. It has happened to many people. When the police seized their mobile phone, there were many similar videos found on it. They are currently investigating all of it,\" she said.Davanagere Superintendant of Police, Shekhar HT said, \"With respect to the gym incident that occurred one week ago, the victim has filed a complaint alleging harassment and sexual abuse. Accordingly, we have registered a case of sexual assault, and the investigation is currently underway.\" \"We are conducting a free and fair investigation into the matter...We have taken precautionary measures. We visited gyms where women regularly work out and instructed all gym owners to strictly follow the prescribed safety guidelines,\" the police official said. He said that on Wednesday he had called a meeting of all gym owners to discuss measures they should implement to ensure the safety and security of women at these fitness centres. (ANI)",
-      "url": "https://www.latestly.com/agency-news/india-news-karnataka-gym-owner-booked-for-blackmail-sexual-assault-in-davangere-7519361.html",
-      "source": "LatestLY",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260716122250-588x441.jpg",
-      "publishedAt": "2026-07-16T13:00:25Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"India News | Karnataka: Gym Owner Booked for Blackmail, Sexual Assault in Davangere\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-16T13:45:06.880Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Karnataka: Gym owner booked for blackmail, sexual assault in Davangere",
-      "description": "Davangere (Karnataka) [India], July 16 (ANI): The Davangere Women Police in Karantaka's Davangere district, on Thursday, registered a First Information Report (FIR) against a local gym owner for allegedly blackmailing and repeatedly sexually assaulting a 30-year-old housewife. According to the police report, the complainant said she had been attending the gym located near Durgambika School in Nituvalli for the past one and a half years and accused the owner-cum-trainer of sexually exploiting women members, secretly recording private moments and blackmailing victims using photos and videos. The accused allegedly captured nude videos and photographs of the victim without her consent inside the gym's changing room. The complainant stated that over the last three to four months, the accused repeatedly threatened her with these recordings, demanding sexual favours. He allegedly threatened to leak the videos on social media platforms, aiming to tarnish her reputation and that of her husband, who is a local professor. Fearing social stigma, the victim initially kept the ordeal to herself. However, on the night of March 28, this year, the trainer allegedly sexually assaulted her after calling her to the gym by threatening to bring the photos to her house and expose her to her family if she did not show up. Out of fear, the victim went to the gym at around 23:00 hours, where the accused allegedly took advantage of her helplessness and sexually assaulted her. He further threatened to murder her and her family if she disclosed the incident to anyone. The victim eventually confided in her husband, leading to the delayed filing of the formal complaint on July 15. Following a written complaint, the Davanagere Women Police registered a case under various sectons of the Bharatiya Nyaya Sanhita (BNS), 2023 incluidng Rape under aggravated circumstances, criminal intimidation, and voyeurism / stalking protections. The investigation is currently underway under the supervision of Police Inspector Manjappa Kuppeluru. Speaking to ANI, the woman has alleged that the accused, who is the owner-cum-trainer of the gym in Davangere had been secretly recording women and threatening to leak the footage on social media if they refused to comply with his demands. \"I have been going to this gym for the last one to one and a half years. Recently, about five months ago, they placed a hidden camera in the ladies' dressing room, recorded it, and now they are blackmailing us,\" the complainant alleged. Claiming that several women had been similarly targeted, she said the police recovered multiple videos after seizing the accused's mobile phone. \"This should not happen to any other women. It has happened to many people. When the police seized their mobile phone, there were many similar videos found on it. They are currently investigating all of it,\" she said. Davanagere Superintendant of Police, Shekhar HT said, \"With respect to the gym incident that occurred one week ago, the victim has filed a complaint alleging harassment and sexual abuse. Accordingly, we have registered a case of sexual assault, and the investigation is currently underway.\" \"We are conducting a free and fair investigation into the matter...We have taken precautionary measures. We visited gyms where women regularly work out and instructed all gym owners to strictly follow the prescribed safety guidelines,\" the police official said. He said that on Wednesday he had called a meeting of all gym owners to discuss measures they should implement to ensure the safety and security of women at these fitness centres. (ANI)",
-      "url": "https://www.aninews.in/news/national/general-news/karnataka-gym-owner-booked-for-blackmail-sexual-assault-in-davangere20260716175300/",
-      "source": "Asian News International (ANI)",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260716122250-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-07-16T12:23:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Karnataka: Gym owner booked for blackmail, sexual assault in Davangere\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-16T13:45:06.880Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ok, I'm Crazy Now. How About Y'all? Ain't You Crazy, Too?",
-      "description": "If you know someone I once knew in the long ago days when I was drinking my way through midlife, one or another of them might tell you I've always been a crackpot. If you knew people who knew me because of my penchant for writing left wing opinion essays over the course of a lifetime, you'll easily find people, especially on the far right, who thought and still may remember me as bull goose loony. But though I've had my moments, as we all do, I'd say I numbered among the saner people among all the various people I've met, known, or hung out with over the course of my tenure on this planet. Most days it seems I stayed too long at the fair. I'll freely admit, however, that I now number among those heretofore sane Americans whose sanity has been assaulted since we first witnessed Donald J. Trump and the mother of his anchor baby descend that escalator to kick off his ambition to become the master of all he commands, the guy in charge of the nuke codes, the Commander-in-Chief of the Armed Forces, the unofficial custodian of the economy, our national security, the environment, and the future of what is perhaps the only planet in all the known universe we could call home once this one was no longer able to support human life. Because I was still sane, I knew on sight that man was not a person to be given the responsibility for all that. I was, in fact, so entirely sane that I knew I wouldn't want him to manage a McDonald's in the Islamic State of Japan, a Bed and Breakfast in Coeur d'Alene. Idaho or, god forbid, a child-care business in any of our 50 states, territories, or even in foreign countries. Though I may have finally flipped my lid countless assaults on my sanity, I resisted becoming a lunatic for what seemed like an eternity. Less stable men being driven crazy had far shorter rides . Without bragging, I knew of Trump and disapproved of him even before he had a TV \"reality\" show starring himself as a guy who took delight in firing people. Call me odd, but I never liked people who took such delight in firing people. I never thought that was an attractive quality attractive quality in a person. I knew him to be insufferably bad, a sleazeball, a real estate crook, a son of privilege, an entirely self-satisfied asshole, and something of a bigot cut from the same cloth as his father, himself a reprehensible nogoodnik My internal gyroscope had taught me that that bastard's son was, metaphorically speaking, halfway to being a bastard himself just by the scummy gene pool from whence he swam. Everything I'd read of him told me he was not the sort of person I should never trust. Everything about him seemed to provide clues: his vanity, his power handshakes, his hairdo, and his need to be the center of attention in any situation or setting. You'd have to be crazy not to have noticed, and I wasn't insane yet. After nearly a decade of Trump's daily bullshit, however I am now crazy, along with probably three-fourths of the whole damn country, which it seems to be after all the harm that has been done. America is united at last, crazy on both ends of the political spectrum. But just so you know, I was sane before the insanity even began. Like so many others, I knew that a presidential wannabe who bragged to one of George W. Bush's kin about his pleasure in grabbing women he didn't know by their pussies was rotted wood in the forest of presidential timber. I knew a guy who mocked a disabled reporter lacked the character or simple good judgment to be admitted to any group that found him qualified for membership. I wasn't crazy enough to think that the best guy we could find to lead us was a guy who would buy a teenage beauty pageant just so he could play peeping Tom, ogling the very young contestants when they were backstage changing clothes. Did we really and truly have enough people crazy enough to elect a man not once, but twice, a guy who'd already told them thousands of easily detectable and verifiable lies on a TV \"news\" channel dedicated to peddling prevarication and fooling fools .Who could like or trust the babbling nitwits and sexual predators at Fox \"News,\" guys like Roger Ailes or Bill O'Reilly, guys who were apparently just foxy enough to forge an audience of Americans crazy able to believe they were 'fair and balanced\" when they were hardly ever fair and most certainly unbalanced? Whatever you could say about that outfit, they sure as hell were beyond the bounds of honest journalism. If you were divorced from reality, however, and if Donald J. Trump looked to you like a do-over of the Jesus effort to save us all from Satan's power, you wound up with a very bad divorce. You should have stayed faithful to reality., or to Jesus. Even if that old reality spouse could be a real bitch at times, or a son-of-a-bitch, you'd have to have been crazy to think Trump's version of \"reality\" was going to be better. You'd have to have started worrying about your initial vote for him at least by the time he was telling you that global warming was a hoax, or that only wimpy liberals would wear masks to protect them from a deadly airborne virus when COVID-19 hit and people began dying in droves. America was at the top of that fatality list. USA, USA. By the time Trump installed a cabinet from Cuckoo Land, how could anyone who'd voted for him still believe they were not at least slightly ding-a-ling. Maybe it wasn't truly patriotic or entirely sane to believe that invading Canada or annexing Venezuela for its oil, or exchanging \"love\" letters with a North Korean dictator provided proof that you loved your country. You'd have to be pretty damned crazy to believe that it was just excitable tourists who showed up at Trump's behest on January 6, 2021 to \"fight like hell\" for him to continue as POTUS. Did you really think that smearing shit on the walls wasn't the very definition of insanity?. You'd have to have been a bull goose loony (or a gosling) to believe that immigrants from \"shithole\" countries were stealing and eating your cats and dogs, or that wind-generated power was worse, by far, than burning fossil fuel to get to and from work each day no matter the consequences or the expense. Would anyone who hadn't taken leave of his or her senses believe in a president who thought people like Putin, Netanyahu, or Mohammed bin Salman were the best friends Americans had, or could ever get? And what kind of \"family values\" political party could be persuaded to believe that writing a payoff check to Stormy Daniels, or losing a case brought by a woman who said she was raped in a New York department store changing room was just the sort of regular fella to hold up as a model to their children? I could go on, and on, and beyond, babbling like an idiot. There is just so much to talk about with all the other cuckoos in this nest Trump flies over now, high above us in his \"gift' from the Qataris, a present the Constitution, (which he swore to defend and uphold) expressly forbade him to accept. Still, he couldn't turn it down, could he? It was an expensive jet fit for a king, but not quite good enough yet for a very stable genius like him, a truly great man who does better on cognitive tests than anyone has ever seen before. His cognitive abilities are off the charts, and that upgraded gift will be a thrill for generations of future visitors to see when they flock to Trump's presidential library with hardly a book to be found except maybe in the gift shop. But don't go by me. Though I won't be buying a MAGA cap, or writing a check to the RNC, or attending shindigs at Mar-a-Lago or the Beautiful New Ballroom anytime soon, this Hellhole for Fascists has driven me stark raving mad. How about you? Dazed and confused? Concerned about your mental health? If so, you can take comfort in the fact that a guy who eats roadkill, has a worm in his brain, and used to snort cocaine off toilet seats was appointed to be in charge of American health. Check your coverage, and if further reassurance is needed, just think about the drunken incompetents who were put in charge of the \"War\" Department, the FBI, or the liars who oversee the Treasury Department, or the Dept. of Commerce, or right on down the line to the woman in charge of dismantling the Department of Education, a wealthy wrestling entrepreneur, also without experience or competence. There are others I could name, but you must excuse me now. I have an appointment with Nurse Ratshit. Usually, she asks me to dance with her. She loves Trump's favorite tune: \"YMCA,\" that new American anthem. So easy to dance to if you don't miss the beat. And you won't if you only take your meds. The good nurse is ever-so-sweet. I always look forward to waltzing with her. Don't you?.",
-      "url": "http://www.smirkingchimp.com/thread/jaime-o-neill/117571/ok-i-m-crazy-now-how-about-y-all-ain-t-you-crazy-too",
-      "source": "The Smirking Chimp",
-      "image": "https://www.thoughtco.com/thmb/exv5bPUROKOypwKe01rOglFdnhE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-74105434-dc8e559ee6194b15a4b186408227338d.jpg",
-      "publishedAt": "2026-07-16T10:15:06Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "title": "Wilsonville man sentenced for bathroom hidden camera",
+      "description": "PORTLAND, Ore. (KOIN) - A Wilsonville man was sentenced on Thursday after secretly filming a mother and her teen daughter in his home bathroom, according to court documents. Marcelino Mauro Vera-Ramirez, 44, was sentenced to six months in jail and must register as a sex offender. The sentence comes as Vera-Ramirez, a licensed chiropractor with an office in Tigard, pleaded guilty to invasion of privacy charges in February. According to the Clackamas County District Attorney's Office, a woman and her 14-year-old daughter were staying in his home. In June 2024, the DA's Office said the girl had stepped out of the shower when she noticed a camera in a waste basket attached to a cellphone that was \"camouflaged with toilet paper.\" The girl then told her mother who found the camera had been removed, authorities said. The following month, the mother got out of the shower and saw the hidden camera in the waste basket. Both took the camera to Wilsonville police, who obtained a search warrant, finding multiple videos of the mother and daughter \"nude or partially nude,\" the DA's Office said, noting they also found video of Vera Ramirez setting up the hidden camera. Vera Ramirez was taken into custody in December 2024, and he pleaded guilty to four counts of invasion of privacy on Feb. 17.",
+      "url": "https://www.koin.com/local/clackamas-county/portland-area-chiropractor-sentenced-for-home-bathroom-hidden-camera/",
+      "source": "KOIN 6 Portland",
+      "image": "https://www.koin.com/wp-content/uploads/sites/10/2023/10/gettyimages-925013506-2-e1697068242675.jpg?strip=1&w=640",
+      "publishedAt": "2026-07-16T21:57:34Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Ok, I'm Crazy Now. How About Y'all? Ain't You Crazy, Too\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-16T13:45:06.880Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Wilsonville man sentenced for bathroom hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-17T13:22:47.063Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man arrested after hidden camera found inside restroom at San Jose coffee shop",
+      "description": "A 38-year-old San Jose man was arrested on suspicion of placing a hidden camera inside a public restroom at a coffee shop, police said.",
+      "url": "https://us.headtopics.com/news/man-arrested-after-hidden-camera-found-inside-restroom-at-85655890",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/7/17/nbcbayarea/man-arrested-after-hidden-camera-found-inside-rest-man-arrested-after-hidden-camera-found-inside-rest-9767DBDAAAAD7AC56E907A64622DD028.webp",
+      "publishedAt": "2026-07-17 01:07:10",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man arrested after hidden camera found inside restroom at San Jose coffee shop\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-17T13:22:47.063Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Sanborn man accused of installing hidden camera in neighbors' bedroom",
+      "description": "During an interview with investigators, court documents stated the defendant admitted entering the victim's house 12 times without permission.",
+      "url": "https://siouxcityjournal.com/news/local/crime-courts/article_d8061845-51c9-4878-a5b5-644a1bcda183.html",
+      "source": "Sioux City Journal News",
+      "image": null,
+      "publishedAt": "2026-07-16 20:23:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Sanborn man accused of installing hidden camera in neighbors' bedroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-17T13:22:47.063Z"
     }
   ]
 }
