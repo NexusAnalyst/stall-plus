@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:22:47.063Z",
+  "updatedAt": "2026-07-18T13:08:32.111Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 3,
-    "rejected": 62,
-    "carriedForward": 0
+    "pending": 2,
+    "rejected": 63,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -56,6 +56,27 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
+      "title": "Sicko arrested for stashing hidden camera in Starbucks bathroom as cops fear for more victims",
+      "description": "A pervert was busted for allegedly installing a hidden camera under a sink in a San Jose Starbucks restroom and filming at least two people -- and police now worry that the sicko has struck before. The recording device was discovered on June 9 at approximately 9:30 a.m. by an employee at the coffee shop at 181 East Santa Clara Street. The worker found the camera positioned directly under the restroom sink, according to KTVU. Investigators with the Sexual Assaults Investigation Unit of the San Jose Police Department believe the hidden camera was affixed under the sink for approximately 30 minutes. The device was active long enough to record two unsuspecting patrons, KTVU reports. \"It captured two victims, a middle-aged adult female victim, and then an older adult male victim,\" police spokeswoman Stacie Shih told the outlet. \"So if you believe you were a victim of this incident, please contact our detectives.\" Investigators were able to identify and track down a suspect in the case by using automated license plate reader cameras. Police arrested 38-year-old David Perales of San Jose on July 2. He was booked into the Santa Clara County Jail on a charge of invasion of privacy. Because of the nature of the crime, police are investigating whether the suspect may have targeted other public locations. \"Anyone who has an ill intention of invading anyone's privacy could target any business, any location,\" said Shih. Starbucks released a statement saying the company would cooperate fully with law enforcement. \"This is a deeply disturbing incident, and we are grateful for the quick and thorough response from the San Jose Police Department. We cannot overstate the importance of providing a safe environment for our customers and partners (employees),\" the statement read. San Jose police are asking anyone who believes they may have been a victim to contact the department. Residents told KTVU that the shocking crime made them scared of using the bathroom in public places. \"I might just hold it until I get home,\" one man told the station.",
+      "url": "https://nypost.com/2026/07/17/us-news/sicko-arrested-for-stashing-hidden-camera-in-starbucks-bathroom-as-cops-fear-for-more-victims/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134710537.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-17T18:48:53Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Sicko arrested for stashing hidden camera in Starbucks bathroom as cops fear for more victims\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Man arrested after hidden camera found in San Jose Starbucks bathroom",
       "description": "A San Jose man was arrested after a hidden camera was discovered in a public restroom at a Starbucks coffee shop last month, police said Thursday. The San Jose Police Department said an employee of the Starbucks on East Santa Clara Street in Downtown San Jose, just across the street from City Hall, discovered a camera under the sink in the restroom and reported it. Investigators checked the camera's footage and determined that it had been installed by an adult male suspect the same morning it was reported, police said. It had been up for about 30 minutes before it was discovered, and police found that it had recorded two victims, police spokesperson Stacie Shih. Using automated licence plate reader cameras, detectives with the department's sexual assault unit identified the suspect's car and the suspect, 38-year-old David Perales. On July 2, Perales was arrested in San Jose and booked into the Santa Clara County Main Jail for invasion of privacy, police said. Anyone with information about this case or similar cases was asked to contact Detective Gregory #4435 of the Police Department's sexual assault unit at 4435@sanjoseca.gov or 408-277-4102.",
       "url": "https://www.cbsnews.com/sanfrancisco/news/san-jose-starbucks-bathroom-hidden-camera/",
@@ -74,95 +95,51 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Man arrested after hidden camera found in San Jose Starbucks bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "San Jose: Man arrested for allegedly installing hidden camera in coffee shop bathroom",
-      "description": "SAN JOSE -- Police arrested a man arrested July 2 for allegedly installing a secret camera in the bathroom of a downtown coffee shop, authorities said. The 38-year-old man, a resident of San Jose, was booked into Santa Clara County Main Jail on suspicion of invasion of privacy, according to a news release Thursday from the San Jose Police Department. Around 9:30 a.m. June 9, an employee noticed a hidden camera in the public restroom of the coffee shop, which is located on the 100 block of East Santa Clara Street, and reported it to police, authorities said. SJPD's Sexual Assaults Investigation Unit carried out an investigation which found that the camera was installed by an adult man earlier that morning and identified the suspect with the assistance of SJPD's Real Time Intelligence Center and Automatic License Plate Reader cameras, authorities said. Police then obtained an arrest warrant for the suspect, authorities added. Anyone with further information on this incident is asked to contact Detective Gregory #4435 at 4435@sanjoseca.gov or 408-277-4102.",
-      "url": "https://www.eastbaytimes.com/2026/07/16/san-jose-man-arrested-for-allegedly-installing-hidden-camera-in-coffee-shop-bathroom/",
-      "source": "East Bay Times",
-      "image": "https://www.eastbaytimes.com/wp-content/uploads/2025/04/generic-body-found-police-crime-scene-03.webp?w=640",
-      "publishedAt": "2026-07-16T18:48:09Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"San Jose: Man arrested for allegedly installing hidden camera in coffee shop bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Wilsonville man sentenced for bathroom hidden camera",
-      "description": "PORTLAND, Ore. (KOIN) - A Wilsonville man was sentenced on Thursday after secretly filming a mother and her teen daughter in his home bathroom, according to court documents. Marcelino Mauro Vera-Ramirez, 44, was sentenced to six months in jail and must register as a sex offender. The sentence comes as Vera-Ramirez, a licensed chiropractor with an office in Tigard, pleaded guilty to invasion of privacy charges in February. According to the Clackamas County District Attorney's Office, a woman and her 14-year-old daughter were staying in his home. In June 2024, the DA's Office said the girl had stepped out of the shower when she noticed a camera in a waste basket attached to a cellphone that was \"camouflaged with toilet paper.\" The girl then told her mother who found the camera had been removed, authorities said. The following month, the mother got out of the shower and saw the hidden camera in the waste basket. Both took the camera to Wilsonville police, who obtained a search warrant, finding multiple videos of the mother and daughter \"nude or partially nude,\" the DA's Office said, noting they also found video of Vera Ramirez setting up the hidden camera. Vera Ramirez was taken into custody in December 2024, and he pleaded guilty to four counts of invasion of privacy on Feb. 17.",
-      "url": "https://www.koin.com/local/clackamas-county/portland-area-chiropractor-sentenced-for-home-bathroom-hidden-camera/",
-      "source": "KOIN 6 Portland",
-      "image": "https://www.koin.com/wp-content/uploads/sites/10/2023/10/gettyimages-925013506-2-e1697068242675.jpg?strip=1&w=640",
-      "publishedAt": "2026-07-16T21:57:34Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Wilsonville man sentenced for bathroom hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-17T13:22:47.063Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man arrested after hidden camera found inside restroom at San Jose coffee shop",
-      "description": "A 38-year-old San Jose man was arrested on suspicion of placing a hidden camera inside a public restroom at a coffee shop, police said.",
-      "url": "https://us.headtopics.com/news/man-arrested-after-hidden-camera-found-inside-restroom-at-85655890",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/7/17/nbcbayarea/man-arrested-after-hidden-camera-found-inside-rest-man-arrested-after-hidden-camera-found-inside-rest-9767DBDAAAAD7AC56E907A64622DD028.webp",
-      "publishedAt": "2026-07-17 01:07:10",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man arrested after hidden camera found inside restroom at San Jose coffee shop\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-17T13:22:47.063Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Sanborn man accused of installing hidden camera in neighbors' bedroom",
-      "description": "During an interview with investigators, court documents stated the defendant admitted entering the victim's house 12 times without permission.",
-      "url": "https://siouxcityjournal.com/news/local/crime-courts/article_d8061845-51c9-4878-a5b5-644a1bcda183.html",
-      "source": "Sioux City Journal News",
-      "image": null,
-      "publishedAt": "2026-07-16 20:23:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
+      "title": "Former Glendale teacher sentenced for recording students undressing",
+      "description": "GLENDALE, AZ -- A former Independence High School teacher has been sentenced to four years in prison for secretly recording students undressing in 2024. Estevan Carreon was arrested in March 2024. Court documents, at the time of the arrest, said Carreon arranged a meeting with students during spring break to receive extra credit. Before students arrived, court documents said Carreon set up spy cameras in the changing room of the classroom. The students were part of the school's media club. According to details from Maricopa County Superior Court, there was a plea agreement in June. He pleaded guilty to eight charges of voyeurism. It appears that 11 other charges were dismissed. On Friday, a judge sentenced Carreon to four years in prison and a lifetime of supervised probation with sex offender terms.",
+      "url": "https://www.abc15.com/news/region-west-valley/glendale/former-glendale-teacher-sentenced-for-recording-students-undressing",
+      "source": "abc15 Arizona",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/bf1f9bd/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause%2Fslices%2F663%2F5c3d34b8b29a45469a86c02775b7a2cf%2F6632571b52884196946ee600d90275f8%2Fposter_13cdce13009e4b178ac9933e7bcaea39.jpg",
+      "publishedAt": "2026-07-17T23:59:16Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 55,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Former Glendale teacher sentenced for recording students undressing\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-18T13:08:32.111Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Paedo menace jailed again for sick chats with children",
+      "description": "Thomas Heard shows little signs of changing A convicted paedophile has been sent to jail again for sending sex messages to children online. Thomas Heard was banned from making contact with children because of the danger he poses. But he ignored the restrictions and joined online chats with children during which he made enthusiastic requests to see them naked. He blamed loneliness, his autism and a difficult childhood for his problems, a court heard. But a judge said he showed little sign of changing and sentenced him to two years, plus an extended 12 months on licence due to the danger he poses. The defendant, aged 34, of Guinness Lane, Exeter, admitted two charges of engaging in sexual communication with children and three breaches of a sexual harm prevention order made by Truro Crown Court in 2020. The court was told Heard moved to Exeter in 2021. Police installed software on his device to keep an eye on what he was viewing. They were alerted to suspicious activity in June 2025. Heard was using Chatrandom to speak to boys aged 11. A month later he was using Snapchat to chat to teens. In August he was back on Chatrandom making video calls to more children asking to see them naked and holding his penis in his shorts. He was arrested on August 21. Heard has previous convictions for voyeurism in 2014 when he was found peeping at boys under a changing room cubicle at a holiday complex. He has further convictions for possessing and distributing indecent images of children and breaching his orders, the last being in 2022. Christopher Cuddihee, defending, said the offences only lasted six weeks. Heard was 'seeking friendship' and his porn addiction got out of hand. He has been looking for help with Sex Addicts Anonymous. \"He doesn't like the way he is,\" said Mr Cuddihee, who said the sentence could be suspended. Judge David Evans said the breaches were too serious. \"I conclude you pose a significant risk,\" he said. \"You offended despite doing a fair amount of reformative work. It is assuming too much to conclude the work will be successful. \"The recognition you have autism does not change the risk you pose. An extended sentence in necessary.\"",
+      "url": "https://www.devonlive.com/news/devon-news/paedo-menace-sent-back-jail-11064206",
+      "source": "Devon Live",
+      "image": "https://i2-prod.devonlive.com/article11064331.ece/ALTERNATES/s1200/0_Heard-Thomas-270192_result.jpg",
+      "publishedAt": "2026-07-17T14:00:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Sanborn man accused of installing hidden camera in neighbors' bedroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-17T13:22:47.063Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Paedo menace jailed again for sick chats with children\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-18T13:08:32.111Z"
     }
   ]
 }
