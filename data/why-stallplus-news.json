@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:12:36.691Z",
+  "updatedAt": "2026-07-20T14:00:26.342Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 4,
-    "rejected": 60,
+    "pending": 2,
+    "rejected": 65,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -117,51 +117,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Alleged baby killer, 21, gets brutal slap down from judge after her attorney moaned that her ankle monitor was 'like a ball and chain'\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
-      "flaggedAt": "2026-07-19T13:12:36.691Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "San Jose man arrested after hidden camera found in Starbucks bathroom",
-      "description": "Detectives identified 38-year-old San Jose resident, David Perales, as the primary suspect and obtained an arrest warrant, authorities said.",
-      "url": "https://us.headtopics.com/news/san-jose-man-arrested-after-hidden-camera-found-in-85711629",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/7/18/mercnews/san-jose-man-arrested-after-hidden-camera-found-in-san-jose-man-arrested-after-hidden-camera-found-in-DF1CAE0378B2B23C5B201329C94E5935.webp",
-      "publishedAt": "2026-07-18 19:36:39",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"San Jose man arrested after hidden camera found in Starbucks bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-19T13:12:36.691Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man accused of putting hidden camera in neighbors' bedroom",
-      "description": "SANBORN, Iowa — A Sanborn man was arrested Monday for allegedly installing a hidden camera in his neighbors' bedroom.",
-      "url": "https://siouxcityjournal.com/article_dce4b850-e311-5c88-a237-caa7d308070b.html",
-      "source": "Sioux City Journal News",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/custom/image/e99b3a88-c54c-11ea-8bc7-c382f0c7a0d6.jpg?resize=600%2C315",
-      "publishedAt": "2026-07-18 12:35:23",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of putting hidden camera in neighbors' bedroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-19T13:12:36.691Z"
+      "flaggedAt": "2026-07-20T14:00:26.342Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -183,7 +139,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Sicko arrested for stashing hidden camera in Starbucks bathroom as cops fear for more victims\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-19T13:12:36.691Z"
+      "flaggedAt": "2026-07-20T14:00:26.342Z"
     }
   ]
 }
