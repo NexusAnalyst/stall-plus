@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:00:26.342Z",
+  "updatedAt": "2026-07-21T13:43:44.552Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 2,
-    "rejected": 65,
+    "pending": 4,
+    "rejected": 63,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -117,7 +117,49 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Alleged baby killer, 21, gets brutal slap down from judge after her attorney moaned that her ankle monitor was 'like a ball and chain'\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
-      "flaggedAt": "2026-07-20T14:00:26.342Z"
+      "flaggedAt": "2026-07-21T13:43:44.552Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Singapore woman allegedly shared obscene images of young boys; took videos of girl, six, in bathroom",
+      "description": "SINGAPORE: A woman who allegedly shared with her husband obscene videos and pictures of two boys, aged one and four, has been charged with five counts of ill-treating a child and three counts of voyeurism. She also faces one count of electronically transmitting obscene videos and pictures of the boys to her spouse. The 29-year-old Indonesian woman, who appeared in a district court on July 21, also allegedly recorded videos of a six-year-old girl while the child was in the nude. Court documents did not disclose how the woman was linked to the three children, and she cannot be named owing to a gag order protecting their identities. According to court documents, the woman was in the Housing Board flat shortly before 7.30am on Feb 6 when she allegedly pinched the one-year-old boy's left cheek, causing him to cry. She is also accused of squeezing the child's cheeks and pinching his nose later that morning. She purportedly punched the four-year-old boy in the head multiple times the next day. On Feb 9, she allegedly used a shower head to spray water in the one-year-old boy's face for about 16 seconds. She is also accused of recording videos of the girl while the child was in the nude in a bathroom that day. On March 9, the woman purportedly kicked the four-year-old boy in the head twice and took a video of the child while she was showering him. Between February and March, she allegedly shared obscene videos and pictures of the two boys with her husband. The woman's pre-trial conference will take place in August. - The Straits Times/ANN",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/21/singapore-woman-allegedly-shared-obscene-images-of-young-boys-took-videos-of-girl-six-in-bathroom",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/21/4021662.png",
+      "publishedAt": "2026-07-21T13:06:31Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Singapore woman allegedly shared obscene images of young boys; took videos of girl, six, in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-21T13:43:44.552Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom",
+      "description": "The woman cannot be named due to a gag order to protect the identities of the three children. SINGAPORE - A woman was in a flat when she allegedly shared with her husband obscene videos and pictures of two boys who were one and four years old. The 29-year-old Indonesian woman, who appeared in a district court on July 21, is also accused of inflicting unnecessary pain and suffering on the boys. Separately, she allegedly recorded videos of a six-year-old girl while the child was in the nude. Court documents did not disclose how the woman was linked to the three children, and she cannot be named due to a gag order protecting their identities. She has been charged with five counts of ill-treating a child and three counts of voyeurism. She also faces one count of electronically transmitting obscene videos and pictures of the boys to her spouse. According to court documents, the woman was in the Housing Board flat shortly before 7.30am on Feb 6 when she allegedly pinched the one-year-old boy's left cheek, causing him to cry. She is also accused of squeezing the child's cheeks and pinching his nose later that morning. The woman purportedly punched the four-year-old boy's head multiple times the next day. On Feb 9, she allegedly sprayed water from a shower head onto the one-year-old boy's face for about 16 seconds. She is also accused of recording videos of the girl while the child was in the nude in a bathroom that day. On March 9, the woman purportedly kicked the four-year-old boy's head twice and took a video of the child while she was showering him. Between February and March, she allegedly shared obscene videos and pictures of the two boys with her husband. The woman's pre-trial conference will take place in August.",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/woman-allegedly-shared-obscene-images-of-young-boys-took-videos-of-girl-6-in-bathroom",
+      "source": "The Straits Times",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d8a4e0fbd98f21ab1a1ee0b9b047c4648b2b71652add1990d4866cd14b70662c",
+      "publishedAt": "2026-07-21T10:15:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-21T13:43:44.552Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -139,7 +181,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Sicko arrested for stashing hidden camera in Starbucks bathroom as cops fear for more victims\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-20T14:00:26.342Z"
+      "flaggedAt": "2026-07-21T13:43:44.552Z"
     }
   ]
 }
