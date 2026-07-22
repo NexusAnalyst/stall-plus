@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T13:43:44.552Z",
+  "updatedAt": "2026-07-22T13:46:23.528Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 4,
-    "rejected": 63,
+    "published": 3,
+    "pending": 8,
+    "rejected": 60,
     "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 0
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -54,6 +54,28 @@
     }
   ],
   "articles": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Indian-Origin Doctor In US Jailed For Secretly Recording Women In Hospital Restrooms",
+      "description": "Before sentencing, Deshmukh apologised to the victims. An Indian-origin doctor in the US state of Ohio has been sentenced to six months in jail after pleading guilty to secretly recording women in employee restrooms at Toledo Hospital. The accused, identified as Advait Deshmukh, a former third-year resident at the University of Toledo specialising in endourology and urologic oncology, was sentenced by Lucas County Common Pleas Court after admitting to one count of attempted tampering with evidence and seven counts of voyeurism. Judge Michael Goulding also ordered Deshmukh to serve three years of probation, register as a sex offender for 15 years, attend Sexaholics Anonymous meetings and continue sex offender and mental health treatment. The judge also told the court that Deshmul communicated to the court that he plans to relocate to a new county in Ohio -- Franklin -- but he will have to continue the measures there and register as a sex offender. Before sentencing, Deshmukh apologised to the victims. His attorney sought probation instead of jail, arguing that he was undergoing therapy to better understand the behaviour that led to the offences. One of the six identified victims, a Toledo Hospital employee identified as Lindsay, told the court that the incident had left her traumatised. She said she still checks public restrooms for hidden cameras and remains distressed over not knowing where the images may have ended up. \"Not knowing what was done with the photos is enough to keep me up at night,\" she said. \"As we all know, nothing is truly ever deleted.\" The case came to light in June 2025 after a hospital employee discovered a cellphone hidden inside a box in a unisex restroom at Toledo Hospital's Renaissance Tower. Prosecutors said Deshmukh attempted to retrieve the device and claimed it belonged to him when another employee tried to remove it. A joint investigation by ProMedica and the Toledo Police recovered 82 images from the phone, taken between February and May 2025. Investigators identified six victims, none of whom had consented to being recorded, though authorities said there could be more victims. During the sentencing hearing, the judge also noted investigators had found evidence suggesting similar recordings may have dated back to 2018. The University of Toledo said he was placed on administrative leave after the device was discovered and that his residency appointment was not renewed following an internal investigation.",
+      "url": "https://www.news18.com/world/indian-origin-doctor-in-us-jailed-for-secretly-recording-women-in-hospital-restrooms-ws-l-10226542.html",
+      "source": "News18",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/NW18-2026-07-78defe4a9809f4dc28111d7a50f1647f-1200x675.png",
+      "publishedAt": "2026-07-22T04:34:59Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 80,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Indian-Origin Doctor In US Jailed For Secretly Recording Women In Hospital Restrooms\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
     {
       "provider": "NewsAPI.ai",
       "title": "San Jose man arrested after hidden camera found in Starbucks bathroom",
@@ -99,6 +121,95 @@
   ],
   "pendingReview": [
     {
+      "provider": "NewsAPI.ai",
+      "title": "Indian-origin doctor in Ohio sentenced to jail for secretly recording women in hospital restroom - CNBC TV18",
+      "description": "Deshmukh was sentenced in June in Lucas County Common Pleas Court after he admitted to secretly recording women in employee restrooms at Toledo Hospital. An Indian-origin doctor has been sentenced to six months in jail after admitting to secretly recording women inside employee restrooms at Toledo Hospital in Ohio, US. Advait Deshmukh pleaded guilty to one count of attempted tampering with evidence and seven counts of voyeurism, reported WTOL 11. Along with the jail term, he was ordered to serve three years of probation and register as a sex offender for 15 years. According to Fox 19, Deshmukh will be on active adult probation until June 2029. Court orders probation and sex offender registration Judge Michael Goulding directed Deshmukh to attend Sexaholics Anonymous meetings and continue treatment as part of his sentence. Deshmukh reportedly informed the court of his plans to relocate to Franklin County, Ohio, where he will remain subject to the same probation conditions and sex offender registration requirements. ALSO READ | Pakistan seeks $10 billion US fund after mediating Iran talks: ReportHidden phone discovered in hospital restroom The case began in June 2025, when a hospital employee found a cellphone hidden inside a box in a unisex restroom in Toledo Hospital's Renaissance Tower. Prosecutors said that when the employee tried to remove the device, Deshmukh took hold of it and claimed it belonged to him. A joint investigation by ProMedica and the Toledo Police recovered 82 images from the phone that had been taken between February and May 2025. Investigators identified six victims but said there could be additional victims. Doctor apologises during sentencing Before sentencing, Deshmukh apologised to the victims. His lawyer urged the court to impose probation instead of a jail sentence, arguing that he had been undergoing therapy to understand and address the behaviour that led to the offences. ALSO READ | S Jaishankar meets Chinese Foreign Minister Wang Yi, says India-China ties are 'gradually normalising' The case involved six identified victims. One of them, Lindsay, an employee at Toledo Hospital, told the court the incident had left her traumatised. She said she now checks restrooms for hidden cameras and continues to worry about where the images may have ended up. \"Not knowing what was done with the photos is enough to keep me up at night. As we all know, nothing is truly ever deleted,\" she told the court. Lindsay also said the violation continued during the investigation because investigators, lawyers and others involved in the case had viewed the images, and she did not know how many people had seen them.",
+      "url": "https://www.cnbctv18.com/world/indian-origin-doctor-in-ohio-sentenced-to-jail-for-secretly-recording-women-in-hospital-restroom-19951515.htm",
+      "source": "cnbctv18.com",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-a8b4510ed22b0714f585494689d9dbbd.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-22T10:26:34Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Indian-origin doctor in Ohio sentenced to jail for secretly recording women in hospital restroom - CNBC TV18\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Indian origin doctor jailed in US for placing hidden camera in staff bathroom",
+      "description": "WASHINGTON: A court has found an Indian-origin doctor identified as Advait Deshmukh guilty of placing a hidden camera in the staff bathroom of a hospital. He was sentenced to six months in prison. The court also extended his probation period by three years. The court found him as a sex offender and also ordered him to seek mental health treatment, according to the sentencing guidelines. The incident came to light when a mobile phone was found hidden in a public bathroom at ProMedica Toledo Hospital in Ohio. When a witness tried to remove the mobile phone, Advait claimed that it belonged to him. The shocking information came to light when suspicious employees filed a complaint. Based on the complaint, the police, who investigated, found about 80 nude photos. Later, a detailed investigation revealed that these photos were taken in February and May 2025. When talked to the women in the photos, it was found that they were not taken with their consent. Since there are indications that similar visuals have been captured since 2018, the police believe that there may be more photos and victims. At the time of the crime, Deshmukh was a third-year medical resident at the University of Toledo. He was specialising in endourology and urologic oncology. But after his cell phone was found in the bathroom, the University of Toledo placed him on mandatory leave and, following an internal investigation, decided not to renew his residency appointment. Advait apologized to the victims before the court sentenced him.",
+      "url": "https://keralakaumudi.com/en/world/america/indian-origin-doctor-jailed-in-us-for-placing-hidden-camera-in-staff-bathroom-1782301",
+      "source": "Keralakaumudi.com",
+      "image": "https://keralakaumudi.com/web-news/en/2026/07/NMAN0691737/image/advait-deshmukh.1.3942412.webp",
+      "publishedAt": "2026-07-22T10:26:43Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Indian origin doctor jailed in US for placing hidden camera in staff bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Former church member speaks out against youth pastor charged With video voyeurism",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A former member of the Heritage Community Church in Fruitland Park said an ex-youth pastor betrayed the trust of the congregation and young women. Bart Lucas, 59, was arrested in June and charged with video voyeurism after multiple images of nude or partially nude young girls and women were found on his hard drive during a system upgrade. \"He presented just like the normal average dad,\" said Regina Alonso, who attended the church as a teen. \"I click on (a headline) and I immediately see Bart Lucas' face and my brain kind of goes spinning for a second. How did this happen? When did this happen?\" Investigators said the videos captured were recorded by cameras Lucas placed inside the women's restroom in the church and in the baptismal pool area. One of the girls caught on camera is a childhood friend of Alonso, who she says was underage at the time. A picture Alonso provided to Eyewitness News shows that same girl being baptized by Lucas. \"She is definitely swept up in a whirlwind of emotions that I don't even think she can describe to me,\" Alonso said. \"I am so very angry that my friend has to even go through this. I've known this friend since I was in first grade. And I never thought Bart Lucas would do anything similar to this.\" A spokesman with the Lake County Sheriffs Office said he can't comment on the number of victims because the case is still open. Lucas is due back in court next month. Click here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.",
+      "url": "https://www.yahoo.com/news/us/articles/former-church-member-speaks-against-034348902.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/f9269cc7f7124b35e394cc4e392df751e6aea08aee146c9f5741062b31a9f4f0/lightyear_networkapi/resizefill_w300_h169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwftv_cox_articles_135%2F5af26bf90320eaa7f138e6a7f4b711d1",
+      "publishedAt": "2026-07-22T03:43:48Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Former church member speaks out against youth pastor charged With video voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden Camera in Hospital Bathroom: Why an Indian-Origin Doctor Was Jailed in the US",
+      "description": "An Indian-origin doctor has been sentenced in the US after secretly recording staff in a hospital bathroom. Here's how the case unfolded, what investigators found, and the punishment imposed. An Indian-born doctor in the US has been sent to jail for six months following his conviction on charges of placing a hidden camera in a staff bathroom in a hospital. The accused, Advait Deshmukh, was also given three years of probation by the court. It has further imposed a sentence of 15 years as a sex offender and has instructed him to be a member of Sexaholics Anonymous, undertake sex offender treatment and complete all other judicial orders. The ex-doctor has admitted his guilt to one count of attempted tampering with evidence and seven counts of voyeurism. He is expected to remain on probation until June 2029. It has been recorded in court documents that Advait Deshmukh intends to shift to Franklin County, where he will undergo therapy and comply with sex offender registration. The investigation started in June 2025, when an employee discovered the phone placed inside a gender-neutral staff bathroom in ProMedica Toledo Hospital in Ohio. As stated in various reports, when another employee was trying to take away the phone, Deshmukh took it back and claimed that the phone belonged to him. It was found out in a joint investigation conducted by Toledo police and ProMedica that there were more than 80 photographs saved in the phone. It is said that those pictures were taken between February and May 2025. There were six victims who did not give permission for recording, but investigators are sure that there could be other victims because recordings might have been done since 2018. Deshmukh was at that time a third-year medical resident of the University of Toledo, learning how to work as an endourologist and urologic oncologist. As a result of the discovery of the hidden camera, the university put Deshmukh on administrative leave. After an internal investigation was conducted, Deshmukh's residency appointment was not renewed. Deshmukh apologised to the victims prior to sentencing in the court. The lawyers of Deshmukh requested that the court sentence him to probation rather than imprisonment. The defence team noted that he was attending therapy classes so as to learn more about the behaviour leading to these criminal activities. The court, however, sentenced Deshmukh to six months of imprisonment followed by three years of probation. As a part of the sentence, Deshmukh will have to remain registered as a sex offender for 15 years, to continue his treatment and participate in various support groups. Stay informed on all the latest news, breaking news updates, and check all the important headlines in India news, World News, Sports News and Entertainment News on NewsX. Follow Us on Facebook, Twitter.",
+      "url": "https://www.newsx.com/world/hidden-camera-in-hospital-bathroom-why-an-indian-origin-doctor-was-jailed-in-the-us-251095/",
+      "source": "NewsX",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/07/doctor.jpg",
+      "publishedAt": "2026-07-22T08:28:11Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 55,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Hidden Camera in Hospital Bathroom: Why an Indian-Origin Doctor Was Jailed in the US\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
+    },
+    {
       "provider": "NewsAPI.org",
       "title": "Alleged baby killer, 21, gets brutal slap down from judge after her attorney moaned that her ankle monitor was 'like a ball and chain'",
       "description": "Brianna Moore, who allegedly killed her newborn after giving birth in a University of Tampa dorm bathroom, had her ankle monitor likened to a 'ball and chain' by attorney Jonah Dickstein.",
@@ -117,16 +228,16 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Alleged baby killer, 21, gets brutal slap down from judge after her attorney moaned that her ankle monitor was 'like a ball and chain'\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
-      "flaggedAt": "2026-07-21T13:43:44.552Z"
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Singapore woman allegedly shared obscene images of young boys; took videos of girl, six, in bathroom",
-      "description": "SINGAPORE: A woman who allegedly shared with her husband obscene videos and pictures of two boys, aged one and four, has been charged with five counts of ill-treating a child and three counts of voyeurism. She also faces one count of electronically transmitting obscene videos and pictures of the boys to her spouse. The 29-year-old Indonesian woman, who appeared in a district court on July 21, also allegedly recorded videos of a six-year-old girl while the child was in the nude. Court documents did not disclose how the woman was linked to the three children, and she cannot be named owing to a gag order protecting their identities. According to court documents, the woman was in the Housing Board flat shortly before 7.30am on Feb 6 when she allegedly pinched the one-year-old boy's left cheek, causing him to cry. She is also accused of squeezing the child's cheeks and pinching his nose later that morning. She purportedly punched the four-year-old boy in the head multiple times the next day. On Feb 9, she allegedly used a shower head to spray water in the one-year-old boy's face for about 16 seconds. She is also accused of recording videos of the girl while the child was in the nude in a bathroom that day. On March 9, the woman purportedly kicked the four-year-old boy in the head twice and took a video of the child while she was showering him. Between February and March, she allegedly shared obscene videos and pictures of the two boys with her husband. The woman's pre-trial conference will take place in August. - The Straits Times/ANN",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/21/singapore-woman-allegedly-shared-obscene-images-of-young-boys-took-videos-of-girl-six-in-bathroom",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/21/4021662.png",
-      "publishedAt": "2026-07-21T13:06:31Z",
+      "title": "Indian-Origin Doctor Jailed In US For Recording Hospital Staff In Bathroom",
+      "description": "Deshmukh was a third-year University of Toledo medical resident. ShowQuick Read Summary is AI-generated, newsroom-reviewed * Indian-origin doctor Advait Deshmukh was sentenced to six months in prison for voyeurism offenses * He pleaded guilty to attempted evidence tampering and seven counts of voyeurism in court * Deshmukh must register as a sex offender for 15 years and attend therapy sessions Washington: An Indian-origin doctor has been convicted of placing a hidden camera in a staff bathroom of a hospital in the United States. Advait Deshmukh has received a six-month prison sentence and three years of probation at sentencing, court records have shown. Terms of his sentencing also included community control, including registering as a sex offender for 15 years, attending Sexaholics Anonymous meetings and continuing sex offender and mental health treatment, among other terms. Court records show the former physician was sentenced last month in Lucas County Common Pleas Court after pleading guilty to one count of attempted tampering with evidence and seven counts of voyeurism. Deshmukh will be on active adult probation until June of 2029, according to Fox 19. The judge said the former physician has communicated to the court that he plans to relocate to Franklin County, where he will need to continue those efforts and register. The Case The case against the Indian-origin man began in June 2025, when an employee discovered a cellphone hidden inside a unisex restroom at the ProMedica Toledo Hospital in Ohio. When a witness attempted to remove the device, Deshmukh took it from them, claiming it belonged to him, a Wtol 11 report said. Later, a joint probe by Toledo Police and ProMedica found over 80 images on the phone, taken between February and May 2025. Investigators also identified six victims, none of whom had given consent to be recorded. Cops believe there could be more photos and victims, with evidence suggesting similar recordings may have dated back to 2018. At the time when the crime was discovered, Deshmukh was a third-year University of Toledo medical resident. He was specialising in endourology and urologic oncology. But after the device was discovered, the University of Toledo placed him on administrative leave and said his residency appointment was not renewed following an internal investigation. Deshmukh reportedly apologised to the victims before sentencing. His attorney requested the court to impose probation rather than jail time, arguing the former physician is participating in therapy to better understand the behaviour that led to the crimes. How may i help you today Show full article Track Latest News Live on NDTV.com and get news updates from India and around the world Indian Origin Man Jailed In US, Indian Doctor Charged In US, Sexual Harassment",
+      "url": "https://www.ndtv.com/world-news/indian-origin-doctor-advait-deshmukh-jailed-in-us-for-recording-hospital-staff-in-bathroom-11804576",
+      "source": "NDTV",
+      "image": "https://c.ndtvimg.com/2026-07/vlt657p_advait-deshmukh-_625x300_22_July_26.jpeg",
+      "publishedAt": "2026-07-22T06:10:55Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -137,17 +248,17 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Singapore woman allegedly shared obscene images of young boys; took videos of girl, six, in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-21T13:43:44.552Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Indian-Origin Doctor Jailed In US For Recording Hospital Staff In Bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom",
-      "description": "The woman cannot be named due to a gag order to protect the identities of the three children. SINGAPORE - A woman was in a flat when she allegedly shared with her husband obscene videos and pictures of two boys who were one and four years old. The 29-year-old Indonesian woman, who appeared in a district court on July 21, is also accused of inflicting unnecessary pain and suffering on the boys. Separately, she allegedly recorded videos of a six-year-old girl while the child was in the nude. Court documents did not disclose how the woman was linked to the three children, and she cannot be named due to a gag order protecting their identities. She has been charged with five counts of ill-treating a child and three counts of voyeurism. She also faces one count of electronically transmitting obscene videos and pictures of the boys to her spouse. According to court documents, the woman was in the Housing Board flat shortly before 7.30am on Feb 6 when she allegedly pinched the one-year-old boy's left cheek, causing him to cry. She is also accused of squeezing the child's cheeks and pinching his nose later that morning. The woman purportedly punched the four-year-old boy's head multiple times the next day. On Feb 9, she allegedly sprayed water from a shower head onto the one-year-old boy's face for about 16 seconds. She is also accused of recording videos of the girl while the child was in the nude in a bathroom that day. On March 9, the woman purportedly kicked the four-year-old boy's head twice and took a video of the child while she was showering him. Between February and March, she allegedly shared obscene videos and pictures of the two boys with her husband. The woman's pre-trial conference will take place in August.",
-      "url": "https://www.straitstimes.com/singapore/courts-crime/woman-allegedly-shared-obscene-images-of-young-boys-took-videos-of-girl-6-in-bathroom",
-      "source": "The Straits Times",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d8a4e0fbd98f21ab1a1ee0b9b047c4648b2b71652add1990d4866cd14b70662c",
-      "publishedAt": "2026-07-21T10:15:00Z",
+      "title": "Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom | STOMP",
+      "description": "Shaffiq Alkhatib The Straits Times July 21, 2026 A woman who allegedly shared with her husband obscene videos and pictures of two boys, aged one and four, has been charged with five counts of ill-treating a child and three counts of voyeurism. She also faces one count of electronically transmitting obscene videos and pictures of the boys to her spouse. The 29-year-old Indonesian woman, who appeared in a district court on July 21, also allegedly recorded videos of a six-year-old girl while the child was in the nude. Court documents did not disclose how the woman was linked to the three children, and she cannot be named owing to a gag order protecting their identities. According to court documents, she was in the HDB flat shortly before 7.30am on Feb 6 when she allegedly pinched the one-year-old boy's left cheek, causing him to cry. She is also accused of squeezing his cheeks and pinching his nose later that morning. She purportedly punched the four-year-old boy in the head multiple times the next day. On Feb 9, she allegedly used a shower head to spray water in the one-year-old boy's face for about 16 seconds. She is also accused of recording videos of the girl while the child was in the nude in a bathroom that day. On March 9, she purportedly kicked the four-year-old boy in the head twice and took a video of him while she was showering him. Between February and March, she allegedly shared obscene videos and pictures of the two boys with her husband. Her pre-trial conference will take place in August.",
+      "url": "https://www.stomp.sg/trending-now/woman-allegedly-shared-obscene-images-young-boys-took-videos-girl-6-bathroom",
+      "source": "STOMP",
+      "image": "https://cassette.sphdigital.com.sg/image/stomp/7f97ea84364ee17a9b1ceb84951dfe4ab75214657f430a822bd0e33d14cc8c12",
+      "publishedAt": "2026-07-22T04:29:34Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -158,8 +269,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-07-21T13:43:44.552Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Woman allegedly shared obscene images of young boys; took videos of girl, 6, in bathroom | STOMP\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -181,7 +292,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Sicko arrested for stashing hidden camera in Starbucks bathroom as cops fear for more victims\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-21T13:43:44.552Z"
+      "flaggedAt": "2026-07-22T13:46:23.528Z"
     }
   ]
 }
