@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T13:51:11.592Z",
+  "updatedAt": "2026-07-24T13:39:08.689Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 0,
-    "rejected": 68,
+    "pending": 2,
+    "rejected": 65,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -78,46 +78,91 @@
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "San Jose man arrested after hidden camera found in Starbucks bathroom",
-      "description": "A San Jose man was arrested after a hidden camera was found in a Starbucks bathroom at a downtown San Jose coffee shop last month, authorities said Thursday. According to the San Jose Police Department, officers responded to a report of an invasion of privacy incident at a Starbucks located in the 100 block of East Santa Clara Street on June 9 at around 9:30 a.m., after an employee of the business located a hidden camera in the public restroom. Authorities said SJPD Sexual Assaults Investigation Unit detectives discovered the camera had been installed by an adult male suspect that same morning and was operating for about 30 minutes, from 9-9:30 a.m. Detectives used assistance from the SJPD Real Time Intelligence Center and Automated License Plate Reader cameras to identify the suspect vehicle and suspect, the department said. Detectives identified 38-year-old San Jose resident, David Perales, as the primary suspect and obtained an arrest warrant, authorities said. Perales was located and arrested on July 2 and booked into Santa Clara County Main Jail for invasion of privacy, the department said. Anyone with information about this case or similar cases is asked to contact Detective Gregory of the San José Police Department Sexual Assaults Investigation Unit via email: 4435@sanjoseca.gov or cell at 408-277-4102.",
-      "url": "https://www.pressdemocrat.com/2026/07/18/san-jose-man-arrested-after-hidden-camera-found-in-starbucks-bathroom/",
-      "source": "Santa Rosa Press Democrat",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/06/generic-crime-scene-police-tape-1.jpg?w=640",
-      "publishedAt": "2026-07-18T18:27:33Z",
+      "title": "South Korea to install hidden camera detectors in public restrooms",
+      "description": "SEOUL: South Korea will add hidden camera detection systems to the safety equipment installed in public restrooms under a legal revision passed by the National Assembly on Thursday (July 23). The amendment to the Public Toilets Act requires local governments to install safety equipment including emergency bells and systems designed to detect illegal recording devices. Municipal authorities will also be required to inspect how the equipment is operated. The current law requires mayors, county chiefs and district heads to install safety facilities, such as emergency bells, to prevent crimes and accidents in public restrooms. The revision, passed at a plenary session of the National Assembly on July 23, explicitly adds illegal camera detection systems to the list. The measure comes as covert filming continues to be reported in public restrooms. Police detected 1,457 illegal filming cases in such facilities between 2021 and 2023, according to police data submitted to a lawmaker in 2025. Authorities have conducted regular inspections of public restrooms using camera detection equipment, but the devices were not previously specified as required safety facilities under the law. - The Korea Herald/ANN",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/south-korea-to-install-hidden-camera-detectors-in-public-restrooms",
+      "source": "The Star",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4026087.png",
+      "publishedAt": "2026-07-24T05:53:04Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
       "confidence": 75,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (4 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"San Jose man arrested after hidden camera found in Starbucks bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "San Jose man arrested after hidden camera found in Starbucks bathroom",
-      "description": "A San Jose man was arrested after a hidden camera was found in a Starbucks bathroom at a downtown San Jose coffee shop last month, authorities said Thursday. According to the San Jose Police Department, officers responded to a report of an invasion of privacy incident at a Starbucks located in the 100 block of East Santa Clara Street on June 9 at around 9:30 a.m., after an employee of the business located a hidden camera in the public restroom. Authorities said SJPD Sexual Assaults Investigation Unit detectives discovered the camera had been installed by an adult male suspect that same morning. Detectives used assistance from the SJPD Real Time Intelligence Center and Automated License Plate Reader cameras to identify the suspect vehicle and suspect, the department said. Detectives identified 38-year-old San Jose resident, David Perales, as the primary suspect and obtained an arrest warrant, authorities said. Perales was located and arrested on July 2 and booked into Santa Clara County Main Jail for invasion of privacy, the department said. Anyone with information about this case or similar cases is asked to contact Detective Gregory of the San José Police Department Sexual Assaults Investigation Unit via email: 4435@sanjoseca.gov or cell at 408-277-4102.",
-      "url": "https://www.mercurynews.com/2026/07/18/san-jose-man-arrested-after-hidden-camera-found-in-starbucks-bathroom/",
-      "source": "San Jose Mercury News",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/06/generic-crime-scene-police-tape-1.jpg?w=640",
-      "publishedAt": "2026-07-18T18:27:33Z",
+      "title": "South Korea to install hidden camera detectors in public restrooms",
+      "description": "The move responds to 1,457 cases of covert filming in restrooms from 2021 to 2023, highlighting ongoing concerns about privacy violations and public safety. SEOUL - South Korea will add hidden camera detection systems to the safety equipment installed in public restrooms under a legal revision passed by the National Assembly on July 23. The amendment to the Public Toilets Act requires local governments to install safety equipment including emergency bells and systems designed to detect illegal recording devices. Municipal authorities will also be required to inspect how the equipment is operated. The current law requires mayors, county chiefs and district heads to install safety facilities, such as emergency bells, to prevent crimes and accidents in public restrooms. The revision, passed at a plenary session of the National Assembly on July 23, explicitly adds illegal camera detection systems to the list. The measure comes as covert filming continues to be reported in public restrooms. Police detected 1,457 illegal filming cases in such facilities between 2021 and 2023, according to police data submitted to a lawmaker in 2025. Authorities have conducted regular inspections of public restrooms using camera detection equipment, but the devices were not previously specified as required safety facilities under the law. THE KOREA HERALD/ASIA NEWS NETWORK",
+      "url": "https://www.straitstimes.com/asia/east-asia/south-korea-to-install-hidden-camera-detectors-in-public-restrooms",
+      "source": "The Straits Times",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/88d3a742bb0e39f9e73b3be184a9b6300f4c73f6e58af74e459afbe2e463e9a1",
+      "publishedAt": "2026-07-24T04:45:00Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
       "confidence": 75,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (4 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"San Jose man arrested after hidden camera found in Starbucks bathroom\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden camera found inside restroom at Curaleaf marijuana dispensary in Worth, Illinois",
+      "description": "Police are investigating after a hidden camera was found inside the bathroom of a marijuana dispensary in southwest suburban Worth. Cameras outside Curaleaf at 114th Street and Harlem Avenue are expected, but police were called to the cannabis dispensary in June after employees discovered a hidden camera inside a restroom. A police report shows officers collected a USB cord, a black battery power bank, and one mini spy screw camera attached to a motherboard. \"In the second bathroom closest to the wall, and then it was underneath the sink,\" said Curaleaf employee Samantha Dean. Dean said she's worked as a budtender at Curaleaf in Worth for about three years, and while she didn't find the camera, coworkers told her that a memory card was also discovered in the bathroom that both employees and customers can access. \"Oh, it's awful,\" she said. \"To feel like my body could be anywhere in this world at this point, especially because time is just going on and on and on, and we have no idea if it was hooked to the internet. We have nothing,\" she said. Employees told Worth police the camera was affixed under the sink and pointed at the toilet. Dean said she's \"highly, highly confident\" the camera recorded her using the restroom. \"I cannot use the restroom up there there at all. I'm grateful I live close, so I'm able to go home and use the bathroom when I have to,\" she said. Curaleaf did not respond to repeated attempts to contact them for comment. \"First and foremost, we need to find out who did it, because he's assaulted us all,\" Dean said.",
+      "url": "https://www.cbsnews.com/chicago/news/hidden-camera-restroom-curaleaf-marijuana-dispensary/",
+      "source": "CBS News",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/24/0e726bcf-5165-45c0-969c-3b9deb2746a5/thumbnail/1200x630/3741bca479e7beb1e5100e15b48662a1/curaleaf.jpg",
+      "publishedAt": "2026-07-24T03:19:52Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found inside restroom at Curaleaf marijuana dispensary in Worth, Illinois\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-24T13:39:08.689Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Dispensary under investigation after hidden camera found in bathroom",
+      "description": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.newsbreak.com/news/4788358870585-dispensary-under-investigation-after-hidden-camera-found-in-bathroom",
+      "source": "Newsbreak",
+      "image": null,
+      "publishedAt": "2026-07-24 00:00:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Dispensary under investigation after hidden camera found in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-24T13:39:08.689Z"
+    }
+  ]
 }
