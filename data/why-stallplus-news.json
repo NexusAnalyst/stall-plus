@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T13:19:31.298Z",
+  "updatedAt": "2026-07-26T13:15:40.967Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 3,
-    "rejected": 64,
+    "pending": 0,
+    "rejected": 66,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -119,69 +119,5 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Public toilets to get spycam detectors",
-      "description": "THE government will add hidden camera detection systems to the safety equipment installed in public restrooms under a legal revision passed by the National Assembly. The amendment to the Public Toilets Act requires local governments to install safety equipment including emergency bells and systems designed to detect illegal recording devices. Municipal authorities will also be required to inspect how the equipment is operated. The current law requires mayors, county chiefs and district heads to install safety facilities, such as emergency bells, to prevent crimes and accidents in public restrooms. The revision, passed at a plenary session of the National Assembly on Thursday, explicitly adds illegal camera detection systems to the list. The measure comes as covert filming continues to be reported in public restrooms. Police detected 1,457 illegal filming cases in such facilities between 2021 and 2023, according to police data submitted to a lawmaker in 2025. Authorities have conducted regular inspections of public restrooms using camera detection equipment, but the devices were not previously specified as required safety facilities under the law. -- The Korea Herald/ANN",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/25/public-toilets-to-get-spycam-detectors",
-      "source": "The Star",
-      "image": null,
-      "publishedAt": "2026-07-25T00:00:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Public toilets to get spycam detectors\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-25T13:19:31.298Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Asean News Headlines at 10pm on Friday (July 24, 2026)",
-      "description": "* End race-based politics and support leaders with integrity, says PM Anwar * No problems, only poems: Zahid plays down pantun exchange with Anwar * Blue wave will reach Negri Sembilan, says Zahid * Malaysia faces 10% duty under US's new Section 301 tariffs over forced labour import rules * Malaysia to negotiate with US on unfavourable tariffs, says PM * Malaysia is not anti-Semitic, only opposes Israeli oppression, says Anwar * Pakatan should stop blaming others over weak Malay support, says KJ * Govt to continue tariff talks with us over forced labour issue, says PM Anwar * Anwar: Former PKR members who won on reform agenda should not criticise party * Three arrested in Johor over crypto mining operation fueled by stolen power * Warisan asks if second alleged harassment case could have been prevented * Depositors deserve answers on Tabung Haji RCI report, says Amanah sec-gen * Online loan scammers now target neighbours to force debt repayment * PNB deposited RM20.3mil to FashionValet, court told * Police step up crackdown on begging syndicates in KL * Grenade activated before being thrown, says Defence Ministry * Negri polls: Don't compare with Johor Malay voters, says Aminuddin * Anwar: Tabung Haji RCI withheld three years ago to protect public confidence * Loke dismisses Negri MB candidate claims as 'malicious talk', says Tok Min remains Pakatan's pick * 'Unification of the ummah' failed to bring economic progress in PAS states, says Amirudin * Fadillah calls on Malaysian missions abroad to explore strategic cooperation * Malayan tiger population rebounds under BP3 conservation programme * No compromise on violence after viral student fight, says Selangor Education Dept * Appointment of 10 deputy state exco members within Johor govt's powers, says Onn Hafiz * Three Rohingya men arrested for using fake UNHCR cards * Police investigating teen's fatal fall at Komtar Skywalk Singapore * Sex predator admits assaulting 11 children including daughter, granddaughters, nieces * Trump imposes new 12.5% tariff on Singapore on alleged forced labour ban violation * What the Cabinet reshuffle says about Singapore's strategy for uncertain times: Analysis * Asia is set to swelter next week, and that also threatens energy supplies * Singapore's GIC to invest an additional US$30bil in hedge funds * 'Captain Marvel' Harun eyes another chapter in Singapore's Asean Hyundai Cup story * From trade hubs to attractions: China's wholesale markets are becoming tourist hot spots * Heavy traffic on Singapore's East Coast Parkway after sports car catches fire; no injuries reported * US universities remain popular with Singaporean students, despite stricter visa rules * Two Singaporean doctors, woman charged with planning drug party; offence carries maximum 20 years' jail sentence * Woman who fatally stabbed boyfriend in Singapore's Beach Road condo gets 12 years' jail Indonesia * Cabinet seating change fuels questions over Prabowo-Gibran dynamics * West Papua rebels kill three indigenous Papuans * Indonesia to acquire 12 Italian M-346 fighter trainer aircraft * Indonesia: FBI head returns cultural artefacts * Markets - Surging oil prices sap appetite for equities/ Oil tops US$100 as Houthi attacks raise supply risks * Jazz starlet Atilia Haron teams up with Indonesian Sore Ze Band for a special concert in Ampang on Sept 19 * Indonesian man gets 60 years' jail and 60 strokes for raping own daughter Thailand * Thailand and Singapore central banks deepen cybersecurity cooperation * Bangkok bus stranded across railway tracks after sudden traffic stop, driver disciplined * Thai travellers embrace 'run-cation' as marathon trips surge across Asia * Thai FM and US Secretary of State Rubio hold talks on security, economy and regional issues * Asian stocks skid as oil spike revives inflation fears, bonds take a hit * Thailand: Five rangers killed in the south * Thailand imposes martial law in Narathiwat to track down attack suspects Philippines * Philippines to appeal for new US tariff to be cut to 10 per cent, says envoy * Negros town forms task force to protect local crab industry amid US export ban * Trump to take up Manila's concerns with Xi, says Philippines * Philippines accuses China of using water cannon on its vessels for a second day * Philippines - Middle East tops Asean agenda * Philippine Coconut Authority seeks funding for 100 million-tree coconut revival Vietnam * Forced-labour goods, uncertified rough diamonds added to Vietnam trade blacklist * Vietnam proposes banning under-16s from posting on social media * New Vietnam ruling to bar transit vessels from allowing disembarkation without authorisation * Vietnam: Hanoi urges US to wrap up trade investigation Myanmar * Myanmar leaders' return to Asean meetings 'still far off', bloc's envoy says * Oil prices head for weekly rise on Middle East escalation * Myanmar stands in the way as Malaysia's coach Cheng Hoe plots his team's title hopes in the Asean Hyundai Cup * China to fully implement DOC and complete COC with Asean countries, says Chinese delegation Cambodia * Lower US tariff may favour Cambodian exporters as close rivals face higher levy * Cambodia PM Hun Manet pledges more to tackle evolving scam networks * Angelina Jolie renews global attention on Cambodia's border displacement crisis * Will UFC be a hit in China with a Shanghai bout - and a home-grown contender? * Cambodia's Manet repeats call for Thailand to resume border demarcation talks Laos * Lao PM urges community-focused solar power development * Türkiye's Asean dialogue partner status set to unlock South-East Asian trade opportunities Brunei * Chinese naval vessel visits Brunei, public can visit free of charge * Gold softens on prospects of Fed rate hikes * Three foreign women arrested in Brunei's suspected prostitution raid Aseanplus * Another PETRONAS tanker set to arrive in early August, says PM * MMEA detains tanker for illegal anchoring off Selangor waters, 14 crew members nabbed * 109 foreigners nabbed in raid at KL commercial building * Procurement cost for Littoral Mission Ships reduced by 15% through G2G with Turkiye, says Anwar * Malaysia's leading index rises 0.8% in May 2026 * Malaysia's resource anxiety tests Asia's fastest data centre build-out * Minister assessing possibility of M'sia hosting F1 race amid Middle East crisis * China neighbour calls police after mistaking 'stinky fart vinegar' for rotting corpse * South Korea to install hidden camera detectors in public restrooms * China braces for heavy rain as tropical storm Noel edges closer * Japan 'regrets' new US tariffs: Government * Japan: Record heat-related hospitalisations since 2010 * China resumes issuing robotaxi licenses after long freeze * New Zealand PM says new US tariffs 'extremely disappointing' * South Korea - Election office raided in fake turnout figures probe * Seoul advances increased cash rules for leveraged ETFs to July 31 * Venomous jellyfish sightings increase fivefold off South Korean coast * US to toughen up visa regulations for Chinese journalists, foreign students * 'New way of consuming fashion': South Korea's thrift boom reshapes shopping * This viral TikTok trend has experts nervous that it's really being used to train AI * Trump softens tone on alleged China election meddling before Rubio-Wang talks * India's youth leaders to talk with government but press on with nationwide protests * Indian activist ends hunger strike, protest leaders to meet govt after Modi vows action * Global views of China and Xi improve as perceptions of US decline, Pew survey finds * India's Coforge secures over $230 million AI transformation contract with European client * Crawfish soup on Mars? US fears over China's scientific ambitions raised in Senate hearing * India to roll out common customer ID for banks, insurers; mutual funds to follow, sources say * A 'Chinese Ghost Story' star Joey Wong 'returns': AI doubles of veteran performers spark debate * Simon Yam's daughter graduates with first-class honours, wins top academic award and designs her own graduation gown * Other Sports: Glasgow Games opens with Scottish pride, Commonwealth spirit * South Korean confectionery, bread makers to raise prices amid inflationary pressures * Shenzhen's beloved Tea Valley forest train gets a makeover * Cathay Pacific raises fuel surcharges from August 1 as jet fuel prices surge * China restricts exports to 14 EU entities * South Korean tycoon ordered to pay US$831mil in divorce * Ringgit ends slightly lower against greenback amid West Asia tensions, US tariffs * India's HCLTech to invest $1.48 billion in AI data center, open 5,000-seat tech hub * FBM KLCI closes lower as regional sell-off, fresh US tariff concerns weigh on sentiment * Bangladesh's President Shahabuddin, 76, resigns citing health concerns * 'Lapdog media': Indian reporters caught in youth protest anger * South Korean tycoon ordered to pay US$644mil in divorce * Typhoon Noul to make landfall along China's Guangdong coast, orange alert renewed * 'End of hunger... beginning of accountability' -- decoding Sonam Wangchuk's decision and CJP's options",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/asean-news-headlines-at-10pm-on-friday-july-24-2026",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4027005.JPG",
-      "publishedAt": "2026-07-24T14:47:03Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Asean News Headlines at 10pm on Friday (July 24, 2026)\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-25T13:19:31.298Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Spy Cam In Worth Pot Shop Bathroom Sends Cops Scrambling",
-      "description": "Police are investigating after a hidden camera was found in the bathroom of a Worth dispensary. Illinois law bans secret recordings in restrooms.",
-      "url": "https://hoodline.com/2026/07/spy-cam-in-worth-pot-shop-bathroom-sends-cops-scrambling-6950479/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/7/spy-cam-in-worth-pot-shop-bathroom-sends-cops-scrambling-1.webp",
-      "publishedAt": "2026-07-24 14:22:57",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Spy Cam In Worth Pot Shop Bathroom Sends Cops Scrambling\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-25T13:19:31.298Z"
-    }
-  ]
+  "pendingReview": []
 }
