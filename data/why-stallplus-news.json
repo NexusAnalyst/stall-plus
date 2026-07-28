@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T14:27:53.066Z",
+  "updatedAt": "2026-07-28T14:00:29.439Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 3,
     "pending": 0,
-    "rejected": 65,
+    "rejected": 67,
     "carriedForward": 3
   },
   "categoryCounts": [
