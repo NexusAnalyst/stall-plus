@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:00:29.439Z",
+  "updatedAt": "2026-07-29T14:04:32.362Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
+    "published": 2,
     "pending": 0,
-    "rejected": 67,
-    "carriedForward": 3
+    "rejected": 70,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 0
     },
     {
       "id": "dorm-privacy",
@@ -54,28 +54,6 @@
     }
   ],
   "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Indian-Origin Doctor In US Jailed For Secretly Recording Women In Hospital Restrooms",
-      "description": "Before sentencing, Deshmukh apologised to the victims. An Indian-origin doctor in the US state of Ohio has been sentenced to six months in jail after pleading guilty to secretly recording women in employee restrooms at Toledo Hospital. The accused, identified as Advait Deshmukh, a former third-year resident at the University of Toledo specialising in endourology and urologic oncology, was sentenced by Lucas County Common Pleas Court after admitting to one count of attempted tampering with evidence and seven counts of voyeurism. Judge Michael Goulding also ordered Deshmukh to serve three years of probation, register as a sex offender for 15 years, attend Sexaholics Anonymous meetings and continue sex offender and mental health treatment. The judge also told the court that Deshmul communicated to the court that he plans to relocate to a new county in Ohio -- Franklin -- but he will have to continue the measures there and register as a sex offender. Before sentencing, Deshmukh apologised to the victims. His attorney sought probation instead of jail, arguing that he was undergoing therapy to better understand the behaviour that led to the offences. One of the six identified victims, a Toledo Hospital employee identified as Lindsay, told the court that the incident had left her traumatised. She said she still checks public restrooms for hidden cameras and remains distressed over not knowing where the images may have ended up. \"Not knowing what was done with the photos is enough to keep me up at night,\" she said. \"As we all know, nothing is truly ever deleted.\" The case came to light in June 2025 after a hospital employee discovered a cellphone hidden inside a box in a unisex restroom at Toledo Hospital's Renaissance Tower. Prosecutors said Deshmukh attempted to retrieve the device and claimed it belonged to him when another employee tried to remove it. A joint investigation by ProMedica and the Toledo Police recovered 82 images from the phone, taken between February and May 2025. Investigators identified six victims, none of whom had consented to being recorded, though authorities said there could be more victims. During the sentencing hearing, the judge also noted investigators had found evidence suggesting similar recordings may have dated back to 2018. The University of Toledo said he was placed on administrative leave after the device was discovered and that his residency appointment was not renewed following an internal investigation.",
-      "url": "https://www.news18.com/world/indian-origin-doctor-in-us-jailed-for-secretly-recording-women-in-hospital-restrooms-ws-l-10226542.html",
-      "source": "News18",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/07/NW18-2026-07-78defe4a9809f4dc28111d7a50f1647f-1200x675.png",
-      "publishedAt": "2026-07-22T04:34:59Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 80,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Indian-Origin Doctor In US Jailed For Secretly Recording Women In Hospital Restrooms\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
     {
       "provider": "NewsAPI.ai",
       "title": "South Korea to install hidden camera detectors in public restrooms",
