@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:04:32.362Z",
+  "updatedAt": "2026-07-30T13:53:22.789Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 0,
-    "rejected": 70,
+    "pending": 1,
+    "rejected": 69,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -97,5 +97,28 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsData.io",
+      "title": "‘Jeopardy!’ Champ Admits to Creepy Hidden Camera Scheme",
+      "description": "Courtesy of Jeopardy! A Jeopardy champion pleaded guilty to peeping charges after hiding cameras in a rental home. Philip Joseph DeSena, 44, will serve a 60-month probationary sentence, according to a transcript of his plea obtained People , after prosecutors alleged he “unlawfully, willfully, and feloniously” placed hidden cameras in the bedroom and bathroom of a rental home in Corolla, North Carolina, “for the purpose of arousing and gratifying” his own “sexual desire.” Read more at The Daily Beast.",
+      "url": "https://www.thedailybeast.com/obsessed/jeopardy-champ-philip-joseph-desena-admits-to-creepy-hidden-camera-scheme/",
+      "source": "The Daily Beast",
+      "image": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/CS3N3LNNHFFDVJU2GQFJQBNE5Q.jpeg?auth=63baee6ee7d67046a3c7c82cbad23cf3e6763e96371b159bd411e8e716133c62&smart=true&width=1152&height=648",
+      "publishedAt": "2026-07-29 17:17:57",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"‘Jeopardy!’ Champ Admits to Creepy Hidden Camera Scheme\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-07-30T13:53:22.789Z"
+    }
+  ]
 }
