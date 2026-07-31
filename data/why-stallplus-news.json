@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T13:53:22.789Z",
+  "updatedAt": "2026-07-31T13:59:34.246Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 1,
-    "rejected": 69,
-    "carriedForward": 2
+    "published": 3,
+    "pending": 3,
+    "rejected": 64,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 0
+      "count": 3
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 2
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -56,59 +56,126 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "South Korea to install hidden camera detectors in public restrooms",
-      "description": "SEOUL: South Korea will add hidden camera detection systems to the safety equipment installed in public restrooms under a legal revision passed by the National Assembly on Thursday (July 23). The amendment to the Public Toilets Act requires local governments to install safety equipment including emergency bells and systems designed to detect illegal recording devices. Municipal authorities will also be required to inspect how the equipment is operated. The current law requires mayors, county chiefs and district heads to install safety facilities, such as emergency bells, to prevent crimes and accidents in public restrooms. The revision, passed at a plenary session of the National Assembly on July 23, explicitly adds illegal camera detection systems to the list. The measure comes as covert filming continues to be reported in public restrooms. Police detected 1,457 illegal filming cases in such facilities between 2021 and 2023, according to police data submitted to a lawmaker in 2025. Authorities have conducted regular inspections of public restrooms using camera detection equipment, but the devices were not previously specified as required safety facilities under the law. - The Korea Herald/ANN",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/24/south-korea-to-install-hidden-camera-detectors-in-public-restrooms",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4026087.png",
-      "publishedAt": "2026-07-24T05:53:04Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 75,
+      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
+      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
+      "url": "https://wlos.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
+      "source": "WLOS",
+      "image": "https://wlos.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
+      "publishedAt": "2026-07-30T00:57:28Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 95,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
+        "restroom context (4 terms)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "South Korea to install hidden camera detectors in public restrooms",
-      "description": "The move responds to 1,457 cases of covert filming in restrooms from 2021 to 2023, highlighting ongoing concerns about privacy violations and public safety. SEOUL - South Korea will add hidden camera detection systems to the safety equipment installed in public restrooms under a legal revision passed by the National Assembly on July 23. The amendment to the Public Toilets Act requires local governments to install safety equipment including emergency bells and systems designed to detect illegal recording devices. Municipal authorities will also be required to inspect how the equipment is operated. The current law requires mayors, county chiefs and district heads to install safety facilities, such as emergency bells, to prevent crimes and accidents in public restrooms. The revision, passed at a plenary session of the National Assembly on July 23, explicitly adds illegal camera detection systems to the list. The measure comes as covert filming continues to be reported in public restrooms. Police detected 1,457 illegal filming cases in such facilities between 2021 and 2023, according to police data submitted to a lawmaker in 2025. Authorities have conducted regular inspections of public restrooms using camera detection equipment, but the devices were not previously specified as required safety facilities under the law. THE KOREA HERALD/ASIA NEWS NETWORK",
-      "url": "https://www.straitstimes.com/asia/east-asia/south-korea-to-install-hidden-camera-detectors-in-public-restrooms",
-      "source": "The Straits Times",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/88d3a742bb0e39f9e73b3be184a9b6300f4c73f6e58af74e459afbe2e463e9a1",
-      "publishedAt": "2026-07-24T04:45:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 75,
+      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
+      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
+      "url": "https://dayton247now.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
+      "source": "WKEF",
+      "image": "https://dayton247now.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
+      "publishedAt": "2026-07-30T00:57:28Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 95,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
+        "restroom context (4 terms)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"South Korea to install hidden camera detectors in public restrooms\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
+      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
+      "url": "https://turnto10.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
+      "source": "WJAR",
+      "image": "https://turnto10.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
+      "publishedAt": "2026-07-30T00:57:28Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 95,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "‘Jeopardy!’ Champ Admits to Creepy Hidden Camera Scheme",
-      "description": "Courtesy of Jeopardy! A Jeopardy champion pleaded guilty to peeping charges after hiding cameras in a rental home. Philip Joseph DeSena, 44, will serve a 60-month probationary sentence, according to a transcript of his plea obtained People , after prosecutors alleged he “unlawfully, willfully, and feloniously” placed hidden cameras in the bedroom and bathroom of a rental home in Corolla, North Carolina, “for the purpose of arousing and gratifying” his own “sexual desire.” Read more at The Daily Beast.",
-      "url": "https://www.thedailybeast.com/obsessed/jeopardy-champ-philip-joseph-desena-admits-to-creepy-hidden-camera-scheme/",
-      "source": "The Daily Beast",
-      "image": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/CS3N3LNNHFFDVJU2GQFJQBNE5Q.jpeg?auth=63baee6ee7d67046a3c7c82cbad23cf3e6763e96371b159bd411e8e716133c62&smart=true&width=1152&height=648",
-      "publishedAt": "2026-07-29 17:17:57",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "provider": "NewsAPI.org",
+      "title": "Three-time Jeopardy! winner admits to being Peeping Tom and installing cameras in apartment to watch people strip",
+      "description": "Philip DeSena was arrested in December 2025 in North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom.",
+      "url": "https://www.dailymail.com/news/article-16014237/Three-time-Jeopardy-winner-admits-Peeping-Tom-installing-cameras-apartment-watch-people-strip.html",
+      "source": "Dailymail.com",
+      "image": "https://i.dailymail.com/1s/2026/07/30/01/104615685-0-image-m-14_1785370959122.jpg",
+      "publishedAt": "2026-07-30T01:11:38Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Three-time Jeopardy! winner admits to being Peeping Tom and installing cameras in apartment to watch people strip\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-31T13:59:34.246Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "48-year-old construction supervisor jailed 18 months for secretly filming girlfriend's teenage daughter",
+      "description": "A 48-year-old construction site supervisor has been sentenced to 18 months' imprisonment after admitting to covertly filming his girlfriend's teenage daughter while she was showering, in a case heard at the High Court on 31st July. The defendant, identified in court as C.L.H., had previously faced far more serious allegations relating to the sexual assault and rape of his girlfriend's younger daughter in 2021, when the child was aged 10. He denied two counts of indecent assault and two counts of rape in connection with those accusations, and was unanimously acquitted by a jury following trial. However, he pleaded guilty to one count of making child pornography and one count of voyeurism. The court heard that he moved into his girlfriend's flat in July 2021 and, between 6th August and 19 thOctober that year, concealed a mobile phone in various positions inside the bathroom to record his girlfriend's elder daughter, then aged 13, as she showered naked. In total, 16 video clips lasting approximately eight hours were created. After his arrest, he admitted under caution that he had secretly placed the phone in the bathroom out of curiosity and filmed the girl from different angles for his own viewing. In sentencing, Mr Justice Andrew Au noted that although the defendant was not the girl's biological father, his relationship with her mother meant his role was akin to that of a stepfather. The judge described this as a serious breach of trust. A further aggravating factor was that the recordings remained stored on his phone for three years until his arrest. The court was told that the defendant remains in a relationship with the girl's mother and that the couple share a three-year-old daughter. He had already spent around 400 days in custody prior to sentencing. Psychological reports presented to the court indicated that the teenage victim had suffered significant emotional distress as a result of the offences, experiencing discomfort when the defendant was mentioned and a diminished sense of trust towards family members and those close to her. A separate psychological assessment of the defendant suggested a deeply ingrained pattern of secretive sexual gratification. While he initially denied any sexual motive during evaluation, he later made partial verbal admissions. The report further noted a lack of empathy towards the victim and a tendency to minimise his conduct, recommending counselling to assist with rehabilitation and eventual reintegration into society.",
+      "url": "https://www.dimsumdaily.hk/48-year-old-construction-supervisor-jailed-18-months-for-secretly-filming-girlfriends-teenage-daughter/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/07/31214854/Girl-3-3-3.webp",
+      "publishedAt": "2026-07-31T13:49:35Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"48-year-old construction supervisor jailed 18 months for secretly filming girlfriend's teenage daughter\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-31T13:59:34.246Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Woman files plaint against neighbours for harassment, assault & voyeurism",
+      "description": "SHILLONG, July 30: A resident of Bivar Road has lodged an FIR at Sadar Police Station, accusing four of her neighbours of a two-year campaign of harassment, intimidation, physical assault and voyeurism. Anjana Jhunjhunwala Saraf, a resident of Gayatri Residency, alleged that her neighbours -- Manish Pasari, Radha Pasari, Jayashree Pasari, and Satyanarayan Pasari -- have subjected her to repeated mental torture. In her complaint, she detailed a recent incident on July 27 where Manish and Radha Pasari allegedly destroyed her property, including a shoe rack and potted plants, in the building's common area. Saraf, who suffers from vitiligo, alleged that the accused repeatedly body-shamed her with derogatory slurs. She further claimed that Manish Pasari intimidated her by invoking the name of a \"senior minister\" and accused Satyanarayan Pasari of physical assault during the confrontation. The complainant also raised serious privacy concerns, alleging that the accused deliberately installed a CCTV camera directed at her front door to capture the interior of her home whenever the door is opened. She described this as an act of voyeurism that has caused her constant mental distress. According to the complaint, police visited the premises to document the damage, yet Saraf alleged she was further humiliated by one of the accused even in the presence of the officers. Seeking immediate legal action and police protection, Saraf stated she fears for her life due to the ongoing threats. Notably, this is not the first complaint against the household. A few months ago, prominent businessman Jiwat Vaswani filed an FIR against Manish Pasari for creating a public nuisance during home renovations that reportedly made living conditions unbearable at his residence, located adjacent to the Chief Justice's house on Bivar Road.",
+      "url": "https://theshillongtimes.com/2026/07/31/woman-files-plaint-against-neighbours-for-harassment-assault-voyeurism/",
+      "source": "The Shillong Times",
+      "image": null,
+      "publishedAt": "2026-07-31T01:08:33Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -117,8 +184,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"‘Jeopardy!’ Champ Admits to Creepy Hidden Camera Scheme\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-07-30T13:53:22.789Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Woman files plaint against neighbours for harassment, assault & voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-07-31T13:59:34.246Z"
     }
   ]
 }
