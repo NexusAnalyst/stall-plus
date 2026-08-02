@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T13:14:20.465Z",
+  "updatedAt": "2026-08-02T13:15:06.470Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 5,
-    "rejected": 57,
-    "carriedForward": 0
+    "pending": 4,
+    "rejected": 59,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
@@ -141,7 +141,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Kroger worker peeped under women's restroom stall, Gwinnett police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-01T13:14:20.465Z"
+      "flaggedAt": "2026-08-02T13:15:06.470Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -163,7 +163,28 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Three-time Jeopardy! winner admits to being Peeping Tom and installing cameras in apartment to watch people strip\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-01T13:14:20.465Z"
+      "flaggedAt": "2026-08-02T13:15:06.470Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Adoptive father accused of filming daughter in shower | STOMP",
+      "description": "A 64-year-old man is accused of secretly photographing his 17-year-old adoptive daughter while she was showering, with investigators later discovering that two nude photos had been duplicated into 144 images on his phone. The man faces one charge of voyeurism, according to a Shin Min Daily News report. His identity cannot be published under a court order to protect the victim's identity. According to court proceedings, the girl had been raised by the man and his wife since she was five days old before they formally adopted her. Daughter spotted phone outside bathroom On Dec 12, 2023, at around 6pm, the teenager was showering in the common bathroom -- located in the kitchen -- when the man allegedly activated his phone's camera and held it outside the bathroom window to secretly photograph her. The victim noticed a phone outside the window and recognised it from its black phone case as belonging to her adoptive father. Realising she was being filmed, she crouched down in an attempt to avoid the camera. However, the man allegedly raised the phone higher and continued photographing her for another one to two minutes. The teenager later broke down in tears, feeling humiliated by the incident. She did not report the matter immediately because she did not want the incident to cause arguments between her adoptive parents. Report made four months later On March 26, 2024, the teenager disclosed the incident to a Central Narcotics Bureau officer while she was taking a urine test. Following the officer's advice, she lodged a police report the same day. Police investigations found two nude photographs taken during the incident on the man's phone. It was later discovered that the two original images had been duplicated into 144 photos, including enlarged close-up images focusing on the victim's breasts. Prosecution: Adoptive father betrayed victim's trust The prosecution argued that the man had seriously violated his adoptive daughter's privacy and deliberately created numerous copies of the images for his personal sexual gratification. It also said he had betrayed the trust placed in him as the victim's adoptive father and urged the court to sentence him to between 10 and 12 months' jail. The defence argued that the offence was not premeditated and that the man had used only a mobile phone, describing the method as unsophisticated. It asked for a sentence of three months and three weeks' jail. The case has been adjourned to Aug 24 for sentencing.",
+      "url": "https://www.stomp.sg/trending-now/man-64-allegedly-filmed-adoptive-daughter-showering-and-made-144-copies-nude-photos",
+      "source": "STOMP",
+      "image": "https://cassette.sphdigital.com.sg/image/stomp/1795ec139a7cca958023d51a79ddf47284844d29bce4a780ba78d6bfbba2f355",
+      "publishedAt": "2026-08-02T03:34:08Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Adoptive father accused of filming daughter in shower | STOMP\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-02T13:15:06.470Z"
     },
     {
       "provider": "NewsAPI.ai",
@@ -184,50 +205,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Law Firm Sues Ex-Client for Libel, Judge Lays Out Firm Owner's Disciplinary Record\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-01T13:14:20.465Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "48-year-old construction supervisor jailed 18 months for secretly filming girlfriend's teenage daughter",
-      "description": "A 48-year-old construction site supervisor has been sentenced to 18 months' imprisonment after admitting to covertly filming his girlfriend's teenage daughter while she was showering, in a case heard at the High Court on 31st July. The defendant, identified in court as C.L.H., had previously faced far more serious allegations relating to the sexual assault and rape of his girlfriend's younger daughter in 2021, when the child was aged 10. He denied two counts of indecent assault and two counts of rape in connection with those accusations, and was unanimously acquitted by a jury following trial. However, he pleaded guilty to one count of making child pornography and one count of voyeurism. The court heard that he moved into his girlfriend's flat in July 2021 and, between 6th August and 19 thOctober that year, concealed a mobile phone in various positions inside the bathroom to record his girlfriend's elder daughter, then aged 13, as she showered naked. In total, 16 video clips lasting approximately eight hours were created. After his arrest, he admitted under caution that he had secretly placed the phone in the bathroom out of curiosity and filmed the girl from different angles for his own viewing. In sentencing, Mr Justice Andrew Au noted that although the defendant was not the girl's biological father, his relationship with her mother meant his role was akin to that of a stepfather. The judge described this as a serious breach of trust. A further aggravating factor was that the recordings remained stored on his phone for three years until his arrest. The court was told that the defendant remains in a relationship with the girl's mother and that the couple share a three-year-old daughter. He had already spent around 400 days in custody prior to sentencing. Psychological reports presented to the court indicated that the teenage victim had suffered significant emotional distress as a result of the offences, experiencing discomfort when the defendant was mentioned and a diminished sense of trust towards family members and those close to her. A separate psychological assessment of the defendant suggested a deeply ingrained pattern of secretive sexual gratification. While he initially denied any sexual motive during evaluation, he later made partial verbal admissions. The report further noted a lack of empathy towards the victim and a tendency to minimise his conduct, recommending counselling to assist with rehabilitation and eventual reintegration into society.",
-      "url": "https://www.dimsumdaily.hk/48-year-old-construction-supervisor-jailed-18-months-for-secretly-filming-girlfriends-teenage-daughter/",
-      "source": "Dimsum Daily",
-      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/07/31214854/Girl-3-3-3.webp",
-      "publishedAt": "2026-07-31T13:49:35Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"48-year-old construction supervisor jailed 18 months for secretly filming girlfriend's teenage daughter\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-01T13:14:20.465Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
-      "description": "Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom.",
-      "url": "https://news3lv.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
-      "source": "Ksnv",
-      "image": "https://news3lv.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
-      "publishedAt": "2026-07-31 10:50:56",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-01T13:14:20.465Z"
+      "flaggedAt": "2026-08-02T13:15:06.470Z"
     }
   ]
 }
