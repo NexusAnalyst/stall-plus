@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:02:31.721Z",
+  "updatedAt": "2026-08-06T14:01:42.442Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 4,
-    "rejected": 62,
-    "carriedForward": 3
+    "published": 0,
+    "pending": 1,
+    "rejected": 69,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 0
     },
     {
       "id": "dorm-privacy",
@@ -53,147 +53,16 @@
       "count": 0
     }
   ],
-  "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
-      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
-      "url": "https://wlos.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
-      "source": "WLOS",
-      "image": "https://wlos.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
-      "publishedAt": "2026-07-30T00:57:28Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 95,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
-      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
-      "url": "https://dayton247now.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
-      "source": "WKEF",
-      "image": "https://dayton247now.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
-      "publishedAt": "2026-07-30T00:57:28Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 95,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'",
-      "description": "El Paso deputies arrest alleged 'peeping tom' after gas station restroom incident EL PASO, Texas (KFOX14/CBS4) -- Police documents show more \"peeping tom\" allegations against the 36-year-old man who was arrested on July 2 for allegedly spying on a woman in a gas station restroom. The complaint affidavit for Ivan Abraham Ponce lists and describes in detail several instances in the past nine years where he allegedly either spied on or recorded women in public restrooms. The most recent one (and the one previously reported) happened on June 29, at around 9:36 a.m., at a Circle K gas station on 12281 Eastlake Blvd. in the Lower Valley. According to the affidavit, deputies with the El Paso County Sheriff's Office answered the call and spoke with the victim, who said she was in a stall when she heard footsteps, \"a slapping noise,\" and heavy breathing. The victim said she got scared, feeling like someone was spying on her, and so she pulled her garments up and waited in the stall until she heard footsteps leaving the restroom. In the affidavit, deputies describe watching surveillance video from the gas station, which appears to show Ponce hanging out outside the restrooms before following a woman inside. Snippets from the surveillance video were then shared on the popular social media account @therealfitfamelpaso. WATCH: Deputies stated that they recognized Ponce, noting that he worked at the El Cometa on 9529 Viscount Blvd. in East El Paso. With the suspect identified, deputies said they ran a history check on Ponce, learning about four more incidents allegedly involving Ponce doing the same thing in other public restrooms, twice in the same restaurant. Previous incidents The affidavit alleges that on Dec. 10, 2025, and March 30, 2025, two incidents were reported at the restaurant Rudy's located at 7970 Gateway East Blvd. in the Lower Valley. Following the most recent incident at the Circle K, investigators met with some of the victims. In the affidavit, investigators describe their conversation with the manager of Rudy's. She alleges that she was inside a stall in the restroom when she spotted Ponce looking at her through the crack by the wall. \"Hey, somebody is in here,\" the victim recalls saying before chasing after him; however, she said that by the time she stepped out, Ponce had left the restaurant. The manager also told investigators that she saved the surveillance video from that day in case Ponce ever came back, and she alleges that he did some months later and did the same thing to another woman. This time, the victim, who was 18 years old, was reportedly in the restroom recording a \"TikTok\" video when she saw a cellphone flash as if someone was taking photo or video of her. On Dec. 8, 2019, the affidavit alleges that Ponce went into the women's restroom at the Starr Western Wear store located at 750 Sunland Park Dr. and recorded a woman. On August 4, 2017, the affidavit alleges Ponce was cited for going into the women's restroom at 4849 N. Mesa St. and peeping into a stall. Questions It is unclear what happened in the investigations surrounding those previous incidents at Rudy's. The cases were opened by the El Paso Police Department, but according to the affidavit, investigators found that they were inactive. According to the affidavit, the investigator reached out to EPPD to adopt the case where Ponce allegedly recorded the woman inside the Rudy's restaurant. KFOX14/CBS4 reached out to EPPD to learn why the cases were inactive. And while police couldn't comment on the cases, an EPPD spokesperson told us that when a case is \"inactive,\" it doesn't mean it's closed, but just that, for various reasons, like lack of information, the investigation has been paused. Below is EPPD's full statement: An inactive case is not a closed case, and there can be many reasons why a case is inactive. I can't tell you the exact reason for the cases you are inquiring about, however some reasons could be that the investigator has paused the investigation pending more leads, there may not be enough workable information to make an arrest, all potential investigative steps have already been explored and sometimes there is limited cooperation from complainants or witnesses. Again, this is just in general and not specifically to the cases you are inquiring about. What's next? Jail records show Ponce was booked into the El Paso County Downtown Jail on Tuesday, where he was charged with two counts of voyeurism and one count of invasive visual recording. According to jail records, Ponce remains in jail under a combined bond of $320,000. Court records show a bond hearing is scheduled for Ponce for Thursday morning. Sign up to receive the top interesting stories from in and around our community once daily in your inbox.",
-      "url": "https://turnto10.com/news/nation-world/el-paso-investigators-detail-9-years-of-alleged-restroom-spying-by-peeping-tom",
-      "source": "WJAR",
-      "image": "https://turnto10.com/resources/media2/16x9/2400/1320/center/90/19270916-7d29-4eee-b975-d4bb7feb2e13-543436492.jpg",
-      "publishedAt": "2026-07-30T00:57:28Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 95,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"El Paso investigators detail 9 years of alleged restroom spying by 'peeping tom'\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    }
-  ],
+  "articles": [],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Former Pokemon Executive Accused of Hiding Cameras in Office Bathrooms, Filming Employees",
-      "description": "A former Pokémon Company executive is being sued over claims that he secretly recorded people inside bathrooms at the company's Bellevue offices. The Seattle Times reported on Monday, August 3, that Ben Tsai, 45, the former director of engineering at The Pokémon Company International, is named in a lawsuit filed last week in King County Superior Court by an anonymous plaintiff. The suit alleges Tsai placed hidden cameras to record employees, members of the public, and children in various states of undress while using the restroom. As per the outlet, Tsai has not worked for the company since January. \"Our focus remains on the well-being of our employees,\" the spokesperson told the outlet. Tsai was first charged with first-degree voyeurism in January after allegedly placing a hidden camera in a Starbucks bathroom in Kirkland, King5 reported in July. He has since faced additional charges of possessing and dealing sexually explicit material involving minors, after investigators uncovered hundreds of videos on his devices, some allegedly recorded at the Pokémon offices, a Starbucks, a Safeway and his home, according to a report in Kiro7. Tsai's attorney, Bradley Barshis, told the Seattle Times, \"My client has entered and will enter pleas of not guilty to all charges.\" The civil suit is seeking class-action status on behalf of women and girls who used the Bellevue office restrooms between 2017 and July 25 of this year. Attorney Alex Dietz, who represents the plaintiff, said the July 25 cutoff was chosen to cover any window in which Tsai may have still had access to the building, as per the outlet. Dietz said the company needs \"to take steps to protect kids from these known risks.\" The suit also accuses Pokémon of negligence for failing to properly train or monitor Tsai. Tsai is being held at the Maleng Regional Justice Center on $500,000 bail.",
-      "url": "https://nationalenquirer.com/former-pokemon-executive-accused-of-hiding-cameras-in-office-bathrooms-filming-employees/",
-      "source": "nationalenquirer.com",
-      "image": "https://nationalenquirer.com/wp-content/uploads/2026/08/Featured-6-Pokemon-Bathroom-Cameras-1000x600.jpeg",
-      "publishedAt": "2026-08-04T00:00:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Former Pokemon Executive Accused of Hiding Cameras in Office Bathrooms, Filming Employees\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-05T14:02:31.721Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Winn-Dixie employee in Belle Glade arrested for video voyeurism",
-      "description": "Deputies arrested an 18-year-old Winn-Dixie employee in Belle Glade on charges of video voyeurism, battery, and tampering with evidence after he allegedly recorded under a shopper's dress. An 18-year-old Winn-Dixie employee in Belle Glade has been arrested on charges of video voyeurism, battery, and tampering with evidence after deputies say he secretly recorded under a shopper's dress and inappropriately touched her. According to a probable cause affidavit, the incident occurred just before 10 p.m. Monday inside the store. Deputies say the suspect, identified as Johnnie Evans, approached a female shopper and told her she had a spider on her back. Investigators allege Evans asked for permission to remove the spider and then groped the woman from behind. \"I think it's crazy. Am I surprised? No,\" one shopper said. \"These things do happen. I'm glad that they caught the perpetrator.\" The victim reported the incident to a store manager, and deputies quickly arrived on the scene. Authorities say Evans was found in a bathroom stall, where he appeared to be deleting images from his phone. Deputies reviewed surveillance footage from aisle 8, which they say showed Evans pretending to stack shelves before bending down and appearing to record up the victim's dress. Investigators allege he did this twice without the woman noticing. Evans faces charges of battery, video voyeurism, and tampering with evidence. \"It's shocking, but, like I said, hopefully something positive comes from it,\" a shopper said. Many shoppers expressed their concern off-camera, saying they were disturbed by the allegations. WPBF reached out to Winn-Dixie, and they gave us the following statement: \"The safety and security of our customers, associates and the communities we serve is always our top priority. We are taking this matter very seriously, and the associate was immediately terminated. We are fully cooperating with the local police department on this investigation and will defer any additional questions to law enforcement at this time.\" Stay up to date: The latest headlines and weather from WPBF 25 Get the latest news updates with the WPBF 25 News app. You can download it here. Your neighborhood: Local coverage from WPBF 25 News",
-      "url": "https://www.wpbf.com/article/florida-belle-glade-winn-dixie-employee-video-voyeurism/73349546",
-      "source": "WPBF",
-      "image": "https://kubrick.htvapps.com/vidthumb/57c34d3b-a817-44cb-8103-03cb97f5fcc1/5c515668-e118-4d14-bc02-5a1cae524d18.jpg?crop=0.821xw%3A0.821xh%3B0.0390xw%2C0&resize=640%3A*",
-      "publishedAt": "2026-08-05T00:01:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Winn-Dixie employee in Belle Glade arrested for video voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-05T14:02:31.721Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Bengaluru techie films landlady while she's bathing, arrested",
-      "description": "A 30-year-old software engineer in Bengaluru has been arrested on charges of voyeurism for allegedly filming his landlady while she was taking a bath, the police said on Tuesday. The accused, Manjunath C N, a resident of Vishwapriya Layout, had been living on rent with his family in the complainant's house for the past five years. According to the complaint, the victim, a 39-year-old schoolteacher and owner of the building, spotted a maroon mobile phone held up near her bathroom window on July 27 while she was bathing. She said she rushed outside and searched the property but found no one. Initially, the teacher chose not to tell her family about what had happened. Two days later, she grew suspicious when she noticed that Manjunath's phone colour matched the colour of the device she had seen at the window. She checked the CCTV cameras installed in the neighbouring houses. The footage from one of the CCTV cameras allegedly showed Manjunath standing near the window to record the video, a police officer said. Also Read | Bengaluru man arrested for making obscene remarks to woman waiting for cab The teacher called him to her house and simultaneously alerted the police by dialling 112. A police team that reached the spot examined his phone and allegedly found a video of the complainant on it, along with a second, apparently older video believed to have been recorded on a separate occasion. Acting on her complaint, the Begur police arrested Manjunath on Monday on charges of voyeurism under the Bharatiya Nyaya Sanhita and violation of privacy by capturing, publishing, or transmitting a person's private images without consent under the Information Technology Act.",
-      "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-software-engineer-arrested-voyeurism-landlady-filming-10818400/",
-      "source": "The Indian Express",
-      "image": "https://images.indianexpress.com/2026/08/05BengaluruVoyeurism.jpg",
-      "publishedAt": "2026-08-05T04:03:48Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Bengaluru techie films landlady while she's bathing, arrested\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-05T14:02:31.721Z"
-    },
-    {
       "provider": "NewsData.io",
-      "title": "Lake County church member faces more charges after hidden camera records girls in bathroom",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/4809946104409-lake-county-church-member-faces-more-charges-after-hidden-camera-records-girls-in-bathroom",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-08-05 00:00:00",
+      "title": "Pokémon Company sued over secret bathroom cameras",
+      "description": "A former TPC director of engineering is accused of recording people without their consent in places like Starbucks and Safeway as well",
+      "url": "https://www.polygon.com/the-pokemon-company-lawsuit-bathroom-camera-ben-tsai-arrested/",
+      "source": "Polygon",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16207801/jbareham_190421_0886_pikachu_0001.jpg",
+      "publishedAt": "2026-08-05 16:51:25",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -205,8 +74,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lake County church member faces more charges after hidden camera records girls in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-05T14:02:31.721Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Pokémon Company sued over secret bathroom cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-06T14:01:42.442Z"
     }
   ]
 }
