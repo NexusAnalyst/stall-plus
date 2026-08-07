@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T14:01:42.442Z",
+  "updatedAt": "2026-08-07T12:57:08.106Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 1,
-    "rejected": 69,
+    "pending": 2,
+    "rejected": 66,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -57,15 +57,15 @@
   "pendingReview": [
     {
       "provider": "NewsData.io",
-      "title": "Pokémon Company sued over secret bathroom cameras",
-      "description": "A former TPC director of engineering is accused of recording people without their consent in places like Starbucks and Safeway as well",
-      "url": "https://www.polygon.com/the-pokemon-company-lawsuit-bathroom-camera-ben-tsai-arrested/",
-      "source": "Polygon",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16207801/jbareham_190421_0886_pikachu_0001.jpg",
-      "publishedAt": "2026-08-05 16:51:25",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "title": "Former CA State Parks superintendent accused of secretly recording lifeguards appears in court",
+      "description": "A former state park superintendent accused of secretly recording lifeguards in a locker room in Orange County made his first court appearance on Thursday, where his attorney requested a continued arraignment.",
+      "url": "https://headtopics.com/news/former-ca-state-parks-superintendent-accused-of-secretly-86354788",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/8/6/abc7/former-ca-state-parks-superintendent-accused-of-se-former-ca-state-parks-superintendent-accused-of-se-CA1DFD860D4061EE3D4C70184341AC96.webp",
+      "publishedAt": "2026-08-06 19:36:22",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -74,8 +74,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Pokémon Company sued over secret bathroom cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-06T14:01:42.442Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former CA State Parks superintendent accused of secretly recording lifeguards appears in court\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-07T12:57:08.106Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Former CA State Parks superintendent accused of secretly recording lifeguards appears in court",
+      "description": "A former state park superintendent accused of secretly recording lifeguards in a locker room in Orange County made his first court appearance on Thursday, where his attorney requested a continued arraignment.",
+      "url": "https://abc7.com/post/former-ca-state-parks-superintendent-accused-secretly-recording-lifeguards-appears-court/19636762/",
+      "source": "Abc7",
+      "image": "https://cdn.abcotvs.com/dip/images/19636806_080626-kabc-MD-oc-lifeguards-arrest-vid.jpg",
+      "publishedAt": "2026-08-06 19:25:49",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former CA State Parks superintendent accused of secretly recording lifeguards appears in court\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-07T12:57:08.106Z"
     }
   ]
 }
