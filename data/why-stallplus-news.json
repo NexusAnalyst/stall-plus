@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T13:01:19.511Z",
+  "updatedAt": "2026-08-11T12:57:36.153Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 4,
-    "rejected": 65,
+    "pending": 0,
+    "rejected": 70,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -97,92 +97,5 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former Orange County church employee sentenced to 40 years for secretly recording children using spyware\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Swindon man accused of installing devices to record private acts without consent",
-      "description": "A man has been accused of secretly recording people performing private acts without their consent for his own sexual gratification. Mark Mortimer, 45, of Helmsdale, Haydon Wick, has been charged with six counts of voyeurism. Between January 1, 2023 and September 2, 2025, he is accused of installing equipment or adapting a structure with the intention of observing another person doing a private act on multiple occasions in Swindon. It is said that he recorded this for the purpose of obtaining sexual gratification, knowing that the alleged victims did not consent to his recording of the act. Mortimer appeared at Swindon Magistrates Court on Thursday, August 6. He did not enter any pleas to these six charges and the hearing was adjourned. The 45-year-old is due to appear back at Swindon Magistrates Court on Wednesday, January 13, 2027. He has been remanded on conditional bail in the meantime.",
-      "url": "https://www.swindonadvertiser.co.uk/news/26446521.swindon-man-accused-recording-private-acts-without-consent/",
-      "source": "Adver Sport Desk",
-      "image": "https://www.swindonadvertiser.co.uk/resources/images/21012253.jpg?type=og-image",
-      "publishedAt": "2026-08-09T14:04:08Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Swindon man accused of installing devices to record private acts without consent\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-10T13:01:19.511Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Niagara Region flooding recovery, dramatic rescue and more Ontario news this week",
-      "description": "Niagara Region flooding recovery and dramatic rescue, Grimsby couple donates home to Habitat for Humanity in rare gift, double-astronomy event with Perseid meteor shower and partial solar eclipse and more Ontario news. Heavy flooding disrupted communities across the Niagara Region over the past several weeks including a dramatic rescue -- here's what to know, plus this week's top stories from Ajax, Burlington, Stouffville, Whitby, Oakville, St. Catharines and across Ontario. Top stories include a Grimsby couple donating a home to Habitat for Humanity, partial solar eclipse and meteor shower on the horizon, and weekend streaming suggestions. News Cries in the dark: Neighbours form human chain to pull father and son from raging St. Catharines floodwaters * Allan Benner News Flooded fields, grounded tractors: Niagara wine country reels from unprecedented rainfall * Kevin Werner News Poppies ditched, vineyards underwater, pumps sold out: Niagara-on-the-Lake devastated by twin rainstorms * Kevin Werner News Niagara's rainfall records submerged by recent storms * Mike Zettel Crime OPP conducts underwater evidence search at Calabogie Lake amid active criminal investigation * Tara Gesner News 'Home ownership brings stability': Grimsby couple's $253K gift to put a family in a St. Catharines home * Mike Zettel News Ontario partial solar eclipse: When and how to watch -- and who gets the best view * Evelyn Harford News Suspects in Niagara Falls homicide 'taking steps to conceal their identity,' police warn as Canada-wide manhunt continues * Mike Zettel News Maki Zushi closes Stouffville restaurant after 15 years due to rent increase * Simon Martin News Ontario fall 2026 forecast: Old Farmer's Almanac says wet and cool September ahead * Evelyn Harford Television Trending in Canada: Netflix, Disney+, Apple TV, Crave and Prime Video's top 10s and new releases for this weekend * Itai Buenahora News Most Canadians oppose reinstating the federal gas tax Sept. 8, new poll finds. What Ontario drivers pay in fuel taxes -- and what's being proposed * Mike Pearson News Burlington affordable housing project awaits $21M funding decision as feds approve $310M for Toronto News Opinion Canadian government to pay $8M to settle class action over alleged online account privacy breaches -- are you eligible for part of it? * Janis Ramsay News Boy, 14, suffers serious injuries after being hit by vehicle in Whitby * Metroland Staff Food & Drink Ontario's first dual-brand Applebee's/IHOP opens in Ajax -- Windsor and Barrie to follow * Dominik Kurek Crime Man charged in Markham voyeurism investigation installed hidden cameras in women's washrooms, York police say * Asma Sahebzada News Durham police boat Genawaabi ready for Lake Scugog water patrols and rescues * Matt Slevin News Are you a Canadian Tire customer? Proposed class action launched after alleged 42-million-record data breach * Loraine Centeno News Finding earwigs everywhere this summer? Ontario experts explain why -- and how to get rid of them * Janis Ramsay News Decline in Canadian visitors costs U.S. travel industry $3.3 billion -- New York City offers Northern Neighbour Deal to reverse trend * Mike Pearson News Peel Police, Mississauga respond after judge calls fatal MiWay bus crash investigation 'shoddy' * Ayesha Ghaffar News 'Showstopper of summer': When and how to watch the 2026 Perseid meteors in Ontario * Evelyn Harford News 'Reacher' Season 4 premieres this August -- here's everything you need to know about the new season * Metroland Staff News Air conditioner not cooling as temperatures climb in Ontario? How to fix these common problems and when to call in a pro * Mike Pearson News North Oakville bridge again misses completion deadline, leaving major new parkway split in half * David Lea News Ontario Trillium Benefit August 2026 payment: Date, amounts and who qualifies",
-      "url": "https://www.cambridgetimes.ca/news/niagara-region-flooding-and-more-ontario-news/article_f3fa199c-c061-51a9-b7cd-c679729cd27c.html",
-      "source": "Cambridge Times",
-      "image": "https://bloximages.chicago2.vip.townnews.com/cambridgetimes.ca/content/tncms/assets/v3/editorial/9/32/932756ee-d38e-595b-99c0-d14fbe0c4772/6650d6b40ecd5.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-09T10:30:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Niagara Region flooding recovery, dramatic rescue and more Ontario news this week\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-10T13:01:19.511Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Niagara Region flooding recovery, dramatic rescue and more Ontario news this week",
-      "description": "Niagara Region flooding recovery and dramatic rescue, Grimsby couple donates home to Habitat for Humanity in rare gift, double-astronomy event with Perseid meteor shower and partial solar eclipse and more Ontario news. Heavy flooding disrupted communities across the Niagara Region over the past several weeks including a dramatic rescue -- here's what to know, plus this week's top stories from Ajax, Burlington, Stouffville, Whitby, Oakville, St. Catharines and across Ontario. Top stories include a Grimsby couple donating a home to Habitat for Humanity, partial solar eclipse and meteor shower on the horizon, and weekend streaming suggestions. News Cries in the dark: Neighbours form human chain to pull father and son from raging St. Catharines floodwaters * Allan Benner News Flooded fields, grounded tractors: Niagara wine country reels from unprecedented rainfall * Kevin Werner News Poppies ditched, vineyards underwater, pumps sold out: Niagara-on-the-Lake devastated by twin rainstorms * Kevin Werner News Niagara's rainfall records submerged by recent storms * Mike Zettel Crime OPP conducts underwater evidence search at Calabogie Lake amid active criminal investigation * Tara Gesner News 'Home ownership brings stability': Grimsby couple's $253K gift to put a family in a St. Catharines home * Mike Zettel News Ontario partial solar eclipse: When and how to watch -- and who gets the best view * Evelyn Harford News Suspects in Niagara Falls homicide 'taking steps to conceal their identity,' police warn as Canada-wide manhunt continues * Mike Zettel News Maki Zushi closes Stouffville restaurant after 15 years due to rent increase * Simon Martin News Ontario fall 2026 forecast: Old Farmer's Almanac says wet and cool September ahead * Evelyn Harford Television Trending in Canada: Netflix, Disney+, Apple TV, Crave and Prime Video's top 10s and new releases for this weekend * Itai Buenahora News Most Canadians oppose reinstating the federal gas tax Sept. 8, new poll finds. What Ontario drivers pay in fuel taxes -- and what's being proposed * Mike Pearson News Burlington affordable housing project awaits $21M funding decision as feds approve $310M for Toronto News Opinion Canadian government to pay $8M to settle class action over alleged online account privacy breaches -- are you eligible for part of it? * Janis Ramsay News Boy, 14, suffers serious injuries after being hit by vehicle in Whitby * Metroland Staff Food & Drink Ontario's first dual-brand Applebee's/IHOP opens in Ajax -- Windsor and Barrie to follow * Dominik Kurek Crime Man charged in Markham voyeurism investigation installed hidden cameras in women's washrooms, York police say * Asma Sahebzada News Durham police boat Genawaabi ready for Lake Scugog water patrols and rescues * Matt Slevin News Are you a Canadian Tire customer? Proposed class action launched after alleged 42-million-record data breach * Loraine Centeno News Finding earwigs everywhere this summer? Ontario experts explain why -- and how to get rid of them * Janis Ramsay News Decline in Canadian visitors costs U.S. travel industry $3.3 billion -- New York City offers Northern Neighbour Deal to reverse trend * Mike Pearson News Peel Police, Mississauga respond after judge calls fatal MiWay bus crash investigation 'shoddy' * Ayesha Ghaffar News 'Showstopper of summer': When and how to watch the 2026 Perseid meteors in Ontario * Evelyn Harford News 'Reacher' Season 4 premieres this August -- here's everything you need to know about the new season * Metroland Staff News Air conditioner not cooling as temperatures climb in Ontario? How to fix these common problems and when to call in a pro * Mike Pearson News North Oakville bridge again misses completion deadline, leaving major new parkway split in half * David Lea News Ontario Trillium Benefit August 2026 payment: Date, amounts and who qualifies",
-      "url": "https://www.guelphmercury.com/news/niagara-region-flooding-and-more-ontario-news/article_b80ab38e-3432-545d-a56f-ce0a1cc29f17.html",
-      "source": "Guelph Mercury",
-      "image": "https://bloximages.chicago2.vip.townnews.com/guelphmercury.com/content/tncms/assets/v3/editorial/b/92/b9242a79-9b3e-5b43-ad97-5a297852fe8c/6650cb2e5b6f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-09T10:30:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Niagara Region flooding recovery, dramatic rescue and more Ontario news this week\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-10T13:01:19.511Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Del Ray Bakery Worker Gets 179 Days for Hidden Bathroom Camera Aimed at Toddler",
-      "description": "Joshua Hombrebueno gets 179 days in jail and must register as a sex offender after hiding a camera in a Del Ray restaurant bathroom.",
-      "url": "https://hoodline.com/2026/08/del-ray-bakery-worker-gets-179-days-for-hidden-bathroom-camera-aimed-at-toddler/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/8/del-ray-bakery-worker-gets-179-days-for-hidden-bathroom-camera-aimed-at-toddler-4.webp",
-      "publishedAt": "2026-08-08 16:24:44",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Del Ray Bakery Worker Gets 179 Days for Hidden Bathroom Camera Aimed at Toddler\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-10T13:01:19.511Z"
-    }
-  ]
+  "pendingReview": []
 }
