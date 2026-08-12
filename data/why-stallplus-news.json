@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T12:57:36.153Z",
+  "updatedAt": "2026-08-12T13:02:39.277Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 0,
-    "rejected": 70,
+    "published": 3,
+    "pending": 9,
+    "rejected": 59,
     "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 3
     },
     {
       "id": "dorm-privacy",
@@ -54,6 +54,27 @@
     }
   ],
   "articles": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Cuban Man in Miami Faces Charges for Filming Walmart Employee in Bathroom",
+      "description": "A 28-year-old Cuban national was taken into custody on Monday in southwest Miami-Dade, accused of taking photos and recording video of a Walmart employee inside a bathroom stall, as reported by the Miami-Dade Sheriff's Office. The suspect, identified as Oscar Chamizo Martin, was caught around 12:15 p.m. at the store located at 14325 SW 268th St., in the Homestead area. He allegedly extended an orange-cased iPhone over the stall occupied by the victim. The Walmart employee noticed the device and, upon exiting the bathroom, confronted Chamizo Martin, who was the only individual present in that section at the time. Security cameras inside the Walmart recorded the employee leaving the restroom visibly distressed while calling for his manager. After the incident, Chamizo Martin left the store, but a sheriff's deputy contacted his employer and convinced him to return. Back at Walmart, the suspect denied taking any images, claiming someone else was responsible. However, he was found with an orange-cased iPhone that matched the victim's description exactly. Confronted with this evidence, he was arrested and taken to the Turner Guilford Knight Correctional Center (TGK), one of the main jail facilities in the county. As of Tuesday, Chamizo Martin remained detained with a $2,500 bond for the charge of digital voyeurism and also faced an immigration hold that could lead to deportation proceedings. In Florida, digital voyeurism is classified under statute 810.145, which prohibits the use of imaging devices to secretly record individuals in spaces where they have a reasonable expectation of privacy, like bathrooms or dressing rooms. For individuals over 19, the offense is considered a third-degree felony, punishable by up to five years in prison. This is not the first time Cuban nationals in Miami have faced serious criminal charges related to such behavior, amidst intensified cooperation between county authorities and federal immigration agencies. Florida has seen a series of voyeurism arrests in Walmart stores throughout 2025 and 2026 across various counties, including a recent case in Ocala just two days prior, where another man was apprehended for allegedly secretly recording minors in a similar setting. The immigration hold on Chamizo Martin indicates that immigration authorities have been notified of his arrest, which may result in additional consequences beyond the ongoing criminal proceedings.",
+      "url": "https://www.cubaheadlines.com/articles/337583",
+      "source": "Cuba Headlines Digital Edition",
+      "image": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1786473964-arrestan-cubano-miami-acusado-grabar-empleada-walmart-dentro-bano.jpg",
+      "publishedAt": "2026-08-11T18:55:24Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 85,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Cuban Man in Miami Faces Charges for Filming Walmart Employee in Bathroom\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
     {
       "provider": "NewsAPI.ai",
       "title": "Former Orange County church employee sentenced to 40 years for secretly recording children using spyware",
@@ -97,5 +118,199 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former Orange County church employee sentenced to 40 years for secretly recording children using spyware\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Delivery driver accused of filming man in Walmart restroom near Homestead, police say",
+      "description": "Peter D'Oench is a reporter for CBS4 News. He came to CBS4 from WKRN in Nashville. A 28-year-old man was arrested and charged with video voyeurism at a Walmart near Homestead, an incident that has left customers alarmed. The Miami-Dade Sheriff's Office responded to the store, located at 14325 S.W. 268th St., on Monday morning after a victim reported being filmed while using the restroom. The victim told authorities he noticed someone reaching over a stall to retrieve an iPhone with an orange cover. He confronted the suspect, who was the only other person in the men's restroom at the time. According to an arrest affidavit, store security footage captured the suspect, Oscar Chamizo-Martin, entering the restroom with the victim. The victim exited the restroom \"visibly upset\" and alerted a manager. Authorities reported that Chamizo-Martin, who identified himself as a delivery driver, left the store but was later contacted through his employer. He was arrested after returning to the location. While Chamizo-Martin denied recording, investigators noted he possessed a cell phone matching the description provided by the victim. In bond court, a judge set bond at $2,500 and issued a stay-away order prohibiting Chamizo-Martin from returning to the Walmart. Because of an active U.S. Immigration and Customs Enforcement (ICE) hold, Chamizo-Martin will remain in custody. Once the local case is resolved, he will be transferred to federal authorities. Walmart customers expressed shock at the incident. \"That is disrespectful when you are in the stall,\" said customer Nini Florin. \"It is a public place. You think you would be safe. It is your own little abode using the restroom.\" \"I don't know why people can't just use the bathroom in peace in public,\" added customer Alex Sanchez. In a statement, Walmart's press office said, \"The safety and security of our associates and customers is a top priority. We will continue to cooperate with local law enforcement as they investigate.\" Video voyeurism is a third-degree felony in Florida. A conviction can carry a maximum penalty of five years in prison, five years of probation, and a $5,000 fine. Penalties may be increased if the suspect is a repeat offender or if children are victimized.",
+      "url": "https://www.cbsnews.com/miami/news/southwest-miami-dade-walmart-homestead-restroom-video-voyeurism/",
+      "source": "CBS News",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/4a47877f-fc6d-4e8a-8e5c-2da20ab3f8b5/thumbnail/1200x630/01f97562ed3cb415555563f12502e669/snapshot.jpg",
+      "publishedAt": "2026-08-11T21:38:04Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Delivery driver accused of filming man in Walmart restroom near Homestead, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Battle Ground man sentenced to more than 4 years for voyeurism",
+      "description": "A judge sentenced a Battle Ground man to 41⁄2 years in prison Monday for hiding a recording device in a bathroom of a shared home, capturing over two dozen people using the toilet and shower.",
+      "url": "https://www.columbian.com/news/2026/aug/11/battle-ground-man-sentenced-to-more-than-4-years-for-voyeurism/",
+      "source": "Columbian",
+      "image": "https://www.columbian.com/wp-content/uploads/2024/04/iStock-1492485517-768x511.jpg",
+      "publishedAt": "2026-08-11 22:44:42",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Battle Ground man sentenced to more than 4 years for voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Walmart bathroom incident leads to video voyeurism arrest, police say",
+      "description": "Police arrested a 28-year-old after a Walmart employee said he saw a cellphone being held over a bathroom stall taking pictures. According to an arrest...",
+      "url": "https://wsvn.com/news/local/miami-dade/walmart-bathroom-incident-leads-to-video-voyeurism-arrest-police-say/",
+      "source": "Wsvn 7 News",
+      "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/Oscar-Chamizo-Martin.png",
+      "publishedAt": "2026-08-11 15:52:32",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Walmart bathroom incident leads to video voyeurism arrest, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man arrested, accused of voyeurism in restroom at Homestead Walmart, cops say",
+      "description": "A man is behind bars after he was accused of voyeurism in a bathroom at a Walmart in Homestead, authorities said.",
+      "url": "https://www.nbcmiami.com/news/local/man-arrested-accused-of-voyeurism-in-restroom-at-homestead-walmart-cops-say/3844338/",
+      "source": "Nbc 6 South Florida",
+      "image": "https://media.nbcmiami.com/2026/08/GettyImages-2071893321.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-08-11 14:04:52",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man arrested, accused of voyeurism in restroom at Homestead Walmart, cops say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Convicted West Virginia sex offender pleads guilty to buying 50+ GB of child porn",
+      "description": "(WOWK) -- A previously convicted West Virginia sex offender has pleaded guilty to a new child pornography charge. According to the U.S. Department of Justice, Justine L. Wiegand, 34, of Kenova, pleaded guilty on Monday to a charge of receipt of child pornography. The DOJ says he is accused of purchasing child sexual abuse material from a messaging app at least nine times between December 2023 and January 2025. Wiegand's sentencing has been set for Nov. 23, 2026. He faces at least 15 and up to 40 years in prison, followed by five years to life on supervised release, as well as a fine of up to $250,000. \"Sexual exploitation of children is one of the worst and most damaging crimes in our country,\" said Assistant Attorney General A. Tysen Duva of the Justice Department's Criminal Division. \"Those who participate in these crimes damage lives, rob innocence, and create emotional wounds that last a lifetime. Whether you produce child sexual abuse material (CSAM), distribute it, or access it via subscriptions to messaging apps, we will find and prosecute you subject to mandatory minimum penalties, as in the case of this repeat offender.\" According to court documents and statements, Wiegand contacted a messaging app user in December 2023, and the user gave him options for purchasing videos and links to files of child sexual abuse material. The DOJ says as part of his guilty plea, Wiegand admitted to paying $25 for a package of 160 videos and four file folders on an online file hosting service that contained more than 50 gigabytes of child sexual abuse material. Court records state Wiegand requested similar content from that messaging app user and other users at least eight more times through January 2025. The DOJ says evidence showed that during one of those instances, Wiegand had allegedly asked a messaging app user if they had any rape videos. According to the DOJ, Wiegand also had video on his cell phone from a hidden camera that he had set up depicting an approximately-10-year-old girl undressing and showering in a bathroom. The DOJ says that video was saved to his phone \"no later than\" July 29, 2025. The DOJ says he also had several other videos and photos of child sexual abuse material on his phone. At the time of these crimes, Wiegand was serving home confinement for a May 5, 2023, conviction of third-degree sexual assault, according to the DOJ. Court records state that Wiegand admitted that the 14-year-old victim in that case was depicted in child sexual abuse material found on Wiegand's private cloud storage service.",
+      "url": "https://www.wboy.com/news/crime/convicted-west-virginia-sex-offender-pleads-guilty-to-buying-50-gb-of-child-porn/",
+      "source": "WBOY.com",
+      "image": "https://www.wboy.com/wp-content/uploads/sites/43/2026/08/handcuffs-and-gavel.jpg?strip=1&w=640",
+      "publishedAt": "2026-08-11T20:38:10Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Convicted West Virginia sex offender pleads guilty to buying 50+ GB of child porn\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Residents, police raise concerns about recurring drone sightings: 'We need someone to stop this'",
+      "description": "WEST BRANDYWINE, Pa. (WPVI) -- Residents in a Chester County neighborhood say recurring drone activity over their homes has left them concerned about privacy and searching for answers. West Brandywine police say an investigation is still underway into the aircraft's nighttime flights. One resident, who requested to remain anonymous, said she has encountered the drone multiple times. \"The first one came in December. I was hoping it was random, and then I started seeing them more and more often. We found out some other neighbors also had seen them flying over their bedroom and bathroom windows, specifically like the skylights,\" the woman said. Neighbors say they have spent months wondering who is operating the aircraft. The resident said the drone frequently appears near her home late at night: \"Between 10 and 11 p.m., they're always over my bedroom and bathroom window, just hovering.\" West Brandywine police said the aircraft have repeatedly appeared over homes and skylights in the Wallace area of the township, including as recently as Monday. Police said officers have witnessed the activity themselves, notified the Federal Aviation Administration and are treating the matter as a possible invasion-of-privacy investigation. The resident described the activity as intrusive. \"So many people defend the rights of drone flyers, which is crazy. If there was someone with a 20-foot ladder up to your windows looking in, would you be defending them? It's a peeping Tom; that's 100 percent what it is.\" An aviation expert not involved in the case said flying a drone over a neighborhood is not automatically illegal and noted that federal regulators, not local authorities, control most airspace regulations. Bradford Ryll said potential surveillance activity could raise legal concerns. \"It is possible that if there is some kind of surveillance activity happening, that might be a violation of Pennsylvania law,\" Ryll said. Police said the drone's operator has not contacted the department. That could be because they are not required to. However, Ryll said if investigators can prove images are being captured inside private homes, the situation could become actionable if the pilot is identified. In a statement, police said in part, \"The use of a drone to invade someone's personal privacy will not be tolerated, and the maximum allowable penalties will be pursued.\" Concern remains among some residents as the investigation continues. \"With four kids, the concern is there and very real as to why this person is hovering over our neighborhood,\" said Shannon Kaschak, who, like her neighbors, has many unanswered questions. The anonymous resident said she has installed cameras, an alarm system, drapes and blinds, and covered skylights to help protect her privacy. \"We need someone to stop this; it's gotta stop.\" Police continue to ask residents to report any sightings. Action News also contacted the FAA and is awaiting a response.",
+      "url": "https://6abc.com/post/west-brandywine-pa-residents-police-raise-concerns-recurring-drone-sightings/19665440/",
+      "source": "6abc Action News",
+      "image": "https://cdn.abcotvs.com/dip/images/19665565_081126-wpvi-drone-sighting-concerns-10pm-CC-vid.jpg?w=1600",
+      "publishedAt": "2026-08-12T03:15:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Residents, police raise concerns about recurring drone sightings: 'We need someone to stop this'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man accused of taking pictures inside Walmart restroom",
+      "description": "A man is behind bars after he was accused of voyeurism in a bathroom at a Walmart in Homestead, authorities said. NBC6’s Jamie Guirola has more.",
+      "url": "https://www.nbcmiami.com/video/nbc-6-news/man-accused-of-taking-pictures-inside-walmart-restroom/3844616/",
+      "source": "Nbc 6 South Florida",
+      "image": "https://media.nbcmiami.com/2026/08/50322523442-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-08-11 22:51:18",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man accused of taking pictures inside Walmart restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Miami man accused of taking photos/video of Walmart employee inside bathroom stall",
+      "description": "A Miami man was arrested Monday on a video voyeurism charge after deputies said he took photos and/or video of a Walmart employee inside a bathroom stall at a store location in southwest Miami-Dade.",
+      "url": "https://www.local10.com/news/local/2026/08/11/miami-man-accused-of-taking-photosvideo-of-walmart-employee-inside-bathroom-stall/",
+      "source": "Local 10 News",
+      "image": "https://www.local10.com/resizer/v2/UKMCNB4VMZGOJJ34ADVYFU2MUU.jpg?auth=1e6740e26dff23cdcf79c46bcac8e18d3e389ba68ea132d844820f79ecfa05f2&smart=true&width=1200&height=900",
+      "publishedAt": "2026-08-11 14:10:36",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Miami man accused of taking photos/video of Walmart employee inside bathroom stall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man accused of voyeurism in Homestead Walmart bathroom in bond court",
+      "description": "RAW: Oscar Chamizo-Martin, 28, was arrested Monday on one count of video voyeurism, an arrest report said.",
+      "url": "https://www.nbcmiami.com/video/video/man-accused-of-voyeurism-in-homestead-walmart-bathroom-in-bond-court/3844443/",
+      "source": "Nbc 6 South Florida",
+      "image": "https://media.nbcmiami.com/2026/08/50316635294-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-08-11 16:58:43",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of voyeurism in Homestead Walmart bathroom in bond court\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-12T13:02:39.277Z"
+    }
+  ]
 }
