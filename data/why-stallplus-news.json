@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:02:39.277Z",
+  "updatedAt": "2026-08-13T13:03:24.860Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 9,
-    "rejected": 59,
-    "carriedForward": 2
+    "pending": 3,
+    "rejected": 67,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
@@ -121,99 +121,12 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Delivery driver accused of filming man in Walmart restroom near Homestead, police say",
-      "description": "Peter D'Oench is a reporter for CBS4 News. He came to CBS4 from WKRN in Nashville. A 28-year-old man was arrested and charged with video voyeurism at a Walmart near Homestead, an incident that has left customers alarmed. The Miami-Dade Sheriff's Office responded to the store, located at 14325 S.W. 268th St., on Monday morning after a victim reported being filmed while using the restroom. The victim told authorities he noticed someone reaching over a stall to retrieve an iPhone with an orange cover. He confronted the suspect, who was the only other person in the men's restroom at the time. According to an arrest affidavit, store security footage captured the suspect, Oscar Chamizo-Martin, entering the restroom with the victim. The victim exited the restroom \"visibly upset\" and alerted a manager. Authorities reported that Chamizo-Martin, who identified himself as a delivery driver, left the store but was later contacted through his employer. He was arrested after returning to the location. While Chamizo-Martin denied recording, investigators noted he possessed a cell phone matching the description provided by the victim. In bond court, a judge set bond at $2,500 and issued a stay-away order prohibiting Chamizo-Martin from returning to the Walmart. Because of an active U.S. Immigration and Customs Enforcement (ICE) hold, Chamizo-Martin will remain in custody. Once the local case is resolved, he will be transferred to federal authorities. Walmart customers expressed shock at the incident. \"That is disrespectful when you are in the stall,\" said customer Nini Florin. \"It is a public place. You think you would be safe. It is your own little abode using the restroom.\" \"I don't know why people can't just use the bathroom in peace in public,\" added customer Alex Sanchez. In a statement, Walmart's press office said, \"The safety and security of our associates and customers is a top priority. We will continue to cooperate with local law enforcement as they investigate.\" Video voyeurism is a third-degree felony in Florida. A conviction can carry a maximum penalty of five years in prison, five years of probation, and a $5,000 fine. Penalties may be increased if the suspect is a repeat offender or if children are victimized.",
-      "url": "https://www.cbsnews.com/miami/news/southwest-miami-dade-walmart-homestead-restroom-video-voyeurism/",
-      "source": "CBS News",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/4a47877f-fc6d-4e8a-8e5c-2da20ab3f8b5/thumbnail/1200x630/01f97562ed3cb415555563f12502e669/snapshot.jpg",
-      "publishedAt": "2026-08-11T21:38:04Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Delivery driver accused of filming man in Walmart restroom near Homestead, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Battle Ground man sentenced to more than 4 years for voyeurism",
-      "description": "A judge sentenced a Battle Ground man to 41⁄2 years in prison Monday for hiding a recording device in a bathroom of a shared home, capturing over two dozen people using the toilet and shower.",
-      "url": "https://www.columbian.com/news/2026/aug/11/battle-ground-man-sentenced-to-more-than-4-years-for-voyeurism/",
-      "source": "Columbian",
-      "image": "https://www.columbian.com/wp-content/uploads/2024/04/iStock-1492485517-768x511.jpg",
-      "publishedAt": "2026-08-11 22:44:42",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Battle Ground man sentenced to more than 4 years for voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Walmart bathroom incident leads to video voyeurism arrest, police say",
-      "description": "Police arrested a 28-year-old after a Walmart employee said he saw a cellphone being held over a bathroom stall taking pictures. According to an arrest...",
-      "url": "https://wsvn.com/news/local/miami-dade/walmart-bathroom-incident-leads-to-video-voyeurism-arrest-police-say/",
-      "source": "Wsvn 7 News",
-      "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/08/Oscar-Chamizo-Martin.png",
-      "publishedAt": "2026-08-11 15:52:32",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Walmart bathroom incident leads to video voyeurism arrest, police say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man arrested, accused of voyeurism in restroom at Homestead Walmart, cops say",
-      "description": "A man is behind bars after he was accused of voyeurism in a bathroom at a Walmart in Homestead, authorities said.",
-      "url": "https://www.nbcmiami.com/news/local/man-arrested-accused-of-voyeurism-in-restroom-at-homestead-walmart-cops-say/3844338/",
-      "source": "Nbc 6 South Florida",
-      "image": "https://media.nbcmiami.com/2026/08/GettyImages-2071893321.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-08-11 14:04:52",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man arrested, accused of voyeurism in restroom at Homestead Walmart, cops say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Convicted West Virginia sex offender pleads guilty to buying 50+ GB of child porn",
-      "description": "(WOWK) -- A previously convicted West Virginia sex offender has pleaded guilty to a new child pornography charge. According to the U.S. Department of Justice, Justine L. Wiegand, 34, of Kenova, pleaded guilty on Monday to a charge of receipt of child pornography. The DOJ says he is accused of purchasing child sexual abuse material from a messaging app at least nine times between December 2023 and January 2025. Wiegand's sentencing has been set for Nov. 23, 2026. He faces at least 15 and up to 40 years in prison, followed by five years to life on supervised release, as well as a fine of up to $250,000. \"Sexual exploitation of children is one of the worst and most damaging crimes in our country,\" said Assistant Attorney General A. Tysen Duva of the Justice Department's Criminal Division. \"Those who participate in these crimes damage lives, rob innocence, and create emotional wounds that last a lifetime. Whether you produce child sexual abuse material (CSAM), distribute it, or access it via subscriptions to messaging apps, we will find and prosecute you subject to mandatory minimum penalties, as in the case of this repeat offender.\" According to court documents and statements, Wiegand contacted a messaging app user in December 2023, and the user gave him options for purchasing videos and links to files of child sexual abuse material. The DOJ says as part of his guilty plea, Wiegand admitted to paying $25 for a package of 160 videos and four file folders on an online file hosting service that contained more than 50 gigabytes of child sexual abuse material. Court records state Wiegand requested similar content from that messaging app user and other users at least eight more times through January 2025. The DOJ says evidence showed that during one of those instances, Wiegand had allegedly asked a messaging app user if they had any rape videos. According to the DOJ, Wiegand also had video on his cell phone from a hidden camera that he had set up depicting an approximately-10-year-old girl undressing and showering in a bathroom. The DOJ says that video was saved to his phone \"no later than\" July 29, 2025. The DOJ says he also had several other videos and photos of child sexual abuse material on his phone. At the time of these crimes, Wiegand was serving home confinement for a May 5, 2023, conviction of third-degree sexual assault, according to the DOJ. Court records state that Wiegand admitted that the 14-year-old victim in that case was depicted in child sexual abuse material found on Wiegand's private cloud storage service.",
-      "url": "https://www.wboy.com/news/crime/convicted-west-virginia-sex-offender-pleads-guilty-to-buying-50-gb-of-child-porn/",
-      "source": "WBOY.com",
-      "image": "https://www.wboy.com/wp-content/uploads/sites/43/2026/08/handcuffs-and-gavel.jpg?strip=1&w=640",
-      "publishedAt": "2026-08-11T20:38:10Z",
+      "title": "My Friend Wishes We Had Warned Her About Her Last Boyfriend. Well, I Have Some Unfortunate Intel on Her New One.",
+      "description": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily. Dear Prudence is Slate's advice column. Submit questions here. Dear Prudence, My friend \"Hannah\" has been single for a long time, has dated various men over the years, and her most recent relationship ended very badly and hurt her a lot. After it ended, several friends spoke up about what they knew about her ex, and she was upset no one had warned her. Now she is dating again, and I found out someone she has been seeing is the ex of someone I know and have heard a lot about that is not good -- think unhinged behavior, threats, cheating, stalking, manipulating, etc. I'm worried Hannah will get hurt again, although so far this guy has been nothing but appropriate, charming, and fun with her. My gut says this could be love bombing, and I think Hannah isn't very good at noticing red flags until it's way too late (she tends to overlook a lot and get hurt months down the road after she becomes more invested). Should I tell her what I've been told about him? I am hesitant because it is hearsay from his last ex through a third person close to her (whom I trust to be truthful), and it also feels like I might risk my friendship with Hannah by saying these things about the man she is dating. On the other hand, if even half these things are true about him, she is walking into another bad relationship that will end in her getting hurt again. What should I do? -- Again and Again Dear Again and Again, Tell her. But deliver the news very gently, with a lot of disclaimers and caveats and -- this is key -- have very low expectations for what she will do with the information. Decide beforehand that after you share what you know, you will wash your hands of the situation and allow Hannah to make whatever choice she's going to make about her relationship, even if it's clear that it's one that will lead to suffering for her. Here's how that warning could sound: \"Hey Hannah. I wanted to talk to you about something I debated whether I should even bring up to you. But I ultimately decided it would be best for you to have all the information so you could make the best decision for yourself. A friend of mine once dated Wayne and said some concerning things about him. She talked about threats, cheating, stalking, manipulation, and stuff like that. It made me really worried for you, and I remembered how you'd wished people would have told you what they knew about your ex, and that's why I am bringing the information to you. I know you've had a different experience with him, and I have no way of knowing whether what I heard is true, but I just thought it would be best for you to know so you can make your own decision.\" If she's concerned and intrigued, offer to put her in touch with the friend who said these things. If she bristles and becomes defensive, say, \"I'm sorry if it was a misstep to bring this to you. I did it because I care and thought you would want to know, but I apologize for making the wrong call. We never have to talk about it again.\" Dear Prudence, My cousin \"Nathan\" and I have always had a good relationship despite a fairly large age gap (I'm 36, he's 51) because our moms were very close sisters. Nathan has long had a practice of posting long essays on his social media about family, gratitude, recent travels, his faith, his children, etc. I've always enjoyed reading his thoughts and found it quite charming that he could be so earnest with his self-expression in a time when a lot of people are pulling back what they share online. Recently, though, he has turned to publishing very obvious AI writing. It makes me so sad to see AI slop that sounds like travel brochure copywriting in place of what normally would have been a tender missive about spending time with his wife in a new city. Both of our moms passed away last year, and he has posted several long tributes to them that just ring so hollow and uncanny. I miss my aunt and my mom very much, and I know firsthand that grief is a strange process -- but it makes me feel weird to see them rendered in a classic AI cadence and tone. My mom and auntie were not \"quietly\" doing anything, but that's a chatbot's favorite phrase! I'm not mad at him for this. I just want to let him know I miss his old writing. I know he has it in him, and that AI isn't unlocking some previously inaccessible well of self-expression. He doesn't have a following other than his real-life social circle, and social media isn't his job. He's just always been an emotional, expressive guy ready to share an upbeat, philosophical take on a fairly benign subject, and I loved it! Do you think it's rude to give Nathan feedback that it's obvious he's using AI and also that it's not having the same effect as his previous writing? -- Concerned Cousin Dear Concerned Cousin, I can't be objective here because I have an outsized, unreasonably enraged reaction when people use AI to write and think nobody will notice. I don't know why it drives me nuts! Maybe because we can learn so much about people through their tone and their choice of words, and if everyone sounds like an AI bot, I don't see the point of even writing anything. Or perhaps I'm just resentful that many people aren't valuing writing, the one thing I think I'm good at, as much anymore because they are happy (thrilled, even!) with whatever slop comes out in response to their prompts. Anyway, I completely understand how you feel. The sad truth is that I'm pretty sure a lot of the public can't tell the difference between an essay by a human and an essay by a chatbot. So maybe this strategy is working for Nathan. He's getting his message (or a message that approximates his, but includes things like \"my trip to Mexico wasn't just adventurous, it was incandescent\" and \"this salad is a quiet but impactful addition to my weekday dinners\") across and probably receiving similar feedback. Who knows, maybe he has freed up some time to spend with his kids or pets or to actually do the cooking. So join me in privately seething and save your feedback until he explicitly asks for it. Prudie Wants to Hear From You! Readers often have great suggestions for our letter writers, occasionally disagree with a point Prudie makes, or simply want to provide some additional advice. Each week, Prudie will be replying to some of these comments and suggestions from readers, which will be featured on the site on Fridays for Slate Plus members. Write to us! Or submit a question here. Dear Prudence, A friend of my husband's has a nasty habit: Whenever he talks to someone, he invariably sprays them with spit. He doesn't have any medical issues or speech impediments that would cause it. It's just the way he talks. Obviously, it's gross and unsanitary. What would be an appropriate way of pointing this out to him so I don't get soaked every time we interact? -- Preparing to Invest in a Splash Guard Dear Preparing to Invest in a Splash Guard, Given that the vast majority of people do not get other people wet when they talk, I wouldn't be so fast to assume that there isn't a physiological issue behind what's going on with this guy. He might just not be vocal about it. Certainly he's not doing this spraying on purpose. Of course, that doesn't change your desire to protect yourself from a saliva shower. Try: \"Oops, we must be standing too close together; I got a little spit sprinkle. Let me scoot back.\" Classic Prudie My co-workers and I have all been victims of a lunch thief over the last couple of months. We've tried putting notes and signs on our lunches asking people to please leave them alone, we've spiked our lunches with hot sauce or pepper in an attempt to make them unappealing (which also leaves them inedible for us), but the lunch thief has still been striking a couple of times a week. This was brought up at our last company-wide meeting, with dire consequences promised if it doesn't stop. After having his lunch stolen three times in one week, one of my co-workers installed a hidden camera in our break room...",
+      "url": "https://slate.com/advice/2026/08/dating-advice-friend-red-flags-ex.html",
+      "source": "Slate Magazine",
+      "image": "https://compote.slate.com/images/7853aad5-5916-46a2-8933-011f7fe75c3d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-08-13T10:00:00Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -224,80 +137,39 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Convicted West Virginia sex offender pleads guilty to buying 50+ GB of child porn\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"My Friend Wishes We Had Warned Her About Her Last Boyfriend. Well, I Have Some Unfortunate Intel on Her New One\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-13T13:03:24.860Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Residents, police raise concerns about recurring drone sightings: 'We need someone to stop this'",
-      "description": "WEST BRANDYWINE, Pa. (WPVI) -- Residents in a Chester County neighborhood say recurring drone activity over their homes has left them concerned about privacy and searching for answers. West Brandywine police say an investigation is still underway into the aircraft's nighttime flights. One resident, who requested to remain anonymous, said she has encountered the drone multiple times. \"The first one came in December. I was hoping it was random, and then I started seeing them more and more often. We found out some other neighbors also had seen them flying over their bedroom and bathroom windows, specifically like the skylights,\" the woman said. Neighbors say they have spent months wondering who is operating the aircraft. The resident said the drone frequently appears near her home late at night: \"Between 10 and 11 p.m., they're always over my bedroom and bathroom window, just hovering.\" West Brandywine police said the aircraft have repeatedly appeared over homes and skylights in the Wallace area of the township, including as recently as Monday. Police said officers have witnessed the activity themselves, notified the Federal Aviation Administration and are treating the matter as a possible invasion-of-privacy investigation. The resident described the activity as intrusive. \"So many people defend the rights of drone flyers, which is crazy. If there was someone with a 20-foot ladder up to your windows looking in, would you be defending them? It's a peeping Tom; that's 100 percent what it is.\" An aviation expert not involved in the case said flying a drone over a neighborhood is not automatically illegal and noted that federal regulators, not local authorities, control most airspace regulations. Bradford Ryll said potential surveillance activity could raise legal concerns. \"It is possible that if there is some kind of surveillance activity happening, that might be a violation of Pennsylvania law,\" Ryll said. Police said the drone's operator has not contacted the department. That could be because they are not required to. However, Ryll said if investigators can prove images are being captured inside private homes, the situation could become actionable if the pilot is identified. In a statement, police said in part, \"The use of a drone to invade someone's personal privacy will not be tolerated, and the maximum allowable penalties will be pursued.\" Concern remains among some residents as the investigation continues. \"With four kids, the concern is there and very real as to why this person is hovering over our neighborhood,\" said Shannon Kaschak, who, like her neighbors, has many unanswered questions. The anonymous resident said she has installed cameras, an alarm system, drapes and blinds, and covered skylights to help protect her privacy. \"We need someone to stop this; it's gotta stop.\" Police continue to ask residents to report any sightings. Action News also contacted the FAA and is awaiting a response.",
-      "url": "https://6abc.com/post/west-brandywine-pa-residents-police-raise-concerns-recurring-drone-sightings/19665440/",
-      "source": "6abc Action News",
-      "image": "https://cdn.abcotvs.com/dip/images/19665565_081126-wpvi-drone-sighting-concerns-10pm-CC-vid.jpg?w=1600",
-      "publishedAt": "2026-08-12T03:15:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "title": "Spain: British Couple Finds Hidden Camera Pointed at Bed During Wedding Anniversary Trip; Airbnb Suspends Listing",
+      "description": "A British couple's 39th wedding anniversary trip to Madrid was cut short after they discovered a hidden camera in their Airbnb accommodation allegedly positioned directly toward their bed. Donna Nunn, 62, and her husband Raymond Nunn, 87, said they had already spent a night in the apartment before noticing the device. Airbnb subsequently refunded their stay and rebooking costs and suspended the property while investigating the incident, NDTV reported. Camera Discovered in Bedroom The couple arrived at the apartment in Madrid's Lavapiés neighbourhood on August 3. Shortly after arriving, they noticed a device in the living room that appeared to be a motion sensor or security camera facing the front door. Because the device showed no flashing light, they did not initially suspect that it was recording. The following day, while Donna was out sightseeing, Raymond noticed another device in the bedroom. Donna said the approximately four-inch device had a green light and was positioned in a corner facing the bed. Spain To Replace Ambassador to India Juan Antonio March Pujol Amid Financial Favour Allegations. Couple Leaves Property The discovery alarmed the couple, who said they were particularly distressed because they had already slept in the room without knowing about the device. They contacted Airbnb on August 4 and were advised to leave the property immediately. However, it was around 8pm by then, leaving the couple with limited options for accommodation that night. They eventually found another apartment roughly two hours south of Madrid and left the Airbnb on August 5, just two days after arriving. The incident also disrupted their plans to explore Madrid during their anniversary holiday. Spain Says 49,000 Migrants Crossed From Morocco Into Ceuta in a Single Day, 19 Bodies Recovered. Airbnb Suspends Listing Airbnb said it had issued the couple a full refund, including the cost associated with rebooking their accommodation. The company has also suspended the property listing while it investigates the report. Airbnb said it takes reports involving guest safety and privacy seriously. The company noted that it banned indoor security cameras in its listings in 2024, regardless of whether the devices are disclosed or switched off during a guest's stay. Airbnb said violations of its camera policy can result in action including the removal of listings and users from the platform. Privacy Concerns for Short-Term Rentals The incident has renewed concerns about privacy in short-term rental properties, particularly where surveillance devices may be concealed or improperly installed. Airbnb's current policy prohibits indoor security cameras, but the company says it investigates reports of violations on a case-by-case basis. For the British couple, the discovery brought an early end to what had been planned as a special anniversary trip. The investigation into the property and the device remains ongoing. (The above story first appeared on LatestLY on Aug 13, 2026 10:38 AM IST. For more news and updates on politics, world, sports, entertainment and lifestyle, log on to our website latestly.com).",
+      "url": "https://www.latestly.com/world/spain-british-couple-finds-hidden-camera-pointed-at-bed-during-madrid-anniversary-trip-airbnb-suspends-listing-7557692.html",
+      "source": "LatestLY",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/08/Hidden_Camera-784x441.jpg",
+      "publishedAt": "2026-08-13T05:08:24Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (1 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Residents, police raise concerns about recurring drone sightings: 'We need someone to stop this'\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Spain: British Couple Finds Hidden Camera Pointed at Bed During Wedding Anniversary Trip; Airbnb Suspends Listing\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-13T13:03:24.860Z"
     },
     {
       "provider": "NewsData.io",
-      "title": "Man accused of taking pictures inside Walmart restroom",
-      "description": "A man is behind bars after he was accused of voyeurism in a bathroom at a Walmart in Homestead, authorities said. NBC6’s Jamie Guirola has more.",
-      "url": "https://www.nbcmiami.com/video/nbc-6-news/man-accused-of-taking-pictures-inside-walmart-restroom/3844616/",
-      "source": "Nbc 6 South Florida",
-      "image": "https://media.nbcmiami.com/2026/08/50322523442-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-08-11 22:51:18",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man accused of taking pictures inside Walmart restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Miami man accused of taking photos/video of Walmart employee inside bathroom stall",
-      "description": "A Miami man was arrested Monday on a video voyeurism charge after deputies said he took photos and/or video of a Walmart employee inside a bathroom stall at a store location in southwest Miami-Dade.",
-      "url": "https://www.local10.com/news/local/2026/08/11/miami-man-accused-of-taking-photosvideo-of-walmart-employee-inside-bathroom-stall/",
-      "source": "Local 10 News",
-      "image": "https://www.local10.com/resizer/v2/UKMCNB4VMZGOJJ34ADVYFU2MUU.jpg?auth=1e6740e26dff23cdcf79c46bcac8e18d3e389ba68ea132d844820f79ecfa05f2&smart=true&width=1200&height=900",
-      "publishedAt": "2026-08-11 14:10:36",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Miami man accused of taking photos/video of Walmart employee inside bathroom stall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man accused of voyeurism in Homestead Walmart bathroom in bond court",
-      "description": "RAW: Oscar Chamizo-Martin, 28, was arrested Monday on one count of video voyeurism, an arrest report said.",
-      "url": "https://www.nbcmiami.com/video/video/man-accused-of-voyeurism-in-homestead-walmart-bathroom-in-bond-court/3844443/",
-      "source": "Nbc 6 South Florida",
-      "image": "https://media.nbcmiami.com/2026/08/50316635294-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-08-11 16:58:43",
+      "title": "EPD: Man arrested on voyeurism charges after hidden camera found in bathroom",
+      "description": "The victim found that he had hidden a camera in the bathroom, which was in the form of a surge protector with a hidden camera inside.",
+      "url": "https://www.14news.com/2026/08/12/epd-man-arrested-voyeurism-charges-after-hidden-camera-found-bathroom/",
+      "source": "Https://www.14news.com",
+      "image": "https://gray-wfie-prod.gtv-cdn.com/resizer/v2/2MHFJX5HUBENXCFZ4U5TLTXS74.png?auth=e9ceb9fff62c2fa7a3a602b650e2e414c17ab568377015958475e143cf48dbd3&width=1200&height=600&smart=true",
+      "publishedAt": "2026-08-12 16:42:47",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -309,8 +181,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of voyeurism in Homestead Walmart bathroom in bond court\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-12T13:02:39.277Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"EPD: Man arrested on voyeurism charges after hidden camera found in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-13T13:03:24.860Z"
     }
   ]
 }
