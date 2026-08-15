@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T12:59:57.933Z",
+  "updatedAt": "2026-08-15T12:32:07.925Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 3,
-    "rejected": 65,
+    "pending": 0,
+    "rejected": 70,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -118,71 +118,5 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former Orange County church employee sentenced to 40 years for secretly recording children using spyware\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Cedar Park man convicted of recording girls, possessing child porn",
-      "description": "A Cedar Park man was convicted Wednesday of secretly recording two girls as they undressed and showered and of possessing hundreds of thousands of images and videos of child sexual abuse material, federal prosecutors said. A federal jury found Scott Joseph Kopas, 55, guilty of three counts of production of child pornography and one count of possession of child pornography, according to the U.S. Attorney's Office for the Western District of Texas. Prosecutors said FBI agents found computers and other digital devices while searching Kopas' Cedar Park home and a hotel in Hawaii where he was vacationing as part of an investigation into his online activity. Evidence presented at trial showed Kopas had placed hidden cameras in bathrooms and a bedroom at his home and used them to record two minor girls undressing and showering, prosecutors said. Investigators also found images in which Kopas had edited the girls' faces onto nude images of adults and children, according to prosecutors. His devices contained hundreds of thousands of other images and videos of child sexual abuse material. Jurors also heard evidence that a hidden camera had been discovered years earlier in the bedroom of another minor girl. The girl turned the camera over to police, and Kopas later admitted during an unrelated civil deposition that he had installed it, prosecutors said. Photos of three child sex dolls found in Kopas' bedroom closet were also introduced as evidence at trial, along with records showing he had purchased them from a company in China, according to prosecutors. \"The American people can take confidence in the fact that we have some of the best public servants this country has to offer pushing back against this and so many other forms of darkness in a consistent and concerted effort to make our country one where Americans can live their lives, enjoy the blessings of liberty and pursue happiness,\" U.S. Attorney Justin R. Simmon said. A sentencing hearing has not yet been scheduled.",
-      "url": "https://www.statesman.com/news/courts/article/cedar-park-child-pornography-kopas-conviction-22387405.php",
-      "source": "Austin American-Statesman",
-      "image": "https://s.hdnux.com/photos/01/66/17/03/30994658/3/rawImage.jpg",
-      "publishedAt": "2026-08-13T21:32:21Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Cedar Park man convicted of recording girls, possessing child porn\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-14T12:59:57.933Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden Camera Found In Athletic Club Bathroom In New Rochelle, Employee Flees To Kansas: Cops",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/daily-voice-525087/4827937217571-hidden-camera-found-in-athletic-club-bathroom-in-new-rochelle-employee-flees-to-kansas-cops",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-08-14 00:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden Camera Found In Athletic Club Bathroom In New Rochelle, Employee Flees To Kansas: Cops\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-14T12:59:57.933Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Decatur man charged with child sexual abuse after hidden camera investigation",
-      "description": "A hidden camera found in a Decatur restaurant restroom led detectives to a suspect and more than 600 images of suspected child sexual abuse material.",
-      "url": "https://herald-review.com/news/local/crime-courts/article_8c7ce00b-3b5a-432e-bf23-aa89e2e022ce.html",
-      "source": "Herald & Review",
-      "image": "https://bloximages.chicago2.vip.townnews.com/herald-review.com/content/tncms/assets/v3/editorial/a/97/a97e8102-91ca-4415-b6d7-ae83d58bdaef/6a7cdfb4b4122.image.jpg?resize=300%2C374",
-      "publishedAt": "2026-08-13 14:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Decatur man charged with child sexual abuse after hidden camera investigation\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-14T12:59:57.933Z"
-    }
-  ]
+  "pendingReview": []
 }
