@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:32:07.925Z",
+  "updatedAt": "2026-08-16T12:33:15.658Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
+    "published": 1,
     "pending": 0,
     "rejected": 70,
-    "carriedForward": 3
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -74,48 +74,6 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Cuban Man in Miami Faces Charges for Filming Walmart Employee in Bathroom\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Former Orange County church employee sentenced to 40 years for secretly recording children using spyware",
-      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A California man who previously worked for an Orange County church was sentenced to 40 years in prison for using spyware to secretly record children and directing juvenile victims to produce child sexual abuse material. Jacob Melvin Hart, 46, of San Juan Capistrano, had pleaded guilty to attempted production of visual depictions involving sexual exploitation of a minor and transportation of visual depictions involving the sexual exploitation of minors, the U.S. Attorney's Office said. An investigation revealed that Hart had previously worked as an IT consultant for Crossline Community Church in Laguna Hills, where he had access to children, prosecutors said. He also managed the church's audiovisual and computer technology operations. Hart provided laptops equipped with spyware to several children at the church, allowing him to remotely activate the computers' cameras without the children's knowledge. Using the spyware, he secretly recorded at least eight children and possessed sexually explicit depictions of those children, prosecutors said. In June 2025, while returning from a mission trip to Haiti, Hart was arrested at Miami International Airport by U.S. Customs and Border Protection. An inspection of his electronic devices revealed an extensive collection of child sexual abuse material, including images and videos that he had directed children in Russia to create. On July 29, 2026, Hart was sentenced to 40 years in prison. Federal prosecutors said that in 2006, Hart was convicted in Oregon of invasion of privacy after secretly installing a hidden camera in a girls' locker room at a Christian children's camp. In January 2026, two alleged victims filed separate lawsuits against Crossline, accusing the church of negligence, after they were allegedly recorded by the refurbished computers given to them by Hart, the Orange County Register reported. One of the female victims said that in 2013, she needed a new computer at the start of a school year. Hart reportedly offered to give her a refurbished model, which the family accepted. Investigators said Hart had installed software enabling the girl's computer to be remotely accessed and monitored, according to the suit. The computer captured images of the girl nude in the bathtub and getting in and out of the shower. Another female victim said Hart gave her a computer in 2023 so she could assist with editing videos for the church. The computer later recorded the girl showering and getting dressed, her lawsuit said. The suits claimed that multiple children accepted a laptop computer from Hart, with the church's knowledge. Lawyers also alleged that church officials were aware of Hart's previous conviction in Oregon when they hired him in 2012, claiming he had disclosed his conviction and a pornography addiction to his new bosses, the O.C. Register reported. Several church staff members have since resigned following the lawsuits. Church representatives said they are cooperating with law enforcement on the investigation. In a statement to the Register, church officials said, \"The Elders of Crossline Community church are deeply grieved by the actions of Jacob Hart and the pain and suffering he has caused, especially to the victims. We have provided regular updates to the church, launched an independent investigation and strengthened our internal safety protocols, volunteer screenings and hiring processes.\" \"This defendant weaponized technology and abused positions of trust to invade children's most private spaces and sexually exploit them,\" said U.S. Attorney Jason A. Reding Quiñones. \"The 40-year sentence imposed on Jacob Melvin Hart means he will likely spend the rest of his life in federal prison. It protects children from a calculated predator and demonstrates that we will pursue those who produce and solicit child sexual abuse material, whether their victims are here at home or across the world.\" Copyright 2026 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.",
-      "url": "https://www.yahoo.com/news/us/articles/former-orange-county-church-employee-031711970.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/2d7ff81f618ebdcd3eb8721f2c018f9a85379da7b4b0bf4b9016262ed3b812a9/lightyear_networkapi/resizefill_w900_h506%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fktla_articles_362%2F39abe56eb32c951bb9d373b27e619b41",
-      "publishedAt": "2026-08-09T03:17:11Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former Orange County church employee sentenced to 40 years for secretly recording children using spyware\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Former Orange County church employee sentenced to 40 years for secretly recording children using spyware",
-      "description": "A California man who previously worked for an Orange County church was sentenced to 40 years in prison for using spyware to secretly record children and directing juvenile victims to produce child sexual abuse material. Jacob Melvin Hart, 46, of San Juan Capistrano, had pleaded guilty to attempted production of visual depictions involving sexual exploitation of a minor and transportation of visual depictions involving the sexual exploitation of minors, the U.S. Attorney's Office said. An investigation revealed that Hart had previously worked as an IT consultant for Crossline Community Church in Laguna Hills, where he had access to children, prosecutors said. He also managed the church's audiovisual and computer technology operations. Hart provided laptops equipped with spyware to several children at the church, allowing him to remotely activate the computers' cameras without the children's knowledge. Using the spyware, he secretly recorded at least eight children and possessed sexually explicit depictions of those children, prosecutors said. In June 2025, while returning from a mission trip to Haiti, Hart was arrested at Miami International Airport by U.S. Customs and Border Protection. An inspection of his electronic devices revealed an extensive collection of child sexual abuse material, including images and videos that he had directed children in Russia to create. On July 29, 2026, Hart was sentenced to 40 years in prison. Federal prosecutors said that in 2006, Hart was convicted in Oregon of invasion of privacy after secretly installing a hidden camera in a girls' locker room at a Christian children's camp. In January 2026, two alleged victims filed separate lawsuits against Crossline, accusing the church of negligence, after they were allegedly recorded by the refurbished computers given to them by Hart, the Orange County Register reported. One of the female victims said that in 2013, she needed a new computer at the start of a school year. Hart reportedly offered to give her a refurbished model, which the family accepted. Investigators said Hart had installed software enabling the girl's computer to be remotely accessed and monitored, according to the suit. The computer captured images of the girl nude in the bathtub and getting in and out of the shower. Another female victim said Hart gave her a computer in 2023 so she could assist with editing videos for the church. The computer later recorded the girl showering and getting dressed, her lawsuit said. The suits claimed that multiple children accepted a laptop computer from Hart, with the church's knowledge. Lawyers also alleged that church officials were aware of Hart's previous conviction in Oregon when they hired him in 2012, claiming he had disclosed his conviction and a pornography addiction to his new bosses, the O.C. Register reported. Several church staff members have since resigned following the lawsuits. Church representatives said they are cooperating with law enforcement on the investigation. In a statement to the Register, church officials said, \"The Elders of Crossline Community church are deeply grieved by the actions of Jacob Hart and the pain and suffering he has caused, especially to the victims. We have provided regular updates to the church, launched an independent investigation and strengthened our internal safety protocols, volunteer screenings and hiring processes.\"",
-      "url": "https://ktla.com/news/california/oc-church-employee-sentenced-recorded-children-with-spyware/",
-      "source": "KTLA 5",
-      "image": "https://ktla.com/wp-content/uploads/sites/4/2026/08/Crossline-Community-Church-Laguna-Hills-.jpg?strip=1&w=640",
-      "publishedAt": "2026-08-09T03:17:11Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former Orange County church employee sentenced to 40 years for secretly recording children using spyware\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
   "pendingReview": []
