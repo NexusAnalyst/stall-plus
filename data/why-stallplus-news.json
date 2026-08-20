@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T12:40:03.433Z",
+  "updatedAt": "2026-08-20T12:42:21.676Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 8,
-    "rejected": 61,
+    "pending": 6,
+    "rejected": 63,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -79,179 +79,133 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Safe disposal containers can protect workers from being stuck by a syringe on the job",
-      "description": "The BDN Opinion section operates independently and does not set news policies or contribute to reporting or editing articles elsewhere in the newspaper or on bangordailynews.com Raymond York is a worker and resident of Presque Isle On the morning of Aug. 5, I was stuck by a discarded syringe while cleaning a public restroom during my shift at a restaurant here in Presque Isle. I washed the wound, notified my manager, drove to Northern Light AR Gould for baseline testing for hepatitis B, hepatitis C and HIV, and filed a report with the Maine Department of Labor. Television station WAGM covered the story also to warn other workers. I am not writing to blame anyone. Addiction is a health issue and our downtown businesses did not create it. I am writing because this is a worker safety issue. Discarded syringes are also being found in other areas of our community -- in parks, in gas station bathrooms, in trash cans. I have talked to other workers who clean those same bathrooms and they have found them too. When you are making $18 an hour taking out trash, you should not have to worry about a needle stick that means months of testing and anxiety. Every needlestick is an OSHA-recordable injury. Every baseline visit can cost $500 or more, even before follow-up testing at six weeks and three months. A locked, puncture-resistant sharps box costs about $60 and a quarterly pickup by a licensed medical waste company can cost less than a single ER bill. Portland, Bangor and Lewiston solved this years ago. City-owned public restrooms are equipped with sharps collection boxes and they provide city-owned and other drop-off boxes and sites where syringes can be disposed of safely, no questions asked. Aroostook County has some safe disposal sites, but we don't have visible boxes where the litter is actually happening. Recently, I went to city hall in Presque Isle to ask the city Council to act. I did not get a chance to speak, so I am asking here. I am asking the City of Presque Isle to do two simple, low-cost things: Add sharps containers to the city's public restroom safety checklist for city buildings and for businesses licensed to have public restrooms; and identify a location and funding source for a 24-hour drop kiosk downtown, using opioid settlement funds where allowable. No one should be stuck with a syringe at work for taking out the trash.",
-      "url": "https://www.bangordailynews.com/2026/08/19/opinion/opinion-contributor/safe-disposal-containers-protect-workers-from-being-stuck-by-syringe-joam40zk0w/",
-      "source": "Bangor Daily News",
-      "image": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/08/Needle-Exchange.jpg?fit=1200%2C800&ssl=1",
-      "publishedAt": "2026-08-19T05:00:00Z",
-      "category": "Women's Safety & Vulnerability Stories",
-      "categoryId": "womens-safety",
-      "priority": 6,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Safe disposal containers can protect workers from being stuck by a syringe on the job\" may fit Women's Safety & Vulnerability Stories if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden bathroom camera discovery leads cops to several more wireless cameras",
-      "description": "Police seized several small wireless cameras and other electronics during the Glassport investigation GLASSPORT, PA - A hidden-camera discovery inside a residential bathroom has led to criminal charges against a 54-year-old man after investigators searched the Glassport home and seized several small wireless cameras and other electronic devices, according to Allegheny County Police. The investigation began Friday, Aug. 14, at about 4:30 p.m., when Glassport Police requested assistance from the Allegheny County Police General Investigations Unit. Small wireless cameras seized County detectives responded to the residence after receiving information about a hidden camera in a bathroom. During the investigation, detectives seized several electronic devices, including multiple small wireless cameras, according to county police. Police did not disclose where each device was allegedly located or provide details about what investigators believe may have been recorded. Information about how the initial camera was discovered was also not released. 54-year-old turns himself in Investigators obtained an arrest warrant for Keith DiMarco, 54, on two counts of violation of privacy. County police said DiMarco subsequently turned himself in. Additional information about his court proceedings was not immediately provided in the police update. The investigation remains subject to change as additional information becomes available. Anyone with information connected to the case can contact the Allegheny County Police Tip Line at 1-833-ALL-TIPS. Callers can remain anonymous. The charges are accusations, and DiMarco is presumed innocent unless proven guilty in court.",
-      "url": "https://www.shorenewsnetwork.com/hidden-bathroom-camera-discovery-leads-cops-to-several-more-wireless-cameras/",
-      "source": "Shore News Network",
-      "image": "https://www.shorenewsnetwork.com/wp-content/uploads/2026/04/dreamstime_l_37231982-800x533.jpg",
-      "publishedAt": "2026-08-19T09:30:00Z",
+      "title": "Apparent hidden camera in shower area falls from ceiling at Boston research lab",
+      "description": "Cheryl Fiandaca is the chief investigative reporter and executive editor for WBZ-TV's I-Team. The WBZ-TV I-Team has learned of a disturbing discovery of what appears to be hidden camera in a locker room at a research lab in Boston. The device was found in the shower area of a women's locker room at Mass General Brigham's off-campus research lab facility on Blackfan Circle. I-Team sources say a female researcher was showering when what appeared to be a hidden camera fell from the ceiling. It happened early Wednesday afternoon. Sources say Boston Police took custody of the device, and it is now being examined. The I-Team has learned that the area has surveillance cameras and records badge access. The lab is open 24/7. In a statement, Mass General Brigham told the I-Team: \"We are aware that a device was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access. Because this is an active investigation, we would refer additional questions to the Boston Police Department.\" WBZ-TV reached out to the Boston Police and the Massachusetts Nurses Association for comment but did not immediately hear back.",
+      "url": "https://www.cbsnews.com/boston/news/hidden-camera-found-shower-mass-general-brigham/",
+      "source": "CBS News",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/19/79ea1f23-c787-48a6-8ce8-bae935d70a41/thumbnail/1200x630/3e03d88fcafb67de3087f739acc9aaf4/iteam.jpg",
+      "publishedAt": "2026-08-19T22:09:03Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 65,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Apparent hidden camera in shower area falls from ceiling at Boston research lab\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Apparent hidden camera found in Mass General Brigham lab locker room",
+      "description": "The device was found in the shower area of a women's locker room at Mass General Brigham's off-campus research lab facility, according to I-Team sources. WBZ-TV chief investigator Cheryl Fiandaca reports.",
+      "url": "https://www.cbsnews.com/boston/video/apparent-hidden-camera-found-in-mass-general-brigham-lab-locker-room/",
+      "source": "Cbs Boston",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/ac169349-cde1-4b22-a5fe-169806ad1176/thumbnail/1024x576/853ada60a0ef94d6a9090320d743edd0/ace03fa17cacd1c916a4a998768fed20.png",
+      "publishedAt": "2026-08-19 22:04:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Apparent hidden camera found in Mass General Brigham lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom",
+      "description": "A hidden camera inside a popular gym in the Hudson Valley has sparked an arrest, and police are now asking members to come forward. A West Nyack man is facing charges for unlawfully recording people at a sports club in New Rochelle. Rockland Man Accused of Placing Cameras In Bathroom At Westchester Gym New Rochelle Police say 33-year-old Ryan Mack placed a recording device inside the bathroom at the New York Athletic Club where he worked, capturing unsuspecting people using the toilet, including children. The investigation began in July after the New York Athletic Club contacted the New Rochelle Police Department after they discovered a recording device that had been concealed inside a bathroom at the club. For all the news that the Hudson Valley is sharing, make sure to follow Hudson Valley Post on Facebook, and download the Hudson Valley Post Mobile App Police say their investigation determined that Mack hid a recording device in the Tennis Hut West Restroom and positioned it to capture unsuspecting individuals while they were using the toilet. Mack Arrested In Kansas As a result of the investigation, an arrest warrant was issued for Mack. Police say that Mack traveled to Kansas after the recording device was found. He was stopped and arrested by the Kansas Highway Patrol just outside of Topeka, Kansas. He was brought back to the Lower Hudson Valley and charged with Unlawful Surveillance in the Second Degree, a class E felony. More Victims Possible Police are saying the investigation is ongoing and he could face additional charges. \"During the course of the investigation, detectives identified several victims, including children. Investigators are continuing to seek additional potential victims and asking any NYAC members who may have used the identified restrooms on the dates and during the times listed below to contact Detective Marisa Bird at (914) 654-2367,\" police told Hudson Valley Post. The New Rochelle Police Department encourages anyone who believes they may have been recorded, has information relevant to this investigation, or who may have used the locations listed below between 6:00 a.m. and 5:00 p.m. on any of the listed dates to contact Detective Marisa Bird at (914) 654-2367. Platform Tennis Hut West Restroom (Left Facing)",
+      "url": "https://wrrv.com/ixp/854/p/rockland-man-arrested-after-hidden-camera-found-at-new-york-club/",
+      "source": "92.7/96.9 WRRV",
+      "image": "https://images.unsplash.com/photo-1587752719168-345b4ef6003d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MTAzODB8MHwxfGFsbHx8fHx8fHx8fDE3ODcxMzgzNDd8&ixlib=rb-4.1.0&q=75&bid=854&w=1200&h=0&fit=crop&format=natural",
+      "publishedAt": "2026-08-20T00:00:56Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom",
+      "description": "A hidden camera inside a popular gym in the Hudson Valley has sparked an arrest, and police are now asking members to come forward. A West Nyack man is facing charges for unlawfully recording people at a sports club in New Rochelle. Rockland Man Accused of Placing Cameras In Bathroom At Westchester Gym New Rochelle Police say 33-year-old Ryan Mack placed a recording device inside the bathroom at the New York Athletic Club where he worked, capturing unsuspecting people using the toilet, including children. The investigation began in July after the New York Athletic Club contacted the New Rochelle Police Department after they discovered a recording device that had been concealed inside a bathroom at the club. For all the news that the Hudson Valley is sharing, make sure to follow Hudson Valley Post on Facebook, and download the Hudson Valley Post Mobile App Police say their investigation determined that Mack hid a recording device in the Tennis Hut West Restroom and positioned it to capture unsuspecting individuals while they were using the toilet. Mack Arrested In Kansas As a result of the investigation, an arrest warrant was issued for Mack. Police say that Mack traveled to Kansas after the recording device was found. He was stopped and arrested by the Kansas Highway Patrol just outside of Topeka, Kansas. He was brought back to the Lower Hudson Valley and charged with Unlawful Surveillance in the Second Degree, a class E felony. More Victims Possible Police are saying the investigation is ongoing and he could face additional charges. \"During the course of the investigation, detectives identified several victims, including children. Investigators are continuing to seek additional potential victims and asking any NYAC members who may have used the identified restrooms on the dates and during the times listed below to contact Detective Marisa Bird at (914) 654-2367,\" police told Hudson Valley Post. The New Rochelle Police Department encourages anyone who believes they may have been recorded, has information relevant to this investigation, or who may have used the locations listed below between 6:00 a.m. and 5:00 p.m. on any of the listed dates to contact Detective Marisa Bird at (914) 654-2367. Platform Tennis Hut West Restroom (Left Facing)",
+      "url": "https://hudsonvalleycountry.com/ixp/854/p/rockland-man-arrested-after-hidden-camera-found-at-new-york-club/",
+      "source": "The Wolf",
+      "image": "https://images.unsplash.com/photo-1587752719168-345b4ef6003d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MTAzODB8MHwxfGFsbHx8fHx8fHx8fDE3ODcxMzgzNDd8&ixlib=rb-4.1.0&q=75&bid=854&w=1200&h=0&fit=crop&format=natural",
+      "publishedAt": "2026-08-19T18:00:50Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Researcher finds hidden camera in Mass General Brigham lab locker room",
+      "description": "A researcher discovered a hidden camera in a locker room at a Mass General Brigham lab space leased from Harvard on Blackfan Boulevard, prompting a police response.",
+      "url": "https://www.wcvb.com/article/hidden-camera-found-in-mass-general-brigham-lab-locker-room/73478058",
+      "source": "Wcvb",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/cdc6cd4e-af01-44e4-b8ac-63244fa2f94c.png",
+      "publishedAt": "2026-08-19 21:13:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researcher finds hidden camera in Mass General Brigham lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life",
+      "description": "When we think of people in Victorian times, it's hard not to conjure up images of rigid poses and stoic, serious faces. After all, these were the images depicted in virtually every photograph from the time period. But thanks to one college student with a crush and a hidden camera, we do have a much more intimate glimpse into Victorian life. In 1893, Carl Størmer was 19 years old and studying mathematics at the Royal Frederick University (now the University of Oslo) when he did what so many men his age do: he fell smitten with a girl, and was too shy to approach her. A hidden camera with an unexpected purpose Wanting to capture a secret snapshot of his love interest, Størmer purchased a C.P. Stirn Concealed Vest Spy Camera: a device that looks something like a cartoonishly large pocketwatch, with a lens that can fit through a button hole, and a cable release that can be pulled through the pocket, allowing the user to take photos on the sly. While originally intended for general espionage and crime prevention, Størmer stumbled upon a different use for this spy camera. Not only did he successfully get a candid shot of his paramour, he got what we now refer to as \"man on the street photos\" of Victorian society. \"I strolled down Carl Johan (street), found me a victim, greeted, got a gentle smile and pulled. Six images at a time and then I went home to switch the plate,\" he told the Hallvard Journal in 1942. Victorian life, but not as we usually imagine it Størmer produced more than 500 photographs depicting Victorians as we've never seen them before. Regular, everyday people grinning, relaxed, tipping their hats, eyeing Størmer suspiciously, a far cry from the posed and formal portraits we see in history books. In fact, aside from the attire, these people look like they could easily be plopped into our own timeline. That liveliness captured is what makes this collection feel so magical, and really not something we can get with previous eras that never even dreamt of this kind of technology. From street photos to scientific fame Størmer would go on to apply his passion for photography into his scientific work, where he made several significant contributions...the most notable to us normies being that he found a way to successfully photograph the Northern Lights. At nearly 70, Størmer would debut his fascinating collection of street photographs in its entirety -- previously he'd only shown a small portion -- and many of these can still be viewed today in Norway's Digitalt Museum. Recently, these photos were colorized and reanimated using AI software, making them feel like something out of a Gilded Age episode. As for the girl, a relationship between her and Størmer never culminated, but he would get to tell her years later of the role she unwittingly played in his legacy. Photography was an entirely new world Størmer wasn't the only man of his time period to blaze the photography trail, with Nikola Tesla experimenting with selfies and Eduard Spelterini trying his hand at aerial photography. One can only imagine the boundlessness felt as people explored this entirely new art form. And sure, photography continues to advance, but it's certainly something we take for granted now. Who could have guessed that one lovestruck college student with a hidden camera would accidentally give us a version of Victorian life we rarely get to see? But in the process, he also gave us a valuable lesson: that no matter the era, people will always be people. This article originally appeared in May. It has been updated. The post In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life appeared first on Upworthy.",
+      "url": "https://www.yahoo.com/lifestyle/articles/1890-college-student-hid-camera-222835641.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/4369b8a20b5811e08db8a99b1931876016c4b7d35f2befbf1b0b9fbce8c43ffb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2Ffadab05b24ca9f5504316dbf3719c5db.jpg",
+      "publishedAt": "2026-08-17T22:28:35Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 40,
+      "confidenceLabel": "medium",
+      "matchReasons": [
         "category terms (2)",
-        "primary topic in title",
         "published within 7 days",
-        "multiple category terms"
+        "multiple category terms",
+        "failed category gate"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Hidden bathroom camera discovery leads cops to several more wireless cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Brentwood farm worker charged with setting up hidden camera in restroom",
-      "description": "BRENTWOOD -- A former employee at Frog Hollow Farm has been charged with setting up a hidden camera in a restroom and capturing his female co-workers using the toilet, according to court records. The defendant, Carlos Casas-Tapia, 26, of Brentwood was charged with two misdemeanor counts of invasion of privacy. The charges were filed last March, and Casas-Tapia was sent a notice to appear in court, but things didn't progress from there until just recently, according to court records. After months of waiting, Casas-Tapia is set to have his first court appearance next week, on Aug. 24, records show. The allegations date back to last December, when a woman who works at the farm discovered a hidden camera in the restroom, authorities said. She wrapped it in a towel and called the Contra Costa Sheriff's office. When investigators reviewed footage, they found it had captured multiple women using the restroom and footage where their genitals were exposed, authorities said. But police say the camera also captured something else: Casas-Tapia setting it up. They say the video clearly showed his face as he adjusted it and and placed it toward the toilet, on both Dec. 18 and 19. Other employees told police they were creeped out by Casas-Tapia. It is unclear when he began working at Frog Hollow Farm. Requests to comment from the farm were not immediately returned.",
-      "url": "https://www.pressdemocrat.com/2026/08/18/brentwood-farm-worker-charged-with-setting-up-hidden-camera-in-restroom/",
-      "source": "Santa Rosa Press Democrat",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2025/08/pressdemocratfav.png?w=32",
-      "publishedAt": "2026-08-18T19:39:34Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brentwood farm worker charged with setting up hidden camera in restroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Brentwood farm worker charged with setting up hidden camera in restroom",
-      "description": "BRENTWOOD -- An former employee at Frog Hollow Farm has been charged with setting up a hidden camera in a restroom and capturing his female co-workers using the toilet, according to court records. The defendant, Carlos Casas-Tapia, 26, of Brentwood was charged with two misdemeanor counts of invasion of privacy. The charges were filed last March, and Casas-Tapia was sent a notice to appear in court, but things didn't progress from there until just recently, according to court records. After months of waiting, Casas-Tapia is set to have his first court appearance next week, on Aug. 24, records show. The allegations date back to last December, when a woman who works at the farm discovered a hidden camera in the restroom, authorities said. She wrapped it in a towel and called the Contra Costa Sheriff's office. When investigators reviewed footage, they found it had captured multiple women using the restroom and footage where their genitals were exposed, authorities said. But police say the camera also captured something else: Casas-Tapia setting it up. They say the video clearly showed his face as he adjusted it and and placed it toward the toilet, on both Dec. 18 and 19. Other employees told police they were creeped out by Casas-Tapia. It is unclear when he began working at Frog Hollow Farm. Requests to comment from the farm were not immediately returned.",
-      "url": "https://www.eastbaytimes.com/2026/08/18/brentwood-farm-worker-charged-with-setting-up-hidden-camera-in-restroom/",
-      "source": "East Bay Times",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJFYXN0IEJheSBUaW1lcyIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMTYzNzIyNjl9.4Rx0PQLRdiLRI2x1CX0qVVV_satTcIQVtfQRabgtXsIMQ&w=1200&h=630",
-      "publishedAt": "2026-08-18T19:39:34Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brentwood farm worker charged with setting up hidden camera in restroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Brentwood farm worker charged with setting up hidden camera in restroom",
-      "description": "BRENTWOOD -- An former employee at Frog Hollow Farm has been charged with setting up a hidden camera in a restroom and capturing his female co-workers using the toilet, according to court records. The defendant, Carlos Casas-Tapia, 26, of Brentwood was charged with two misdemeanor counts of invasion of privacy. The charges were filed last March, and Casas-Tapia was sent a notice to appear in court, but things didn't progress from there until just recently, according to court records. After months of waiting, Casas-Tapia is set to have his first court appearance next week, on Aug. 24, records show. The allegations date back to last December, when a woman who works at the farm discovered a hidden camera in the restroom, authorities said. She wrapped it in a towel and called the Contra Costa Sheriff's office. When investigators reviewed footage, they found it had captured multiple women using the restroom and footage where their genitals were exposed, authorities said. But police say the camera also captured something else: Casas-Tapia setting it up. They say the video clearly showed his face as he adjusted it and and placed it toward the toilet, on both Dec. 18 and 19. Other employees told police they were creeped out by Casas-Tapia. It is unclear when he began working at Frog Hollow Farm. Requests to comment from the farm were not immediately returned.",
-      "url": "https://www.mercurynews.com/2026/08/18/brentwood-farm-worker-charged-with-setting-up-hidden-camera-in-restroom/",
-      "source": "San Jose Mercury News",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJUaGUgTWVyY3VyeSBOZXdzIiwidGVtcGxhdGUiOiJoaWdod2F5IiwiZm9udCI6IiIsImJsb2dfaWQiOjExNjM3MjI0N30.qrkV3PJUHuqOc_ndYJkrPGkbGHy9FMh0On2arZdmJEAMQ&w=1200&h=630",
-      "publishedAt": "2026-08-18T19:39:34Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brentwood farm worker charged with setting up hidden camera in restroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Glassport mayor charged after hidden cameras found in home",
-      "description": "Glassport Mayor Keith DiMarco is in the Allegheny County Jail, arrested for violating a protection-from-abuse order filed by his wife and 22-year-old stepdaughter. Police say they were called after the stepdaughter discovered a hidden camera in her bathroom. Allegheny County Police searched the residence and a day later a PFA was granted, prohibiting DiMarco from contacting his wife. He allegedly left two voicemail messages and also emailed her. A Glassport Borough Council meeting is scheduled Tuesday at 6 p.m. A statement about the situation will be made when the meeting starts. Allegheny County Police say DiMarco faces two count of violation of Privacy.",
-      "url": "https://www.audacy.com/kdkaradio/news/local/glassport-camera",
-      "source": "Audacy",
-      "image": "https://www.audacy.com/media-library/handcuffs.jpg?id=64375355&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-      "publishedAt": "2026-08-18T19:19:52Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Glassport mayor charged after hidden cameras found in home\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Pa. mayor charged after hidden camera found in stepdaughter’s bathroom",
-      "description": "The mayor also reportedly violated a protection-from-abuse order obtained by his wife.",
-      "url": "https://www.pennlive.com/news/2026/08/pa-borough-mayor-charged-after-hidden-camera-found-in-stepdaughters-bathroom.html",
-      "source": "Pennlive",
-      "image": "https://www.pennlive.com/resizer/v2/LIVV3BBDB5A7XFTZHV77BVKYGU.jpg?auth=37515dc4f0b1bdeb30fda4778ccb8ac9f681448205498e8f898ecf3d121f6131&smart=true&height=1200",
-      "publishedAt": "2026-08-18 21:02:03",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Pa. mayor charged after hidden camera found in stepdaughter’s bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Brentwood farm worker charged with setting up hidden camera in restroom",
-      "description": "The suspect was an employee of Frog Hollow Harm in Brentwood, and made others at the farm feel “creepy,” according to police.",
-      "url": "https://us.headtopics.com/news/brentwood-farm-worker-charged-with-setting-up-hidden-camera-86765012",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/8/18/mercnews/brentwood-farm-worker-charged-with-setting-up-hidd-brentwood-farm-worker-charged-with-setting-up-hidd-85D6C6DB757759999CBFA1322663CCAD.webp",
-      "publishedAt": "2026-08-18 20:37:36",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brentwood farm worker charged with setting up hidden camera in restroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-19T12:40:03.433Z"
+      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-20T12:42:21.676Z"
     }
   ]
 }
