@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T12:42:21.676Z",
+  "updatedAt": "2026-08-21T12:40:33.734Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,8 +11,8 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 1,
-    "pending": 6,
+    "published": 3,
+    "pending": 3,
     "rejected": 63,
     "carriedForward": 1
   },
@@ -20,7 +20,7 @@
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 1
     },
     {
       "id": "workplace-privacy",
@@ -56,6 +56,27 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
+      "title": "Charges Filed Months After Sheriff's Office Announced Suspicious Bathroom Activity at Little League Opening Day, No Arrest Made",
+      "description": "Richard Allen Lehman, 58, of Hollywood, is facing 18 misdemeanor charges after investigators alleged he secretly recorded six people, including two juvenile males, inside a men's restroom at Chancellors Run Regional Park in Great Mills during Little League Opening Day activities in April 2026. The charges were not filed until August 17, 2026, more than four months after the alleged incident. A criminal summons was issued for Lehman rather than an arrest warrant, and as of 2:20 p.m. on August 19, 2026, the available information did not show that the summons had been served. Lehman is charged with six counts of Peeping Tom, six counts of conducting visual surveillance in a private place with prurient intent, and six counts of using a camera to conduct visual surveillance of a person's private area with prurient intent. The St. Mary's County Sheriff's Office had publicly acknowledged the investigation months before charges were filed. In an April 11, 2026 news release, the agency said deputies working security for St. Mary's Little League Opening Day ceremonies responded at approximately 9 a.m. to reports of a man engaging in suspicious behavior inside a restroom at Chancellors Run Regional Park in Great Mills. The Sheriff's Office said one person was detained and that the Criminal Investigations Division was handling the investigation. The agency asked anyone who witnessed suspicious activity or had additional information to contact Detective Andrew Burgess. The release did not identify the person who was detained. The St. Mary's County Sheriff's Office initially reported the incident occurred during Little League Opening Day on April 11, 2026. St. Mary's Little League's official schedule also confirms Opening Day was April 11. However, the filings against Lehman list April 13, 2026, as the offense date for all 18 charges. The reason for the discrepancy is not explained in the filings. According to allegations later filed by the St. Mary's County Sheriff's Office, patrol officers were working a part-time security assignment at Chancellors Run Regional Park for the 2026 Little League Opening Day ceremonies when an off-duty Maryland State Police master trooper used the men's restroom and entered the second toilet stall. The dividers between the stalls did not extend completely to the ground. While inside the stall, the trooper noticed a person in the first stall with his pants or shorts pulled down and a cellphone hanging from his left pocket. The trooper believed the phone had been deliberately positioned and angled toward the adjoining stall in a manner consistent with secretly recording someone. While inside, the trooper noticed a person in the first stall with his pants or shorts pulled down and a cellphone hanging from his left pocket. The trooper believed the phone had been deliberately positioned and angled toward the adjoining stall in a manner consistent with secretly recording someone. The trooper reported first noticing the same person in the restroom shortly after arriving at the park. About an hour later, he escorted a juvenile male into the restroom. After the juvenile left the stall, the trooper said he could see the same person's pants and cellphone in nearly the same position he had observed earlier. When the man exited the restroom, the trooper identified himself as a police officer. Authorities said the man was identified through his Maryland driver's license as Lehman. Patrol officers asked Lehman whether he had any cellphones on him. According to investigators, Lehman removed a blue Apple iPhone from his pocket. The trooper told officers that was not the phone he had seen hanging from the pocket inside the restroom. Lehman then retrieved a black Motorola Android smartphone from another pocket, according to the allegations. Officers seized both phones. St. Mary's County Sheriff's Office D/Cpl. David M. Lawrence later sought a search warrant for the Motorola phone. The warrant was authorized by Judge A. Lorenzini. Lawrence reported that investigators recovered numerous videos from the Motorola that allegedly had been recorded from inside the men's restroom at Chancellors Run Regional Park. Investigators identified six alleged victims, including four adults and two juvenile males. Their names are being withheld to protect their privacy. Authorities alleged that none of them knew they were being recorded or had consented to the recordings. One of the juvenile victims was allegedly captured in four separate videos. Investigators said the recordings showed the alleged victims using the restroom with various parts of their bodies exposed. The two juvenile males were allegedly recorded while sitting on a toilet, with the side of their buttocks visible. The six Peeping Tom charges allege Lehman conducted visual surveillance of another person in a private place without that person's consent. Each count carries a listed maximum penalty of 30 days in jail, a $1,000 fine, or both. The six private-place surveillance charges allege that Lehman conducted visual surveillance with prurient intent and without consent. The six additional camera-surveillance charges allege that he used a camera to record a person's private area with prurient intent and without consent. Each of those counts carries a listed maximum penalty of one year in jail, a $2,500 fine, or both.",
+      "url": "https://smnewsnet.com/archives/563761/charges-filed-months-after-sheriffs-office-announced-suspicious-bathroom-activity-at-little-league-opening-day-no-arrest-made/",
+      "source": "Southern Maryland News Net",
+      "image": "https://smnewsnet.com/wp-content/uploads/2026/08/5172b1a2-1d51-4087-869f-db73587a6c16-e1787165075715.jpg",
+      "publishedAt": "2026-08-19T18:26:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 85,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Charges Filed Months After Sheriff's Office Announced Suspicious Bathroom Activity at Little League Opening Day, No Arrest Made\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items",
       "description": "LONE PEAK, Utah (ABC4) -- A man has been arrested and charged with burglary, voyeurism, and lewdness after he allegedly entered a high school, stole several items, walked into the women's bathroom, and urinated outside. Justin Lane Hopkins, 54, was charged with burglary (a third-degree felony), voyeurism, theft with prior convictions, possession of a dangerous weapon by a restricted person, criminal trespass, lewdness, and littering. According to charging documents, on Aug. 12, Lone Peak Police received a call of a potential trespass at Lone Peak High School. The alleged trespass happened two days earlier, and police claim video footage showed Hopkins entering the school building two separate times on the same day. Reportedly, Hopkins took several items from the building, including an hourglass, a book-shaped box, a can of soda, and a drawstring backpack. Police say the value of the items totaled approximately $500. Then, Hopkins allegedly opened an exterior door of the school and urinated, and shortly after that, he held the door open for someone to enter the building. Police also say that Hopkins entered a women's restroom inside the school twice while events were occurring and while there were people inside the school. Hopkins had previously been trespassed from the school, and signs throughout the building stated that visitors need to check in at the front office. After reviewing the footage, police found Hopkins in an encampment at Highland Glen Park. He allegedly admitted to entering the high school and taking items, and officers found the stolen items in his encampment. They also located a knife, and Hopkins reportedly acknowledged that he was on probation and that he wasn't supposed to have a knife. Police also noticed garbage around the camp, which was in a public park. Hopkins has a history of numerous drug-related convictions dating back to 2012. Most recently, he pleaded guilty to possession of a controlled substance in January 2025. Hopkins is being held in the Utah County Jail with bail. He had his initial court appearance on Monday, Aug. 17, and he has a waiver hearing scheduled for Aug. 26.",
       "url": "https://www.abc4.com/news/crime/charges-burglary-voyeurism-high-school/",
@@ -74,138 +95,92 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden camera found in changing room at Mass General Brigham research lab",
+      "description": "Boston police are investigating after a device resembling a hidden camera was found in a locker room area at an off-campus Mass General Brigham lab. According to the police report, officers assigned to a paid detail at Brigham and Women's Hospital responded to a radio call shortly after 9 a.m. Wednesday for a hidden camera device that had been found at an off-campus research facility in Roxbury leased by Mass General Brigham. When they arrived, officers spoke with a security officer, who said he had received a radio call from a manager reporting that a hidden camera device had been found inside the shower/changing room area. The security officer took custody of the device and turned it over to police. Officers spoke with managers, who told them the victim was opening the exit door to leave the shower room and enter the laboratory facility when she saw the device, which then fell to the floor. Police detectives responded to the scene, took possession of the device and processed and photographed the scene. The incident remains under investigation. It has not yet been determined if the device was a camera. Mass General Brigham issued a statement, saying: \"We are aware that a small device resembling a camera was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access.\"",
+      "url": "https://www.nbcboston.com/news/local/hidden-camera-found-in-changing-room-at-mass-general-brigham-research-lab/4001307/",
+      "source": "NBC Boston",
+      "image": "https://media.nbcboston.com/2026/08/mgb-lab.png?resize=1200%2C675&quality=85&strip=all",
+      "publishedAt": "2026-08-20T18:18:55Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Hidden camera found in changing room at Mass General Brigham research lab\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Apparent hidden camera in shower area falls from ceiling at Boston research lab",
-      "description": "Cheryl Fiandaca is the chief investigative reporter and executive editor for WBZ-TV's I-Team. The WBZ-TV I-Team has learned of a disturbing discovery of what appears to be hidden camera in a locker room at a research lab in Boston. The device was found in the shower area of a women's locker room at Mass General Brigham's off-campus research lab facility on Blackfan Circle. I-Team sources say a female researcher was showering when what appeared to be a hidden camera fell from the ceiling. It happened early Wednesday afternoon. Sources say Boston Police took custody of the device, and it is now being examined. The I-Team has learned that the area has surveillance cameras and records badge access. The lab is open 24/7. In a statement, Mass General Brigham told the I-Team: \"We are aware that a device was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access. Because this is an active investigation, we would refer additional questions to the Boston Police Department.\" WBZ-TV reached out to the Boston Police and the Massachusetts Nurses Association for comment but did not immediately hear back.",
-      "url": "https://www.cbsnews.com/boston/news/hidden-camera-found-shower-mass-general-brigham/",
-      "source": "CBS News",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/19/79ea1f23-c787-48a6-8ce8-bae935d70a41/thumbnail/1200x630/3e03d88fcafb67de3087f739acc9aaf4/iteam.jpg",
-      "publishedAt": "2026-08-19T22:09:03Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Apparent hidden camera in shower area falls from ceiling at Boston research lab\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Apparent hidden camera found in Mass General Brigham lab locker room",
-      "description": "The device was found in the shower area of a women's locker room at Mass General Brigham's off-campus research lab facility, according to I-Team sources. WBZ-TV chief investigator Cheryl Fiandaca reports.",
-      "url": "https://www.cbsnews.com/boston/video/apparent-hidden-camera-found-in-mass-general-brigham-lab-locker-room/",
-      "source": "Cbs Boston",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/ac169349-cde1-4b22-a5fe-169806ad1176/thumbnail/1024x576/853ada60a0ef94d6a9090320d743edd0/ace03fa17cacd1c916a4a998768fed20.png",
-      "publishedAt": "2026-08-19 22:04:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Apparent hidden camera found in Mass General Brigham lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom",
-      "description": "A hidden camera inside a popular gym in the Hudson Valley has sparked an arrest, and police are now asking members to come forward. A West Nyack man is facing charges for unlawfully recording people at a sports club in New Rochelle. Rockland Man Accused of Placing Cameras In Bathroom At Westchester Gym New Rochelle Police say 33-year-old Ryan Mack placed a recording device inside the bathroom at the New York Athletic Club where he worked, capturing unsuspecting people using the toilet, including children. The investigation began in July after the New York Athletic Club contacted the New Rochelle Police Department after they discovered a recording device that had been concealed inside a bathroom at the club. For all the news that the Hudson Valley is sharing, make sure to follow Hudson Valley Post on Facebook, and download the Hudson Valley Post Mobile App Police say their investigation determined that Mack hid a recording device in the Tennis Hut West Restroom and positioned it to capture unsuspecting individuals while they were using the toilet. Mack Arrested In Kansas As a result of the investigation, an arrest warrant was issued for Mack. Police say that Mack traveled to Kansas after the recording device was found. He was stopped and arrested by the Kansas Highway Patrol just outside of Topeka, Kansas. He was brought back to the Lower Hudson Valley and charged with Unlawful Surveillance in the Second Degree, a class E felony. More Victims Possible Police are saying the investigation is ongoing and he could face additional charges. \"During the course of the investigation, detectives identified several victims, including children. Investigators are continuing to seek additional potential victims and asking any NYAC members who may have used the identified restrooms on the dates and during the times listed below to contact Detective Marisa Bird at (914) 654-2367,\" police told Hudson Valley Post. The New Rochelle Police Department encourages anyone who believes they may have been recorded, has information relevant to this investigation, or who may have used the locations listed below between 6:00 a.m. and 5:00 p.m. on any of the listed dates to contact Detective Marisa Bird at (914) 654-2367. Platform Tennis Hut West Restroom (Left Facing)",
-      "url": "https://wrrv.com/ixp/854/p/rockland-man-arrested-after-hidden-camera-found-at-new-york-club/",
-      "source": "92.7/96.9 WRRV",
-      "image": "https://images.unsplash.com/photo-1587752719168-345b4ef6003d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MTAzODB8MHwxfGFsbHx8fHx8fHx8fDE3ODcxMzgzNDd8&ixlib=rb-4.1.0&q=75&bid=854&w=1200&h=0&fit=crop&format=natural",
-      "publishedAt": "2026-08-20T00:00:56Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom",
-      "description": "A hidden camera inside a popular gym in the Hudson Valley has sparked an arrest, and police are now asking members to come forward. A West Nyack man is facing charges for unlawfully recording people at a sports club in New Rochelle. Rockland Man Accused of Placing Cameras In Bathroom At Westchester Gym New Rochelle Police say 33-year-old Ryan Mack placed a recording device inside the bathroom at the New York Athletic Club where he worked, capturing unsuspecting people using the toilet, including children. The investigation began in July after the New York Athletic Club contacted the New Rochelle Police Department after they discovered a recording device that had been concealed inside a bathroom at the club. For all the news that the Hudson Valley is sharing, make sure to follow Hudson Valley Post on Facebook, and download the Hudson Valley Post Mobile App Police say their investigation determined that Mack hid a recording device in the Tennis Hut West Restroom and positioned it to capture unsuspecting individuals while they were using the toilet. Mack Arrested In Kansas As a result of the investigation, an arrest warrant was issued for Mack. Police say that Mack traveled to Kansas after the recording device was found. He was stopped and arrested by the Kansas Highway Patrol just outside of Topeka, Kansas. He was brought back to the Lower Hudson Valley and charged with Unlawful Surveillance in the Second Degree, a class E felony. More Victims Possible Police are saying the investigation is ongoing and he could face additional charges. \"During the course of the investigation, detectives identified several victims, including children. Investigators are continuing to seek additional potential victims and asking any NYAC members who may have used the identified restrooms on the dates and during the times listed below to contact Detective Marisa Bird at (914) 654-2367,\" police told Hudson Valley Post. The New Rochelle Police Department encourages anyone who believes they may have been recorded, has information relevant to this investigation, or who may have used the locations listed below between 6:00 a.m. and 5:00 p.m. on any of the listed dates to contact Detective Marisa Bird at (914) 654-2367. Platform Tennis Hut West Restroom (Left Facing)",
-      "url": "https://hudsonvalleycountry.com/ixp/854/p/rockland-man-arrested-after-hidden-camera-found-at-new-york-club/",
-      "source": "The Wolf",
-      "image": "https://images.unsplash.com/photo-1587752719168-345b4ef6003d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MTAzODB8MHwxfGFsbHx8fHx8fHx8fDE3ODcxMzgzNDd8&ixlib=rb-4.1.0&q=75&bid=854&w=1200&h=0&fit=crop&format=natural",
-      "publishedAt": "2026-08-19T18:00:50Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hudson Valley Man Accused Of Recording Children Inside Gym Bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Researcher finds hidden camera in Mass General Brigham lab locker room",
-      "description": "A researcher discovered a hidden camera in a locker room at a Mass General Brigham lab space leased from Harvard on Blackfan Boulevard, prompting a police response.",
-      "url": "https://www.wcvb.com/article/hidden-camera-found-in-mass-general-brigham-lab-locker-room/73478058",
-      "source": "Wcvb",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/cdc6cd4e-af01-44e4-b8ac-63244fa2f94c.png",
-      "publishedAt": "2026-08-19 21:13:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researcher finds hidden camera in Mass General Brigham lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life",
-      "description": "When we think of people in Victorian times, it's hard not to conjure up images of rigid poses and stoic, serious faces. After all, these were the images depicted in virtually every photograph from the time period. But thanks to one college student with a crush and a hidden camera, we do have a much more intimate glimpse into Victorian life. In 1893, Carl Størmer was 19 years old and studying mathematics at the Royal Frederick University (now the University of Oslo) when he did what so many men his age do: he fell smitten with a girl, and was too shy to approach her. A hidden camera with an unexpected purpose Wanting to capture a secret snapshot of his love interest, Størmer purchased a C.P. Stirn Concealed Vest Spy Camera: a device that looks something like a cartoonishly large pocketwatch, with a lens that can fit through a button hole, and a cable release that can be pulled through the pocket, allowing the user to take photos on the sly. While originally intended for general espionage and crime prevention, Størmer stumbled upon a different use for this spy camera. Not only did he successfully get a candid shot of his paramour, he got what we now refer to as \"man on the street photos\" of Victorian society. \"I strolled down Carl Johan (street), found me a victim, greeted, got a gentle smile and pulled. Six images at a time and then I went home to switch the plate,\" he told the Hallvard Journal in 1942. Victorian life, but not as we usually imagine it Størmer produced more than 500 photographs depicting Victorians as we've never seen them before. Regular, everyday people grinning, relaxed, tipping their hats, eyeing Størmer suspiciously, a far cry from the posed and formal portraits we see in history books. In fact, aside from the attire, these people look like they could easily be plopped into our own timeline. That liveliness captured is what makes this collection feel so magical, and really not something we can get with previous eras that never even dreamt of this kind of technology. From street photos to scientific fame Størmer would go on to apply his passion for photography into his scientific work, where he made several significant contributions...the most notable to us normies being that he found a way to successfully photograph the Northern Lights. At nearly 70, Størmer would debut his fascinating collection of street photographs in its entirety -- previously he'd only shown a small portion -- and many of these can still be viewed today in Norway's Digitalt Museum. Recently, these photos were colorized and reanimated using AI software, making them feel like something out of a Gilded Age episode. As for the girl, a relationship between her and Størmer never culminated, but he would get to tell her years later of the role she unwittingly played in his legacy. Photography was an entirely new world Størmer wasn't the only man of his time period to blaze the photography trail, with Nikola Tesla experimenting with selfies and Eduard Spelterini trying his hand at aerial photography. One can only imagine the boundlessness felt as people explored this entirely new art form. And sure, photography continues to advance, but it's certainly something we take for granted now. Who could have guessed that one lovestruck college student with a hidden camera would accidentally give us a version of Victorian life we rarely get to see? But in the process, he also gave us a valuable lesson: that no matter the era, people will always be people. This article originally appeared in May. It has been updated. The post In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life appeared first on Upworthy.",
-      "url": "https://www.yahoo.com/lifestyle/articles/1890-college-student-hid-camera-222835641.html",
+      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A former Virginia police officer has sued her department, alleging officials violated her privacy by requiring her to share a locker room with a transgender colleague. Now, she wants $15 million in damages. Former Norfolk Police Officer Meghan Grabow filed the lawsuit alleging that the department did not inform her she would be sharing a women's locker room with a transgender woman. While Grabow was undressing, she encountered the recruit, who Grabow alleged stared at her \"as a man would look at a woman,\" Norfolk TV news station WVEC reported. WAVY reported, citing the complaint, that the recruit \"presented as a man\" at the time and wore a suit and tie. Grabow was wearing only her underwear, according to the lawsuit. CBS affiliate News 3 WTKR reported that Grabow was training the class of recruits when the encounter occurred in 2024. In language misgendering the recruit, the lawsuit alleges that she \"made no attempt to dress, behave, or otherwise present himself as anything other than a man.\" Grabow alleges that she raised concerns about the encounter with supervisors and discussed it with other officers. That ultimately led to a meeting with Police Chief Mark Talbot, who said the recruit's presence in the locker room did not violate department policy. According to the lawsuit, Grabow was told to \"learn to deal with it,\" while one supervisor allegedly told her, \"If you feel unsafe, take your gun into the shower.\" Grabow was later suspended without pay, the lawsuit alleges. Grabow says her Catholic faith and beliefs about trans people elevated her concerns. Norfolk officials declined to comment to local media outlets, citing pending litigation. Research by the Williams Institute in 2025 has not found evidence that policies permitting transgender people to use facilities corresponding with their gender identity increase criminal misconduct in those spaces. A 2018 study examining police reports involving assault, sex crimes and voyeurism in public restrooms, locker rooms and changing rooms across Massachusetts found such incidents were exceedingly rare. Researchers found no relationship between communities' adoption of transgender-inclusive nondiscrimination protections and the number or frequency of reported incidents. The Norfolk Police Department adopted a written policy in 2020 stating that officers will treat members of the \"transgender, intersex and gender non-conforming community (TIGN) with fairness and dignity\" and that the department will not discriminate against transgender people or treat them with bias. Neither Grabow nor the recruit works for the department anymore. A lawyer for Grabow told WVEC that the encounter violated his client's privacy \"pretty much in the worst way possible.\" \"The department was wrong from the beginning in the way that they handled it, by not giving anyone a heads up and shutting down and stepping over the conversation when people were trying to share their traumatic experience,\" attorney Scott Lloyd said. Grabow is demanding a jury trial and seeking $15 million in damages. This article originally appeared on Advocate: Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
+      "url": "https://www.yahoo.com/news/us/articles/ex-virginia-cop-demands-15-201014778.html",
       "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/4369b8a20b5811e08db8a99b1931876016c4b7d35f2befbf1b0b9fbce8c43ffb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2Ffadab05b24ca9f5504316dbf3719c5db.jpg",
-      "publishedAt": "2026-08-17T22:28:35Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/53949e0b00c5d4d716ae038abc7ea3776e5d5dd4997112ea0058824a833b660c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_advocate_articles_932%2F349b0c693fb52228d16baf4726d70940.jpg",
+      "publishedAt": "2026-08-20T20:10:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (5 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (5 terms), category terms (1), published within 7 days). \"Ex-Virginia cop demands $15 million after sharing locker room with trans colleague\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-21T12:40:33.734Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
+      "description": "Skyline of Norfolk, Virginia from the Elizabeth River. Robert Knopes/UCG/Universal Images Group via Getty Images A former Virginia police officer has sued her department, alleging officials violated her privacy by requiring her to share a locker room with a transgender colleague. Now, she wants $15 million in damages. Former Norfolk Police Officer Meghan Grabow filed the lawsuit alleging that the department did not inform her she would be sharing a women's locker room with a transgender woman. While Grabow was undressing, she encountered the recruit, who Grabow alleged stared at her \"as a man would look at a woman,\" Norfolk TV news station WVEC reported. WAVY reported, citing the complaint, that the recruit \"presented as a man\" at the time and wore a suit and tie. Grabow was wearing only her underwear, according to the lawsuit. CBS affiliate News 3 WTKR reported that Grabow was training the class of recruits when the encounter occurred in 2024. In language misgendering the recruit, the lawsuit alleges that she \"made no attempt to dress, behave, or otherwise present himself as anything other than a man.\" Grabow alleges that she raised concerns about the encounter with supervisors and discussed it with other officers. That ultimately led to a meeting with Police Chief Mark Talbot, who said the recruit's presence in the locker room did not violate department policy. According to the lawsuit, Grabow was told to \"learn to deal with it,\" while one supervisor allegedly told her, \"If you feel unsafe, take your gun into the shower.\" Grabow was later suspended without pay, the lawsuit alleges. Grabow says her Catholic faith and beliefs about trans people elevated her concerns. Norfolk officials declined to comment to local media outlets, citing pending litigation. Research by the Williams Institute in 2025 has not found evidence that policies permitting transgender people to use facilities corresponding with their gender identity increase criminal misconduct in those spaces. A 2018 study examining police reports involving assault, sex crimes and voyeurism in public restrooms, locker rooms and changing rooms across Massachusetts found such incidents were exceedingly rare. Researchers found no relationship between communities' adoption of transgender-inclusive nondiscrimination protections and the number or frequency of reported incidents. The Norfolk Police Department adopted a written policy in 2020 stating that officers will treat members of the \"transgender, intersex and gender non-conforming community (TIGN) with fairness and dignity\" and that the department will not discriminate against transgender people or treat them with bias. Neither Grabow nor the recruit works for the department anymore. A lawyer for Grabow told WVEC that the encounter violated his client's privacy \"pretty much in the worst way possible.\" \"The department was wrong from the beginning in the way that they handled it, by not giving anyone a heads up and shutting down and stepping over the conversation when people were trying to share their traumatic experience,\" attorney Scott Lloyd said. Grabow is demanding a jury trial and seeking $15 million in damages.",
+      "url": "https://www.advocate.com/politics/states/virginia-cop-lawsuit-transgender-colleague",
+      "source": "Gay News, LGBT Rights, Politics, Entertainment",
+      "image": "https://www.advocate.com/media-library/norfolk-va.jpg?id=67652286&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2026-08-20T18:10:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (5 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (5 terms), category terms (1), published within 7 days). \"Ex-Virginia cop demands $15 million after sharing locker room with trans colleague\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-21T12:40:33.734Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden device found inside Mass General Brigham research lab locker room",
+      "description": "A researcher discovered a hidden device in the shower area of a locker room at a Mass General Brigham research facility in Boston's Longwood Medical Area Wednesday morning, prompting a police investigation. Boston police responded around 9:10 a.m. after people at the facility at 4 Blackfan Circle reported finding what they believed was a hidden camera in the changing area. Police took the device into custody and are investigating who placed it there. Mass General Brigham said it immediately notified police, secured the area, and followed its safety protocols. The space is accessible only by badge. It is limited to researchers; patients and other staff do not have access to the area. Mass General Brigham leases the facility for research purposes, but an outside company owns the building. The health care system said it had not yet determined what type of device was found and had not confirmed that it was a camera. Mass General Brigham said it is cooperating fully with law enforcement.",
+      "url": "https://www.boston.com/news/local-news/2026/08/20/hidden-device-found-inside-mass-general-brigham-research-lab-locker-room/",
+      "source": "Boston",
+      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-69b9f4d1d64bc-768x432.jpg",
+      "publishedAt": "2026-08-20T19:09:21Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 40,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-20T12:42:21.676Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hidden device found inside Mass General Brigham research lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-21T12:40:33.734Z"
     }
   ]
 }
