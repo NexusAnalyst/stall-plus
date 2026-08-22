@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:40:33.734Z",
+  "updatedAt": "2026-08-22T12:33:05.844Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 3,
-    "rejected": 63,
-    "carriedForward": 1
+    "published": 4,
+    "pending": 1,
+    "rejected": 66,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 3
     },
     {
       "id": "dorm-privacy",
@@ -98,6 +98,27 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Convicted sex offender accused of recording women in changing rooms",
+      "description": "A Tennessee man reviously convicted of secretly recording women and children in restrooms and dressing rooms has been charged for similar conduct in Fayette Mall in Lexington, according to court records. Ty Cline, 31, of Oliver Springs, Tennessee, is charged with video voyeurism. Court documents say he secretly recorded a 40-year-old woman in a changing room at the Fayette Mall on July 31.",
+      "url": "https://www.thenewsenterprise.com/news/state/convicted-sex-offender-accused-of-recording-women-in-changing-rooms/article_9f409cdb-0a4b-5912-950d-ca5a3ff7326c.html",
+      "source": "The News-Enterprise",
+      "image": "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/custom/image/a5fe7714-ac36-11e6-ade4-8b4ed3b5d6b5.png?resize=600%2C315",
+      "publishedAt": "2026-08-22T03:44:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 70,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Convicted sex offender accused of recording women in changing rooms\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Hidden camera found in changing room at Mass General Brigham research lab",
       "description": "Boston police are investigating after a device resembling a hidden camera was found in a locker room area at an off-campus Mass General Brigham lab. According to the police report, officers assigned to a paid detail at Brigham and Women's Hospital responded to a radio call shortly after 9 a.m. Wednesday for a hidden camera device that had been found at an off-campus research facility in Roxbury leased by Mass General Brigham. When they arrived, officers spoke with a security officer, who said he had received a radio call from a manager reporting that a hidden camera device had been found inside the shower/changing room area. The security officer took custody of the device and turned it over to police. Officers spoke with managers, who told them the victim was opening the exit door to leave the shower room and enter the laboratory facility when she saw the device, which then fell to the floor. Police detectives responded to the scene, took possession of the device and processed and photographed the scene. The incident remains under investigation. It has not yet been determined if the device was a camera. Mass General Brigham issued a statement, saying: \"We are aware that a small device resembling a camera was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access.\"",
       "url": "https://www.nbcboston.com/news/local/hidden-camera-found-in-changing-room-at-mass-general-brigham-research-lab/4001307/",
@@ -121,57 +142,15 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
-      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A former Virginia police officer has sued her department, alleging officials violated her privacy by requiring her to share a locker room with a transgender colleague. Now, she wants $15 million in damages. Former Norfolk Police Officer Meghan Grabow filed the lawsuit alleging that the department did not inform her she would be sharing a women's locker room with a transgender woman. While Grabow was undressing, she encountered the recruit, who Grabow alleged stared at her \"as a man would look at a woman,\" Norfolk TV news station WVEC reported. WAVY reported, citing the complaint, that the recruit \"presented as a man\" at the time and wore a suit and tie. Grabow was wearing only her underwear, according to the lawsuit. CBS affiliate News 3 WTKR reported that Grabow was training the class of recruits when the encounter occurred in 2024. In language misgendering the recruit, the lawsuit alleges that she \"made no attempt to dress, behave, or otherwise present himself as anything other than a man.\" Grabow alleges that she raised concerns about the encounter with supervisors and discussed it with other officers. That ultimately led to a meeting with Police Chief Mark Talbot, who said the recruit's presence in the locker room did not violate department policy. According to the lawsuit, Grabow was told to \"learn to deal with it,\" while one supervisor allegedly told her, \"If you feel unsafe, take your gun into the shower.\" Grabow was later suspended without pay, the lawsuit alleges. Grabow says her Catholic faith and beliefs about trans people elevated her concerns. Norfolk officials declined to comment to local media outlets, citing pending litigation. Research by the Williams Institute in 2025 has not found evidence that policies permitting transgender people to use facilities corresponding with their gender identity increase criminal misconduct in those spaces. A 2018 study examining police reports involving assault, sex crimes and voyeurism in public restrooms, locker rooms and changing rooms across Massachusetts found such incidents were exceedingly rare. Researchers found no relationship between communities' adoption of transgender-inclusive nondiscrimination protections and the number or frequency of reported incidents. The Norfolk Police Department adopted a written policy in 2020 stating that officers will treat members of the \"transgender, intersex and gender non-conforming community (TIGN) with fairness and dignity\" and that the department will not discriminate against transgender people or treat them with bias. Neither Grabow nor the recruit works for the department anymore. A lawyer for Grabow told WVEC that the encounter violated his client's privacy \"pretty much in the worst way possible.\" \"The department was wrong from the beginning in the way that they handled it, by not giving anyone a heads up and shutting down and stepping over the conversation when people were trying to share their traumatic experience,\" attorney Scott Lloyd said. Grabow is demanding a jury trial and seeking $15 million in damages. This article originally appeared on Advocate: Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
-      "url": "https://www.yahoo.com/news/us/articles/ex-virginia-cop-demands-15-201014778.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/53949e0b00c5d4d716ae038abc7ea3776e5d5dd4997112ea0058824a833b660c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_advocate_articles_932%2F349b0c693fb52228d16baf4726d70940.jpg",
-      "publishedAt": "2026-08-20T20:10:14Z",
+      "title": "Licking County couple described as 'monsters' indicted in teen sex video case",
+      "description": "NEWARK, Ohio (WSYX) -- An Ohio couple has been indicted in connection to charges that they produced sexually explicit material involving minors. Brianna Nethers and John Nethers were arrested in Newark in June, accused of recordig sexually explicit videos of teens and women without the victims' knowledge. Detectives searched their home on June 24 and confiscated their cellphones and computers. John Nethers was indicted on the following counts: * 5 counts of rape * 8 counts of pandering sexually-oriented matter involving a minor or impaired person * 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance * 2 counts of unlawful sexual conduct with a minor * 1 count of sexual conduct with an animal * 1 count of cruelty to animals * 2 counts of voyeurism * 1 count of possessing criminal tools * 1 specification for forfeiture of property Brianna Nethers was indicted on the following counts: * 5 counts of rape * 9 counts of pandering sexually-oriented matter involving a minor or impaired person * 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance * 2 counts of unlawful sexual conduct with a minor * 1 count of sexual conduct with an animal * 1 count of cruelty to animals * 2 counts of voyeurism * 1 count of possessing criminal tools * 1 specification for forfeiture of property Following their arrests, court records revealed one of the videos found on their devices shows Brianna going into a public restroom in Newark and setting up a hidden camera in her purse. The video then shows her allegedly bringing a young male into the restroom and performing oral sex on him, according to court documents. Police said they identified the victim and he was 13 years old. John Nethers is accused of uploading the videos to his laptop and editing them. \"Obviously, both of these people are monsters, and they're going after kids,\" said Newark Deputy Chief of Police, John Brnjic.",
+      "url": "https://dayton247now.com/news/local/licking-county-couple-described-john-brianna-nethers-monsters-indicted-teen-sex-video-case-newark-columbus-ohio-crime-sexual-conduct-voyeurism",
+      "source": "WKEF",
+      "image": "https://dayton247now.com/resources/media2/16x9/1920/1320/center/90/406455a7-0211-475e-b05f-97f5e86bb266-UntitledJune302026at06.49.52.png",
+      "publishedAt": "2026-08-21T16:52:06Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (5 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (5 terms), category terms (1), published within 7 days). \"Ex-Virginia cop demands $15 million after sharing locker room with trans colleague\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-21T12:40:33.734Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-Virginia cop demands $15 million after sharing locker room with trans colleague",
-      "description": "Skyline of Norfolk, Virginia from the Elizabeth River. Robert Knopes/UCG/Universal Images Group via Getty Images A former Virginia police officer has sued her department, alleging officials violated her privacy by requiring her to share a locker room with a transgender colleague. Now, she wants $15 million in damages. Former Norfolk Police Officer Meghan Grabow filed the lawsuit alleging that the department did not inform her she would be sharing a women's locker room with a transgender woman. While Grabow was undressing, she encountered the recruit, who Grabow alleged stared at her \"as a man would look at a woman,\" Norfolk TV news station WVEC reported. WAVY reported, citing the complaint, that the recruit \"presented as a man\" at the time and wore a suit and tie. Grabow was wearing only her underwear, according to the lawsuit. CBS affiliate News 3 WTKR reported that Grabow was training the class of recruits when the encounter occurred in 2024. In language misgendering the recruit, the lawsuit alleges that she \"made no attempt to dress, behave, or otherwise present himself as anything other than a man.\" Grabow alleges that she raised concerns about the encounter with supervisors and discussed it with other officers. That ultimately led to a meeting with Police Chief Mark Talbot, who said the recruit's presence in the locker room did not violate department policy. According to the lawsuit, Grabow was told to \"learn to deal with it,\" while one supervisor allegedly told her, \"If you feel unsafe, take your gun into the shower.\" Grabow was later suspended without pay, the lawsuit alleges. Grabow says her Catholic faith and beliefs about trans people elevated her concerns. Norfolk officials declined to comment to local media outlets, citing pending litigation. Research by the Williams Institute in 2025 has not found evidence that policies permitting transgender people to use facilities corresponding with their gender identity increase criminal misconduct in those spaces. A 2018 study examining police reports involving assault, sex crimes and voyeurism in public restrooms, locker rooms and changing rooms across Massachusetts found such incidents were exceedingly rare. Researchers found no relationship between communities' adoption of transgender-inclusive nondiscrimination protections and the number or frequency of reported incidents. The Norfolk Police Department adopted a written policy in 2020 stating that officers will treat members of the \"transgender, intersex and gender non-conforming community (TIGN) with fairness and dignity\" and that the department will not discriminate against transgender people or treat them with bias. Neither Grabow nor the recruit works for the department anymore. A lawyer for Grabow told WVEC that the encounter violated his client's privacy \"pretty much in the worst way possible.\" \"The department was wrong from the beginning in the way that they handled it, by not giving anyone a heads up and shutting down and stepping over the conversation when people were trying to share their traumatic experience,\" attorney Scott Lloyd said. Grabow is demanding a jury trial and seeking $15 million in damages.",
-      "url": "https://www.advocate.com/politics/states/virginia-cop-lawsuit-transgender-colleague",
-      "source": "Gay News, LGBT Rights, Politics, Entertainment",
-      "image": "https://www.advocate.com/media-library/norfolk-va.jpg?id=67652286&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
-      "publishedAt": "2026-08-20T18:10:14Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (5 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (5 terms), category terms (1), published within 7 days). \"Ex-Virginia cop demands $15 million after sharing locker room with trans colleague\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-21T12:40:33.734Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden device found inside Mass General Brigham research lab locker room",
-      "description": "A researcher discovered a hidden device in the shower area of a locker room at a Mass General Brigham research facility in Boston's Longwood Medical Area Wednesday morning, prompting a police investigation. Boston police responded around 9:10 a.m. after people at the facility at 4 Blackfan Circle reported finding what they believed was a hidden camera in the changing area. Police took the device into custody and are investigating who placed it there. Mass General Brigham said it immediately notified police, secured the area, and followed its safety protocols. The space is accessible only by badge. It is limited to researchers; patients and other staff do not have access to the area. Mass General Brigham leases the facility for research purposes, but an outside company owns the building. The health care system said it had not yet determined what type of device was found and had not confirmed that it was a camera. Mass General Brigham said it is cooperating fully with law enforcement.",
-      "url": "https://www.boston.com/news/local-news/2026/08/20/hidden-device-found-inside-mass-general-brigham-research-lab-locker-room/",
-      "source": "Boston",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/03/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2018_07_30_BostonGlobe.com_EditorialOpinion_Images_31police-4650-69b9f4d1d64bc-768x432.jpg",
-      "publishedAt": "2026-08-20T19:09:21Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
       "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -179,8 +158,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Hidden device found inside Mass General Brigham research lab locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-21T12:40:33.734Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Licking County couple described as 'monsters' indicted in teen sex video case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-22T12:33:05.844Z"
     }
   ]
 }
