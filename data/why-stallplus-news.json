@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T12:33:05.844Z",
+  "updatedAt": "2026-08-23T12:33:43.826Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 4,
     "pending": 1,
-    "rejected": 66,
+    "rejected": 64,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -141,13 +141,13 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Licking County couple described as 'monsters' indicted in teen sex video case",
-      "description": "NEWARK, Ohio (WSYX) -- An Ohio couple has been indicted in connection to charges that they produced sexually explicit material involving minors. Brianna Nethers and John Nethers were arrested in Newark in June, accused of recordig sexually explicit videos of teens and women without the victims' knowledge. Detectives searched their home on June 24 and confiscated their cellphones and computers. John Nethers was indicted on the following counts: * 5 counts of rape * 8 counts of pandering sexually-oriented matter involving a minor or impaired person * 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance * 2 counts of unlawful sexual conduct with a minor * 1 count of sexual conduct with an animal * 1 count of cruelty to animals * 2 counts of voyeurism * 1 count of possessing criminal tools * 1 specification for forfeiture of property Brianna Nethers was indicted on the following counts: * 5 counts of rape * 9 counts of pandering sexually-oriented matter involving a minor or impaired person * 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance * 2 counts of unlawful sexual conduct with a minor * 1 count of sexual conduct with an animal * 1 count of cruelty to animals * 2 counts of voyeurism * 1 count of possessing criminal tools * 1 specification for forfeiture of property Following their arrests, court records revealed one of the videos found on their devices shows Brianna going into a public restroom in Newark and setting up a hidden camera in her purse. The video then shows her allegedly bringing a young male into the restroom and performing oral sex on him, according to court documents. Police said they identified the victim and he was 13 years old. John Nethers is accused of uploading the videos to his laptop and editing them. \"Obviously, both of these people are monsters, and they're going after kids,\" said Newark Deputy Chief of Police, John Brnjic.",
-      "url": "https://dayton247now.com/news/local/licking-county-couple-described-john-brianna-nethers-monsters-indicted-teen-sex-video-case-newark-columbus-ohio-crime-sexual-conduct-voyeurism",
-      "source": "WKEF",
-      "image": "https://dayton247now.com/resources/media2/16x9/1920/1320/center/90/406455a7-0211-475e-b05f-97f5e86bb266-UntitledJune302026at06.49.52.png",
-      "publishedAt": "2026-08-21T16:52:06Z",
+      "provider": "NewsData.io",
+      "title": "Convicted sex offender accused of recording women in changing rooms",
+      "description": "A Tennessee man reviously convicted of secretly recording women and children in restrooms and dressing rooms has been charged for similar conduct in Fayette Mall in Lexington, according to court records.",
+      "url": "https://www.kentuckynewera.com/news/state/article_57da8c10-d597-5582-8cec-d60d3fd247e3.html",
+      "source": "Kentucky New Era",
+      "image": "https://bloximages.chicago2.vip.townnews.com/kentuckynewera.com/content/tncms/custom/image/98afc73a-d605-11e7-83b4-4fc87c2d41c0.png?crop=282%2C282%2C109%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2026-08-22 03:44:00",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -158,8 +158,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Licking County couple described as 'monsters' indicted in teen sex video case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-22T12:33:05.844Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Convicted sex offender accused of recording women in changing rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-23T12:33:43.826Z"
     }
   ]
 }
