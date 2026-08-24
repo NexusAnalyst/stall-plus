@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:33:43.826Z",
+  "updatedAt": "2026-08-24T12:42:49.603Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,8 +13,8 @@
   "reviewSummary": {
     "published": 4,
     "pending": 1,
-    "rejected": 64,
-    "carriedForward": 3
+    "rejected": 66,
+    "carriedForward": 4
   },
   "categoryCounts": [
     {
@@ -77,6 +77,28 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Ohio couple accused of secretly recording sexual abuse of minors",
+      "description": "NEWARK, Ohio -- An Ohio couple are facing dozens of charges involving the sexual abuse of minors after they were accused of secretly recording incidents involving young children, including in a public restroom. According to the Columbus Dispatch, John Nethers, 43, of Licking County, is facing 38 total charges, including multiple counts of rape, pandering sexually oriented material involving a minor and illegal use of a minor in nudity-oriented material or performance, unlawful sexual conduct with a minor and voyeurism, and illegal use of a minor in nudity oriented material with a possession/viewing specification. He's also charged with two counts of animal-related misdemeanors. Brianna Nethers, 23, is facing 29 counts, including multiple counts of rape, pandering sexually oriented material involving a minor, illegal use of a minor in nudity-oriented material, and unlawful sexual conduct with a minor and voyeurism. She also faces charges of sexual conduct with an animal and cruelty to animals. \"Obviously, both of these people are monsters and they're going after kids,\" Newark Deputy Chief of Police John Brnjic told WSYX Channel 6. The Dispatch reports that court records show victims' ages range from 3 years old to 19 years old. Both suspects were arrested in June, WCMH Channel 4 reports. Police found multiple electronic devices while conducting a search warrant. A laptop reportedly owned by John Nethers contained child sex-abuse material, police said. A video on the laptop recorded with a hidden camera reportedly showed Brianna Nethers performing a sexual act on a 13-year-old boy in the restroom of the Buckeye Valley YMCA in Newark, the Columbus Dispatch reports. WBNS Channel 10 reports Brianna Nethers hid the camera in her purse and brought the boy into the restroom. According to the Dispatch, the crimes occurred from March 2021 to June 2026. The YMCA released a statement to the Dispatch saying it was cooperating with the investigation. \"The indictments suggest that the couple's deeply disturbing alleged crimes were widespread across Licking County,\" the Buckeye Valley YMCA said. \"We're grateful to law enforcement for their work to protect our community and ensure these serious allegations are answered in court.\" The couple are scheduled to be arraigned Tuesday.",
+      "url": "https://www.cleveland.com/nation/2026/08/ohio-couple-accused-of-secretly-recording-sexual-abuse-of-minors.html",
+      "source": "Cleveland",
+      "image": "https://www.cleveland.com/resizer/v2/RCMU2ZCA4NH3TLHLPXJ4O5KZPY.jpg?auth=bf0108df858d255a39431e2f1762a0fe447b1cebe9580673bf3af2834f3f3f9b&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-08-24T05:03:31Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 80,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Ohio couple accused of secretly recording sexual abuse of minors\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items",
       "description": "LONE PEAK, Utah (ABC4) -- A man has been arrested and charged with burglary, voyeurism, and lewdness after he allegedly entered a high school, stole several items, walked into the women's bathroom, and urinated outside. Justin Lane Hopkins, 54, was charged with burglary (a third-degree felony), voyeurism, theft with prior convictions, possession of a dangerous weapon by a restricted person, criminal trespass, lewdness, and littering. According to charging documents, on Aug. 12, Lone Peak Police received a call of a potential trespass at Lone Peak High School. The alleged trespass happened two days earlier, and police claim video footage showed Hopkins entering the school building two separate times on the same day. Reportedly, Hopkins took several items from the building, including an hourglass, a book-shaped box, a can of soda, and a drawstring backpack. Police say the value of the items totaled approximately $500. Then, Hopkins allegedly opened an exterior door of the school and urinated, and shortly after that, he held the door open for someone to enter the building. Police also say that Hopkins entered a women's restroom inside the school twice while events were occurring and while there were people inside the school. Hopkins had previously been trespassed from the school, and signs throughout the building stated that visitors need to check in at the front office. After reviewing the footage, police found Hopkins in an encampment at Highland Glen Park. He allegedly admitted to entering the high school and taking items, and officers found the stolen items in his encampment. They also located a knife, and Hopkins reportedly acknowledged that he was on probation and that he wasn't supposed to have a knife. Police also noticed garbage around the camp, which was in a public park. Hopkins has a history of numerous drug-related convictions dating back to 2012. Most recently, he pleaded guilty to possession of a controlled substance in January 2025. Hopkins is being held in the Utah County Jail with bail. He had his initial court appearance on Monday, Aug. 17, and he has a waiver hearing scheduled for Aug. 26.",
       "url": "https://www.abc4.com/news/crime/charges-burglary-voyeurism-high-school/",
@@ -95,27 +117,6 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Convicted sex offender accused of recording women in changing rooms",
-      "description": "A Tennessee man reviously convicted of secretly recording women and children in restrooms and dressing rooms has been charged for similar conduct in Fayette Mall in Lexington, according to court records. Ty Cline, 31, of Oliver Springs, Tennessee, is charged with video voyeurism. Court documents say he secretly recorded a 40-year-old woman in a changing room at the Fayette Mall on July 31.",
-      "url": "https://www.thenewsenterprise.com/news/state/convicted-sex-offender-accused-of-recording-women-in-changing-rooms/article_9f409cdb-0a4b-5912-950d-ca5a3ff7326c.html",
-      "source": "The News-Enterprise",
-      "image": "https://bloximages.newyork1.vip.townnews.com/thenewsenterprise.com/content/tncms/custom/image/a5fe7714-ac36-11e6-ade4-8b4ed3b5d6b5.png?resize=600%2C315",
-      "publishedAt": "2026-08-22T03:44:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 70,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Convicted sex offender accused of recording women in changing rooms\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     },
     {
       "provider": "NewsAPI.ai",
@@ -141,25 +142,25 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Convicted sex offender accused of recording women in changing rooms",
-      "description": "A Tennessee man reviously convicted of secretly recording women and children in restrooms and dressing rooms has been charged for similar conduct in Fayette Mall in Lexington, according to court records.",
-      "url": "https://www.kentuckynewera.com/news/state/article_57da8c10-d597-5582-8cec-d60d3fd247e3.html",
-      "source": "Kentucky New Era",
-      "image": "https://bloximages.chicago2.vip.townnews.com/kentuckynewera.com/content/tncms/custom/image/98afc73a-d605-11e7-83b4-4fc87c2d41c0.png?crop=282%2C282%2C109%2C0&resize=200%2C200&order=crop%2Cresize",
-      "publishedAt": "2026-08-22 03:44:00",
+      "provider": "NewsAPI.ai",
+      "title": "Licking county couple indicted for child sex charges after secretly taping minors in restroom",
+      "description": "HEATH, Ohio (WCMH) -- A Licking County couple was indicted Thursday for child sexual abuse material charges after they allegedly taped sexual encounters involving minors in a public restroom. John Michael Nethers, 43, and Brianna Nicole Nethers, 23, were arrested on June 24 when Newark police served a search warrant in connection with a rape and child sex abuse material investigation. Officers found multiple electronic devices, including a laptop John Nethers admitted to owning and provided the password for. View the latest NBC4 headlines in the player above. Officers allegedly found child sex abuse material on the laptop, including a video that depicted, via hidden camera, Brianna Nethers engaging in sexual activity with a 13-year-old boy in a Newark public restroom, according to court records. Brianna Nethers hid the camera in her purse, and brough the teen into the restroom. Brianna Nethers also allegedly set up the hidden camera in a stall where she secretly recorded women using the bathroom, including minors. John Nethers uploaded and edited the videos on his laptop, court records said. John Nethers was indicted on 5 counts of rape, 8 counts of pandering sexually-oriented matter involving a minor impaired person, 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance, 2 counts of unlawful sexual conduct with a minor, sexual conduct with an animal, cruelty to animals, 2 counts of voyeurism, 10 counts of illegal use of minor or impaired person in nudity-oriented material or performance and possessing criminal tools. Brianna Nethers was indicted on 5 counts of rape, 9 counts of pandering sexually-oriented matter involving a minor impaired person, 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance, 2 counts of unlawful sexual conduct with a minor, sexual conduct with an animal, cruelty to animals, 2 counts of voyeurism and possessing criminal tools. John and Brianna Nethers will be arraigned Tuesday.",
+      "url": "https://www.nbc4i.com/news/local-news/licking-county/licking-county-couple-indicted-for-child-sex-charges-after-secretly-taping-minors-in-restroom/",
+      "source": "NBC4i",
+      "image": "https://www.nbc4i.com/wp-content/uploads/sites/18/2023/08/handcuffs-and-gavel.jpg?strip=1&w=640",
+      "publishedAt": "2026-08-23T18:35:44Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 50,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (4 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Convicted sex offender accused of recording women in changing rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-23T12:33:43.826Z"
+      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Licking county couple indicted for child sex charges after secretly taping minors in restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-24T12:42:49.603Z"
     }
   ]
 }
