@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:42:49.603Z",
+  "updatedAt": "2026-08-25T12:41:36.315Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 4,
-    "pending": 1,
-    "rejected": 66,
-    "carriedForward": 4
+    "published": 3,
+    "pending": 3,
+    "rejected": 64,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -99,27 +99,6 @@
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items",
-      "description": "LONE PEAK, Utah (ABC4) -- A man has been arrested and charged with burglary, voyeurism, and lewdness after he allegedly entered a high school, stole several items, walked into the women's bathroom, and urinated outside. Justin Lane Hopkins, 54, was charged with burglary (a third-degree felony), voyeurism, theft with prior convictions, possession of a dangerous weapon by a restricted person, criminal trespass, lewdness, and littering. According to charging documents, on Aug. 12, Lone Peak Police received a call of a potential trespass at Lone Peak High School. The alleged trespass happened two days earlier, and police claim video footage showed Hopkins entering the school building two separate times on the same day. Reportedly, Hopkins took several items from the building, including an hourglass, a book-shaped box, a can of soda, and a drawstring backpack. Police say the value of the items totaled approximately $500. Then, Hopkins allegedly opened an exterior door of the school and urinated, and shortly after that, he held the door open for someone to enter the building. Police also say that Hopkins entered a women's restroom inside the school twice while events were occurring and while there were people inside the school. Hopkins had previously been trespassed from the school, and signs throughout the building stated that visitors need to check in at the front office. After reviewing the footage, police found Hopkins in an encampment at Highland Glen Park. He allegedly admitted to entering the high school and taking items, and officers found the stolen items in his encampment. They also located a knife, and Hopkins reportedly acknowledged that he was on probation and that he wasn't supposed to have a knife. Police also noticed garbage around the camp, which was in a public park. Hopkins has a history of numerous drug-related convictions dating back to 2012. Most recently, he pleaded guilty to possession of a controlled substance in January 2025. Hopkins is being held in the Utah County Jail with bail. He had his initial court appearance on Monday, Aug. 17, and he has a waiver hearing scheduled for Aug. 26.",
-      "url": "https://www.abc4.com/news/crime/charges-burglary-voyeurism-high-school/",
-      "source": "ABC 4",
-      "image": "https://www.abc4.com/wp-content/uploads/sites/4/2024/08/arrest-2-2-1.jpg?w=1280",
-      "publishedAt": "2026-08-18T02:44:21Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man charged with burglary and voyeurism after allegedly trespassing into high school bathroom, stealing items\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Hidden camera found in changing room at Mass General Brigham research lab",
       "description": "Boston police are investigating after a device resembling a hidden camera was found in a locker room area at an off-campus Mass General Brigham lab. According to the police report, officers assigned to a paid detail at Brigham and Women's Hospital responded to a radio call shortly after 9 a.m. Wednesday for a hidden camera device that had been found at an off-campus research facility in Roxbury leased by Mass General Brigham. When they arrived, officers spoke with a security officer, who said he had received a radio call from a manager reporting that a hidden camera device had been found inside the shower/changing room area. The security officer took custody of the device and turned it over to police. Officers spoke with managers, who told them the victim was opening the exit door to leave the shower room and enter the laboratory facility when she saw the device, which then fell to the floor. Police detectives responded to the scene, took possession of the device and processed and photographed the scene. The incident remains under investigation. It has not yet been determined if the device was a camera. Mass General Brigham issued a statement, saying: \"We are aware that a small device resembling a camera was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access.\"",
       "url": "https://www.nbcboston.com/news/local/hidden-camera-found-in-changing-room-at-mass-general-brigham-research-lab/4001307/",
@@ -143,24 +122,66 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Licking county couple indicted for child sex charges after secretly taping minors in restroom",
-      "description": "HEATH, Ohio (WCMH) -- A Licking County couple was indicted Thursday for child sexual abuse material charges after they allegedly taped sexual encounters involving minors in a public restroom. John Michael Nethers, 43, and Brianna Nicole Nethers, 23, were arrested on June 24 when Newark police served a search warrant in connection with a rape and child sex abuse material investigation. Officers found multiple electronic devices, including a laptop John Nethers admitted to owning and provided the password for. View the latest NBC4 headlines in the player above. Officers allegedly found child sex abuse material on the laptop, including a video that depicted, via hidden camera, Brianna Nethers engaging in sexual activity with a 13-year-old boy in a Newark public restroom, according to court records. Brianna Nethers hid the camera in her purse, and brough the teen into the restroom. Brianna Nethers also allegedly set up the hidden camera in a stall where she secretly recorded women using the bathroom, including minors. John Nethers uploaded and edited the videos on his laptop, court records said. John Nethers was indicted on 5 counts of rape, 8 counts of pandering sexually-oriented matter involving a minor impaired person, 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance, 2 counts of unlawful sexual conduct with a minor, sexual conduct with an animal, cruelty to animals, 2 counts of voyeurism, 10 counts of illegal use of minor or impaired person in nudity-oriented material or performance and possessing criminal tools. Brianna Nethers was indicted on 5 counts of rape, 9 counts of pandering sexually-oriented matter involving a minor impaired person, 8 counts of illegal use of minor or impaired person in nudity-oriented material or performance, 2 counts of unlawful sexual conduct with a minor, sexual conduct with an animal, cruelty to animals, 2 counts of voyeurism and possessing criminal tools. John and Brianna Nethers will be arraigned Tuesday.",
-      "url": "https://www.nbc4i.com/news/local-news/licking-county/licking-county-couple-indicted-for-child-sex-charges-after-secretly-taping-minors-in-restroom/",
-      "source": "NBC4i",
-      "image": "https://www.nbc4i.com/wp-content/uploads/sites/18/2023/08/handcuffs-and-gavel.jpg?strip=1&w=640",
-      "publishedAt": "2026-08-23T18:35:44Z",
+      "title": "Kottayam man held for 'selling' wife's private videos, POCSO case filed after 4yo daughter's statement",
+      "description": "A Kottayam man was arrested for secretly recording and selling his wife's private videos online. A POCSO case was added after their 4-year-old daughter gave a statement during counselling. A man in Kerala's Kottayam has been arrested on allegations that he secretly recorded his wife's private moments and sold the videos through pornographic websites. A case under the Protection of Children from Sexual Offences (POCSO) Act was also registered against the accused after their 4-year-old daughter reportedly made a statement during counselling, police said. According to the woman's complaint, her husband had secretly recorded their private moments on his mobile phone without her consent while the couple was living in the UK. She alleged that he also installed a hidden camera in their bathroom and circulated the recordings through pornographic websites. Also read: Ketan Agarwal murder case: What is considered strong circumstantial evidence under Indian criminal law? Legal expert explains The couple, who had been in a relationship for nearly 10 years before getting married, returned to Kerala on 14 August after living in the UK for several years for work. The woman alleged that she confronted her husband after learning about the recordings, following which they frequently quarrelled, and she was allegedly assaulted. She also accused him of pressuring her to have relationships with other men and assaulting her when she refused. According to her complaint, the man was addicted to pornographic content and had repeatedly subjected her to unwanted sexual behaviour. The couple later underwent counselling in an attempt to resolve their differences, but the woman alleged that the abuse continued. She reportedly left the house and sought refuge with a friend before returning, hoping the counselling would bring about a change. She told police that her husband had indicated during counselling that he was not interested in family life and wanted to live independently. The woman further alleged that he continued to record and circulate her private moments despite her objections. Also read: 'Pay $13,000 and reset your body count to 0': Truth behind internet's bizarre claim After another alleged assault, she approached Kottayam police and is currently undergoing treatment at a hospital. Police registered a case based on her complaint and preliminary information before arresting the accused. During counselling, the couple's 4-year-old daughter reportedly gave a statement against her father. After the statement, a POCSO case was added to the investigation over allegations that the accused pressured his wife to engage in a sexual act in front of their daughter.",
+      "url": "https://www.wionews.com/india-news/kottayam-man-held-for-selling-wife-s-private-videos-pocso-case-filed-after-4yo-daughter-s-statement-1787643268896",
+      "source": "WION",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260825/image-1787643533858.jpg?imwidth=1200&imheight=900",
+      "publishedAt": "2026-08-25T07:42:32Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 65,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (4 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Licking county couple indicted for child sex charges after secretly taping minors in restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-24T12:42:49.603Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Kottayam man held for 'selling' wife's private videos, POCSO case filed after 4yo daughter's statement\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-25T12:41:36.315Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Tempe high school employee accused of spying on undressed girls",
+      "description": "Those who witness crimes or suspicious behavior can remain anonymous while reporting it to police. A Tempe high school employee is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in southern Tempe. Authorities believe the school \"inadvertently\" left on the security cameras, as the area was temporarily being used while the locker room was closed for renovations. When Cruz first found the videos, he didn't notify school officials or law enforcement, prosecutors said in court documents. Instead he watched the footage for weeks in July, downloaded video clips ranging from 4 minutes to 2 hours long, and eventually viewed the videos and photos from his home in Phoenix on a Saturday. School authorities told parents via email that Cruz was placed on administrative leave prior to the workday on Aug. 21, and that they believe the misconduct was isolated to one camera on campus. \"We know that this is a distressing situation and these details are unsettling to our families,\" wrote Stacia Wilson, Tempe Union High School District superintendent. \"We want to be as transparent as we are allowed to be without disrupting Tempe PD's investigation.\" Tempe police said their investigators were working to identify and contact people who may have been affected, and will reach out directly to parents if they determine their child was involved. \"We understand how difficult and concerning the situation is for parents and families,\" the department wrote in a statement on social media Aug. 24. \"Due to the sensitivity of the investigation, we are unable to confirm or deny over the phone whether a specific student was involved.\" Prosecutors say Cruz admitted to the behavior in interviews. He told investigators he discovered the footage during the first week of school. He planned to tell someone that the cameras had been left on, he said, but never did. Cruz said it felt wrong looking at the photos and videos at home, since he knew the girls were only teenagers: \"Freshman and sophomores,\" he told investigators. But he organized the videos into clips, focusing on frames where girls' breasts were exposed. He told investigators he looked at the images 50 times. During the interview Cruz also began talking about sexual online games where images could be used to make \"sex robots\" who have fantasy relationships with the viewer, prosecutors say. Investigators asked whether he had used pictures of the high schoolers for those games. He said he had not. Megan Sterling with the Tempe Union High School District said the district isn't yet discussing the case at length with media, to avoid jeopardizing the ongoing police investigation. Cruz was arrested and booked into a Tempe city jail on Aug. 22. He has been charged with seven counts of voyeurism. He has hearings scheduled for Aug. 28 and Aug. 31.",
+      "url": "https://eu.azcentral.com/story/news/local/tempe-breaking/2026/08/24/corona-del-sol-high-school-employee-accused-spying-undressed-girls-security-footage/91447268007/",
+      "source": "AZ Central",
+      "image": "https://www.gannett-cdn.com/-mm-/eefc86037b2c59bda9132d19984b0f2066a1c98b/c=0-62-2397-1416/local/-/media/2018/05/04/Phoenix/Phoenix/636610688825333013-Lacrosse-Div2-Finaks-02.jpg?auto=webp&format=pjpg&width=1200",
+      "publishedAt": "2026-08-24T23:50:34Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Tempe high school employee accused of spying on undressed girls\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-25T12:41:36.315Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Tempe high school employee accused of spying on undressed girls",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A Tempe high school employee is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in southern Tempe. Authorities believe the school \"inadvertently\" left on the security cameras, as the area was temporarily being used while the locker room was closed for renovations. When Cruz first found the videos, he didn't notify school officials or law enforcement, prosecutors said in court documents. Instead he watched the footage for weeks in July, downloaded video clips ranging from 4 minutes to 2 hours long, and eventually viewed the videos and photos from his home in Phoenix on a Saturday. School authorities told parents via email that Cruz was placed on administrative leave prior to the workday on Aug. 21, and that they believe the misconduct was isolated to one camera on campus. \"We know that this is a distressing situation and these details are unsettling to our families,\" wrote Stacia Wilson, Tempe Union High School District superintendent. \"We want to be as transparent as we are allowed to be without disrupting Tempe PD's investigation.\" Tempe police said their investigators were working to identify and contact people who may have been affected, and will reach out directly to parents if they determine their child was involved. \"We understand how difficult and concerning the situation is for parents and families,\" the department wrote in a statement on social media Aug. 24. \"Due to the sensitivity of the investigation, we are unable to confirm or deny over the phone whether a specific student was involved.\" Prosecutors say Cruz admitted to the behavior in interviews. He told investigators he discovered the footage during the first week of school. He planned to tell someone that the cameras had been left on, he said, but never did. Cruz said it felt wrong looking at the photos and videos at home, since he knew the girls were only teenagers: \"Freshman and sophomores,\" he told investigators. But he organized the videos into clips, focusing on frames where girls' breasts were exposed. He told investigators he looked at the images 50 times. During the interview Cruz also began talking about sexual online games where images could be used to make \"sex robots\" who have fantasy relationships with the viewer, prosecutors say. Investigators asked whether he had used pictures of the high schoolers for those games. He said he had not. Megan Sterling with the Tempe Union High School District said the district isn't yet discussing the case at length with media, to avoid jeopardizing the ongoing police investigation. Cruz was arrested and booked into a Tempe city jail on Aug. 22. He has been charged with seven counts of voyeurism. He has hearings scheduled for Aug. 28 and Aug. 31. This article originally appeared on Arizona Republic: Tempe high school employee accused of spying on undressed girls",
+      "url": "https://www.yahoo.com/news/us/articles/tempe-high-school-employee-accused-234841854.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/036af9ce0595317d0872460a70ad483cb1e406846656feb2df9526c680753b5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fazcentral-the-arizona-republic%2F68d87e1cf2cb2bf788c53e33713af071.jpg",
+      "publishedAt": "2026-08-24T23:48:41Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Tempe high school employee accused of spying on undressed girls\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-25T12:41:36.315Z"
     }
   ]
 }
