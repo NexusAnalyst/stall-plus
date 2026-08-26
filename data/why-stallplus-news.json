@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T12:41:36.315Z",
+  "updatedAt": "2026-08-26T12:45:41.380Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,26 +11,26 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 3,
-    "rejected": 64,
-    "carriedForward": 3
+    "published": 4,
+    "pending": 1,
+    "rejected": 59,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 3
     },
     {
       "id": "dorm-privacy",
       "label": "Dorm Bathroom Privacy + Shared Living",
-      "count": 0
+      "count": 1
     },
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -56,58 +56,81 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Charges Filed Months After Sheriff's Office Announced Suspicious Bathroom Activity at Little League Opening Day, No Arrest Made",
-      "description": "Richard Allen Lehman, 58, of Hollywood, is facing 18 misdemeanor charges after investigators alleged he secretly recorded six people, including two juvenile males, inside a men's restroom at Chancellors Run Regional Park in Great Mills during Little League Opening Day activities in April 2026. The charges were not filed until August 17, 2026, more than four months after the alleged incident. A criminal summons was issued for Lehman rather than an arrest warrant, and as of 2:20 p.m. on August 19, 2026, the available information did not show that the summons had been served. Lehman is charged with six counts of Peeping Tom, six counts of conducting visual surveillance in a private place with prurient intent, and six counts of using a camera to conduct visual surveillance of a person's private area with prurient intent. The St. Mary's County Sheriff's Office had publicly acknowledged the investigation months before charges were filed. In an April 11, 2026 news release, the agency said deputies working security for St. Mary's Little League Opening Day ceremonies responded at approximately 9 a.m. to reports of a man engaging in suspicious behavior inside a restroom at Chancellors Run Regional Park in Great Mills. The Sheriff's Office said one person was detained and that the Criminal Investigations Division was handling the investigation. The agency asked anyone who witnessed suspicious activity or had additional information to contact Detective Andrew Burgess. The release did not identify the person who was detained. The St. Mary's County Sheriff's Office initially reported the incident occurred during Little League Opening Day on April 11, 2026. St. Mary's Little League's official schedule also confirms Opening Day was April 11. However, the filings against Lehman list April 13, 2026, as the offense date for all 18 charges. The reason for the discrepancy is not explained in the filings. According to allegations later filed by the St. Mary's County Sheriff's Office, patrol officers were working a part-time security assignment at Chancellors Run Regional Park for the 2026 Little League Opening Day ceremonies when an off-duty Maryland State Police master trooper used the men's restroom and entered the second toilet stall. The dividers between the stalls did not extend completely to the ground. While inside the stall, the trooper noticed a person in the first stall with his pants or shorts pulled down and a cellphone hanging from his left pocket. The trooper believed the phone had been deliberately positioned and angled toward the adjoining stall in a manner consistent with secretly recording someone. While inside, the trooper noticed a person in the first stall with his pants or shorts pulled down and a cellphone hanging from his left pocket. The trooper believed the phone had been deliberately positioned and angled toward the adjoining stall in a manner consistent with secretly recording someone. The trooper reported first noticing the same person in the restroom shortly after arriving at the park. About an hour later, he escorted a juvenile male into the restroom. After the juvenile left the stall, the trooper said he could see the same person's pants and cellphone in nearly the same position he had observed earlier. When the man exited the restroom, the trooper identified himself as a police officer. Authorities said the man was identified through his Maryland driver's license as Lehman. Patrol officers asked Lehman whether he had any cellphones on him. According to investigators, Lehman removed a blue Apple iPhone from his pocket. The trooper told officers that was not the phone he had seen hanging from the pocket inside the restroom. Lehman then retrieved a black Motorola Android smartphone from another pocket, according to the allegations. Officers seized both phones. St. Mary's County Sheriff's Office D/Cpl. David M. Lawrence later sought a search warrant for the Motorola phone. The warrant was authorized by Judge A. Lorenzini. Lawrence reported that investigators recovered numerous videos from the Motorola that allegedly had been recorded from inside the men's restroom at Chancellors Run Regional Park. Investigators identified six alleged victims, including four adults and two juvenile males. Their names are being withheld to protect their privacy. Authorities alleged that none of them knew they were being recorded or had consented to the recordings. One of the juvenile victims was allegedly captured in four separate videos. Investigators said the recordings showed the alleged victims using the restroom with various parts of their bodies exposed. The two juvenile males were allegedly recorded while sitting on a toilet, with the side of their buttocks visible. The six Peeping Tom charges allege Lehman conducted visual surveillance of another person in a private place without that person's consent. Each count carries a listed maximum penalty of 30 days in jail, a $1,000 fine, or both. The six private-place surveillance charges allege that Lehman conducted visual surveillance with prurient intent and without consent. The six additional camera-surveillance charges allege that he used a camera to record a person's private area with prurient intent and without consent. Each of those counts carries a listed maximum penalty of one year in jail, a $2,500 fine, or both.",
-      "url": "https://smnewsnet.com/archives/563761/charges-filed-months-after-sheriffs-office-announced-suspicious-bathroom-activity-at-little-league-opening-day-no-arrest-made/",
-      "source": "Southern Maryland News Net",
-      "image": "https://smnewsnet.com/wp-content/uploads/2026/08/5172b1a2-1d51-4087-869f-db73587a6c16-e1787165075715.jpg",
-      "publishedAt": "2026-08-19T18:26:00Z",
+      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
+      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
+      "url": "https://www.kulr8.com/news/national/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_cd87d475-e641-5e31-a697-ff5c47e3e297.html",
+      "source": "KULR-8 Local News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/e/c8/ec84e6d8-62ae-53a3-94fa-118ff9d343ec/6a8ecb2cca87c.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-08-26T11:08:23Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 85,
+      "confidence": 100,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Charges Filed Months After Sheriff's Office Announced Suspicious Bathroom Activity at Little League Opening Day, No Arrest Made\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ohio couple accused of secretly recording sexual abuse of minors",
-      "description": "NEWARK, Ohio -- An Ohio couple are facing dozens of charges involving the sexual abuse of minors after they were accused of secretly recording incidents involving young children, including in a public restroom. According to the Columbus Dispatch, John Nethers, 43, of Licking County, is facing 38 total charges, including multiple counts of rape, pandering sexually oriented material involving a minor and illegal use of a minor in nudity-oriented material or performance, unlawful sexual conduct with a minor and voyeurism, and illegal use of a minor in nudity oriented material with a possession/viewing specification. He's also charged with two counts of animal-related misdemeanors. Brianna Nethers, 23, is facing 29 counts, including multiple counts of rape, pandering sexually oriented material involving a minor, illegal use of a minor in nudity-oriented material, and unlawful sexual conduct with a minor and voyeurism. She also faces charges of sexual conduct with an animal and cruelty to animals. \"Obviously, both of these people are monsters and they're going after kids,\" Newark Deputy Chief of Police John Brnjic told WSYX Channel 6. The Dispatch reports that court records show victims' ages range from 3 years old to 19 years old. Both suspects were arrested in June, WCMH Channel 4 reports. Police found multiple electronic devices while conducting a search warrant. A laptop reportedly owned by John Nethers contained child sex-abuse material, police said. A video on the laptop recorded with a hidden camera reportedly showed Brianna Nethers performing a sexual act on a 13-year-old boy in the restroom of the Buckeye Valley YMCA in Newark, the Columbus Dispatch reports. WBNS Channel 10 reports Brianna Nethers hid the camera in her purse and brought the boy into the restroom. According to the Dispatch, the crimes occurred from March 2021 to June 2026. The YMCA released a statement to the Dispatch saying it was cooperating with the investigation. \"The indictments suggest that the couple's deeply disturbing alleged crimes were widespread across Licking County,\" the Buckeye Valley YMCA said. \"We're grateful to law enforcement for their work to protect our community and ensure these serious allegations are answered in court.\" The couple are scheduled to be arraigned Tuesday.",
-      "url": "https://www.cleveland.com/nation/2026/08/ohio-couple-accused-of-secretly-recording-sexual-abuse-of-minors.html",
-      "source": "Cleveland",
-      "image": "https://www.cleveland.com/resizer/v2/RCMU2ZCA4NH3TLHLPXJ4O5KZPY.jpg?auth=bf0108df858d255a39431e2f1762a0fe447b1cebe9580673bf3af2834f3f3f9b&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-24T05:03:31Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 80,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
+        "restroom context (4 terms)",
+        "category terms (3)",
         "primary topic in title",
         "published within 7 days",
         "multiple category terms"
       ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Ohio couple accused of secretly recording sexual abuse of minors\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Hidden camera found in changing room at Mass General Brigham research lab",
-      "description": "Boston police are investigating after a device resembling a hidden camera was found in a locker room area at an off-campus Mass General Brigham lab. According to the police report, officers assigned to a paid detail at Brigham and Women's Hospital responded to a radio call shortly after 9 a.m. Wednesday for a hidden camera device that had been found at an off-campus research facility in Roxbury leased by Mass General Brigham. When they arrived, officers spoke with a security officer, who said he had received a radio call from a manager reporting that a hidden camera device had been found inside the shower/changing room area. The security officer took custody of the device and turned it over to police. Officers spoke with managers, who told them the victim was opening the exit door to leave the shower room and enter the laboratory facility when she saw the device, which then fell to the floor. Police detectives responded to the scene, took possession of the device and processed and photographed the scene. The incident remains under investigation. It has not yet been determined if the device was a camera. Mass General Brigham issued a statement, saying: \"We are aware that a small device resembling a camera was found in a locker area of an off-campus leased research lab space. We immediately notified the Boston Police Department and are cooperating fully with law enforcement. Out of an abundance of caution, the area was secured and appropriate safety protocols were followed. The space is badge-access only and limited to researchers; patients and other staff do not have access.\"",
-      "url": "https://www.nbcboston.com/news/local/hidden-camera-found-in-changing-room-at-mass-general-brigham-research-lab/4001307/",
-      "source": "NBC Boston",
-      "image": "https://media.nbcboston.com/2026/08/mgb-lab.png?resize=1200%2C675&quality=85&strip=all",
-      "publishedAt": "2026-08-20T18:18:55Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
+      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
+      "url": "https://www.gjsentinel.com/news/us/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_d6be6a38-8b4b-50b6-86a7-e8c6f49a3738.html",
+      "source": "The Grand Junction Daily Sentinel",
+      "image": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/f/1a/f1ab4c8e-d161-5bd7-ab5c-c74b4cbad91e/6a8ecc1d1e627.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-08-26T11:08:23Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 100,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (3)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
+      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
+      "url": "https://www.nvdaily.com/associated_press_national/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_ed7c55e4-6ea3-50b3-94ca-9637a4965c4e.html",
+      "source": "The Northern Virginia Daily",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/c/2b/c2b71846-e0f5-538b-9b40-db466bd23914/6a8ecbafcfce9.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-08-26T11:08:23Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 100,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (3)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man admits to filming a student showering without permission at WSU dorm bathroom",
+      "description": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.newsbreak.com/krem2-524538/4849745614604-man-admits-to-filming-a-student-showering-without-permission-at-wsu-dorm-bathroom",
+      "source": "Newsbreak",
+      "image": null,
+      "publishedAt": "2026-08-26 00:00:00",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
       "confidence": 75,
       "confidenceLabel": "high",
       "matchReasons": [
@@ -116,18 +139,18 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Hidden camera found in changing room at Mass General Brigham research lab\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Man admits to filming a student showering without permission at WSU dorm bathroom\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Kottayam man held for 'selling' wife's private videos, POCSO case filed after 4yo daughter's statement",
-      "description": "A Kottayam man was arrested for secretly recording and selling his wife's private videos online. A POCSO case was added after their 4-year-old daughter gave a statement during counselling. A man in Kerala's Kottayam has been arrested on allegations that he secretly recorded his wife's private moments and sold the videos through pornographic websites. A case under the Protection of Children from Sexual Offences (POCSO) Act was also registered against the accused after their 4-year-old daughter reportedly made a statement during counselling, police said. According to the woman's complaint, her husband had secretly recorded their private moments on his mobile phone without her consent while the couple was living in the UK. She alleged that he also installed a hidden camera in their bathroom and circulated the recordings through pornographic websites. Also read: Ketan Agarwal murder case: What is considered strong circumstantial evidence under Indian criminal law? Legal expert explains The couple, who had been in a relationship for nearly 10 years before getting married, returned to Kerala on 14 August after living in the UK for several years for work. The woman alleged that she confronted her husband after learning about the recordings, following which they frequently quarrelled, and she was allegedly assaulted. She also accused him of pressuring her to have relationships with other men and assaulting her when she refused. According to her complaint, the man was addicted to pornographic content and had repeatedly subjected her to unwanted sexual behaviour. The couple later underwent counselling in an attempt to resolve their differences, but the woman alleged that the abuse continued. She reportedly left the house and sought refuge with a friend before returning, hoping the counselling would bring about a change. She told police that her husband had indicated during counselling that he was not interested in family life and wanted to live independently. The woman further alleged that he continued to record and circulate her private moments despite her objections. Also read: 'Pay $13,000 and reset your body count to 0': Truth behind internet's bizarre claim After another alleged assault, she approached Kottayam police and is currently undergoing treatment at a hospital. Police registered a case based on her complaint and preliminary information before arresting the accused. During counselling, the couple's 4-year-old daughter reportedly gave a statement against her father. After the statement, a POCSO case was added to the investigation over allegations that the accused pressured his wife to engage in a sexual act in front of their daughter.",
-      "url": "https://www.wionews.com/india-news/kottayam-man-held-for-selling-wife-s-private-videos-pocso-case-filed-after-4yo-daughter-s-statement-1787643268896",
-      "source": "WION",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260825/image-1787643533858.jpg?imwidth=1200&imheight=900",
-      "publishedAt": "2026-08-25T07:42:32Z",
+      "title": "Iberville Parish man took pornographic photos of his underage niece, Sheriff's Office says",
+      "description": "A Sunshine man took multiple pornographic photos of his underage niece using cameras he had installed inside his home, according to the Iberville Parish Sheriff's Office. James Williams, 42, was arrested Monday on 21 counts of child sexual abuse material and 32 counts of video voyeurism, the Sheriff's Office said. Williams was arrested by LSU Police on July 31 on an unrelated charge, according to a search warrant for Williams' cellphone. While he was in custody, his niece found nude photos of herself on his phone taken without her consent, the warrant states. The victim reported the pictures to the Sheriff's Office on Aug. 9 and told deputies that Williams would frequently walk in on her in the bathroom and made her feel uncomfortable, the warrant states. She also told deputies he had cameras inside the home where they were living in that she believed were used to spy on her. The victim had been living with Williams for a little over a year, the warrant said. Williams was booked into the Iberville Parish Jail.",
+      "url": "https://www.theadvocate.com/baton_rouge/news/crime_police/man-arrested-video-voyeurism/article_7b0a9268-15bb-4d2c-82c6-bbb38bcf2e1c.html",
+      "source": "The Advocate",
+      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/a7/da7a94a9-52e6-4f78-b683-26b4d173c2a2/657ddfdd6a656.image.jpg?crop=1920%2C1008%2C0%2C1&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-08-25T21:05:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -138,50 +161,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Kottayam man held for 'selling' wife's private videos, POCSO case filed after 4yo daughter's statement\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-25T12:41:36.315Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Tempe high school employee accused of spying on undressed girls",
-      "description": "Those who witness crimes or suspicious behavior can remain anonymous while reporting it to police. A Tempe high school employee is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in southern Tempe. Authorities believe the school \"inadvertently\" left on the security cameras, as the area was temporarily being used while the locker room was closed for renovations. When Cruz first found the videos, he didn't notify school officials or law enforcement, prosecutors said in court documents. Instead he watched the footage for weeks in July, downloaded video clips ranging from 4 minutes to 2 hours long, and eventually viewed the videos and photos from his home in Phoenix on a Saturday. School authorities told parents via email that Cruz was placed on administrative leave prior to the workday on Aug. 21, and that they believe the misconduct was isolated to one camera on campus. \"We know that this is a distressing situation and these details are unsettling to our families,\" wrote Stacia Wilson, Tempe Union High School District superintendent. \"We want to be as transparent as we are allowed to be without disrupting Tempe PD's investigation.\" Tempe police said their investigators were working to identify and contact people who may have been affected, and will reach out directly to parents if they determine their child was involved. \"We understand how difficult and concerning the situation is for parents and families,\" the department wrote in a statement on social media Aug. 24. \"Due to the sensitivity of the investigation, we are unable to confirm or deny over the phone whether a specific student was involved.\" Prosecutors say Cruz admitted to the behavior in interviews. He told investigators he discovered the footage during the first week of school. He planned to tell someone that the cameras had been left on, he said, but never did. Cruz said it felt wrong looking at the photos and videos at home, since he knew the girls were only teenagers: \"Freshman and sophomores,\" he told investigators. But he organized the videos into clips, focusing on frames where girls' breasts were exposed. He told investigators he looked at the images 50 times. During the interview Cruz also began talking about sexual online games where images could be used to make \"sex robots\" who have fantasy relationships with the viewer, prosecutors say. Investigators asked whether he had used pictures of the high schoolers for those games. He said he had not. Megan Sterling with the Tempe Union High School District said the district isn't yet discussing the case at length with media, to avoid jeopardizing the ongoing police investigation. Cruz was arrested and booked into a Tempe city jail on Aug. 22. He has been charged with seven counts of voyeurism. He has hearings scheduled for Aug. 28 and Aug. 31.",
-      "url": "https://eu.azcentral.com/story/news/local/tempe-breaking/2026/08/24/corona-del-sol-high-school-employee-accused-spying-undressed-girls-security-footage/91447268007/",
-      "source": "AZ Central",
-      "image": "https://www.gannett-cdn.com/-mm-/eefc86037b2c59bda9132d19984b0f2066a1c98b/c=0-62-2397-1416/local/-/media/2018/05/04/Phoenix/Phoenix/636610688825333013-Lacrosse-Div2-Finaks-02.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2026-08-24T23:50:34Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Tempe high school employee accused of spying on undressed girls\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-25T12:41:36.315Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Tempe high school employee accused of spying on undressed girls",
-      "description": "Add Yahoo as a preferred source to see more of our stories on Google. A Tempe high school employee is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in southern Tempe. Authorities believe the school \"inadvertently\" left on the security cameras, as the area was temporarily being used while the locker room was closed for renovations. When Cruz first found the videos, he didn't notify school officials or law enforcement, prosecutors said in court documents. Instead he watched the footage for weeks in July, downloaded video clips ranging from 4 minutes to 2 hours long, and eventually viewed the videos and photos from his home in Phoenix on a Saturday. School authorities told parents via email that Cruz was placed on administrative leave prior to the workday on Aug. 21, and that they believe the misconduct was isolated to one camera on campus. \"We know that this is a distressing situation and these details are unsettling to our families,\" wrote Stacia Wilson, Tempe Union High School District superintendent. \"We want to be as transparent as we are allowed to be without disrupting Tempe PD's investigation.\" Tempe police said their investigators were working to identify and contact people who may have been affected, and will reach out directly to parents if they determine their child was involved. \"We understand how difficult and concerning the situation is for parents and families,\" the department wrote in a statement on social media Aug. 24. \"Due to the sensitivity of the investigation, we are unable to confirm or deny over the phone whether a specific student was involved.\" Prosecutors say Cruz admitted to the behavior in interviews. He told investigators he discovered the footage during the first week of school. He planned to tell someone that the cameras had been left on, he said, but never did. Cruz said it felt wrong looking at the photos and videos at home, since he knew the girls were only teenagers: \"Freshman and sophomores,\" he told investigators. But he organized the videos into clips, focusing on frames where girls' breasts were exposed. He told investigators he looked at the images 50 times. During the interview Cruz also began talking about sexual online games where images could be used to make \"sex robots\" who have fantasy relationships with the viewer, prosecutors say. Investigators asked whether he had used pictures of the high schoolers for those games. He said he had not. Megan Sterling with the Tempe Union High School District said the district isn't yet discussing the case at length with media, to avoid jeopardizing the ongoing police investigation. Cruz was arrested and booked into a Tempe city jail on Aug. 22. He has been charged with seven counts of voyeurism. He has hearings scheduled for Aug. 28 and Aug. 31. This article originally appeared on Arizona Republic: Tempe high school employee accused of spying on undressed girls",
-      "url": "https://www.yahoo.com/news/us/articles/tempe-high-school-employee-accused-234841854.html",
-      "source": "Yahoo",
-      "image": "https://s.yimg.com/lo/mysterio/api/036af9ce0595317d0872460a70ad483cb1e406846656feb2df9526c680753b5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fazcentral-the-arizona-republic%2F68d87e1cf2cb2bf788c53e33713af071.jpg",
-      "publishedAt": "2026-08-24T23:48:41Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Tempe high school employee accused of spying on undressed girls\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-25T12:41:36.315Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Iberville Parish man took pornographic photos of his underage niece, Sheriff's Office says\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-26T12:45:41.380Z"
     }
   ]
 }
