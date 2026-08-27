@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:45:41.380Z",
+  "updatedAt": "2026-08-27T21:44:09.047Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 4,
-    "pending": 1,
-    "rejected": 59,
-    "carriedForward": 0
+    "pending": 2,
+    "rejected": 65,
+    "carriedForward": 4
   },
   "categoryCounts": [
     {
@@ -145,24 +145,47 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Iberville Parish man took pornographic photos of his underage niece, Sheriff's Office says",
-      "description": "A Sunshine man took multiple pornographic photos of his underage niece using cameras he had installed inside his home, according to the Iberville Parish Sheriff's Office. James Williams, 42, was arrested Monday on 21 counts of child sexual abuse material and 32 counts of video voyeurism, the Sheriff's Office said. Williams was arrested by LSU Police on July 31 on an unrelated charge, according to a search warrant for Williams' cellphone. While he was in custody, his niece found nude photos of herself on his phone taken without her consent, the warrant states. The victim reported the pictures to the Sheriff's Office on Aug. 9 and told deputies that Williams would frequently walk in on her in the bathroom and made her feel uncomfortable, the warrant states. She also told deputies he had cameras inside the home where they were living in that she believed were used to spy on her. The victim had been living with Williams for a little over a year, the warrant said. Williams was booked into the Iberville Parish Jail.",
-      "url": "https://www.theadvocate.com/baton_rouge/news/crime_police/man-arrested-video-voyeurism/article_7b0a9268-15bb-4d2c-82c6-bbb38bcf2e1c.html",
-      "source": "The Advocate",
-      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/a7/da7a94a9-52e6-4f78-b683-26b4d173c2a2/657ddfdd6a656.image.jpg?crop=1920%2C1008%2C0%2C1&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-25T21:05:00Z",
+      "title": "Ankeny man charged for allegedly recording women with hidden camera at Waukee business",
+      "description": "DALLAS COUNTY, Iowa -- An Ankeny man has been charged with four counts of invasion of privacy for allegedly using a hidden camera to record women in states of nudity in a bathroom at a Waukee business. Court records reveal Ramsey Boeckholt, 40, was arrested on Monday in connection with the case. He has since bonded out of the Dallas County Jail. The investigation into the incident began in May after one of the victims made a report to the Waukee Police Department, according to an application for a search warrant in the case. The victim told investigators she was made aware of the secretly recorded videos by Boeckholt's girlfriend, who found them on his phone. The search warrant application stated the videos appeared to be taken using a camera hidden inside a vent in a bathroom at Red Noise 6, LLC at 31297 Ashworth Road. The video was from January 2, 2026, when the victim told police she was there to be professionally photographed by Boeckholt. According to Red Noise 6's website, it is a media studio. The victim informed police that Boeckholt's girlfriend told her she found videos of multiple other girls on his phone that appeared to have been captured by the hidden camera. Court records show the current charges against Boeckholt involve two victims, one from Des Moines and one from Colorado. A no-contact order has been issued prohibiting contact between Boeckholt and one of the victims. A preliminary hearing in the case is scheduled for September 11.",
+      "url": "https://who13.com/news/ankeny-man-charged-for-allegedly-recording-women-with-hidden-camera-at-waukee-business/",
+      "source": "who13.com",
+      "image": "https://who13.com/wp-content/uploads/sites/19/2025/07/waukee-police.png?strip=1&w=640",
+      "publishedAt": "2026-08-27T18:01:17Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ankeny man charged for allegedly recording women with hidden camera at Waukee business\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-27T21:44:09.047Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "ASU police arrest man suspected of secretly recording men in restrooms",
+      "description": "Police arrested a Mesa man who was suspected of secretly taking photos and recording videos of men in restrooms at ASU in Tempe, court records say.",
+      "url": "https://www.azcentral.com/story/news/local/tempe-breaking/2026/08/26/asu-police-accuse-man-of-secretly-filming-men-in-restrooms/91483237007/",
+      "source": "The Arizona Republic",
+      "image": "https://www.azcentral.com/gcdn/-mm-/81df9a80e37d7c3f54aa23a178598f9a76e9710a/c=0-42-2120-1240/local/-/media/2014/12/10/Phoenix/Phoenix/635538242837565778-handcuffs.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-27 03:58:16",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 50,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (1 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Iberville Parish man took pornographic photos of his underage niece, Sheriff's Office says\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-26T12:45:41.380Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"ASU police arrest man suspected of secretly recording men in restrooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-27T21:44:09.047Z"
     }
   ]
 }
