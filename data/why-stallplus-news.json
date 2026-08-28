@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T21:44:09.047Z",
+  "updatedAt": "2026-08-28T21:42:48.910Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 4,
     "pending": 2,
-    "rejected": 65,
+    "rejected": 67,
     "carriedForward": 4
   },
   "categoryCounts": [
@@ -145,34 +145,34 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Ankeny man charged for allegedly recording women with hidden camera at Waukee business",
-      "description": "DALLAS COUNTY, Iowa -- An Ankeny man has been charged with four counts of invasion of privacy for allegedly using a hidden camera to record women in states of nudity in a bathroom at a Waukee business. Court records reveal Ramsey Boeckholt, 40, was arrested on Monday in connection with the case. He has since bonded out of the Dallas County Jail. The investigation into the incident began in May after one of the victims made a report to the Waukee Police Department, according to an application for a search warrant in the case. The victim told investigators she was made aware of the secretly recorded videos by Boeckholt's girlfriend, who found them on his phone. The search warrant application stated the videos appeared to be taken using a camera hidden inside a vent in a bathroom at Red Noise 6, LLC at 31297 Ashworth Road. The video was from January 2, 2026, when the victim told police she was there to be professionally photographed by Boeckholt. According to Red Noise 6's website, it is a media studio. The victim informed police that Boeckholt's girlfriend told her she found videos of multiple other girls on his phone that appeared to have been captured by the hidden camera. Court records show the current charges against Boeckholt involve two victims, one from Des Moines and one from Colorado. A no-contact order has been issued prohibiting contact between Boeckholt and one of the victims. A preliminary hearing in the case is scheduled for September 11.",
-      "url": "https://who13.com/news/ankeny-man-charged-for-allegedly-recording-women-with-hidden-camera-at-waukee-business/",
-      "source": "who13.com",
-      "image": "https://who13.com/wp-content/uploads/sites/19/2025/07/waukee-police.png?strip=1&w=640",
-      "publishedAt": "2026-08-27T18:01:17Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
+      "title": "Tempe district investigating dance room changing area after voyeurism arrest",
+      "description": "TEMPE, AZ (AZFamily) -- Why were teen girls changing clothes in a camera-equipped dance room instead of a locker room at an East Valley school this year? That's the question Tempe Union High School District is now trying to answer. The district has opened an internal investigation into how a dance room at Corona del Sol High School came to be used by students as a changing area. The practice came to light after a 28-year-old district employee was arrested for allegedly spying on undressed girls inside the space earlier this month. Antony N. Cruz, who worked as a surveillance officer, was booked on seven counts of voyeurism and is being held on a $100,000 cash-only bond in connection with the incident. How the dance room became a changing area District officials stressed the space is a dance room, not a locker room, and was never designated by the district or school administration as a place for students to change clothes. During recent locker room renovations, the district said it approved a request from school administration to set up separate, camera-free locations for students to change. Officials said the dance room was not one of the approved locations. A security camera was installed in the room in 2024 for campus safety purposes related to the room's exterior access, according to the district. The internal investigation is now focused on four questions: * How and why students were using the dance room to change * Whether established procedures were followed * How the room was being used * What corrective action may be necessary \"We understand why families have questions, and we share their concern,\" the district said. \"Our responsibility now is to fully understand what occurred, be transparent about what we learn, and take appropriate action.\" Allegations against the security guard The investigation follows accusations that Cruz gained access to camera footage showing a room of young teen girls undressing in the dance space, and never told school staff or law enforcement about it. Instead, investigators say Cruz began downloading the recordings onto a school computer in mid-July. He allegedly downloaded several videos, at least seven of which showed girls changing clothes, ranging from four minutes to two hours long. Download records showed the videos were saved to thumb drives and other storage devices, and school system data showed Cruz had accessed the footage remotely from his home on a Saturday, according to court paperwork. In an interview with police, Cruz allegedly admitted he learned about the girls changing in the first week of school and his \"attention was drawn\" to students removing their clothes while the room was being recorded. He reportedly said he initially felt uncomfortable and \"tried\" to tell someone, but he did not specify who he told or what exactly he was seeing, according to police. Court documents state Cruz told investigators he downloaded the videos to \"preserve them\" and saved them to his cell phone. He reportedly admitted to inappropriately touching himself while watching the footage, but said it felt \"wrong\" because he knew the girls were between 13 and 15 years old. Cruz was arrested at his Phoenix home on Saturday. His termination is pending school board approval. See a spelling or grammatical error in our story? Please click here to report it. Do you have a photo or video of a breaking news story? Send it to us here with a brief description.",
+      "url": "https://www.azfamily.com/2026/08/28/tempe-district-investigating-dance-room-changing-area-after-voyeurism-arrest/",
+      "source": "AZfamily.com",
+      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/GICIOCYLTJGWHE5U4ZPGRG3EWE.jpg?auth=7a88f0860024c11e3c2600df63d0c8914aed069bf3dce12b3bf4b61a5d326d48&width=1200&height=600&smart=false&focal=822%2C515",
+      "publishedAt": "2026-08-28T19:09:22Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Ankeny man charged for allegedly recording women with hidden camera at Waukee business\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-27T21:44:09.047Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Tempe district investigating dance room changing area after voyeurism arrest\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-28T21:42:48.910Z"
     },
     {
-      "provider": "NewsData.io",
-      "title": "ASU police arrest man suspected of secretly recording men in restrooms",
-      "description": "Police arrested a Mesa man who was suspected of secretly taking photos and recording videos of men in restrooms at ASU in Tempe, court records say.",
-      "url": "https://www.azcentral.com/story/news/local/tempe-breaking/2026/08/26/asu-police-accuse-man-of-secretly-filming-men-in-restrooms/91483237007/",
-      "source": "The Arizona Republic",
-      "image": "https://www.azcentral.com/gcdn/-mm-/81df9a80e37d7c3f54aa23a178598f9a76e9710a/c=0-42-2120-1240/local/-/media/2014/12/10/Phoenix/Phoenix/635538242837565778-handcuffs.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-27 03:58:16",
+      "provider": "NewsAPI.ai",
+      "title": "Man sought after alleged voyeurism incident in Kew Gardens washroom - Beach Metro Community News",
+      "description": "Toronto police are looking for a man in connection with an alleged voyeurism incident inside a washroom at Kew Gardens park in the Beach earlier this week. Police were called to the park on Tuesday, Aug. 25, at 4 p.m. for reports of the incident that allegedly took place in a washroom. According to police, an 11-year-old girl entered a park washroom and a man allegedly took photos of her when she was in one of the stalls. Police alleged that the man was already in the washroom when the girl entered and he took the photos through gaps in the stall. The girl sought assistance and the man fled in an unknown direction. The man is described as black, age 27 to 30, approximately five-feet, 10-inches tall with a medium/athletic build. He had a \"black grown-out buzz cut style hair with tiny curls\" and a short beard, police said. He was last seen wearing a black baseball cap, black-framed sunglasses, a black shirt with a white \"arctic\" logo, black shorts, and black running shoes. Investigators are looking to speak to anyone who was in the area around the time of the incident and that may have seen the suspect. Anyone with information is asked to contact police in 55 Division at 416-808-5500, or Crime Stoppers anonymously at 416-222-8477 or at https://www.222tips.com",
+      "url": "https://beachmetro.com/2026/08/28/man-sought-after-alleged-voyeurism-incident-in-kew-gardens-washroom/",
+      "source": "Beach Metro Community News",
+      "image": "https://d28bcn7yu97icd.cloudfront.net/wp-content/uploads/2024/10/02163143/web-Kew-Gardens-park-sign.jpg",
+      "publishedAt": "2026-08-28T18:40:07Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -184,8 +184,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"ASU police arrest man suspected of secretly recording men in restrooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-27T21:44:09.047Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man sought after alleged voyeurism incident in Kew Gardens washroom - Beach Metro Community News\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-28T21:42:48.910Z"
     }
   ]
 }
