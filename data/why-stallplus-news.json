@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:42:48.910Z",
+  "updatedAt": "2026-08-29T16:11:24.498Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 4,
-    "pending": 2,
-    "rejected": 67,
+    "pending": 5,
+    "rejected": 64,
     "carriedForward": 4
   },
   "categoryCounts": [
@@ -163,7 +163,73 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Tempe district investigating dance room changing area after voyeurism arrest\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-28T21:42:48.910Z"
+      "flaggedAt": "2026-08-29T16:11:24.498Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man accused of secretly recording people at New Rochelle athletic club appears in court",
+      "description": "Authorities say 33-year-old Ryan Mack planted a hidden camera inside a restroom and changing room at the New York Athletic Club.",
+      "url": "https://hudsonvalley.news12.com/man-accused-of-secretly-recording-people-at-new-rochelle-athletic-club-appears-in-court",
+      "source": "News 12",
+      "image": "https://images-cf.news12static.com/3kqcuzntcg31/2t09T7tvUNbw0Wfam4qfCn/5e0f516f1a47198bd0d78d8126b73cf0/Screenshot_2026-08-28_115438.png",
+      "publishedAt": "2026-08-28 16:04:20",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of secretly recording people at New Rochelle athletic club appears in court\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-08-29T16:11:24.498Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Two suspects arrested for selling 14,000 private images they secretly recorded with hidden cameras at a beauty center.",
+      "description": "An investigation has been launched in Istanbul's Bakırköy district over allegations that secretly recorded footage of customers at a beauty center was made available for a fee on social media platforms. In the operation, 7 devices containing hidden camera setups were seized, and it was determined that 14 thousand videos were published through a platform. Two suspects taken into custody were arrested and sent to prison. Two suspects were arrested regarding the allegation that images of customers at a beauty center in Bakirkoy were secretly recorded and shown for a fee on social media platforms. HIDDEN CAMERA SETUP SEIZED: THEY SOLD 14 THOUSAND VIDEOS Teams from the Bakirkoy District Police Department conducted an operation following a tip that customers' images were being secretly recorded at a beauty and epilation center operating in the district, and that these recordings were being shown for a fee on social media platforms. During a search of the workplace, 7 devices -- 1 active and 6 dismantled -- containing hidden camera setups, along with various digital materials, were seized. It was determined that 14 thousand videos had been published on a platform. 2 SUSPECTS ARRESTED The business owner and the 2 suspects who installed the camera system were taken into custody on charges of 'violation of privacy', 'unlawful acquisition of personal data', and 'obscenity'. After their procedures at the police station were completed, the suspects were referred to the courthouse and subsequently arrested and sent to prison.",
+      "url": "https://en.haberler.com/two-suspects-arrested-for-selling-14-000-private-2305859/",
+      "source": "Haberler.com",
+      "image": "https://foto.haberler.com/haber/2026/08/29/guzellik-merkezinde-gizli-kamera-ile-20188271_4854_k.jpg",
+      "publishedAt": "2026-08-29T06:20:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Two suspects arrested for selling 14,000 private images they secretly recorded with hidden cameras at a beauty center\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-29T16:11:24.498Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden camera scandal at a beauty center! They showed 14 thousand videos for money.",
+      "description": "In a beauty center in Bakırköy, 3 suspects were taken into custody on allegations that customer images were secretly recorded and shown for a fee on social media. During the search, 7 hidden cameras were seized, and it was determined that 14 thousand videos were published through a platform. Three suspects were detained regarding the allegation that images of customers at a beauty center in Bakırköy were secretly recorded and shown for a fee on social media platforms. Teams from the Bakırköy District Police Department conducted an operation following a tip that customers' images were being secretly recorded at a beauty and epilation center operating in the district, and that these recordings were being shown for a fee via social media platforms. HIDDEN CAMERA SYSTEM SEIZED During a search of the workplace, 7 devices -- 1 active and 6 dismantled -- containing hidden camera systems, along with various digital materials, were seized. It was determined that 14,000 videos had been published on a platform. 3 SUSPECTS IN CUSTODY The business owner and 2 suspects who installed the camera system were taken into custody on charges of \"violating the privacy of private life,\" \"unlawfully obtaining personal data,\" and \"obscenity.\" Procedures for the suspects at the police station are ongoing.",
+      "url": "https://en.haberler.com/hidden-camera-scandal-at-a-beauty-center-they-2305736/",
+      "source": "Haberler.com",
+      "image": "https://foto.haberler.com/haber/2026/08/29/bakirkoy-de-guzellik-merkezinde-izinsiz-gorun-20187025_k.jpg",
+      "publishedAt": "2026-08-29T09:31:35Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera scandal at a beauty center! They showed 14 thousand videos for money\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-29T16:11:24.498Z"
     },
     {
       "provider": "NewsAPI.ai",
@@ -185,7 +251,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man sought after alleged voyeurism incident in Kew Gardens washroom - Beach Metro Community News\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-28T21:42:48.910Z"
+      "flaggedAt": "2026-08-29T16:11:24.498Z"
     }
   ]
 }
