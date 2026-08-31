@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:01:02.351Z",
+  "updatedAt": "2026-08-31T18:45:01.883Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 4,
-    "pending": 6,
-    "rejected": 61,
+    "pending": 1,
+    "rejected": 65,
     "carriedForward": 4
   },
   "categoryCounts": [
@@ -145,79 +145,12 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Judge reserves decision after police officer's voyeurism trial wraps",
-      "description": "The judge in the trial of a Stl'atl'imx Tribal Police Service officer charged with voyeurism reserved decision Aug. 28 after hearing closing arguments in North Vancouver from Crown and defence lawyers. Michael Philip English pleaded not guilty before the Provincial Court trial, which ran Aug. 17 to 19. English was charged with secretly recording a consensual sexual encounter with a woman on Feb. 27, 2021 in a room at the Georgian Court Hotel in Vancouver. English testified that the woman knew his plans after he said \"are we recording tonight?'\" during dinner at the hotel's Italian restaurant. He said she consented by giggling and looking at him in an \"enticing and sultry\" manner. But the woman, whose identity is protected by a publication ban, testified that she never would have agreed to the recording. She felt betrayed by her then-lover when she discovered his smartphone when she went to the bathroom after intercourse. Crown lawyer Katherine Fast told Judge Tim Hinkson that English was not believable because his testimony was full of inconsistencies and contradictions. \"His evidence that the so-called conversation they had at dinner about the recording was a product of a clear agreement between them -- i.e. we agreed to do something as a couple, a team -- is nonsensical and incapable of belief,\" Fast said. If English clearly communicated at the dinner table or in the elevator to their room about recording them in bed, then Fast wondered why she would ask him the next morning if he had recorded the encounter. \"His explanation that, 'oh, I thought she was, you know, checking in to see if it actually recorded,' to me, is not credible,\" Fast said. Fast also wondered why English did not mention the recording while they were in bed for five or 10 minutes after sex and before the woman left for the bathroom. \"Unless he's waiting for her to leave to go to the bathroom, so he can stop the recording and bring the phone back to the bed, without [the woman] knowing that it had been over to the right of the television against the wall in the otherwise dark room,\" Fast said. Additionally, the woman was never engaged in the setup of the smartphone, she was not told where the smartphone was located and she was not told that it was recording. Defence lawyer Garen Arnet-Zargarian, however, said English did not act like a man who was trying to hide something. \"The Crown must prove beyond reasonable doubt that he, in his own mind, was trying to be secretive,\" Arnet-Zargarian said. \"It's insufficient for them to simply show that [the woman] was either unaware or did not consent. We say that they've not met that threshold.\" Arnet-Zargarian said there were three broad points for the judge to consider about his client, any of which can independently raise a reasonable doubt. Even if the woman did not hear English ask \"are we recording ourselves tonight?\" or if they did not specify exact acts to be recorded, \"our position is that if he asked that question, he suggests he wasn't trying to be secretive; he was being forthright.\" The second issue, the position of the smartphone: Upright on the desk, in selfie mode and plugged into a charger. English, during sex, never obscured his smartphone nor did he try to draw the woman's attention away from it, the defence highlighted. He left the room, unconcerned about whether she might see it. \"He had nothing to hide. When she asked him the next day whether he recorded, he said quite simply 'yes.'\" Arnet-Zargarian said. \"If he was trying to hide his intention, trying to keep his video secret, he had ample opportunity to get rid of it, send it some other means, hide it from her, and then answer no. He didn't do any of those things.\" English, on leave since he was charged in 2024, is still employed as a police officer, but now lives in Surrey and works as a construction site occupational health and safety coordinator. Hinkson adjourned the parties to the case manager to schedule a date for his verdict. He did not offer an estimate. \"It will take some time,\" Hinkson said.",
-      "url": "https://www.castanet.net/news/Metro-Vancouver/629633/Judge-reserves-decision-after-police-officer-s-voyeurism-trial-wraps",
-      "source": "Castanet",
-      "image": "https://www.castanet.net/content/2026/8/glacier_204518_p.jpg",
-      "publishedAt": "2026-08-29T18:00:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Judge reserves decision after police officer's voyeurism trial wraps\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "KAIST Unveils Smartphone Tech to Spot Hidden Cameras",
-      "description": "The Korea Advanced Institute of Science and Technology (KAIST) A smartphone can now be transformed into a \"hidden-camera detector.\" KAIST researchers have developed an AI technology that can detect hidden cameras using only a smartphone and a low-cost LED device. This new security technology enables users to protect their privacy more easily and is expected to help prevent illegal filming in everyday spaces such as hotels and short-term rentals. KAIST (President Choongsik Bae) announced on August 30 that a research team led by Professor Jun Han of the School of Computing, in collaboration with the National University of Singapore and Singapore Management University, has developed \"SweepLED,\" a technology that detects hidden cameras by attaching an LED case to a smartphone. As hidden cameras are increasingly being installed in everyday spaces such as hotels, short-term rentals, and restrooms, the need is growing for detection technology that everyday users can easily use. However, existing portable detectors require users to visually identify bright reflective spots, which can lead to false positives by mistaking reflections from metal, glass, or glossy plastic surfaces for camera lenses. SweepLED works by keeping the smartphone camera fixed while changing only the direction of the LED illumination, then analyzing the patterns of reflected light that appear on object surfaces. Reflections from ordinary glossy objects tend to move or disappear depending on the direction of the light. In contrast, camera lenses show distinctive deformation patterns in their reflections due to their internal lens, aperture, and sensor structures. The research team uses deep learning-based analysis to distinguish these differences in temporal reflection patterns. While conventional detection methods rely on the user's eyes to simply look for \"bright spots,\" SweepLED is different in that it analyzes both the movement and shape changes of reflections across multiple lighting angles. This enables more reliable detection of hidden camera lenses inside various everyday objects commonly found in lodging spaces, such as chargers, clocks, remote controls, and everyday objects. The research team evaluated SweepLED on 30 objects that may be found in real-world environments and found that it achieved approximately 94% detection accuracy. It also took less than five seconds to inspect a single object. In addition, the core components of the LED case attached to the smartphone cost less than USD 7, or about KRW 10,000, demonstrating the potential for this technology to be developed into an affordable detection tool that general users can easily access. Professor Jun Han said, \"Hidden cameras pose a serious threat to personal safety and privacy in everyday spaces,\" adding, \"This research is meaningful in that it combines low-cost smartphone-based hardware with AI analysis to present the possibility of a practical detection technology that even non-experts can use.\" This paper, with KAIST doctoral student Jonghyuk Yun as first author, was presented on June 20 at ACM MobiSys 2026, one of the leading international conferences in the field of mobile computing. ※ Paper title: Hide-and-Sweep: Detecting Concealed Cameras via LED Illumination Sweeps https://doi.org/10.1145/3812835.3814866 ※ Author information: Jonghyuk Yun (first author), Jaeyoung Moon, Yunseo Park, Sean Rui Xiang Tan, Byunghyun Kim, Rajesh Krishna Balan, and Professor Jun Han (corresponding author) This research was supported by the STEAM Global Convergence Research Support Program and the Mid-Career Researcher Program of the Ministry of Science and ICT and the National Research Foundation of Korea. /Public Release. This material from the originating organization/author(s) might be of the point-in-time nature, and edited for clarity, style and length. Mirage.News does not take institutional positions or sides, and all views, positions, and conclusions expressed herein are solely those of the author(s).View in full here.",
-      "url": "https://www.miragenews.com/kaist-unveils-smartphone-tech-to-spot-hidden-1735460/",
-      "source": "Mirage News",
-      "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1579154392128-bf8c7ebee541%3Fixlib%3Drb-1.2.1%26amp%3Bixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D750%26amp%3Bq%3D80",
-      "publishedAt": "2026-08-30T03:16:27Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"KAIST Unveils Smartphone Tech to Spot Hidden Cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "KAIST develops smartphone-based technology to detect hidden cameras",
-      "description": "The Korea Advanced Institute of Science and Technology (KAIST) A smartphone can now be transformed into a \"hidden-camera detector.\" KAIST researchers have developed an AI technology that can detect hidden cameras using only a smartphone and a low-cost LED device. This new security technology enables users to protect their privacy more easily and is expected to help prevent illegal filming in everyday spaces such as hotels and short-term rentals. KAIST (President Choongsik Bae) announced on August 30 that a research team led by Professor Jun Han of the School of Computing, in collaboration with the National University of Singapore and Singapore Management University, has developed \"SweepLED,\" a technology that detects hidden cameras by attaching an LED case to a smartphone. As hidden cameras are increasingly being installed in everyday spaces such as hotels, short-term rentals, and restrooms, the need is growing for detection technology that everyday users can easily use. However, existing portable detectors require users to visually identify bright reflective spots, which can lead to false positives by mistaking reflections from metal, glass, or glossy plastic surfaces for camera lenses. SweepLED works by keeping the smartphone camera fixed while changing only the direction of the LED illumination, then analyzing the patterns of reflected light that appear on object surfaces. Reflections from ordinary glossy objects tend to move or disappear depending on the direction of the light. In contrast, camera lenses show distinctive deformation patterns in their reflections due to their internal lens, aperture, and sensor structures. The research team uses deep learning-based analysis to distinguish these differences in temporal reflection patterns. While conventional detection methods rely on the user's eyes to simply look for \"bright spots,\" SweepLED is different in that it analyzes both the movement and shape changes of reflections across multiple lighting angles. This enables more reliable detection of hidden camera lenses inside various everyday objects commonly found in lodging spaces, such as chargers, clocks, remote controls, and everyday objects. The research team evaluated SweepLED on 30 objects that may be found in real-world environments and found that it achieved approximately 94% detection accuracy. It also took less than five seconds to inspect a single object. In addition, the core components of the LED case attached to the smartphone cost less than USD 7, or about KRW 10,000, demonstrating the potential for this technology to be developed into an affordable detection tool that general users can easily access. Professor Jun Han said, \"Hidden cameras pose a serious threat to personal safety and privacy in everyday spaces,\" adding, \"This research is meaningful in that it combines low-cost smartphone-based hardware with AI analysis to present the possibility of a practical detection technology that even non-experts can use.\" This paper, with KAIST doctoral student Jonghyuk Yun as first author, was presented on June 20 at ACM MobiSys 2026, one of the leading international conferences in the field of mobile computing. ※ Paper title: Hide-and-Sweep: Detecting Concealed Cameras via LED Illumination Sweeps https://doi.org/10.1145/3812835.3814866 ※ Author information: Jonghyuk Yun (first author), Jaeyoung Moon, Yunseo Park, Sean Rui Xiang Tan, Byunghyun Kim, Rajesh Krishna Balan, and Professor Jun Han (corresponding author) This research was supported by the STEAM Global Convergence Research Support Program and the Mid-Career Researcher Program of the Ministry of Science and ICT and the National Research Foundation of Korea.",
-      "url": "https://www.eurekalert.org/news-releases/1141846",
-      "source": "EurekAlert!",
-      "image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/2c04cdd1-b86d-45c4-a01c-a417ab623a05/Rendition/thumbnail/Content/Public",
-      "publishedAt": "2026-08-30T03:05:36Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"KAIST develops smartphone-based technology to detect hidden cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Woodbridge man pleads guilty to secretly filming children in his home for nearly two decades - WTOP News",
-      "description": "A former Department of Energy employee pleaded guilty Thursday to a 17-year scheme of secretly filming and sexually exploiting minors in his Woodbridge home. Beginning at least as early as March 2008, Jackson Quentin Crocker, 54, of Woodbridge, used hidden cameras to secretly record minors in the bathroom of his home, the United States Attorney's Office in Alexandria said in a news release. Crocker was arrested in October at his home by a joint federal and local task force and originally charged with possession of child pornography. \"Between 2008 and 2025, Crocker created thousands of these videos, many of which show minors removing their clothing, using the toilet, and showering,\" the release said. Crocker also created multiple videos of himself engaged in sexually explicit conduct next to sleeping children at his house. In addition to the hidden camera videos he created, Crocker also used the Internet to collect thousands of images and videos depicting minors, some of whom are prepubescent, engaged in sexually explicit conduct. Crocker is scheduled to be sentenced on Dec. 2. He faces a mandatory minimum of 15 years and up to 50 years in prison. Assistant U.S. Attorneys Lauren Halper and Jacob Mercer are prosecuting the case. This case was brought as part of Project Safe Childhood, a nationwide initiative launched in May 2006 by the Department of Justice to combat the growing epidemic of child sexual exploitation and abuse.",
-      "url": "https://wtop.com/virginia/2026/08/woodbridge-man-pleads-guilty-to-secretly-filming-children-in-his-home-for-nearly-two-decades/",
-      "source": "WTOP",
-      "image": "https://wtop.com/wp-content/uploads/2026/07/GettyImages-1483938846.jpg",
-      "publishedAt": "2026-08-29T16:57:15Z",
+      "title": "In the scandal involving 14 thousand private images, a new claim from the business owner: Hotels and famous brands are also involved.",
+      "description": "In the investigation regarding the sale of private footage recorded with a hidden camera at the Fatma Özçalışkan Private Medical Polyclinic in Bakırköy, the business owner Fatma Özçalışkan, who was arrested, denied the charges from prison. Claiming that the 14,000 images did not belong only to her center, Özçalışkan alleged that the archive also contained recordings secretly taken in homes, hotels, different beauty centers, and changing rooms of famous brands. Fatma Özçalışkan, owner of the Private Medfa Polyclinic, who was arrested in the scandal of intimate images secretly recorded at a beauty center in Bakırköy, Istanbul, being sold on Telegram, denied the charges in a statement from prison. Arguing that she is the real victim, Özçalışkan claimed that the 14,000 images mentioned in the media did not come only from her center. \"I DID NOT SINK SO LOW AS TO SERVE MY DAUGHTER'S AND MY RELATIVES' PRIVACY\" Fatma Özçalışkan, stating that she has been serving in the beauty sector for a quarter of a century, said in her message from prison that the allegations against her were untrue and that she was the victim of a conspiracy. Emphasizing that the images taken in her own center also included her 17-year-old daughter, her niece, and her employees, Özçalışkan said, \"I did not lose my mind enough to destroy my own livelihood and serve the intimate images of my beloved daughter and my relatives; I did not sink that low. From the very first day I learned of the incident, while no one had yet filed a complaint, I personally went and filed a complaint.\" \"THE ARCHIVE ALSO INCLUDES CABINS OF HOTELS AND BIG BRANDS\" Özçalışkan denied the news in the press that \"14,000 intimate images were seized in the clinic,\" claiming that the scope of the leaked archive was much wider. Claiming that the said visual archive was not limited only to her clinic, Özçalışkan drew attention to the following details: \"The aforementioned 14,000 images include a husband and wife having sexual intercourse in their home, an innocent mother breastfeeding her baby, dressing rooms of shopping stores, hotels, different beauty centers, and secret recordings taken from cabins of all famous brands. Didn't these famous brands and large hotel chains see themselves at all in these 14,000 images?\" 3 PEOPLE SENT TO PRISON IN THE INVESTIGATION The scandal emerged when 4 women who received services from the beauty center in Bakırköy Zuhuratbaba District went to the police on August 28 and reported that their intimate images were being sold on digital platforms. In the operation carried out at the clinic, a total of 7 hidden camera setups, 1 active and 6 dismantled, along with a large number of digital materials, were seized. Within the scope of the investigation, the owner of the beauty center, Fatma Özçalışkan, Emrah Selim Cansever, the suspect who installed the hidden camera and alarm systems, and Abdullah Çatalbaş, the administrator of the Telegram channel where the images were sold, have been arrested so far.",
+      "url": "https://en.haberler.com/in-the-scandal-involving-14-thousand-private-2306591/",
+      "source": "Haberler.com",
+      "image": "https://foto.haberler.com/haber/2026/08/31/14-bin-mahrem-goruntu-rezaletinde-yeni-iddia-20191991_2089_k.jpg",
+      "publishedAt": "2026-08-31T06:53:59Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -228,52 +161,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Woodbridge man pleads guilty to secretly filming children in his home for nearly two decades - WTOP News\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Two suspects arrested for selling 14,000 private images they secretly recorded with hidden cameras at a beauty center.",
-      "description": "An investigation has been launched in Istanbul's Bakırköy district over allegations that secretly recorded footage of customers at a beauty center was made available for a fee on social media platforms. In the operation, 7 devices containing hidden camera setups were seized, and it was determined that 14 thousand videos were published through a platform. Two suspects taken into custody were arrested and sent to prison. Two suspects were arrested regarding the allegation that images of customers at a beauty center in Bakirkoy were secretly recorded and shown for a fee on social media platforms. HIDDEN CAMERA SETUP SEIZED: THEY SOLD 14 THOUSAND VIDEOS Teams from the Bakirkoy District Police Department conducted an operation following a tip that customers' images were being secretly recorded at a beauty and epilation center operating in the district, and that these recordings were being shown for a fee on social media platforms. During a search of the workplace, 7 devices -- 1 active and 6 dismantled -- containing hidden camera setups, along with various digital materials, were seized. It was determined that 14 thousand videos had been published on a platform. 2 SUSPECTS ARRESTED The business owner and the 2 suspects who installed the camera system were taken into custody on charges of 'violation of privacy', 'unlawful acquisition of personal data', and 'obscenity'. After their procedures at the police station were completed, the suspects were referred to the courthouse and subsequently arrested and sent to prison.",
-      "url": "https://en.haberler.com/two-suspects-arrested-for-selling-14-000-private-2305859/",
-      "source": "Haberler.com",
-      "image": "https://foto.haberler.com/haber/2026/08/29/guzellik-merkezinde-gizli-kamera-ile-20188271_4854_k.jpg",
-      "publishedAt": "2026-08-29T06:20:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Two suspects arrested for selling 14,000 private images they secretly recorded with hidden cameras at a beauty center\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Warren man, 22, charged after peeping Tom investigation",
-      "description": "A 22-year-old man is facing several charges following a peeping Tom investigation in Warren, Michigan, police said Friday. Officers responded to a home on the 29000 block of Pinto Drive on Thursday around 6:05 a.m. after a mother reported that a man wearing all black was peering through a bathroom window at her daughter. Officials said they found the 22-year-old, from Warren, in the backyard of the residence. The man ignored verbal commands from police and fled on foot through the yards of several homes before he was taken into custody, according to police. Online court records show the man is charged with one felony count each of aggravated stalking a minor, aggravated stalking, surveilling an unclothed person and resisting and obstructing arrest; two felony counts of using a computer to commit a crime; and one misdemeanor count of disorderly person. At his arraignment, he pleaded not guilty to the charges and a judge set his bond at $250,000. \"While incidents of this nature are incredibly rare, we understand how unsettling they can be for any family,\" Warren Police Commissioner Eric Hawkins said in a written statement. \"Our community can take full confidence in the swift, decisive action of our officers.\" According to online federal records, the man is a registered sex offender. He's scheduled to appear at a probable cause conference on Sept. 8.",
-      "url": "https://www.cbsnews.com/detroit/news/man-charged-peeping-tom-warren-macomb/",
-      "source": "CBS News",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/13/d647b80c-c0d0-4709-9afe-a1b7bec164f0/thumbnail/1200x630/255055b29e620f29864a8de3558ade91/copy-of-copy-of-copy-of-yt-batchers-opera-2025-09-13t103117-394.jpg",
-      "publishedAt": "2026-08-29T16:55:22Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Warren man, 22, charged after peeping Tom investigation\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-08-30T16:01:02.351Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"In the scandal involving 14 thousand private images, a new claim from the business owner: Hotels and famous brands are also involved\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-08-31T18:45:01.883Z"
     }
   ]
 }
