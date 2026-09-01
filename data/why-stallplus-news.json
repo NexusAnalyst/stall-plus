@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:45:01.883Z",
+  "updatedAt": "2026-09-01T16:02:45.515Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,7 +12,7 @@
   },
   "reviewSummary": {
     "published": 4,
-    "pending": 1,
+    "pending": 3,
     "rejected": 65,
     "carriedForward": 4
   },
@@ -145,24 +145,68 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "In the scandal involving 14 thousand private images, a new claim from the business owner: Hotels and famous brands are also involved.",
-      "description": "In the investigation regarding the sale of private footage recorded with a hidden camera at the Fatma Özçalışkan Private Medical Polyclinic in Bakırköy, the business owner Fatma Özçalışkan, who was arrested, denied the charges from prison. Claiming that the 14,000 images did not belong only to her center, Özçalışkan alleged that the archive also contained recordings secretly taken in homes, hotels, different beauty centers, and changing rooms of famous brands. Fatma Özçalışkan, owner of the Private Medfa Polyclinic, who was arrested in the scandal of intimate images secretly recorded at a beauty center in Bakırköy, Istanbul, being sold on Telegram, denied the charges in a statement from prison. Arguing that she is the real victim, Özçalışkan claimed that the 14,000 images mentioned in the media did not come only from her center. \"I DID NOT SINK SO LOW AS TO SERVE MY DAUGHTER'S AND MY RELATIVES' PRIVACY\" Fatma Özçalışkan, stating that she has been serving in the beauty sector for a quarter of a century, said in her message from prison that the allegations against her were untrue and that she was the victim of a conspiracy. Emphasizing that the images taken in her own center also included her 17-year-old daughter, her niece, and her employees, Özçalışkan said, \"I did not lose my mind enough to destroy my own livelihood and serve the intimate images of my beloved daughter and my relatives; I did not sink that low. From the very first day I learned of the incident, while no one had yet filed a complaint, I personally went and filed a complaint.\" \"THE ARCHIVE ALSO INCLUDES CABINS OF HOTELS AND BIG BRANDS\" Özçalışkan denied the news in the press that \"14,000 intimate images were seized in the clinic,\" claiming that the scope of the leaked archive was much wider. Claiming that the said visual archive was not limited only to her clinic, Özçalışkan drew attention to the following details: \"The aforementioned 14,000 images include a husband and wife having sexual intercourse in their home, an innocent mother breastfeeding her baby, dressing rooms of shopping stores, hotels, different beauty centers, and secret recordings taken from cabins of all famous brands. Didn't these famous brands and large hotel chains see themselves at all in these 14,000 images?\" 3 PEOPLE SENT TO PRISON IN THE INVESTIGATION The scandal emerged when 4 women who received services from the beauty center in Bakırköy Zuhuratbaba District went to the police on August 28 and reported that their intimate images were being sold on digital platforms. In the operation carried out at the clinic, a total of 7 hidden camera setups, 1 active and 6 dismantled, along with a large number of digital materials, were seized. Within the scope of the investigation, the owner of the beauty center, Fatma Özçalışkan, Emrah Selim Cansever, the suspect who installed the hidden camera and alarm systems, and Abdullah Çatalbaş, the administrator of the Telegram channel where the images were sold, have been arrested so far.",
-      "url": "https://en.haberler.com/in-the-scandal-involving-14-thousand-private-2306591/",
-      "source": "Haberler.com",
-      "image": "https://foto.haberler.com/haber/2026/08/31/14-bin-mahrem-goruntu-rezaletinde-yeni-iddia-20191991_2089_k.jpg",
-      "publishedAt": "2026-08-31T06:53:59Z",
+      "title": "Tempe district seeks answers on camera-monitored changing room",
+      "description": "You can play a vital role in supporting local journalism that you and your community can trust. Subscribe today. * Tempe Union High School District is investigating why students used a camera-monitored dance room to change. * A security officer faces seven counts of voyeurism for allegedly downloading footage of girls changing in the room. * Police have identified all victims and their families have been contacted. Tempe police believe there are more victims at Corona del Sol High School after a security officer was accused of downloading videos of girls changing clothes. Tempe Union High School District Superintendent Stacia Wilson's Aug. 31 note to families follows an Aug. 27 communication indicating that all victims' families had been contacted by police and that anyone who had not been contacted had not been identified as a victim. Wilson said police asked families not to reach out directly since responding to individual inquiries could take investigators away from their work. Families of students identified as victims would be contacted directly by police, Wilson said. \"Our hearts remain with the students who have been affected and their families as they process what has happened. We remain committed to supporting them, protecting their privacy, and cooperating fully with law enforcement throughout this investigation,\" Wilson said in the statement. District launches internal investigation The district issued a statement on Aug. 28 that it had begun its own investigation. Prosecutors say Antony Cruz, 28, is facing seven counts of voyeurism for downloading the security footage from Corona del Sol High School in south Tempe. Because the dance room where the girls changed was not an authorized changing area, the internal investigation will determine whether established procedures were followed and what corrective actions the district will take, district spokesperson Megan Sterling said in the statement. Sterling said a dance room was being used temporarily as a changing room, and that there are no cameras in any authorized changing areas. At the time, the girls' locker room was undergoing renovations. Sterling said the dance room is not a locker room and was never designated as a changing area by the district or school administration. The cameras were installed in 2024 for campus safety purposes \"related to the room's exterior access,\" Sterling said. \"During the recent locker room renovations, the District approved the school administration's request for separate, camera-free locations for students to use for changing. The dance room was not one of those locations,\" Sterling said in the statement. Sterling said she cannot answer who directed the girls to change in the dance room since the investigation is still ongoing. Additional information will be provided as the investigation progresses, Sterling said. A Tempe Police Department spokesperson said on Aug. 28 that police were still gathering evidence and that only Cruz had been identified as a suspect.",
+      "url": "https://eu.azcentral.com/story/news/local/tempe/2026/09/01/tempe-schools-probe-use-of-camera-equipped-changing-space/91512044007/",
+      "source": "AZ Central",
+      "image": "https://www.gannett-cdn.com/-mm-/eefc86037b2c59bda9132d19984b0f2066a1c98b/c=0-62-2397-1416/local/-/media/2018/05/04/Phoenix/Phoenix/636610688825333013-Lacrosse-Div2-Finaks-02.jpg?auto=webp&format=pjpg&width=1200",
+      "publishedAt": "2026-09-01T12:03:24Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Tempe district seeks answers on camera-monitored changing room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-01T16:02:45.515Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "This Low-Cost Phone Attachment Could Help You Find Hidden Cameras",
+      "description": "Researchers have developed a low-cost technology that can turn an ordinary smartphone into a hidden-camera detector. The system uses artificial intelligence and a small LED attachment to identify concealed camera lenses in places such as hotels, short-term rentals and public restrooms. Called SweepLED, the technology was created by a research team led by Professor Jun Han from the Korea Advanced Institute of Science and Technology, in collaboration with researchers from the National University of Singapore and Singapore Management University. KAIST doctoral student Jonghyuk Yun was the first author of the study, which was presented at ACM MobiSys 2026. The findings were published in the conference proceedings. Hidden cameras are a serious privacy concern because they can be disguised inside everyday objects, including alarm clocks, chargers and remote controls. Although portable camera detectors are already available, many require users to look for a bright reflection that might indicate the presence of a camera lens. This approach can be unreliable. Metal, glass and glossy plastic can also produce bright reflections, making it difficult for an untrained person to tell the difference between a hidden camera and an ordinary shiny surface. As a result, users may overlook cameras or repeatedly receive false warnings. SweepLED takes a more advanced approach. The system uses a special case fitted with LED lights that can be attached to a smartphone. During an inspection, the phone's camera remains in the same position while the LEDs shine light at the object from several different directions. The smartphone records how the reflected light moves and changes as the direction of illumination shifts. Reflections from ordinary glossy surfaces usually move, change position or disappear as the lighting angle changes. Camera lenses behave differently because they contain several internal parts, including curved lenses, an aperture and an image sensor. These structures produce distinctive changes in the shape and appearance of reflected light. An AI system examines these patterns over time and determines whether the reflection is likely to come from a camera lens. Instead of asking the user to judge a single bright spot, SweepLED studies both the movement of the reflection and how its shape changes across multiple lighting angles. The researchers tested the technology on 30 objects similar to those commonly found in real-world indoor environments. SweepLED achieved a detection accuracy of approximately 94%. It also needed less than five seconds to inspect each object. The system could also be affordable for ordinary users. The main components required to build the LED phone attachment cost less than US$7, or around 10,000 South Korean won. The researchers believe SweepLED could eventually become a practical security tool for people who want to check unfamiliar spaces for illegal recording devices. By combining a smartphone, inexpensive hardware and AI analysis, the technology may make hidden-camera detection easier and more reliable for people without specialist training.",
+      "url": "https://knowridge.com/2026/09/this-low-cost-phone-attachment-could-help-you-find-hidden-cameras/",
+      "source": "Knowridge Science Report",
+      "image": "https://knowridge.com/wp-content/uploads/2026/09/New-Smartphone-Tool-Uses-AI-to-Find-Hidden-Cameras-in-Seconds.jpg",
+      "publishedAt": "2026-09-01T11:10:13Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 50,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"In the scandal involving 14 thousand private images, a new claim from the business owner: Hotels and famous brands are also involved\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-08-31T18:45:01.883Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"This Low-Cost Phone Attachment Could Help You Find Hidden Cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-01T16:02:45.515Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man, 36, charged in connection with alleged voyeurism incident in Kew Gardens park bathroom - Beach Metro Community News",
+      "description": "A 36-year-old man has been arrested in connection with an alleged voyeurism incident involving an 11-year-old girl in a bathroom at Kew Gardens park in the Beach. Police said in a news release this evening that a man was arrested on Monday, Aug. 31, in connection with the incident that allegedly took place on the afternoon of Tuesday, Aug. 25 in a park washroom. According to police, an 11-year-old girl entered a park washroom and a man allegedly took photos of her when she was in one of the stalls. Police alleged that the man was already in the washroom when the girl entered and he took the photos through gaps in the stall. The girl sought assistance and the man fled in an unknown direction. Hans Martins-Gonzalez, 36, of Toronto, has been arrested and charged with secretly observe/record a person expecting privacy. Anyone with information is asked to contact police at 416-808-5500, or Crime Stoppers anonymously at 416-222-8477 or online at https://www.222tips.com.",
+      "url": "https://beachmetro.com/2026/08/31/man-36-charged-in-connection-with-alleged-voyeurism-incident-in-kew-gardens-park-bathroom/",
+      "source": "Beach Metro Community News",
+      "image": "https://d28bcn7yu97icd.cloudfront.net/wp-content/uploads/2025/12/11105134/web-police-truck-logo.jpg",
+      "publishedAt": "2026-08-31T23:30:36Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man, 36, charged in connection with alleged voyeurism incident in Kew Gardens park bathroom - Beach Metro Community News\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-01T16:02:45.515Z"
     }
   ]
 }
