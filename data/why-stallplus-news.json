@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:02:45.515Z",
+  "updatedAt": "2026-09-02T15:56:48.794Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,21 +11,21 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 4,
-    "pending": 3,
+    "published": 0,
+    "pending": 4,
     "rejected": 65,
-    "carriedForward": 4
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 0
     },
     {
       "id": "dorm-privacy",
       "label": "Dorm Bathroom Privacy + Shared Living",
-      "count": 1
+      "count": 0
     },
     {
       "id": "hidden-cameras",
@@ -53,160 +53,96 @@
       "count": 0
     }
   ],
-  "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
-      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
-      "url": "https://www.kulr8.com/news/national/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_cd87d475-e641-5e31-a697-ff5c47e3e297.html",
-      "source": "KULR-8 Local News",
-      "image": "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/e/c8/ec84e6d8-62ae-53a3-94fa-118ff9d343ec/6a8ecb2cca87c.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-26T11:08:23Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 100,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (3)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
-      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
-      "url": "https://www.gjsentinel.com/news/us/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_d6be6a38-8b4b-50b6-86a7-e8c6f49a3738.html",
-      "source": "The Grand Junction Daily Sentinel",
-      "image": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/f/1a/f1ab4c8e-d161-5bd7-ab5c-c74b4cbad91e/6a8ecc1d1e627.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-26T11:08:23Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 100,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (3)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students",
-      "description": "- Affordable, portable solution blocks intrusive gaps in restroom stalls - ST. LOUIS, Mo., Aug. 26, 2026 (SEND2PRESS NEWSWIRE) -- Restroom Privacy remains a serious concern on college campuses nationwide. Due to increased incidents of video voyeurism and trespassing, 72% of Americans worry about their privacy and safety in shared restrooms. The Gap-Strap™ from Bamsaw Industries, LLC addresses this. Whether at school, work, restaurants, airports, or entertainment venues, restroom privacy has become an issue affecting millions every day. \"As a father of kids in college, I know firsthand the worries my kids and their friends have when it comes to using campus restrooms,\" says Bob Kodner, inventor and president of The Gap-Strap. Kodner continues, \"As parents, we want our kids to feel safe when they're away from home, and for many students, it's their first time away from home.\" Kodner goes on to say, \"It's not just college students. Two hundred million people use a public restroom every week. Most public and commercial restrooms have sizable gaps at stall doors that make users feel unsafe and exposed. Restroom privacy is more than a restroom concern - it's a personal safety concern.\" THE GAP-STRAP PORTABLE STALL-GAP BLOCKER IMPROVES RESTROOM PRIVACY AND SAFETY IN PUBLIC RESTROOMS The Gap-Strap, a portable stall-gap blocker, is an instant and effective solution that works in any restroom. \"Public and commercial restrooms create uncomfortable experiences due to privacy-violating gaps at stall doors,\" Kodner explains. \"The Gap-Strap eliminates the risk of strangers viewing us in a compromising position.\" Designed for convenience, The Gap-Strap simply unrolls and attaches to the top of restroom stalls. The Gap-Strap is pre-measured, with an ergonomically weighted design engineered to deliver instant and reliable privacy. \"Best of all,\" Kodner adds, \"The Gap-Strap provides the peace of mind we all want when using a public or commercial restroom.\" The Gap-Strap stall gap-blockers are made in the USA and engineered for use in all public and commercial restrooms. ABOUT THE GAP-STRAP The Gap-Strap, a division of Bamsaw Industries, LLC, is headquartered in St. Louis, MO. Bamsaw Industries, LLC, manufactures products designed to improve the safety, comfort, and privacy of public and commercial restrooms. For more information, visit https://thegapstrap.com/ or call (314) 451-2200 MULTIMEDIA VIDEO (YouTube): https://www.youtube.com/shorts/E0FbbN7R084 Image link for media: https://www.Send2Press.com/300dpi/26-0826-s2p-gapstrap-300dpi.webp Image caption: The Gap-Strap, Restroom Stall Gap-Blocker. MEDIA ONLY CONTACT Bob Kodner The Gap-Strap bob@thegapstrap.com (314) 451-2200 NEWS SOURCE: The Gap-Strap division of Bamsaw Industries LLC Keywords: General Editorial, The Gap-Strap, Restroom Stall Gap-Blocker, bathroom safety, made in the USA, Bamsaw Industries LLC, stop Voyeurs, ST. LOUIS, Mo. This press release was issued on behalf of the news source (The Gap-Strap division of Bamsaw Industries LLC) who is solely responsible for its accuracy, by Send2Press® Newswire. Information is believed accurate but not guaranteed. Story ID: S2P137703 APDF15TBLLI To view the original version, visit: https://www.send2press.com/wire/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/ © 2026 Send2Press® Newswire, a press release distribution service, Calif., USA. Disclaimer: This press release content was not created by nor issued by the Associated Press (AP). Content below is unrelated to this news story.",
-      "url": "https://www.nvdaily.com/associated_press_national/the-gap-strap-restroom-privacy-gap-blocker-is-the-new-must-have-for-college-students/article_ed7c55e4-6ea3-50b3-94ca-9637a4965c4e.html",
-      "source": "The Northern Virginia Daily",
-      "image": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/c/2b/c2b71846-e0f5-538b-9b40-db466bd23914/6a8ecbafcfce9.image.jpg?crop=800%2C420%2C0%2C90&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-08-26T11:08:23Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 100,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (3)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"The Gap-Strap Restroom Privacy Gap-Blocker Is The New 'Must Have' For College Students\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man admits to filming a student showering without permission at WSU dorm bathroom",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/krem2-524538/4849745614604-man-admits-to-filming-a-student-showering-without-permission-at-wsu-dorm-bathroom",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-08-26 00:00:00",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Man admits to filming a student showering without permission at WSU dorm bathroom\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
-    }
-  ],
+  "articles": [],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Tempe district seeks answers on camera-monitored changing room",
-      "description": "You can play a vital role in supporting local journalism that you and your community can trust. Subscribe today. * Tempe Union High School District is investigating why students used a camera-monitored dance room to change. * A security officer faces seven counts of voyeurism for allegedly downloading footage of girls changing in the room. * Police have identified all victims and their families have been contacted. Tempe police believe there are more victims at Corona del Sol High School after a security officer was accused of downloading videos of girls changing clothes. Tempe Union High School District Superintendent Stacia Wilson's Aug. 31 note to families follows an Aug. 27 communication indicating that all victims' families had been contacted by police and that anyone who had not been contacted had not been identified as a victim. Wilson said police asked families not to reach out directly since responding to individual inquiries could take investigators away from their work. Families of students identified as victims would be contacted directly by police, Wilson said. \"Our hearts remain with the students who have been affected and their families as they process what has happened. We remain committed to supporting them, protecting their privacy, and cooperating fully with law enforcement throughout this investigation,\" Wilson said in the statement. District launches internal investigation The district issued a statement on Aug. 28 that it had begun its own investigation. Prosecutors say Antony Cruz, 28, is facing seven counts of voyeurism for downloading the security footage from Corona del Sol High School in south Tempe. Because the dance room where the girls changed was not an authorized changing area, the internal investigation will determine whether established procedures were followed and what corrective actions the district will take, district spokesperson Megan Sterling said in the statement. Sterling said a dance room was being used temporarily as a changing room, and that there are no cameras in any authorized changing areas. At the time, the girls' locker room was undergoing renovations. Sterling said the dance room is not a locker room and was never designated as a changing area by the district or school administration. The cameras were installed in 2024 for campus safety purposes \"related to the room's exterior access,\" Sterling said. \"During the recent locker room renovations, the District approved the school administration's request for separate, camera-free locations for students to use for changing. The dance room was not one of those locations,\" Sterling said in the statement. Sterling said she cannot answer who directed the girls to change in the dance room since the investigation is still ongoing. Additional information will be provided as the investigation progresses, Sterling said. A Tempe Police Department spokesperson said on Aug. 28 that police were still gathering evidence and that only Cruz had been identified as a suspect.",
-      "url": "https://eu.azcentral.com/story/news/local/tempe/2026/09/01/tempe-schools-probe-use-of-camera-equipped-changing-space/91512044007/",
-      "source": "AZ Central",
-      "image": "https://www.gannett-cdn.com/-mm-/eefc86037b2c59bda9132d19984b0f2066a1c98b/c=0-62-2397-1416/local/-/media/2018/05/04/Phoenix/Phoenix/636610688825333013-Lacrosse-Div2-Finaks-02.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2026-09-01T12:03:24Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Tempe district seeks answers on camera-monitored changing room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-01T16:02:45.515Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "This Low-Cost Phone Attachment Could Help You Find Hidden Cameras",
-      "description": "Researchers have developed a low-cost technology that can turn an ordinary smartphone into a hidden-camera detector. The system uses artificial intelligence and a small LED attachment to identify concealed camera lenses in places such as hotels, short-term rentals and public restrooms. Called SweepLED, the technology was created by a research team led by Professor Jun Han from the Korea Advanced Institute of Science and Technology, in collaboration with researchers from the National University of Singapore and Singapore Management University. KAIST doctoral student Jonghyuk Yun was the first author of the study, which was presented at ACM MobiSys 2026. The findings were published in the conference proceedings. Hidden cameras are a serious privacy concern because they can be disguised inside everyday objects, including alarm clocks, chargers and remote controls. Although portable camera detectors are already available, many require users to look for a bright reflection that might indicate the presence of a camera lens. This approach can be unreliable. Metal, glass and glossy plastic can also produce bright reflections, making it difficult for an untrained person to tell the difference between a hidden camera and an ordinary shiny surface. As a result, users may overlook cameras or repeatedly receive false warnings. SweepLED takes a more advanced approach. The system uses a special case fitted with LED lights that can be attached to a smartphone. During an inspection, the phone's camera remains in the same position while the LEDs shine light at the object from several different directions. The smartphone records how the reflected light moves and changes as the direction of illumination shifts. Reflections from ordinary glossy surfaces usually move, change position or disappear as the lighting angle changes. Camera lenses behave differently because they contain several internal parts, including curved lenses, an aperture and an image sensor. These structures produce distinctive changes in the shape and appearance of reflected light. An AI system examines these patterns over time and determines whether the reflection is likely to come from a camera lens. Instead of asking the user to judge a single bright spot, SweepLED studies both the movement of the reflection and how its shape changes across multiple lighting angles. The researchers tested the technology on 30 objects similar to those commonly found in real-world indoor environments. SweepLED achieved a detection accuracy of approximately 94%. It also needed less than five seconds to inspect each object. The system could also be affordable for ordinary users. The main components required to build the LED phone attachment cost less than US$7, or around 10,000 South Korean won. The researchers believe SweepLED could eventually become a practical security tool for people who want to check unfamiliar spaces for illegal recording devices. By combining a smartphone, inexpensive hardware and AI analysis, the technology may make hidden-camera detection easier and more reliable for people without specialist training.",
-      "url": "https://knowridge.com/2026/09/this-low-cost-phone-attachment-could-help-you-find-hidden-cameras/",
-      "source": "Knowridge Science Report",
-      "image": "https://knowridge.com/wp-content/uploads/2026/09/New-Smartphone-Tool-Uses-AI-to-Find-Hidden-Cameras-in-Seconds.jpg",
-      "publishedAt": "2026-09-01T11:10:13Z",
+      "title": "Smartphone learns to find hidden cameras in five seconds | NEWS.am TECH - Innovations and science",
+      "description": "Engineers at the Korea Advanced Institute of Science and Technology (KAIST) have developed SweepLED, a system that turns an ordinary smartphone into a hidden-camera detector. The device uses a specialised case equipped with LEDs and machine learning algorithms to identify spy lenses in rental apartments and hotels. Why Conventional Methods Fall Short Traditional ways of locating hidden cameras often prove unreliable. The usual approach involves scanning a room and looking for bright reflections from lenses. The problem is that glossy buttons, metallic furniture fittings, and other shiny surfaces reflect light almost as effectively as camera lenses. As a result, sensors regularly produce false positives, leaving users without full confidence in the room's safety. How SweepLED Works The new system addresses this problem with a case fitted with an array of LEDs. The user points the smartphone camera at a suspicious object and holds the device steady at three different angles. Meanwhile, the LEDs scan the surface with varying illumination, and the phone's camera captures the subtlest changes in reflected light. A neural network analyses the series of images and identifies spatiotemporal reflection patterns. Hidden camera lenses have complex internal structures, so they respond to changes in lighting angle differently from ordinary shiny objects. It is precisely this distinction that allows the system to tell a genuine lens from an everyday reflection. How Effective Is It In tests on 30 objects, the system achieved 94% accuracy during manual scanning. The entire process takes less than five seconds. The developers emphasise that this approach significantly reduces false alarms compared with conventional detectors. Why This Matters The issue of hidden cameras in rental accommodation has reached global proportions. Travellers regularly face the risk of illegal recording, and short-term rental platforms cannot always guarantee safety. Cameras are concealed in clocks, power sockets, smoke detectors, and other household items. SweepLED allows guests to check a room using a familiar smartphone and an additional case. This makes inspection simpler and more accessible for ordinary travellers. In Brief Engineers at KAIST have created SweepLED -- a case with LEDs and a machine learning algorithm that turns a smartphone into a hidden-camera detector. The device scans a surface from different angles and, based on reflection patterns, distinguishes camera lenses from ordinary shiny objects. In tests, accuracy reached 94%, and a scan takes less than five seconds. The development is intended to help travellers find spy cameras in rented accommodation more quickly.",
+      "url": "https://tech.news.am/eng/news/7685/smartphone-learns-to-find-hidden-cameras-in-five-seconds.html",
+      "source": "NEWS.am TECH - Innovations and science",
+      "image": "http://tech.news.am/static/news/b/2026/09/7685.jpg",
+      "publishedAt": "2026-09-02T15:40:34Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 60,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms",
+        "failed category gate"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"This Low-Cost Phone Attachment Could Help You Find Hidden Cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-01T16:02:45.515Z"
+      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Smartphone learns to find hidden cameras in five seconds | NEWS.am TECH - Innovations and science\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-02T15:56:48.794Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Man, 36, charged in connection with alleged voyeurism incident in Kew Gardens park bathroom - Beach Metro Community News",
-      "description": "A 36-year-old man has been arrested in connection with an alleged voyeurism incident involving an 11-year-old girl in a bathroom at Kew Gardens park in the Beach. Police said in a news release this evening that a man was arrested on Monday, Aug. 31, in connection with the incident that allegedly took place on the afternoon of Tuesday, Aug. 25 in a park washroom. According to police, an 11-year-old girl entered a park washroom and a man allegedly took photos of her when she was in one of the stalls. Police alleged that the man was already in the washroom when the girl entered and he took the photos through gaps in the stall. The girl sought assistance and the man fled in an unknown direction. Hans Martins-Gonzalez, 36, of Toronto, has been arrested and charged with secretly observe/record a person expecting privacy. Anyone with information is asked to contact police at 416-808-5500, or Crime Stoppers anonymously at 416-222-8477 or online at https://www.222tips.com.",
-      "url": "https://beachmetro.com/2026/08/31/man-36-charged-in-connection-with-alleged-voyeurism-incident-in-kew-gardens-park-bathroom/",
-      "source": "Beach Metro Community News",
-      "image": "https://d28bcn7yu97icd.cloudfront.net/wp-content/uploads/2025/12/11105134/web-police-truck-logo.jpg",
-      "publishedAt": "2026-08-31T23:30:36Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
+      "title": "Researchers come up with a hidden camera detector for just $7",
+      "description": "Its LED case components cost less than $7, but the tool is not commercially available yet. Researchers are addressing the stalking problem by creating technology that helps detect secret cameras with a phone. There have been multiple horror stories where people have been filmed without their consent, including hidden cameras in Airbnbs, changing rooms, and even toilets. Online tutorials proliferated showing users where to check and how to spot such cameras. However, these searches usually involve a human eye and its perceptual judgment. Now, researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed an AI tool that turns a smartphone into a device for detecting hidden cameras. KAIST's research team created \"SweepLED\" technology, which consists of a device with 15 LEDs attached to a phone and an AI-powered processing system. The technology works by attaching an LED light to a smartphone's camera, illuminating objects while the camera is on. Then it analyzes the patterns of light reflections that were cast. While reflections on regular objects move or disappear, hidden camera lenses appear in those reflection patterns. The SweepLED system has already been used to test 30 objects and achieved approximately 94% detection accuracy, according to KAIST. The device took around 5 seconds to scan an object. What makes this technology even more beneficial is that the components in the LED case cost less than $7, making it an affordable solution that more people can use. The LED light-powered technology isn't yet commercially available, but it does show potential. \"This research is meaningful in that it combines low-cost smartphone-based hardware with AI analysis to present the possibility of a practical detection technology that even non-experts can use,\" Professor Jun Han, who led the research, told Eureka Alert.",
+      "url": "https://cybernews.com/tech/led-hidden-camera-detector/",
+      "source": "Cybernews",
+      "image": "https://media.cybernews.com/images/featured-big/2026/09/sweepLED-technology.jpg",
+      "publishedAt": "2026-09-02T13:42:43Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (1 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man, 36, charged in connection with alleged voyeurism incident in Kew Gardens park bathroom - Beach Metro Community News\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-01T16:02:45.515Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers come up with a hidden camera detector for just $7\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-02T15:56:48.794Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes",
+      "description": "SANTA PAULA, Calif. (KEYT) - Francisco Munoz of Santa Paula has been charged after allegedly recording children changing in an office bathroom at the apartment complex where he worked. Investigators believe that their may be additional survivors that have yet to be identified from the secretly recorded videos. Anyone with more information is asked to contact Detective Yvette Solis at 805-826-7512 or through email at ysolis@santapaula.gov. On Aug. 24, around 4:45 p.m., officers responded to the 200 block of North 8th Street for a report about a man covertly filming children changing clothes in an apartment complex office bathroom after using a nearby pool stated the Santa Paula Police Department. Detectives quickly identified the suspect as 48-year-old Francisco Munoz, an employee of the apartment complex, who fled the scene before the arrival of police shared the Santa Paula Police Department. A search was conducted and eventually, the Santa Paula man was arrested later the same afternoon noted the law enforcement ageny. According to Santa Paula Police, Munoz is alleged to have used a makeshift box with a hole, hid a cell phone inside of the box, and video recorded multiple minors as they changed in the bathroom. On Aug. 26, Munoz was arraigned in Ventura County Superior Court on the following charges: * PC 647(j)(3)-Using a Hidden Camera to Secretly Record Someone Who Is Partially or Fully Undressed in a Private Location * Multiple Counts of PC 647.6(a)(1)-Child Annoying * Multiple Counts of PC 311.4(c)-Using a Minor for Child Pornography * PC 311.11(a)(1)-Possession of Child Pornography Munoz remains in custody added the Santa Paula Police Department.",
+      "url": "https://keyt.com/news/ventura-county/2026/09/01/francisco-munoz-charged-with-secretly-recording-children-as-they-changed-clothes/",
+      "source": "NewsChannel 3-12",
+      "image": "https://keyt.b-cdn.net/2024/07/EyeOnCrime-1-860x484.png",
+      "publishedAt": "2026-09-02T00:55:14Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-02T15:56:48.794Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes",
+      "description": "SANTA PAULA, Calif. (KEYT) – Francisco Munoz of Santa Paula has been charged after allegedly recording children changing in an office bathroom at the apartment complex where he worked. Investigators believe that their may be additional survivors that have yet to be identified from the secretly recorded videos. Anyone with more information is asked to The post Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes appeared first on News Channel 3-12 .",
+      "url": "https://keyt.com/lifestyle/2026/09/01/francisco-munoz-charged-with-secretly-recording-children-as-they-changed-clothes/",
+      "source": "News Channel 3-12",
+      "image": "https://keyt.b-cdn.net/2024/07/EyeOnCrime-1.png",
+      "publishedAt": "2026-09-02 00:55:14",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-02T15:56:48.794Z"
     }
   ]
 }
