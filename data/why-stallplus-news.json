@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:56:48.794Z",
+  "updatedAt": "2026-09-03T15:45:58.680Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 0,
-    "pending": 4,
-    "rejected": 65,
+    "published": 2,
+    "pending": 5,
+    "rejected": 63,
     "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 0
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 1
     },
     {
       "id": "workplace-privacy",
@@ -53,39 +53,80 @@
       "count": 0
     }
   ],
-  "articles": [],
+  "articles": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ex-Tempe school employee scheduled to appear in court on voyeurism charges",
+      "description": "TEMPE, AZ (AZFamily) -- A former school surveillance officer is scheduled to appear in court after authorities say he downloaded footage that showed underage girls undressing at an East Valley high school. Antony Cruz, 28, is slated to be arraigned before a judge at 8:30 a.m. Thursday. District says room was not for changing Cruz, who worked as a surveillance officer for the Tempe Union High School District, allegedly gained access to cameras that were recording a room of young teen girls undressing at Corona del Sol High School. Police noted in the court paperwork that staff and students requested the cameras be turned off for privacy, but were left on and recording the room. Authorities said Cruz did not notify school staff or law enforcement of the camera exposing the girls. Instead, Cruz reportedly downloaded several videos, with at least seven showing young girls' changing in and out of their clothes. Court documents state that the room was being used temporarily as a changing room for students because the girls' locker room was closed for renovations. District officials said the space is a dance room, not a locker room, and was never designated by the district as a place for students to change clothes. During recent locker room renovations, the district said it approved a request from Corona del Sol High School to set up a separate, camera-free location for students to change. Officials said the dance room was not one of the approved locations. A security camera was installed in the room in 2024 for campus safety purposes. Parents react at school board meeting Parents who spoke at Wednesday night's school board meeting were visibly upset, wondering if their children are victims. \"He's been charged with seven counts of voyeurism, but I believe from this long, almost one-month period, that there are many more counts he should be charged with, and so I ask the district please disclose this information so we can find out the full breadth of the victims,\" one parent said. The district has opened an internal investigation into the matter. Cruz is facing seven counts of voyeurism and is being held on a $100,000 cash-only bond. See a spelling or grammatical error in our story? Please click here to report it. Do you have a photo or video of a breaking news story? Send it to us here with a brief description.",
+      "url": "https://www.azfamily.com/2026/09/03/ex-tempe-school-employee-scheduled-appear-court-voyeurism-charges/",
+      "source": "AZfamily.com",
+      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/CRBEMLYOUVCW3DRPXEYES7X5TE.JPG?auth=9e621d5a1c3088dae20af3e493d091f2ac9a47b731837f6349fbfa1c3611df08&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-03T13:37:30Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Ex-Tempe school employee scheduled to appear in court on voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Class action filed over Ruby Memorial hidden cameras",
+      "description": "MORGANTOWN - A Monongalia County woman has filed a proposed class-action lawsuit over hidden cameras found in staff bathrooms at Ruby Memorial Hospital. The plaintiff, identified in the complaint only as P.J.P., filed the complaint September 1 in Monongalia Circuit Court. West Virginia University Hospitals and West Virginia United Health System are the named defendants. \"A hospital restroom should be an unquestioned sanctuary of privacy, not a crime scene with a hidden lens,\" Troy Giatras, one of the attorneys who filed the complaint, told The West Virginia Record. \"These dedicated healthcare workers came to work to save lives, only to have their fundamental dignity violated.\" In the complaint, P.J.P. alleges she was a Ruby Memorial employee during the relevant period and was among workers secretly recorded in staff restroom facilities. She says the defendants failed to protect employees from hidden-camera surveillance in nonpublic staff bathrooms. She alleges the entities were negligent and grossly negligent in hiring, supervising, training and retaining employees, including former physician Lance Parks, and in maintaining a workplace protected from invasions of privacy. According to the complaint, a staff member found a hidden recording device June 26 beneath a sink in a nonpublic staff restroom at Ruby Memorial. A second device was discovered July 1 after a facilities employee responded to a clogged toilet in another nonpublic restroom, the suit says. Authorities previously said the first device contained footage of eight hospital employees who were unknowingly recorded while partially nude. The second device contained no images or other media, according to the Monongalia County Prosecutor's Office. The complaint alleges Parks \"surreptitiously recorded nude and/or partially nude employees\" in the nonpublic bathrooms and the defendants did not adequately protect staff members from the alleged surveillance. \"While law enforcement handles the criminal conduct of Lance Parks, the civil justice system exists to hold institutions accountable for failing their duty of care,\" Matt Stonestreet, another attorney representing the plaintiffs, told The Record. \"WVU Hospitals provided the venue, employed the physician, and assured staff their private spaces were safe. \"When an institution fails to supervise its staff and conducts sweeps that miss hidden cameras right under its nose, it shares full legal and moral responsibility for the harm caused.\" The complaint further alleges the hospitals failed to detect the devices, including after the first camera was found. The defendants initially suspended the employee involved and later said he no longer worked at the hospital, according to reports. Parks was charged in July with eight misdemeanor counts of criminal invasion of privacy and one felony count involving the distribution and exhibition of computer-generated child pornography, according to the Monongalia County Prosecutor's Office. Investigators executed a search warrant at his home and seized computers and digital-storage devices for forensic examination. Investigators said they were continuing to examine the seized devices to determine the full scope of potential criminal conduct and identify any additional victims. The civil complaint says Parks waived his preliminary hearing and is awaiting possible indictment by the Monongalia County Prosecutor's Office. \"WVU Hospitals told staff they swept the facilities and found nothing,\" Giatras told The Record. \"Days later, plumbing backed up and a second camera was pulled from a toilet. That is not thorough security. That is negligent indifference. \"Once these deeply intimate, non-consensual recordings exist, they cannot be unseen. The psychological damage follows these victims every single day.\" The plaintiff contends the alleged conduct was gender-based harassment and discrimination because she is a woman and asserts the cameras were installed to secretly record women \"when they were the most vulnerable.\" The complaint accuses the defendants of invasion of privacy, breach of confidentiality, violations of the West Virginia Human Rights Act, violation of the West Virginia Constitution, negligent supervision, negligent infliction of emotional distress, violation of the West Virginia Wiretapping and Electronic Surveillance Act and negligence. \"You cannot shrug off corporate responsibility by blaming one bad actor when your own policies, supervision, and facility checks completely collapsed,\" Giatras said. The complaint also alleges the defendants' conduct caused anxiety, humiliation, emotional distress, pain and suffering, mental anguish, loss of enjoyment of life, annoyance and inconvenience. It seeks class certification for West Virginia residents allegedly recorded in nonpublic bathroom facilities at Ruby Memorial and \"any other facility\" owned, operated or managed by the defendants in the state. The plaintiff and potential class seek compensatory and punitive damages, attorney fees, court costs and class certification. The lawsuit was filed by Giatras and Stonestreet of The Giatras Law Firm in Charleston. The case has been assigned to Circuit Judge Perri J. DeChristopher. Giatras said any additional victims confidentially can contact his firm for more information by texting 304-343-2900 or visiting its website. Monongalia Circuit Court case number 26-C-347",
+      "url": "https://www.legalnewsline.com/west-virginia-record/class-action-filed-over-ruby-memorial-hidden-cameras/article_f92f8fe7-37b1-4473-8700-5fd40041b9c8.html",
+      "source": "Legal Newsline",
+      "image": "https://bloximages.chicago2.vip.townnews.com/legalnewsline.com/content/tncms/assets/v3/editorial/b/fe/bfe725f0-6c7a-4b99-9911-4b789e6430bc/6a98a319df561.image.jpg?crop=1030%2C541%2C0%2C41",
+      "publishedAt": "2026-09-03T12:30:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (5 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Class action filed over Ruby Memorial hidden cameras\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    }
+  ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Smartphone learns to find hidden cameras in five seconds | NEWS.am TECH - Innovations and science",
-      "description": "Engineers at the Korea Advanced Institute of Science and Technology (KAIST) have developed SweepLED, a system that turns an ordinary smartphone into a hidden-camera detector. The device uses a specialised case equipped with LEDs and machine learning algorithms to identify spy lenses in rental apartments and hotels. Why Conventional Methods Fall Short Traditional ways of locating hidden cameras often prove unreliable. The usual approach involves scanning a room and looking for bright reflections from lenses. The problem is that glossy buttons, metallic furniture fittings, and other shiny surfaces reflect light almost as effectively as camera lenses. As a result, sensors regularly produce false positives, leaving users without full confidence in the room's safety. How SweepLED Works The new system addresses this problem with a case fitted with an array of LEDs. The user points the smartphone camera at a suspicious object and holds the device steady at three different angles. Meanwhile, the LEDs scan the surface with varying illumination, and the phone's camera captures the subtlest changes in reflected light. A neural network analyses the series of images and identifies spatiotemporal reflection patterns. Hidden camera lenses have complex internal structures, so they respond to changes in lighting angle differently from ordinary shiny objects. It is precisely this distinction that allows the system to tell a genuine lens from an everyday reflection. How Effective Is It In tests on 30 objects, the system achieved 94% accuracy during manual scanning. The entire process takes less than five seconds. The developers emphasise that this approach significantly reduces false alarms compared with conventional detectors. Why This Matters The issue of hidden cameras in rental accommodation has reached global proportions. Travellers regularly face the risk of illegal recording, and short-term rental platforms cannot always guarantee safety. Cameras are concealed in clocks, power sockets, smoke detectors, and other household items. SweepLED allows guests to check a room using a familiar smartphone and an additional case. This makes inspection simpler and more accessible for ordinary travellers. In Brief Engineers at KAIST have created SweepLED -- a case with LEDs and a machine learning algorithm that turns a smartphone into a hidden-camera detector. The device scans a surface from different angles and, based on reflection patterns, distinguishes camera lenses from ordinary shiny objects. In tests, accuracy reached 94%, and a scan takes less than five seconds. The development is intended to help travellers find spy cameras in rented accommodation more quickly.",
-      "url": "https://tech.news.am/eng/news/7685/smartphone-learns-to-find-hidden-cameras-in-five-seconds.html",
-      "source": "NEWS.am TECH - Innovations and science",
-      "image": "http://tech.news.am/static/news/b/2026/09/7685.jpg",
-      "publishedAt": "2026-09-02T15:40:34Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "title": "Fears over cheap 'pervert glasses' explode",
+      "description": "The world is undergoing several uncomfortable shifts at the moment as technology advances at breakneck speeds. But one particular product hitting shelves is generating serious controversy around the globe. Kmart's ordinary-looking camera glasses, a spin on the now famous Meta Ray Bans, sold out shortly after their release. They recently hit Aussie shelves for just $89, but similar pairs are also widely available on Amazon and other budget retailers. To manufacturers, it is the hands-free future that we should all just get accustomed to. But to privacy campaigners -- and anyone who has changed clothes at the beach or taken their kids to a playground -- it presents a potential threat. The range of ordinary-looking glasses can photograph strangers, record video and capture conversations from the bridge of someone else's nose, often without the subject noticing a thing. While hands-free camera technology is not completely new, the price definitely is. Kmart's $89 Anko camera glasses were an immediate hit in Australia within days of their release in August. The black-rimmed glasses can capture photographs and HD video from the wearer's point of view. Kmart has defended the product, saying the glasses \"are part of an established and increasingly mainstream category of wearable technology, with similar products available globally from major technology and eyewear brands\". But their arrival has intensified a far less flattering debate over what television host Jimmy Kimmel dubbed \"pervert glasses\". Dr Dana McKay, an RMIT researcher specialising in technology and online information, warned lower prices were rapidly normalising cameras that could be difficult for bystanders to spot. \"Why does everything have a camera in it now? And should we be worried about ending up in an episode of Black Mirror?\" she said. \"This means that we're likely to see -- or not see -- these technologies more in our daily lives than ever before.\" The obvious appeal is convenience. Wearers can photograph their children, record a concert, take calls or capture a particularly photogenic cat without reaching for a phone. \"It's not all cat videos, though,\" Dr McKay said. \"The proliferation of these devices means that it's easier than ever before for someone to unobtrusively take high-quality images and video of you in places that you would normally expect to be private, like public bathrooms, gym change rooms or even of your kids at a public playground.\" Once that footage exists, it can be posted, fed into facial-recognition software or manipulated with artificial intelligence. A stranger's face, voice and movements can become the raw ingredients for a fake video they never agreed to make. \"We have control over what and how much we share,\" Dr McKay said. \"With these new technologies, we may not even know we've been recorded. \"So now we need to decide: do we want to live in a world where we can be recorded at any time, where we never really know what's real or generated? \"If not, we need to make our social preferences clear now, both in our own lives and by talking to our MPs.\" Haven't we seen this before? Google encountered a very similar problem when it unveiled Google Glass in 2013. Wearers were quickly branded \"glassholes\", businesses banned the devices and the consumer version quietly disappeared. Meta's more successful approach was to make the camera look like something people already wanted to wear. Its partnership with eyewear giant EssilorLuxottica placed cameras, microphones, speakers and artificial intelligence inside familiar Ray-Ban and Oakley frames. More than seven million pairs were reportedly sold worldwide last year. Depending on the model, Meta's glasses can take photographs, record high-resolution video, play music, make calls, translate languages and livestream directly to Facebook or Instagram. For the average consumer, it's hard not to be impressed at the capabilities. Its AI assistant can also answer questions about whatever the wearer is looking at. Meta describes its glasses as the ideal home for an assistant that \"understands the world from your perspective\". The glasses contain a recording light designed to warn people nearby. Meta says covering the light disables the camera, and a recent software update made the camera stop recording if the indicator was obscured after filming had begun. The change followed evidence that users were modifying their glasses to hide the light. Meta has since disabled cameras on thousands of tampered devices. The company insists privacy was considered from the beginning. \"That's why we built privacy into our AI glasses from the ground up,\" a Meta spokesperson told The Guardian. Nevertheless, privacy issues are popping up quite often around the globe as people speak out against the tech. American woman Toluwa Omitowoju discovered that an encounter with a man wearing camera glasses had been uploaded as a pickup video and viewed hundreds of thousands of times. \"I had no say,\" she told CBS News. In Melbourne, a man identified as Rhys said a stranger secretly photographed him at a cafe using Meta Ray-Bans, then sent him the image through the dating app Grindr. He said he never noticed the recording light. In Utah, mother Brek Mettra was filmed inside her own home while completing a Facebook Marketplace sale. Footage showing her and her young children was later posted online. \"I honestly felt extremely violated,\" she said. Those cases have generated genuine political action in certain parts of the EU and the US. In Germany, digital-rights group HateAid has filed a criminal complaint and Hamburg's privacy commissioner says a ban may be legally possible, although the federal regulator argues there is presently no basis for one. European politicians have separately questioned whether the glasses comply with the EU's strict consent and data-protection rules. Britain says existing criminal laws are sufficient, but courts, Wetherspoons pubs and Comic-Con organisers have already barred the devices, while campaigners are petitioning Parliament for restrictions on their sale. In the US, Texas Attorney-General Ken Paxton has opened an investigation into whether Meta's glasses unlawfully monitor people or collect facial data. What does Australian law say? Australia does not have a single national law banning smart glasses or recording in public. The federal Privacy Act generally regulates businesses and government agencies, rather than what one private citizen films. State and territory surveillance laws can restrict the recording of private conversations or activities, while voyeurism, stalking, harassment and intimate-image offences may also apply depending on where and how a device is used. A federal statutory tort introduced in 2025 also allows people to sue over some intentional or reckless serious invasions of privacy. But it is not a simple right to demand that every unwanted public recording be deleted. \"Without knowing, we could be filmed, recorded or photographed at any time,\" Privacy Commissioner Carly Kind warned. The Greens are preparing legislation seeking a temporary ban on imports of camera-equipped wearables while privacy protections are reviewed. The proposal would include exemptions for legitimate disability aids and medical devices. Brisbane has outlawed secret wearable-camera filming at public pools and eSafety is demanding tamper-proof recording lights and automatic blurring of bystanders. The Albanese Government, however, is not currently pursuing an import ban. Attorney-General Michelle Rowland instead released draft privacy reforms intended to impose stronger consent requirements and a \"fair and reasonable\" test on companies collecting personal information. \"There is no decent minded Australian who would think that it's okay to be filming certain cohorts in certain settings,\" Ms Rowland said. Australia's eSafety Commissioner also recommended delaying livestreams so harmful footage can be detected before it spreads. The regulator cannot currently force companies to adopt those features. \"Asking people to use a product responsibly is not an adequate safety policy,\" eSafety warned.",
+      "url": "https://www.news.com.au/technology/gadgets/fears-over-cheap-pervert-glasses-explode-worldwide-as-countries-push-for-bans/news-story/49772a5b43db5b529109880bb8c9ac9c",
+      "source": "News.com.au",
+      "image": "https://content.api.news/v3/images/bin/8f0928ddcbb29ab920d33ce387eeb25c",
+      "publishedAt": "2026-09-02T06:47:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
       "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Smartphone learns to find hidden cameras in five seconds | NEWS.am TECH - Innovations and science\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-02T15:56:48.794Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Fears over cheap 'pervert glasses' explode\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-03T15:45:58.680Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Researchers come up with a hidden camera detector for just $7",
-      "description": "Its LED case components cost less than $7, but the tool is not commercially available yet. Researchers are addressing the stalking problem by creating technology that helps detect secret cameras with a phone. There have been multiple horror stories where people have been filmed without their consent, including hidden cameras in Airbnbs, changing rooms, and even toilets. Online tutorials proliferated showing users where to check and how to spot such cameras. However, these searches usually involve a human eye and its perceptual judgment. Now, researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed an AI tool that turns a smartphone into a device for detecting hidden cameras. KAIST's research team created \"SweepLED\" technology, which consists of a device with 15 LEDs attached to a phone and an AI-powered processing system. The technology works by attaching an LED light to a smartphone's camera, illuminating objects while the camera is on. Then it analyzes the patterns of light reflections that were cast. While reflections on regular objects move or disappear, hidden camera lenses appear in those reflection patterns. The SweepLED system has already been used to test 30 objects and achieved approximately 94% detection accuracy, according to KAIST. The device took around 5 seconds to scan an object. What makes this technology even more beneficial is that the components in the LED case cost less than $7, making it an affordable solution that more people can use. The LED light-powered technology isn't yet commercially available, but it does show potential. \"This research is meaningful in that it combines low-cost smartphone-based hardware with AI analysis to present the possibility of a practical detection technology that even non-experts can use,\" Professor Jun Han, who led the research, told Eureka Alert.",
-      "url": "https://cybernews.com/tech/led-hidden-camera-detector/",
-      "source": "Cybernews",
-      "image": "https://media.cybernews.com/images/featured-big/2026/09/sweepLED-technology.jpg",
-      "publishedAt": "2026-09-02T13:42:43Z",
+      "title": "This $7 Smartphone Accessory Can Spot Hidden Cameras in Seconds",
+      "description": "Researchers have developed a $7 smartphone accessory that can detect hidden cameras within five seconds with 94% accuracy. \"SweepLED\", an LED case that clips to any smartphone and spots illegal filming by covert cameras in everyday spaces, was developed by a team of scientists at Korea Advanced Institute of Science and Technology (KAIST). Hidden cameras can be placed in a range of everyday spaces, including hotels, short-term rentals, and restrooms, creating a need for detection tools that members of the public can use. Existing portable detectors, however, often rely on users identifying bright reflections, which can make it difficult to distinguish a camera lens from an ordinary reflective surface. Reflections from materials such as metal, glass, or glossy plastic can, for example, be mistaken for a camera lens, resulting in false positives. According to a news release, SweepLED takes a different approach by looking at how those reflections behave. The system keeps the smartphone camera fixed while changing only the direction of the LED light, then analyzes the reflections that appear on nearby surfaces. Reflections from ordinary glossy materials tend to move or disappear as the direction of the light changes. Camera lenses, on the other hand, produce distinctive changes in the shape of their reflections because of the lens, aperture, and sensor structures inside them. The research team used deep learning to analyze these changes over time and distinguish between the two. Instead of simply asking users to look for \"bright spots,\" SweepLED examines both the movement of reflections and changes in their shape as the light is directed at an object from different angles. In short, SweepLED uses a smartphone's camera and LED light, combined with deep-learning analysis, to identify the telltale reflection patterns of hidden camera lenses. The approach could provide a more reliable way to identify hidden camera lenses concealed inside everyday objects commonly found in lodging spaces, including chargers, clocks, remote controls, and other household items. According to Digital Trends, SweepLED captures the entire light sweep as a short video, which is then analyzed by an AI model trained to recognize the distinctive deformations produced by camera lenses. The system can then identify where a hidden camera may be located. In tests involving 30 everyday objects that could realistically be found in a hotel room or rental property, SweepLED detected hidden cameras with about 94% accuracy, taking less than five seconds to scan each object. As Digital Trends notes, a recent UCL study found that people using consumer-grade hidden camera detectors missed 59% of the devices during testing. Against that backdrop, SweepLED's 94% accuracy in laboratory testing is a promising result, although further testing in real-world settings will be needed to see how well it performs outside the lab. The full study can be read here. Image creditsHeader photo licensed via Depositphotos.",
+      "url": "https://petapixel.com/2026/09/03/this-7-smartphone-accessory-can-spot-hidden-cameras-in-seconds/",
+      "source": "PetaPixel",
+      "image": "https://petapixel.com/assets/uploads/2026/09/hidden-camera-detector-.jpg",
+      "publishedAt": "2026-09-03T10:19:21Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -97,20 +138,20 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers come up with a hidden camera detector for just $7\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-02T15:56:48.794Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"This $7 Smartphone Accessory Can Spot Hidden Cameras in Seconds\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-03T15:45:58.680Z"
     },
     {
-      "provider": "NewsAPI.ai",
-      "title": "Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes",
-      "description": "SANTA PAULA, Calif. (KEYT) - Francisco Munoz of Santa Paula has been charged after allegedly recording children changing in an office bathroom at the apartment complex where he worked. Investigators believe that their may be additional survivors that have yet to be identified from the secretly recorded videos. Anyone with more information is asked to contact Detective Yvette Solis at 805-826-7512 or through email at ysolis@santapaula.gov. On Aug. 24, around 4:45 p.m., officers responded to the 200 block of North 8th Street for a report about a man covertly filming children changing clothes in an apartment complex office bathroom after using a nearby pool stated the Santa Paula Police Department. Detectives quickly identified the suspect as 48-year-old Francisco Munoz, an employee of the apartment complex, who fled the scene before the arrival of police shared the Santa Paula Police Department. A search was conducted and eventually, the Santa Paula man was arrested later the same afternoon noted the law enforcement ageny. According to Santa Paula Police, Munoz is alleged to have used a makeshift box with a hole, hid a cell phone inside of the box, and video recorded multiple minors as they changed in the bathroom. On Aug. 26, Munoz was arraigned in Ventura County Superior Court on the following charges: * PC 647(j)(3)-Using a Hidden Camera to Secretly Record Someone Who Is Partially or Fully Undressed in a Private Location * Multiple Counts of PC 647.6(a)(1)-Child Annoying * Multiple Counts of PC 311.4(c)-Using a Minor for Child Pornography * PC 311.11(a)(1)-Possession of Child Pornography Munoz remains in custody added the Santa Paula Police Department.",
-      "url": "https://keyt.com/news/ventura-county/2026/09/01/francisco-munoz-charged-with-secretly-recording-children-as-they-changed-clothes/",
-      "source": "NewsChannel 3-12",
-      "image": "https://keyt.b-cdn.net/2024/07/EyeOnCrime-1-860x484.png",
-      "publishedAt": "2026-09-02T00:55:14Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
+      "provider": "NewsAPI.org",
+      "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy",
+      "description": "This gadget only costs $7 but can help your catch hidden cameras through the use of the companion AI app that installs on your phone. It works by changing the location of the LED light source to compare different reflections and determine if it's a hidden cam…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185368781",
+      "source": "Slashdot.org",
+      "image": null,
+      "publishedAt": "2026-09-02T13:13:37Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -119,17 +160,39 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-02T15:56:48.794Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-03T15:45:58.680Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy",
+      "description": "This gadget only costs $7 but can help your catch hidden cameras through the use of the companion AI app that installs on your phone. It works by changing the location of the LED light source to compare different reflections and determine if it's a hidden cam…",
+      "url": "https://www.tomshardware.com/cameras/korean-researchers-build-usd7-hidden-camera-detector-gadget-uses-led-lights-and-ai-to-separate-reflections-from-lenses",
+      "source": "Tom's Hardware UK",
+      "image": "https://cdn.mos.cms.futurecdn.net/HEocSqrV3wDVHcMjQC5oXm-1920-80.png",
+      "publishedAt": "2026-09-02T12:20:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-03T15:45:58.680Z"
     },
     {
       "provider": "NewsData.io",
-      "title": "Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes",
-      "description": "SANTA PAULA, Calif. (KEYT) – Francisco Munoz of Santa Paula has been charged after allegedly recording children changing in an office bathroom at the apartment complex where he worked. Investigators believe that their may be additional survivors that have yet to be identified from the secretly recorded videos. Anyone with more information is asked to The post Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes appeared first on News Channel 3-12 .",
-      "url": "https://keyt.com/lifestyle/2026/09/01/francisco-munoz-charged-with-secretly-recording-children-as-they-changed-clothes/",
-      "source": "News Channel 3-12",
-      "image": "https://keyt.b-cdn.net/2024/07/EyeOnCrime-1.png",
-      "publishedAt": "2026-09-02 00:55:14",
+      "title": "Man Arrested For Voyeurism",
+      "description": "The owner of Hot Springs Physical Therapy contacted the Sierra County Sherrif’s Department after a suspicious device was discovered in a bathroom at the business.",
+      "url": "https://www.gpkmedia.com/news/man-arrested-for-voyeurism/article_8d40edd6-438e-4abc-84e9-89ce396704c3.html",
+      "source": "Sierra County Sentinel & Kchs Radio",
+      "image": "https://bloximages.newyork1.vip.townnews.com/gpkmedia.com/content/tncms/assets/v3/editorial/1/93/1933714b-8354-48f1-a49a-7148c6f79bc4/6a9878ae389c1.image.jpg?crop=538%2C538%2C14%2C11&resize=300%2C300&order=crop%2Cresize",
+      "publishedAt": "2026-09-02 19:26:00",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -141,8 +204,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Francisco Munoz Charged With Secretly Recording Children As They Changed Clothes\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-02T15:56:48.794Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man Arrested For Voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-03T15:45:58.680Z"
     }
   ]
 }
