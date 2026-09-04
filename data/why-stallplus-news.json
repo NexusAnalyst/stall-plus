@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T15:45:58.680Z",
+  "updatedAt": "2026-09-04T15:44:26.945Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 5,
+    "pending": 6,
     "rejected": 63,
-    "carriedForward": 0
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -100,33 +100,33 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Fears over cheap 'pervert glasses' explode",
-      "description": "The world is undergoing several uncomfortable shifts at the moment as technology advances at breakneck speeds. But one particular product hitting shelves is generating serious controversy around the globe. Kmart's ordinary-looking camera glasses, a spin on the now famous Meta Ray Bans, sold out shortly after their release. They recently hit Aussie shelves for just $89, but similar pairs are also widely available on Amazon and other budget retailers. To manufacturers, it is the hands-free future that we should all just get accustomed to. But to privacy campaigners -- and anyone who has changed clothes at the beach or taken their kids to a playground -- it presents a potential threat. The range of ordinary-looking glasses can photograph strangers, record video and capture conversations from the bridge of someone else's nose, often without the subject noticing a thing. While hands-free camera technology is not completely new, the price definitely is. Kmart's $89 Anko camera glasses were an immediate hit in Australia within days of their release in August. The black-rimmed glasses can capture photographs and HD video from the wearer's point of view. Kmart has defended the product, saying the glasses \"are part of an established and increasingly mainstream category of wearable technology, with similar products available globally from major technology and eyewear brands\". But their arrival has intensified a far less flattering debate over what television host Jimmy Kimmel dubbed \"pervert glasses\". Dr Dana McKay, an RMIT researcher specialising in technology and online information, warned lower prices were rapidly normalising cameras that could be difficult for bystanders to spot. \"Why does everything have a camera in it now? And should we be worried about ending up in an episode of Black Mirror?\" she said. \"This means that we're likely to see -- or not see -- these technologies more in our daily lives than ever before.\" The obvious appeal is convenience. Wearers can photograph their children, record a concert, take calls or capture a particularly photogenic cat without reaching for a phone. \"It's not all cat videos, though,\" Dr McKay said. \"The proliferation of these devices means that it's easier than ever before for someone to unobtrusively take high-quality images and video of you in places that you would normally expect to be private, like public bathrooms, gym change rooms or even of your kids at a public playground.\" Once that footage exists, it can be posted, fed into facial-recognition software or manipulated with artificial intelligence. A stranger's face, voice and movements can become the raw ingredients for a fake video they never agreed to make. \"We have control over what and how much we share,\" Dr McKay said. \"With these new technologies, we may not even know we've been recorded. \"So now we need to decide: do we want to live in a world where we can be recorded at any time, where we never really know what's real or generated? \"If not, we need to make our social preferences clear now, both in our own lives and by talking to our MPs.\" Haven't we seen this before? Google encountered a very similar problem when it unveiled Google Glass in 2013. Wearers were quickly branded \"glassholes\", businesses banned the devices and the consumer version quietly disappeared. Meta's more successful approach was to make the camera look like something people already wanted to wear. Its partnership with eyewear giant EssilorLuxottica placed cameras, microphones, speakers and artificial intelligence inside familiar Ray-Ban and Oakley frames. More than seven million pairs were reportedly sold worldwide last year. Depending on the model, Meta's glasses can take photographs, record high-resolution video, play music, make calls, translate languages and livestream directly to Facebook or Instagram. For the average consumer, it's hard not to be impressed at the capabilities. Its AI assistant can also answer questions about whatever the wearer is looking at. Meta describes its glasses as the ideal home for an assistant that \"understands the world from your perspective\". The glasses contain a recording light designed to warn people nearby. Meta says covering the light disables the camera, and a recent software update made the camera stop recording if the indicator was obscured after filming had begun. The change followed evidence that users were modifying their glasses to hide the light. Meta has since disabled cameras on thousands of tampered devices. The company insists privacy was considered from the beginning. \"That's why we built privacy into our AI glasses from the ground up,\" a Meta spokesperson told The Guardian. Nevertheless, privacy issues are popping up quite often around the globe as people speak out against the tech. American woman Toluwa Omitowoju discovered that an encounter with a man wearing camera glasses had been uploaded as a pickup video and viewed hundreds of thousands of times. \"I had no say,\" she told CBS News. In Melbourne, a man identified as Rhys said a stranger secretly photographed him at a cafe using Meta Ray-Bans, then sent him the image through the dating app Grindr. He said he never noticed the recording light. In Utah, mother Brek Mettra was filmed inside her own home while completing a Facebook Marketplace sale. Footage showing her and her young children was later posted online. \"I honestly felt extremely violated,\" she said. Those cases have generated genuine political action in certain parts of the EU and the US. In Germany, digital-rights group HateAid has filed a criminal complaint and Hamburg's privacy commissioner says a ban may be legally possible, although the federal regulator argues there is presently no basis for one. European politicians have separately questioned whether the glasses comply with the EU's strict consent and data-protection rules. Britain says existing criminal laws are sufficient, but courts, Wetherspoons pubs and Comic-Con organisers have already barred the devices, while campaigners are petitioning Parliament for restrictions on their sale. In the US, Texas Attorney-General Ken Paxton has opened an investigation into whether Meta's glasses unlawfully monitor people or collect facial data. What does Australian law say? Australia does not have a single national law banning smart glasses or recording in public. The federal Privacy Act generally regulates businesses and government agencies, rather than what one private citizen films. State and territory surveillance laws can restrict the recording of private conversations or activities, while voyeurism, stalking, harassment and intimate-image offences may also apply depending on where and how a device is used. A federal statutory tort introduced in 2025 also allows people to sue over some intentional or reckless serious invasions of privacy. But it is not a simple right to demand that every unwanted public recording be deleted. \"Without knowing, we could be filmed, recorded or photographed at any time,\" Privacy Commissioner Carly Kind warned. The Greens are preparing legislation seeking a temporary ban on imports of camera-equipped wearables while privacy protections are reviewed. The proposal would include exemptions for legitimate disability aids and medical devices. Brisbane has outlawed secret wearable-camera filming at public pools and eSafety is demanding tamper-proof recording lights and automatic blurring of bystanders. The Albanese Government, however, is not currently pursuing an import ban. Attorney-General Michelle Rowland instead released draft privacy reforms intended to impose stronger consent requirements and a \"fair and reasonable\" test on companies collecting personal information. \"There is no decent minded Australian who would think that it's okay to be filming certain cohorts in certain settings,\" Ms Rowland said. Australia's eSafety Commissioner also recommended delaying livestreams so harmful footage can be detected before it spreads. The regulator cannot currently force companies to adopt those features. \"Asking people to use a product responsibly is not an adequate safety policy,\" eSafety warned.",
-      "url": "https://www.news.com.au/technology/gadgets/fears-over-cheap-pervert-glasses-explode-worldwide-as-countries-push-for-bans/news-story/49772a5b43db5b529109880bb8c9ac9c",
-      "source": "News.com.au",
-      "image": "https://content.api.news/v3/images/bin/8f0928ddcbb29ab920d33ce387eeb25c",
-      "publishedAt": "2026-09-02T06:47:00Z",
+      "title": "Woman Charged With Planting Cameras in Allen County War Memorial Coliseum Bathrooms",
+      "description": "FORT WAYNE, Ind. (WOWO) -- A Pennsylvania woman is facing charges after police say seven cameras were placed inside women's bathrooms at the Allen County War Memorial Coliseum. Breanna Deane, 30, was charged with seven counts of voyeurism, a Level 6 felony. According to WANE-15, the investigation began in March 2023 after Coliseum staff discovered cameras in a women's bathroom near Section 215. Police initially collected four cameras, including one that was still taped to a toilet. The following day, three more cameras were found taped to toilets in a women's restroom near Section 216. Police reviewed footage from several of the cameras and found video showing a person wearing a green coat, black pants with white stripes, white shoes and carrying a light-colored purse. Coliseum security footage showed a woman matching that description entering and leaving the two bathrooms before sitting in Section 216, Row 17, Seat 1. Police then reviewed ticket records and determined a credit card belonging to Deane was used to purchase the ticket. Investigators later obtained a search warrant and detained Deane during a traffic stop. Police seized her cell phone, which contained a video of a Komets hockey game and messages she sent to her husband on March 10, 2023, around the same time she was seen at the Coliseum. One of the messages read, \"4 in one 3 in one.\" An arrest warrant was eventually issued for Deane. She was booked into the Clarion County Jail in Pennsylvania and is being held while awaiting extradition to Allen County. The reason for the delay between the 2023 investigation and the filing of charges was not immediately clear.",
+      "url": "https://wowo.com/woman-charged-with-planting-cameras-in-allen-county-war-memorial-coliseum-bathrooms/",
+      "source": "WOWO 1190 AM | 107.5 FM",
+      "image": "https://wowo.com/wp-content/uploads/2020/09/Handcuffs.jpg",
+      "publishedAt": "2026-09-04T12:44:38Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 50,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Fears over cheap 'pervert glasses' explode\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-03T15:45:58.680Z"
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Woman Charged With Planting Cameras in Allen County War Memorial Coliseum Bathrooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "This $7 Smartphone Accessory Can Spot Hidden Cameras in Seconds",
-      "description": "Researchers have developed a $7 smartphone accessory that can detect hidden cameras within five seconds with 94% accuracy. \"SweepLED\", an LED case that clips to any smartphone and spots illegal filming by covert cameras in everyday spaces, was developed by a team of scientists at Korea Advanced Institute of Science and Technology (KAIST). Hidden cameras can be placed in a range of everyday spaces, including hotels, short-term rentals, and restrooms, creating a need for detection tools that members of the public can use. Existing portable detectors, however, often rely on users identifying bright reflections, which can make it difficult to distinguish a camera lens from an ordinary reflective surface. Reflections from materials such as metal, glass, or glossy plastic can, for example, be mistaken for a camera lens, resulting in false positives. According to a news release, SweepLED takes a different approach by looking at how those reflections behave. The system keeps the smartphone camera fixed while changing only the direction of the LED light, then analyzes the reflections that appear on nearby surfaces. Reflections from ordinary glossy materials tend to move or disappear as the direction of the light changes. Camera lenses, on the other hand, produce distinctive changes in the shape of their reflections because of the lens, aperture, and sensor structures inside them. The research team used deep learning to analyze these changes over time and distinguish between the two. Instead of simply asking users to look for \"bright spots,\" SweepLED examines both the movement of reflections and changes in their shape as the light is directed at an object from different angles. In short, SweepLED uses a smartphone's camera and LED light, combined with deep-learning analysis, to identify the telltale reflection patterns of hidden camera lenses. The approach could provide a more reliable way to identify hidden camera lenses concealed inside everyday objects commonly found in lodging spaces, including chargers, clocks, remote controls, and other household items. According to Digital Trends, SweepLED captures the entire light sweep as a short video, which is then analyzed by an AI model trained to recognize the distinctive deformations produced by camera lenses. The system can then identify where a hidden camera may be located. In tests involving 30 everyday objects that could realistically be found in a hotel room or rental property, SweepLED detected hidden cameras with about 94% accuracy, taking less than five seconds to scan each object. As Digital Trends notes, a recent UCL study found that people using consumer-grade hidden camera detectors missed 59% of the devices during testing. Against that backdrop, SweepLED's 94% accuracy in laboratory testing is a promising result, although further testing in real-world settings will be needed to see how well it performs outside the lab. The full study can be read here. Image creditsHeader photo licensed via Depositphotos.",
-      "url": "https://petapixel.com/2026/09/03/this-7-smartphone-accessory-can-spot-hidden-cameras-in-seconds/",
-      "source": "PetaPixel",
-      "image": "https://petapixel.com/assets/uploads/2026/09/hidden-camera-detector-.jpg",
-      "publishedAt": "2026-09-03T10:19:21Z",
+      "title": "\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband",
+      "description": "A Nigerian woman living in the UK for her master's degree has shared how a hidden camera allegedly exposed her neighbour making advances towards her husband while her younger sister was away visiting their parents. The woman said she had initially been uncomfortable leaving her younger sister to live with her husband in Nigeria, but eventually trusted them because they were family. According to her, months after relocating to the UK, a neighbour called and questioned her decision. The neighbour reportedly said she had noticed her husband and younger sister frequently leaving the house together, returning together and going shopping together. Woman sets trap after neighbour's warning The woman said the information left her worried and unable to concentrate, prompting her to seek the help of a trusted friend. She explained that her friend installed a hidden camera in the house, which allowed her to monitor what was happening remotely from the UK. The woman said the camera later captured an unexpected scene after her younger sister travelled to visit their parents. She stated that she saw her neighbour inside the house making advances towards her husband in front of the camera. Story sparks questions about trust The revelation has raised questions about trust, relationships and the assumptions people may make when they notice unusual movements around a couple's home. The woman did not disclose what happened after she discovered the alleged encounter, leaving the subsequent reaction of her husband and neighbour unclear. Her account highlights how a warning from an unexpected source led her to investigate a situation she initially feared involved her husband and younger sister, only to reportedly discover a different development.",
+      "url": "https://www.gistreel.com/i-saw-my-neighbour-lady-shares-shocking-moment-hidden-camera-captured-her-with-husband/",
+      "source": "GistReel",
+      "image": "https://www.gistreel.com/wp-content/uploads/2026/09/GridArt_20260904_084549570-scaled.jpg",
+      "publishedAt": "2026-09-04T09:44:53Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -138,8 +138,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"This $7 Smartphone Accessory Can Spot Hidden Cameras in Seconds\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-03T15:45:58.680Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband",
+      "description": "A Nigerian woman living in the UK for her master's degree has shared how a hidden camera allegedly exposed her neighbour making advances towards her husband while her younger sister was away visiting their parents. The woman said she had initially been uncomfortable leaving her younger sister to live with her husband in Nigeria, but eventually trusted them because they were family. According to her, months after relocating to the UK, a neighbour called and questioned her decision. The neighbour reportedly said she had noticed her husband and younger sister frequently leaving the house together, returning together and going shopping together. Woman sets trap after neighbour's warning The woman said the information left her worried and unable to concentrate, prompting her to seek the help of a trusted friend. She explained that her friend installed a hidden camera in the house, which allowed her to monitor what was happening remotely from the UK. The woman said the camera later captured an unexpected scene after her younger sister travelled to visit their parents. She stated that she saw her neighbour inside the house making advances towards her husband in front of the camera. Story sparks questions about trust The revelation has raised questions about trust, relationships and the assumptions people may make when they notice unusual movements around a couple's home. The woman did not disclose what happened after she discovered the alleged encounter, leaving the subsequent reaction of her husband and neighbour unclear. Her account highlights how a warning from an unexpected source led her to investigate a situation she initially feared involved her husband and younger sister, only to reportedly discover a different development.",
+      "url": "https://www.thetimes.com.ng/2026/09/i-saw-my-neighbour-lady-shares-shocking-moment-hidden-camera-captured-her-with-husband/",
+      "source": "TheTimes.com.ng",
+      "image": "https://www.thetimes.com.ng/wp-content/uploads/2026/09/GridArt_20260904_084549570-scaled.jpg",
+      "publishedAt": "2026-09-04T09:45:19Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -161,7 +183,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-03T15:45:58.680Z"
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -183,16 +205,16 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-03T15:45:58.680Z"
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
     },
     {
-      "provider": "NewsData.io",
-      "title": "Man Arrested For Voyeurism",
-      "description": "The owner of Hot Springs Physical Therapy contacted the Sierra County Sherrif’s Department after a suspicious device was discovered in a bathroom at the business.",
-      "url": "https://www.gpkmedia.com/news/man-arrested-for-voyeurism/article_8d40edd6-438e-4abc-84e9-89ce396704c3.html",
-      "source": "Sierra County Sentinel & Kchs Radio",
-      "image": "https://bloximages.newyork1.vip.townnews.com/gpkmedia.com/content/tncms/assets/v3/editorial/1/93/1933714b-8354-48f1-a49a-7148c6f79bc4/6a9878ae389c1.image.jpg?crop=538%2C538%2C14%2C11&resize=300%2C300&order=crop%2Cresize",
-      "publishedAt": "2026-09-02 19:26:00",
+      "provider": "NewsAPI.org",
+      "title": "Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World",
+      "description": "The Window Camera E10 might be the easiest security camera to install ever. Eufy's also got a Video Doorbell S4 with a 'VR Mode' that lets you look at 180-degree security footage.",
+      "url": "https://gizmodo.com/eufys-new-window-sticking-security-camera-is-a-peeping-tom-for-the-outside-world-2000806002",
+      "source": "Gizmodo.com",
+      "image": "https://gizmodo.com/app/uploads/2026/09/Eufy-WIndow-Camera-E10-1200x675.jpg",
+      "publishedAt": "2026-09-03T07:30:19Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -204,8 +226,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man Arrested For Voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-03T15:45:58.680Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-04T15:44:26.945Z"
     }
   ]
 }
