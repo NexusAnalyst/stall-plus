@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:44:26.945Z",
+  "updatedAt": "2026-09-05T14:34:02.728Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 6,
-    "rejected": 63,
+    "published": 3,
+    "pending": 10,
+    "rejected": 55,
     "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -54,6 +54,27 @@
     }
   ],
   "articles": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Tempe Union parents question district amid voyeurism charges",
+      "description": "An employee of Tempe Union High School District is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School. Parents spoke out after a Tempe Union High School District security officer was accused of spying on female students while they undressed in a makeshift changing room. A number of parents spoke at a Sept. 2 school board meeting, calling on the district to increase safety procedures and transparency with families. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in south Tempe. The district said girls were changing in a dance room while the locker room was undergoing renovations. Police believe cameras in the makeshift changing room were \"inadvertently\" left on. Arizona does not have a law that mandates security cameras in schools. Tracy Pearl, a technology and law professor at Arizona State University, previously told The Republic the dance room essentially became a de facto room because the girls were instructed to change in it. That means the school would have been legally required to ensure there were no cameras in the room or obtain consent from the students being recorded or their parents. One parent, Ben Zorensky, questioned why the district had a camera in the room when it prohibits cameras in changing areas. Because the camera was installed in 2024, Zorensky also questioned whether other female students could have been potential victims. Another parent, Cecilia Trevizo, questioned why the district did not inform parents that students were being recorded and that cameras had been installed in multiple dance rooms. Trevizo said a staff member previously asked for the camera to be removed because of the dancers' privacy concerns. She questioned why a camera was installed in a dance room in the first place. Trevizo also said another security guard insisted the camera remain because of concerns that students were skipping class. \"There were multiple opportunities to stop this,\" Trevizo said. \"There were multiple opportunities to protect these students, and these opportunities were missed.\" Trevizo called on the governing board to hold district leadership accountable for failing to keep the children safe, and to conduct a third-party investigation into who requested the cameras and who approved their installation. Another parent said he's unsure if his daughter may have been a victim and has received limited information from the district. While the district previously said Tempe police had identified all victims, it released a statement to parents on Aug. 31 indicating police now believed there were more victims. Have a news tip? Contact The Arizona Republic and azcentral.com at newstips@arizonarepublic.com.",
+      "url": "https://eu.azcentral.com/story/news/education/2026/09/05/corona-del-sol-parents-question-camera-dance-room/91618449007/",
+      "source": "AZ Central",
+      "image": "https://www.gannett-cdn.com/-mm-/2655786dc94953efa60a8fe239232a36f792454f/c=0-246-2397-1600/local/-/media/2018/02/21/DetroitFreeP/DetroitFreePress/636548368218373707-ruck-crowded-JUMP-3.jpg?auto=webp&format=pjpg&width=1200",
+      "publishedAt": "2026-09-05T13:02:19Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Tempe Union parents question district amid voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
     {
       "provider": "NewsAPI.ai",
       "title": "Ex-Tempe school employee scheduled to appear in court on voyeurism charges",
@@ -100,33 +121,96 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Woman Charged With Planting Cameras in Allen County War Memorial Coliseum Bathrooms",
-      "description": "FORT WAYNE, Ind. (WOWO) -- A Pennsylvania woman is facing charges after police say seven cameras were placed inside women's bathrooms at the Allen County War Memorial Coliseum. Breanna Deane, 30, was charged with seven counts of voyeurism, a Level 6 felony. According to WANE-15, the investigation began in March 2023 after Coliseum staff discovered cameras in a women's bathroom near Section 215. Police initially collected four cameras, including one that was still taped to a toilet. The following day, three more cameras were found taped to toilets in a women's restroom near Section 216. Police reviewed footage from several of the cameras and found video showing a person wearing a green coat, black pants with white stripes, white shoes and carrying a light-colored purse. Coliseum security footage showed a woman matching that description entering and leaving the two bathrooms before sitting in Section 216, Row 17, Seat 1. Police then reviewed ticket records and determined a credit card belonging to Deane was used to purchase the ticket. Investigators later obtained a search warrant and detained Deane during a traffic stop. Police seized her cell phone, which contained a video of a Komets hockey game and messages she sent to her husband on March 10, 2023, around the same time she was seen at the Coliseum. One of the messages read, \"4 in one 3 in one.\" An arrest warrant was eventually issued for Deane. She was booked into the Clarion County Jail in Pennsylvania and is being held while awaiting extradition to Allen County. The reason for the delay between the 2023 investigation and the filing of charges was not immediately clear.",
-      "url": "https://wowo.com/woman-charged-with-planting-cameras-in-allen-county-war-memorial-coliseum-bathrooms/",
-      "source": "WOWO 1190 AM | 107.5 FM",
-      "image": "https://wowo.com/wp-content/uploads/2020/09/Handcuffs.jpg",
-      "publishedAt": "2026-09-04T12:44:38Z",
+      "title": "In China, grassroots investigators work to stop illicitly recorded adult content",
+      "description": "Zhou Ninghe was browsing the internet one day when he saw a surveillance video of a changing room, showing several women undressing and showering. At first, he assumed the video was staged, the type of soft-core pornography that can occasionally slip past the automated systems that power much of China's tough internet controls, before a human censor spots and deletes it. But then he recognized the venue, a popular water park near his home in Fuzhou. A corporate fraud investigator, Mr. Zhou began digging and soon discovered the video was the tip of a sordid iceberg of stolen and illicitly recorded content, much of it traded and sold in private chat groups. Over the next three months, he spent most of his spare time downloading videos and compiling evidence, building around 10 cases with identifiable perpetrators and filing reports with the police, but nothing came of it. \"Frustrated by the lack of progress through official channels, I decided to expose the footage publicly online instead,\" Mr. Zhou said. \"Within a single month of posting, one perpetrator was arrested.\" Pornography is illegal in China, with potential prison terms for those found guilty of producing or distributing sexual content for profit. Popular online porn sites, such as those operated by Montreal-based Aylo, are all censored by the Great Firewall. But just as critics of anti-pornography age-verification laws have warned could happen in the West, blocking mainstream websites has created a booming, unregulated black market for both consensual content - like porn produced in Taiwan for the Chinese market - along with stolen intimate videos, illicitly recorded voyeur content and child sex abuse material (CSAM). Last year, the Chinese state-owned Southern Daily reported on a 100,000-user-strong Telegram group named \"MaskPark tree hole forum,\" in which men shared intimate photos and videos of their partners, along with secretly recorded footage of other women. Similar groups have also been found sharing animal abuse videos and so-called \"gore\" content. Such networks are not limited to China. CSAM has long been spread via private forums and chat groups, while stories like that of Gisèle Pelicot's in France have exposed horrifying cases of organized abuse in which videos are created to be shared online. The difference in China is that because all adult content is illegal, users initially seeking consensual material may be more likely to find abuse content. Huang Simin, a Chinese lawyer who specializes in sexual violence cases, said the MaskPark case \"heightened the concerns of many women, as voyeuristic incidents seem to be ubiquitous.\" \"I've noticed a general sense of powerlessness,\" she said, adding many felt \"there's no effective way to address such incidents.\" Grassroots investigators like Mr. Zhou see themselves as one potential solution. Under the moniker \"Rat Catcher,\" Mr. Zhou has made it his mission to track down such content and bring perpetrators to justice, and he's already seen tangible results. In February, after being alerted by Mr. Zhou, police in Jinan arrested the alleged ringleaders of a group recording and sharing covert footage from more than a dozen bathhouses and hot springs across China. In May, Mr. Zhou found videos being shared of primary school children in Hunan going to the bathroom; the alleged perpetrators were arrested a month later. Mr. Zhou's work is not just done online. Many of his most popular videos show him travelling to a hotel or other location where people are being covertly recorded, either to confront the alleged perpetrators or gather evidence. Often, Mr. Zhou will appear in the illicit footage in person, both to confirm where a hidden camera is located and to make himself a victim so he can file a police report. While scammers often threaten to expose illicit videos for blackmail - whether or not they have such footage - Mr. Zhou said it is rare in the cases he tracks. Blackmailing ordinary people brings with it the major risk of being caught for potentially little reward. Instead, the illegal footage itself \"functions as a commercial product with layered profit channels,\" Mr. Zhou said. Illegal porn sites sell videos for around $7 a clip or access to live feeds of hidden cameras in hotels and changing rooms for considerably more. More often, however, Mr. Zhou said potential customers are encouraged to join private groups, paying a subscription to get access to new videos every day, like an illegal, abusive form of OnlyFans. In January, China criminalized sharing \"obscene materials\" online, in a broad law apparently targeted at cases like MaskPark but one free speech advocates have warned could criminalize consensual sexting. It followed a ban on installing cameras in hotel rooms, dormitories and restrooms imposed last year. Despite this, Mr. Zhou said legal loopholes remain, and the current system means people sharing videos online may face tougher punishments than those producing them in the first place. Grassroots activism remains key, he said, to stamping out illicit recording. In July, Mr. Zhou quit his job to dedicate himself full time to such work, even as his growing fame - he has more than 100,000 followers on Xiaohongshu, an Instagram-like app - has made it more difficult. \"Three separate hotels have outright refused to check me in,\" he said. Mr. Zhou has had his government ID, address and cellphone number leaked online by criminals and often receives anonymous threats. \"While the harassment is stressful, it does not break my resolve to continue,\" Mr. Zhou said. Importantly, he's seeing results: In the past year, Mr. Zhou said there has been a pronounced drop in the number of videos from hidden cameras in bathhouses and restrooms, something he put down to greater public awareness. \"I've learned most groups have paused monetization operations,\" he said. \"They either stopped filming entirely or are holding onto footage without distributing it online - they fear I'll trace the clips, report them to police and land them in legal trouble, making the risk far outweigh any profit.\"",
+      "url": "https://www.theglobeandmail.com/world/article-china-grassroots-investigators-illicit-recorded-adult-content/",
+      "source": "The Globe and Mail",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TVBOUSNZRNBR5JN3MXAC3RTNP4.jpg?auth=2a5789c96e3a1fa8f29c34a1508cf3b6cf30cc2b37e210efbfadb16c676f1e02&width=560&quality=80",
+      "publishedAt": "2026-09-05T12:00:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (5 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (5 terms), category terms (1), published within 7 days). \"In China, grassroots investigators work to stop illicitly recorded adult content\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Security expert: school camera likely 'slipped through the cracks' in Corona Del Sol case",
+      "description": "Parents remain without many answers in the wake of the arrest of a former Tempe Union High School District employee and the subsequent voyeurism investigation at Corona Del Sol High School, sparking calls for transparency and a third-party probe. TEMPE, AZ -- Parents remain without many answers in the wake of the arrest of a former Tempe Union High School District employee and the subsequent voyeurism investigation at Corona Del Sol High School, sparking calls for transparency and a third-party probe. The district told parents a camera was inadvertently left running in the school's dance room while it was being used as a makeshift locker room, capturing students in \"various states of undress,\" according to a police report. Investigators say 28-year-old Antony Cruz, a former district surveillance officer, downloaded footage to personal devices. He told a judge he saved the footage for documentation purposes. The district has told parents the dance room was never designated as a temporary changing room. An internal investigation into how and why that occurred is on hold as Tempe police continue to identify and contact victims, leaving the district tight-lipped in an effort to preserve the integrity of investigators' work. \"It's that kind of stuff that sometimes slips through the cracks,\" Joe Hendry, a security consultant specializing in K-12 schools, said of the need for school staff to monitor how students use rooms where cameras are present. \"Those are the kind of things the school needs to be aware of. Someone needs to be watching for that.\" Hendry explained that in best privacy practice, schools often install cameras outside rooms to monitor who comes in and out without capturing what happens inside--such as a camera in a hallway facing a door. The district has said the dance room camera was installed in 2024 for safety and security because the room has a door that exits outside. The district told parents there are currently no cameras in any changing areas, bathrooms, or classrooms district-wide, but there are cameras in common areas like gyms, cafeterias, weight rooms, and practice rooms. \"[Common areas] should have comprehensive coverage in them,\" Hendry noted. \"So, it shouldn't be a question that there's cameras in those areas.\" During Wednesday's school board meeting, a parent called for a third-party investigation into various factors surrounding the dance room camera, including who requested and approved its location, why it was installed, the scope of what it captured, who had access and why families were not informed of its installation. Superintendent Stacia Wilson acknowledged the impact the incident has had on students and families. \"To the families who spoke here tonight: thank you,\" Dr. Wilson said. \"We know it is not easy to come forward and share your concerns, and we appreciate you giving us the opportunity to listen.\" The superintendent said the district will share further information \"as it becomes available and as we are able to do so.\" A Maricopa County judge entered a not-guilty plea to eight counts of voyeurism on behalf of Cruz during his arraignment. His next court date is Oct. 20 for an initial pretrial conference, with the trial scheduled to begin Dec. 31.",
+      "url": "https://www.abc15.com/news/region-southeast-valley/tempe/security-expert-school-camera-likely-slipped-through-the-cracks-in-corona-del-sol-case",
+      "source": "abc15 Arizona",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/70b90ae/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc4%2F38%2F75b2a8574685a2ec369b9f4c59dc%2Fdb-4898.jpg",
+      "publishedAt": "2026-09-05T00:38:29Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
       "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (3 terms)",
+        "restroom context (4 terms)",
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Woman Charged With Planting Cameras in Allen County War Memorial Coliseum Bathrooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Security expert: school camera likely 'slipped through the cracks' in Corona Del Sol case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband",
-      "description": "A Nigerian woman living in the UK for her master's degree has shared how a hidden camera allegedly exposed her neighbour making advances towards her husband while her younger sister was away visiting their parents. The woman said she had initially been uncomfortable leaving her younger sister to live with her husband in Nigeria, but eventually trusted them because they were family. According to her, months after relocating to the UK, a neighbour called and questioned her decision. The neighbour reportedly said she had noticed her husband and younger sister frequently leaving the house together, returning together and going shopping together. Woman sets trap after neighbour's warning The woman said the information left her worried and unable to concentrate, prompting her to seek the help of a trusted friend. She explained that her friend installed a hidden camera in the house, which allowed her to monitor what was happening remotely from the UK. The woman said the camera later captured an unexpected scene after her younger sister travelled to visit their parents. She stated that she saw her neighbour inside the house making advances towards her husband in front of the camera. Story sparks questions about trust The revelation has raised questions about trust, relationships and the assumptions people may make when they notice unusual movements around a couple's home. The woman did not disclose what happened after she discovered the alleged encounter, leaving the subsequent reaction of her husband and neighbour unclear. Her account highlights how a warning from an unexpected source led her to investigate a situation she initially feared involved her husband and younger sister, only to reportedly discover a different development.",
-      "url": "https://www.gistreel.com/i-saw-my-neighbour-lady-shares-shocking-moment-hidden-camera-captured-her-with-husband/",
-      "source": "GistReel",
-      "image": "https://www.gistreel.com/wp-content/uploads/2026/09/GridArt_20260904_084549570-scaled.jpg",
-      "publishedAt": "2026-09-04T09:44:53Z",
+      "title": "West Virginia principal suspended after recording devices found in girls' locker rooms",
+      "description": "Add Yahoo as a preferred source to see more of our stories on Google. School administrators immediately suspended a West Virginia high school principal Wednesday after officials reportedly discovered recording devices placed in multiple locker rooms. The criminal investigation involves Eric James, 53, who served as principal of Brooke High School in Wellsburg. Officials said four devices were found in the female physical education locker rooms, including a separate locker room and another dressing area used by the school's dance team, according to WTOV 9. \"Yesterday, after students were released, Brooke County Schools was informed of a criminal investigation into allegations that a recording device was placed in a locker room at Brooke High School,\" a Thursday memo from the school system said, according to Lede News. Loudoun County High School Student Accused Of Filming Students In Bathroom Under Investigation The devices were removed from campus with the help of school security officers, staff and law enforcement, according to reports. Read On The Fox News App Additional devices were reportedly confiscated at James' home, officials said. James is being held at the Northern Regional Jail in Marshall County, West Virginia, on $100,000 bond, according to the state Magistrate Database and the West Virginia Regional Jail Authority. Florida Man Allegedly Recorded Girls In Church Bathroom With Hidden Camera, Arrested On Voyeurism Charges He was charged Thursday with two felony counts, including one count of intentionally intercepting or attempting to intercept wire, oral or electronic communications and one count of breaking and entering a nonresidence. The school system said it \"will be meeting with students, parents, and staff to offer supportive measures while the investigations continue,\" according to Lede News. Click Here To Download The Fox News App \"The safety, security, and privacy of our students are fundamental responsibilities of our school system. Conduct that compromises those responsibilities will not be tolerated. The school system is cooperating fully with law enforcement and is also conducting its own investigations into the matter,\" the school said. Original article source: West Virginia principal suspended after recording devices found in girls' locker rooms",
+      "url": "https://www.yahoo.com/news/us/articles/west-virginia-principal-suspended-recording-190208765.html",
+      "source": "Yahoo",
+      "image": "https://s.yimg.com/lo/mysterio/api/a1e260d45f29a49d9b44a6a2699be83d1420c1d88467735b39fd634c91ab249d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F76d65276d9664035002c46b58ca70248.gif",
+      "publishedAt": "2026-09-04T19:02:08Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"West Virginia principal suspended after recording devices found in girls' locker rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "West Virginia principal suspended after recording devices found in girls' locker rooms",
+      "description": "School administrators immediately suspended a West Virginia high school principal Wednesday after officials reportedly discovered recording devices placed in multiple locker rooms. The criminal investigation involves Eric James, 53, who served as principal of Brooke High School in Wellsburg. Officials said four devices were found in the female physical education locker rooms, including a separate locker room and another dressing area used by the school's dance team, according to WTOV 9. \"Yesterday, after students were released, Brooke County Schools was informed of a criminal investigation into allegations that a recording device was placed in a locker room at Brooke High School,\" a Thursday memo from the school system said, according to Lede News. LOUDOUN COUNTY HIGH SCHOOL STUDENT ACCUSED OF FILMING STUDENTS IN BATHROOM UNDER INVESTIGATION The devices were removed from campus with the help of school security officers, staff and law enforcement, according to reports. Additional devices were reportedly confiscated at James' home, officials said. James is being held at the Northern Regional Jail in Marshall County, West Virginia, on $100,000 bond, according to the state Magistrate Database and the West Virginia Regional Jail Authority. FLORIDA MAN ALLEGEDLY RECORDED GIRLS IN CHURCH BATHROOM WITH HIDDEN CAMERA, ARRESTED ON VOYEURISM CHARGES He was charged Thursday with two felony counts, including one count of intentionally intercepting or attempting to intercept wire, oral or electronic communications and one count of breaking and entering a nonresidence. The school system said it \"will be meeting with students, parents, and staff to offer supportive measures while the investigations continue,\" according to Lede News. \"The safety, security, and privacy of our students are fundamental responsibilities of our school system. Conduct that compromises those responsibilities will not be tolerated. The school system is cooperating fully with law enforcement and is also conducting its own investigations into the matter,\" the school said.",
+      "url": "https://www.wrganews.com/2026/09/04/west-virginia-principal-suspended-after-recording-devices-found-in-girls-locker-rooms/",
+      "source": "Local News Now (WRGA AM)",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/brooke-county-schools.gif",
+      "publishedAt": "2026-09-04T19:02:08Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"West Virginia principal suspended after recording devices found in girls' locker rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Smartphone LED and AI Detect Hidden Cameras",
+      "description": "A technology has been developed to detect illegal hidden cameras in places like hotels and restrooms by simply attaching a 10,000 Korean won light-emitting diode, LED device to a smartphone. Unlike conventional methods of visually identifying lenses, AI, artificial intelligence analyzes light reflection patterns to detect camera lenses within five seconds. KAIST announced on the 30th that Professor Han Jun's team from the School of Computing, in collaboration with researchers from the National University of Singapore, NUS, and Singapore Management University, SMU, developed the smartphone-based illegal camera detection technology 'SweepLED.' The research results were presented at the international mobile computing conference 'ACM MobiSys 2026' in June. Existing portable hidden camera detectors often required users to manually identify bright spots reflected from camera lenses after illumination. This led to accuracy issues, as users frequently mistook reflections from metal, glass, or glossy plastic for camera lenses. The research team overcame these limitations with a novel approach. While keeping the smartphone camera fixed, the LED light continuously changes direction, capturing reflection changes on object surfaces. Reflections from typical glossy objects move or disappear based on the light's direction. In contrast, camera lenses exhibit unique reflection patterns when illuminated from different angles due to their internal structure of multiple lenses, apertures, and image sensors. This method analyzes the position and shape of time-varying reflections using deep learning to determine if they originate from camera lenses. Instead of identifying a single bright spot, the AI analyzes the entire pattern of changes when light is shone from multiple directions. In experiments on 30 objects commonly found in living spaces -- such as chargers, alarm clocks, remote controls, and decorations -- the technology achieved a 94% accuracy rate in detecting hidden cameras, with each inspection taking less than five seconds. The cost has also been reduced. The core component of the LED device attached to the smartphone costs around 7 dollars (approximately 10,000 Korean won). The research team expects this technology can be developed into a low-cost hidden camera detector that general consumers can carry and use like a smartphone accessory. Professor Han Jun from KAIST stated, \"Illegal hidden cameras seriously threaten personal safety and privacy in everyday spaces,\" and added, \"By combining low-cost hardware with AI analysis, we have demonstrated the potential for a detection technology that even non-experts can use easily.\"",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "source": "조선일보",
+      "image": "https://www.chosun.com/resizer/v2/HFSTKZJVMNSDKNLFMRSTANJYMY.jpg?auth=ca4b4b31e7de329febd255ad4b332aa3cedfb7d55ee476a7f1433c0707971546&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-30T03:12:40Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -138,17 +222,17 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Smartphone LED and AI Detect Hidden Cameras\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     },
     {
-      "provider": "NewsAPI.ai",
-      "title": "\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband",
-      "description": "A Nigerian woman living in the UK for her master's degree has shared how a hidden camera allegedly exposed her neighbour making advances towards her husband while her younger sister was away visiting their parents. The woman said she had initially been uncomfortable leaving her younger sister to live with her husband in Nigeria, but eventually trusted them because they were family. According to her, months after relocating to the UK, a neighbour called and questioned her decision. The neighbour reportedly said she had noticed her husband and younger sister frequently leaving the house together, returning together and going shopping together. Woman sets trap after neighbour's warning The woman said the information left her worried and unable to concentrate, prompting her to seek the help of a trusted friend. She explained that her friend installed a hidden camera in the house, which allowed her to monitor what was happening remotely from the UK. The woman said the camera later captured an unexpected scene after her younger sister travelled to visit their parents. She stated that she saw her neighbour inside the house making advances towards her husband in front of the camera. Story sparks questions about trust The revelation has raised questions about trust, relationships and the assumptions people may make when they notice unusual movements around a couple's home. The woman did not disclose what happened after she discovered the alleged encounter, leaving the subsequent reaction of her husband and neighbour unclear. Her account highlights how a warning from an unexpected source led her to investigate a situation she initially feared involved her husband and younger sister, only to reportedly discover a different development.",
-      "url": "https://www.thetimes.com.ng/2026/09/i-saw-my-neighbour-lady-shares-shocking-moment-hidden-camera-captured-her-with-husband/",
-      "source": "TheTimes.com.ng",
-      "image": "https://www.thetimes.com.ng/wp-content/uploads/2026/09/GridArt_20260904_084549570-scaled.jpg",
-      "publishedAt": "2026-09-04T09:45:19Z",
+      "provider": "NewsData.io",
+      "title": "Brooke High School principal arrested after hidden cameras found in girls’ locker room",
+      "description": "WELLSBURG, W.Va. — The principal of Brooke High School has been arrested after hidden cameras were discovered inside the school, according to the Brooke County Sheriff’s Office.",
+      "url": "https://www.wvnews.com/news/wvnews/brooke-high-school-principal-arrested-after-hidden-cameras-found-in-girls-locker-room/article_92697f9c-35c1-4867-a2e7-12c6b8a28286.html",
+      "source": "Wv News",
+      "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/6/0b/60b58862-d874-48ca-a4e3-5efdd9e9152b/6a9adcdee9bb1.image.jpg?resize=300%2C329",
+      "publishedAt": "2026-09-04 14:53:00",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -160,8 +244,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"\"I saw my neighbour...\" -- Lady shares shocking moment hidden camera captured her with husband\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brooke High School principal arrested after hidden cameras found in girls’ locker room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -183,7 +267,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -205,7 +289,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -227,7 +311,29 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-04T15:44:26.945Z"
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "[Photo] Cho Kuk and company march on prosecutors' office for probe into first lady",
+      "description": "Cho Kuk (center), the leader of the Rebuilding Korea Party, and fellow lawmakers-elect from the party march from the Supreme Prosecutors' Office in Seoul on April 11, 2024, after holding a press event outside the office where they called for an investigation into alleged impropriety by first lady Kim Keon-hee. (Yoon Woon-sik/The Hankyoreh) In their first official act after winning their elections, Cho Kuk and fellow lawmakers-elect from the Rebuilding Korea Party marched to the Supreme Prosecutors' Office in Seoul on Thursday. Cho and other of the party's proportional representatives held a press briefing in front of the Supreme Prosecutors' Office in the capital city's Seocho District that day where they urged prosecutors to summon first lady Kim Keon-hee for questioning in relation to alleged improprieties. \"We wish to relay the people's longing for judgment to be passed on Yoon Suk-yeol's prosecutorial dictatorship, which was reflected in the results of the general election, to the prosecution service,\" Cho said after the march. \"The Korean people are asking why prosecutors are failing to investigate those who are rampantly abusing power and why the prosecution service's unforgiving scrutiny fails to target the president and his family,\" he added. Cho went on to touch on the Dior bag scandal that erupted surrounding the first lady's acceptance of a luxury clutch. \"Do prosecutors really buy the presidential office's explanation that this was a 'spy camera sting'?\" he asked. \"If it were a hidden camera sting, prosecutors should subpoena those involved and punish them.\" The new party's leader went on to say that if prosecutors failed to \"follow the commands of the people,\" he and his party would work together with the Democratic Party to quickly pursue legislation assigning special counsel to the cases surrounding Kim Keon-hee once the 22nd National Assembly kicks off. \"If prosecutors don't take action and investigate, the first lady will face a subpoena and questioning from a special counsel,\" he said. Following their press conference, Cho and the other lawmakers-elect marched from the gate of the Supreme Prosecutors' Office to outside the Supreme Court while carrying signs that read \"Subpoena first lady Kim Keon-hee.\" By Yoon Woon-sik, senior staff writer",
+      "url": "https://english.hani.co.kr/arti/english_edition/e_national/1136678.html",
+      "source": "한겨레신문",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/970/617/imgdb/original/2024/0415/7817131662063674.webp",
+      "publishedAt": "2026-09-04T19:21:19Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 40,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms",
+        "failed category gate"
+      ],
+      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"[Photo] Cho Kuk and company march on prosecutors' office for probe into first lady\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-05T14:34:02.728Z"
     }
   ]
 }
