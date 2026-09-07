@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:54:39.985Z",
+  "updatedAt": "2026-09-07T17:13:25.842Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 5,
-    "rejected": 64,
+    "pending": 2,
+    "rejected": 66,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -121,91 +121,26 @@
   "pendingReview": [
     {
       "provider": "NewsData.io",
-      "title": "Windcrest man allegedly used hidden camera to record children in pool rental bathroom, affidavit says",
-      "description": "A Windcrest man faces a state jail felony charge after authorities say he used a camera hidden behind a hole in a bathroom wall to record two nude 7-year-old girls and other guests who had rented his backyard pool, according to an arrest affidavit.",
-      "url": "https://us.headtopics.com/news/windcrest-man-allegedly-used-hidden-camera-to-record-87448587",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/9/6/ksatnews/windcrest-man-allegedly-used-hidden-camera-to-reco-windcrest-man-allegedly-used-hidden-camera-to-reco-D2A75C097B9C11EE8D4E6C64D5C0DA05-16x9.webp",
-      "publishedAt": "2026-09-06 01:06:55",
+      "title": "Girl, 14, among victims recorded on hidden bathroom camera; suspect faces several charges",
+      "description": "A Louisville man has been arrested after police said he secretly recorded multiple people, including a minor, using a hidden camera.",
+      "url": "https://www.wbko.com/2026/09/06/14-year-old-girl-among-victims-recorded-hidden-bathroom-camera-man-faces-several-charges/",
+      "source": "Wbko",
+      "image": "https://gray-wbko-prod.gtv-cdn.com/resizer/v2/BVC4JZTUYNE2DL6V2ZUYQH2MPE.png?auth=a3408f2ae39fdb6231cbb9f4fcb2bac46115c9d1ec4483ef146017b75c452255&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-06 13:22:31",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 45,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
-        "category terms (1)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Windcrest man allegedly used hidden camera to record children in pool rental bathroom, affidavit says\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-06T14:54:39.985Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Windcrest man allegedly used hidden camera to record children in pool rental bathroom, affidavit says",
-      "description": "A Windcrest man faces a state jail felony charge after authorities say he used a camera hidden behind a hole in a bathroom wall to record two nude 7-year-old girls and other guests who had rented his backyard pool, according to an arrest affidavit.",
-      "url": "https://www.ksat.com/news/local/2026/09/06/windcrest-man-used-hidden-camera-to-record-children-in-pool-rental-bathroom-affidavit-says/",
-      "source": "Ksat",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ERI3TITGHZA2ROHLOAUWWSJHJQ.png",
-      "publishedAt": "2026-09-06 00:25:23",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Windcrest man allegedly used hidden camera to record children in pool rental bathroom, affidavit says\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-06T14:54:39.985Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Brooke High Principal Charged After Hidden Cameras Found in Girls' Locker Rooms",
-      "description": "Eric James, principal of Brooke High School in Wellsburg, WV, faces felony charges after hidden cameras were found in girls' locker rooms.",
-      "url": "https://hoodline.com/2026/09/brooke-high-principal-charged-after-hidden-cameras-found-in-girls-locker-rooms/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/9/brooke-high-principal-charged-after-hidden-cameras-found-in-girls-locker-rooms.webp",
-      "publishedAt": "2026-09-05 16:51:50",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Brooke High Principal Charged After Hidden Cameras Found in Girls' Locker Rooms\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-06T14:54:39.985Z"
-    },
-    {
-      "provider": "NewsAPI.org",
-      "title": "Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy",
-      "description": "This gadget only costs $7 but can help your catch hidden cameras through the use of the companion AI app that installs on your phone. It works by changing the location of the LED light source to compare different reflections and determine if it's a hidden cam…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185368781",
-      "source": "Slashdot.org",
-      "image": null,
-      "publishedAt": "2026-09-02T13:13:37Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Researchers build a $7 smartphone clip-on that spots hidden cameras — AI and dynamic LED grid deliver 94% accuracy\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-06T14:54:39.985Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Girl, 14, among victims recorded on hidden bathroom camera; suspect faces several charges\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-07T17:13:25.842Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -227,7 +162,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-06T14:54:39.985Z"
+      "flaggedAt": "2026-09-07T17:13:25.842Z"
     }
   ]
 }
