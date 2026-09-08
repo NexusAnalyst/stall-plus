@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T17:13:25.842Z",
+  "updatedAt": "2026-09-08T15:58:01.128Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 2,
-    "rejected": 66,
+    "pending": 6,
+    "rejected": 60,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -120,27 +120,113 @@
   ],
   "pendingReview": [
     {
+      "provider": "NewsAPI.ai",
+      "title": "Doggy daycare owner arrested in Volusia County after hidden camera found in bathroom, deputies say",
+      "description": "The owner of a doggy daycare in New Smyrna Beach was arrested after a hidden camera was discovered in the bathroom, deputies said. The Volusia Sheriff's Office responded to Dog Dayz Inn on Saturday after employees discovered the camera hidden in an electrical outlet. Investigators executed a search warrant, and the owner, Donald Hemphill, 59, admitted to installing the camera \"4 to 5 months ago,\" deputies said. VSO said women in stages of undress were discovered on Hemphill's phone. There were also files of a child on his phone, deputies said. Hemphill is charged with 10 counts of digital voyeurism and 11 counts of video voyeurism of a child. He is currently held in the Volusia County Branch Jail with no bond.",
+      "url": "https://www.wesh.com/article/new-smyrna-beach-dog-daycare-hidden-camera-arrest/73641830",
+      "source": "WESH",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/9b39010a-69b0-4dd6-8db1-403e85dd3184.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=640%3A*",
+      "publishedAt": "2026-09-08T15:19:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Doggy daycare owner arrested in Volusia County after hidden camera found in bathroom, deputies say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
+    },
+    {
       "provider": "NewsData.io",
-      "title": "Girl, 14, among victims recorded on hidden bathroom camera; suspect faces several charges",
-      "description": "A Louisville man has been arrested after police said he secretly recorded multiple people, including a minor, using a hidden camera.",
-      "url": "https://www.wbko.com/2026/09/06/14-year-old-girl-among-victims-recorded-hidden-bathroom-camera-man-faces-several-charges/",
-      "source": "Wbko",
-      "image": "https://gray-wbko-prod.gtv-cdn.com/resizer/v2/BVC4JZTUYNE2DL6V2ZUYQH2MPE.png?auth=a3408f2ae39fdb6231cbb9f4fcb2bac46115c9d1ec4483ef146017b75c452255&width=1200&height=600&smart=true",
-      "publishedAt": "2026-09-06 13:22:31",
+      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
+      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
+      "url": "https://ktul.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
+      "source": "Ktul",
+      "image": "https://ktul.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
+      "publishedAt": "2026-09-07 14:48:00",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 65,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
-        "category terms (2)",
+        "category terms (1)",
         "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Girl, 14, among victims recorded on hidden bathroom camera; suspect faces several charges\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-07T17:13:25.842Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
+      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
+      "url": "https://cbsaustin.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
+      "source": "Cbs Austin",
+      "image": "https://cbsaustin.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
+      "publishedAt": "2026-09-07 14:48:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
+      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
+      "url": "https://kutv.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
+      "source": "Kutv",
+      "image": "https://kutv.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
+      "publishedAt": "2026-09-07 14:48:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
+      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
+      "url": "https://katv.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
+      "source": "Katv",
+      "image": "https://katv.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
+      "publishedAt": "2026-09-07 14:48:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -162,7 +248,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-07T17:13:25.842Z"
+      "flaggedAt": "2026-09-08T15:58:01.128Z"
     }
   ]
 }
