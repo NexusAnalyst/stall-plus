@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T15:58:01.128Z",
+  "updatedAt": "2026-09-09T15:54:03.809Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 6,
-    "rejected": 60,
+    "pending": 2,
+    "rejected": 66,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -120,34 +120,36 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Doggy daycare owner arrested in Volusia County after hidden camera found in bathroom, deputies say",
-      "description": "The owner of a doggy daycare in New Smyrna Beach was arrested after a hidden camera was discovered in the bathroom, deputies said. The Volusia Sheriff's Office responded to Dog Dayz Inn on Saturday after employees discovered the camera hidden in an electrical outlet. Investigators executed a search warrant, and the owner, Donald Hemphill, 59, admitted to installing the camera \"4 to 5 months ago,\" deputies said. VSO said women in stages of undress were discovered on Hemphill's phone. There were also files of a child on his phone, deputies said. Hemphill is charged with 10 counts of digital voyeurism and 11 counts of video voyeurism of a child. He is currently held in the Volusia County Branch Jail with no bond.",
-      "url": "https://www.wesh.com/article/new-smyrna-beach-dog-daycare-hidden-camera-arrest/73641830",
-      "source": "WESH",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/9b39010a-69b0-4dd6-8db1-403e85dd3184.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=640%3A*",
-      "publishedAt": "2026-09-08T15:19:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "provider": "NewsData.io",
+      "title": "Florida Dog Day Care Owner Charged Over Hidden Bathroom Camera",
+      "description": "The owner of a Florida doggy daycare has been arrested after employees found a hidden camera in the bathroom. Dog Dayz Inn owner Donald Hemphill was charged after the camera was found inside an electrical outlet on Saturday. During the Volusia...",
+      "url": "https://www.tmz.com/2026/09/08/florida-dog-day-care-owner-charged-over-bathroom-camera/",
+      "source": "Tmz",
+      "image": "https://imagez.tmz.com/image/fb/4by3/2026/09/08/fb0794ad7a1b48ea93c82b0423496819_xl.jpg",
+      "publishedAt": "2026-09-09 00:45:21",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Doggy daycare owner arrested in Volusia County after hidden camera found in bathroom, deputies say\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Florida Dog Day Care Owner Charged Over Hidden Bathroom Camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-09T15:54:03.809Z"
     },
     {
       "provider": "NewsData.io",
-      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
-      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
-      "url": "https://ktul.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
-      "source": "Ktul",
-      "image": "https://ktul.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
-      "publishedAt": "2026-09-07 14:48:00",
+      "title": "Florida dog daycare owner arrested after hidden camera found in bathroom",
+      "description": "An owner of a doggy daycare has found himself in handcuffs after a hidden camera was found in the bathroom.The Volusia County Sheriff's Office says its deputie",
+      "url": "https://news3lv.com/news/nation-world/florida-doggy-daycare-owner-arrested-digital-voyeurism-voyeurism-of-child-dog-dayz-inn-volusia-county-sheriffs-office-florida-news",
+      "source": "Ksnv",
+      "image": "https://news3lv.com/resources/media2/16x9/1920/1320/center/90/913b6f9e-7cca-41da-94ec-629e0586181c-PhotoVideo20260908T140047.297.jpg",
+      "publishedAt": "2026-09-08 21:11:38",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -159,96 +161,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
-      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
-      "url": "https://cbsaustin.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
-      "source": "Cbs Austin",
-      "image": "https://cbsaustin.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
-      "publishedAt": "2026-09-07 14:48:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
-      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
-      "url": "https://kutv.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
-      "source": "Kutv",
-      "image": "https://kutv.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
-      "publishedAt": "2026-09-07 14:48:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom",
-      "description": "(KOMO) - Newly released videos show an service worker admit to placing two hidden cameras in a warehouse bathroom at the Seattle-Tacoma International Airport.",
-      "url": "https://katv.com/news/nation-world/im-a-huge-pervert-man-admits-to-placing-hidden-cameras-in-airport-warehouse-bathroom",
-      "source": "Katv",
-      "image": "https://katv.com/resources/media2/16x9/1280/1320/center/90/1f81f300-6d9e-4225-be9d-d475a8d2ac81-FTP4JEREMY4PPKGSEATACVOYEUR_frame_4437.jpeg",
-      "publishedAt": "2026-09-07 14:48:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"'I'm a huge pervert': Man admits to placing hidden cameras in airport warehouse bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
-    },
-    {
-      "provider": "NewsAPI.org",
-      "title": "Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World",
-      "description": "The Window Camera E10 might be the easiest security camera to install ever. Eufy's also got a Video Doorbell S4 with a 'VR Mode' that lets you look at 180-degree security footage.",
-      "url": "https://gizmodo.com/eufys-new-window-sticking-security-camera-is-a-peeping-tom-for-the-outside-world-2000806002",
-      "source": "Gizmodo.com",
-      "image": "https://gizmodo.com/app/uploads/2026/09/Eufy-WIndow-Camera-E10-1200x675.jpg",
-      "publishedAt": "2026-09-03T07:30:19Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Eufy’s New Window-Sticking Security Camera Is a Peeping Tom for the Outside World\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-08T15:58:01.128Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Florida dog daycare owner arrested after hidden camera found in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-09T15:54:03.809Z"
     }
   ]
 }
