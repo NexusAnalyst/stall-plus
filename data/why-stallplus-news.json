@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T15:54:03.809Z",
+  "updatedAt": "2026-09-10T15:48:49.810Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 2,
-    "rejected": 66,
-    "carriedForward": 3
+    "published": 1,
+    "pending": 1,
+    "rejected": 69,
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -74,95 +74,29 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Tempe Union parents question district amid voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ex-Tempe school employee scheduled to appear in court on voyeurism charges",
-      "description": "TEMPE, AZ (AZFamily) -- A former school surveillance officer is scheduled to appear in court after authorities say he downloaded footage that showed underage girls undressing at an East Valley high school. Antony Cruz, 28, is slated to be arraigned before a judge at 8:30 a.m. Thursday. District says room was not for changing Cruz, who worked as a surveillance officer for the Tempe Union High School District, allegedly gained access to cameras that were recording a room of young teen girls undressing at Corona del Sol High School. Police noted in the court paperwork that staff and students requested the cameras be turned off for privacy, but were left on and recording the room. Authorities said Cruz did not notify school staff or law enforcement of the camera exposing the girls. Instead, Cruz reportedly downloaded several videos, with at least seven showing young girls' changing in and out of their clothes. Court documents state that the room was being used temporarily as a changing room for students because the girls' locker room was closed for renovations. District officials said the space is a dance room, not a locker room, and was never designated by the district as a place for students to change clothes. During recent locker room renovations, the district said it approved a request from Corona del Sol High School to set up a separate, camera-free location for students to change. Officials said the dance room was not one of the approved locations. A security camera was installed in the room in 2024 for campus safety purposes. Parents react at school board meeting Parents who spoke at Wednesday night's school board meeting were visibly upset, wondering if their children are victims. \"He's been charged with seven counts of voyeurism, but I believe from this long, almost one-month period, that there are many more counts he should be charged with, and so I ask the district please disclose this information so we can find out the full breadth of the victims,\" one parent said. The district has opened an internal investigation into the matter. Cruz is facing seven counts of voyeurism and is being held on a $100,000 cash-only bond. See a spelling or grammatical error in our story? Please click here to report it. Do you have a photo or video of a breaking news story? Send it to us here with a brief description.",
-      "url": "https://www.azfamily.com/2026/09/03/ex-tempe-school-employee-scheduled-appear-court-voyeurism-charges/",
-      "source": "AZfamily.com",
-      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/CRBEMLYOUVCW3DRPXEYES7X5TE.JPG?auth=9e621d5a1c3088dae20af3e493d091f2ac9a47b731837f6349fbfa1c3611df08&width=1200&height=600&smart=true",
-      "publishedAt": "2026-09-03T13:37:30Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Ex-Tempe school employee scheduled to appear in court on voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Class action filed over Ruby Memorial hidden cameras",
-      "description": "MORGANTOWN - A Monongalia County woman has filed a proposed class-action lawsuit over hidden cameras found in staff bathrooms at Ruby Memorial Hospital. The plaintiff, identified in the complaint only as P.J.P., filed the complaint September 1 in Monongalia Circuit Court. West Virginia University Hospitals and West Virginia United Health System are the named defendants. \"A hospital restroom should be an unquestioned sanctuary of privacy, not a crime scene with a hidden lens,\" Troy Giatras, one of the attorneys who filed the complaint, told The West Virginia Record. \"These dedicated healthcare workers came to work to save lives, only to have their fundamental dignity violated.\" In the complaint, P.J.P. alleges she was a Ruby Memorial employee during the relevant period and was among workers secretly recorded in staff restroom facilities. She says the defendants failed to protect employees from hidden-camera surveillance in nonpublic staff bathrooms. She alleges the entities were negligent and grossly negligent in hiring, supervising, training and retaining employees, including former physician Lance Parks, and in maintaining a workplace protected from invasions of privacy. According to the complaint, a staff member found a hidden recording device June 26 beneath a sink in a nonpublic staff restroom at Ruby Memorial. A second device was discovered July 1 after a facilities employee responded to a clogged toilet in another nonpublic restroom, the suit says. Authorities previously said the first device contained footage of eight hospital employees who were unknowingly recorded while partially nude. The second device contained no images or other media, according to the Monongalia County Prosecutor's Office. The complaint alleges Parks \"surreptitiously recorded nude and/or partially nude employees\" in the nonpublic bathrooms and the defendants did not adequately protect staff members from the alleged surveillance. \"While law enforcement handles the criminal conduct of Lance Parks, the civil justice system exists to hold institutions accountable for failing their duty of care,\" Matt Stonestreet, another attorney representing the plaintiffs, told The Record. \"WVU Hospitals provided the venue, employed the physician, and assured staff their private spaces were safe. \"When an institution fails to supervise its staff and conducts sweeps that miss hidden cameras right under its nose, it shares full legal and moral responsibility for the harm caused.\" The complaint further alleges the hospitals failed to detect the devices, including after the first camera was found. The defendants initially suspended the employee involved and later said he no longer worked at the hospital, according to reports. Parks was charged in July with eight misdemeanor counts of criminal invasion of privacy and one felony count involving the distribution and exhibition of computer-generated child pornography, according to the Monongalia County Prosecutor's Office. Investigators executed a search warrant at his home and seized computers and digital-storage devices for forensic examination. Investigators said they were continuing to examine the seized devices to determine the full scope of potential criminal conduct and identify any additional victims. The civil complaint says Parks waived his preliminary hearing and is awaiting possible indictment by the Monongalia County Prosecutor's Office. \"WVU Hospitals told staff they swept the facilities and found nothing,\" Giatras told The Record. \"Days later, plumbing backed up and a second camera was pulled from a toilet. That is not thorough security. That is negligent indifference. \"Once these deeply intimate, non-consensual recordings exist, they cannot be unseen. The psychological damage follows these victims every single day.\" The plaintiff contends the alleged conduct was gender-based harassment and discrimination because she is a woman and asserts the cameras were installed to secretly record women \"when they were the most vulnerable.\" The complaint accuses the defendants of invasion of privacy, breach of confidentiality, violations of the West Virginia Human Rights Act, violation of the West Virginia Constitution, negligent supervision, negligent infliction of emotional distress, violation of the West Virginia Wiretapping and Electronic Surveillance Act and negligence. \"You cannot shrug off corporate responsibility by blaming one bad actor when your own policies, supervision, and facility checks completely collapsed,\" Giatras said. The complaint also alleges the defendants' conduct caused anxiety, humiliation, emotional distress, pain and suffering, mental anguish, loss of enjoyment of life, annoyance and inconvenience. It seeks class certification for West Virginia residents allegedly recorded in nonpublic bathroom facilities at Ruby Memorial and \"any other facility\" owned, operated or managed by the defendants in the state. The plaintiff and potential class seek compensatory and punitive damages, attorney fees, court costs and class certification. The lawsuit was filed by Giatras and Stonestreet of The Giatras Law Firm in Charleston. The case has been assigned to Circuit Judge Perri J. DeChristopher. Giatras said any additional victims confidentially can contact his firm for more information by texting 304-343-2900 or visiting its website. Monongalia Circuit Court case number 26-C-347",
-      "url": "https://www.legalnewsline.com/west-virginia-record/class-action-filed-over-ruby-memorial-hidden-cameras/article_f92f8fe7-37b1-4473-8700-5fd40041b9c8.html",
-      "source": "Legal Newsline",
-      "image": "https://bloximages.chicago2.vip.townnews.com/legalnewsline.com/content/tncms/assets/v3/editorial/b/fe/bfe725f0-6c7a-4b99-9911-4b789e6430bc/6a98a319df561.image.jpg?crop=1030%2C541%2C0%2C41",
-      "publishedAt": "2026-09-03T12:30:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (5 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Class action filed over Ruby Memorial hidden cameras\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Florida Dog Day Care Owner Charged Over Hidden Bathroom Camera",
-      "description": "The owner of a Florida doggy daycare has been arrested after employees found a hidden camera in the bathroom. Dog Dayz Inn owner Donald Hemphill was charged after the camera was found inside an electrical outlet on Saturday. During the Volusia...",
-      "url": "https://www.tmz.com/2026/09/08/florida-dog-day-care-owner-charged-over-bathroom-camera/",
-      "source": "Tmz",
-      "image": "https://imagez.tmz.com/image/fb/4by3/2026/09/08/fb0794ad7a1b48ea93c82b0423496819_xl.jpg",
-      "publishedAt": "2026-09-09 00:45:21",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
+      "provider": "NewsAPI.ai",
+      "title": "Viral Bathroom MMS: Karnataka College Student Video Resurfaces; Truth Behind Restroom Incident",
+      "description": "Karnataka Police had subsequently described reports surrounding the alleged incident as fake news and said that claims circulating online were not true. A video linked to a female student at a paramedical college in Karnataka's Udupi has resurfaced, bringing back memories of an earlier controversy that had triggered outrage and questions over privacy and the safety of students on campuses. The incident had reportedly involved three female students who allegedly recorded a video on their mobile phones inside a student toilet. Three Students Were Suspended According to reports, the three students allegedly recorded the video on their mobile phones. The video subsequently went viral, following which the college suspended the three students. The controversy attracted considerable attention, with questions being raised over how the video was recorded and whether it had been shared online without the knowledge or consent of the student concerned. Police Had Called Reports Fake The incident, however, was surrounded by conflicting claims. Karnataka Police had reportedly described some of the circulating claims about the alleged bathroom video as fake news and said that nothing of the kind had happened as being alleged on social media. The conflicting accounts added to the controversy, making it important to distinguish between verified facts, allegations and claims circulating online. Two Cases Were Registered At the time, two separate cases were reportedly registered in connection with the controversy. One case was related to allegations that a video recorded inside the student toilet had been deleted by the three students and the college. The second case concerned allegations that hidden-camera videos had been uploaded on a YouTube channel. A Recurring Campus Privacy Concern The resurfacing of the Udupi video has once again drawn attention to incidents involving unauthorised recording and the circulation of private videos. Similar controversies have been reported from schools and colleges in different parts of India over the years. The incidents have renewed concerns over student privacy, responsible use of mobile phones and social media, and the need for educational institutions to respond swiftly and transparently when allegations involving hidden recording or private videos emerge. Also Read: Mother Of 3 Caught In Room With Lover In Kanpur; Couple Held Captive By In-Laws For 30 Hours",
+      "url": "https://www.newsx.com/offbeat/viral-bathroom-mms-karnataka-college-student-video-resurfaces-truth-behind-restroom-incident-270407/",
+      "source": "NewsX",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/untitled-design-3_1.png",
+      "publishedAt": "2026-09-10T12:17:05Z",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Florida Dog Day Care Owner Charged Over Hidden Bathroom Camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-09T15:54:03.809Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Florida dog daycare owner arrested after hidden camera found in bathroom",
-      "description": "An owner of a doggy daycare has found himself in handcuffs after a hidden camera was found in the bathroom.The Volusia County Sheriff's Office says its deputie",
-      "url": "https://news3lv.com/news/nation-world/florida-doggy-daycare-owner-arrested-digital-voyeurism-voyeurism-of-child-dog-dayz-inn-volusia-county-sheriffs-office-florida-news",
-      "source": "Ksnv",
-      "image": "https://news3lv.com/resources/media2/16x9/1920/1320/center/90/913b6f9e-7cca-41da-94ec-629e0586181c-PhotoVideo20260908T140047.297.jpg",
-      "publishedAt": "2026-09-08 21:11:38",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Florida dog daycare owner arrested after hidden camera found in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-09T15:54:03.809Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Viral Bathroom MMS: Karnataka College Student Video Resurfaces; Truth Behind Restroom Incident\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
+      "flaggedAt": "2026-09-10T15:48:49.810Z"
     }
   ]
 }
