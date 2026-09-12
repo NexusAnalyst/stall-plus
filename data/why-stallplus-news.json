@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:50:53.350Z",
+  "updatedAt": "2026-09-12T14:58:06.645Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 1,
-    "pending": 1,
-    "rejected": 69,
-    "carriedForward": 1
+    "published": 0,
+    "pending": 0,
+    "rejected": 68,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 0
     },
     {
       "id": "dorm-privacy",
@@ -53,51 +53,6 @@
       "count": 0
     }
   ],
-  "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Tempe Union parents question district amid voyeurism charges",
-      "description": "An employee of Tempe Union High School District is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School. Parents spoke out after a Tempe Union High School District security officer was accused of spying on female students while they undressed in a makeshift changing room. A number of parents spoke at a Sept. 2 school board meeting, calling on the district to increase safety procedures and transparency with families. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School in south Tempe. The district said girls were changing in a dance room while the locker room was undergoing renovations. Police believe cameras in the makeshift changing room were \"inadvertently\" left on. Arizona does not have a law that mandates security cameras in schools. Tracy Pearl, a technology and law professor at Arizona State University, previously told The Republic the dance room essentially became a de facto room because the girls were instructed to change in it. That means the school would have been legally required to ensure there were no cameras in the room or obtain consent from the students being recorded or their parents. One parent, Ben Zorensky, questioned why the district had a camera in the room when it prohibits cameras in changing areas. Because the camera was installed in 2024, Zorensky also questioned whether other female students could have been potential victims. Another parent, Cecilia Trevizo, questioned why the district did not inform parents that students were being recorded and that cameras had been installed in multiple dance rooms. Trevizo said a staff member previously asked for the camera to be removed because of the dancers' privacy concerns. She questioned why a camera was installed in a dance room in the first place. Trevizo also said another security guard insisted the camera remain because of concerns that students were skipping class. \"There were multiple opportunities to stop this,\" Trevizo said. \"There were multiple opportunities to protect these students, and these opportunities were missed.\" Trevizo called on the governing board to hold district leadership accountable for failing to keep the children safe, and to conduct a third-party investigation into who requested the cameras and who approved their installation. Another parent said he's unsure if his daughter may have been a victim and has received limited information from the district. While the district previously said Tempe police had identified all victims, it released a statement to parents on Aug. 31 indicating police now believed there were more victims. Have a news tip? Contact The Arizona Republic and azcentral.com at newstips@arizonarepublic.com.",
-      "url": "https://eu.azcentral.com/story/news/education/2026/09/05/corona-del-sol-parents-question-camera-dance-room/91618449007/",
-      "source": "AZ Central",
-      "image": "https://www.gannett-cdn.com/-mm-/2655786dc94953efa60a8fe239232a36f792454f/c=0-246-2397-1600/local/-/media/2018/02/21/DetroitFreeP/DetroitFreePress/636548368218373707-ruck-crowded-JUMP-3.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2026-09-05T13:02:19Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Tempe Union parents question district amid voyeurism charges\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    }
-  ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "The hotel glass problem: What hidden cameras actually caught, and why the chains changed their rules",
-      "description": "The glass sits by the bathroom sink, upside down, spotless. It looks like it came out of a dishwasher. Whether it did is a question American television crews have been answering with hidden cameras for the better part of two decades, and the answers are consistent enough to have changed industry policy. What the Investigations Found The most systematic look came from an ABC News undercover investigation that tested 15 hotels across cities including Kansas City, Cincinnati and Baltimore. In 11 of the 15, dirty glasses never left the room to be washed and sanitized. What happened instead varied, and some of it was worse than simply skipping the wash. At a Kansas City Holiday Inn, a worker dried the glasses and then wiped her hands on the same towel. At an Embassy Suites in Phoenix, housekeepers rinsed the used glasses and dried them with a rag rather than replacing them. At the Millennium in Cincinnati, a housekeeper sprayed glasses and the coffee pot in the sink from a bottle of Lysol mildew remover, a product whose own label warns that it is harmful if swallowed. A separate Fox affiliate investigation in Atlanta caught the same substitution. Employees sprayed glasses with a blue liquid, rinsed, dried and returned them. The bottle read \"do not drink.\" Several of the hotels involved received written warnings from city health officials. The pattern held years later. In 2014, a hidden-camera investigation by NBC's Rossen Reports team booked rooms at chain hotels in northeastern New Jersey, deliberately left soda in the glasses and towels on the floor, then called housekeeping. At one property, the housekeeper gathered the used glasses into the sink and dried them with the dirty towels off the bathroom floor. The same towel then wiped the countertop, the toilet and the tub. Why It Happens None of this is best explained by malice. It is explained by arithmetic. A housekeeper typically has around thirty minutes per room and cleans fourteen to sixteen rooms in an eight-hour shift. Removing glassware, carrying it to a service area, running it through a commercial dishwasher and returning clean stock costs time that the schedule does not contain. Rinsing takes seconds. The second driver is that the industry's own quality check is visual. A glass that looks clean passes, and a glass rinsed in the sink looks exactly like a glass that came out of a machine. That is the finding worth taking from the University of Houston research, and it is the part the study genuinely supports. When Katie Kirsch presented the work at the American Society for Microbiology's 2012 meeting, her central argument was that visual assessment cannot measure sanitation. Her team sampled 19 surfaces across nine rooms in Texas, Indiana and South Carolina, and found the heaviest bacterial loads not in the bathroom but on TV remotes and bedside lamp switches. They also found high contamination on the sponges and mops riding the housekeeping carts from room to room. It was a small, preliminary study, and it did not test drinking glasses. But the sponge finding matters here anyway: whatever cleans the toilet is often the same object that later touches the counter where your glass sits. The Chains Responded The 2008 coverage produced actual change, which is the part usually left out of the retelling. Holiday Inn's parent responded by switching to prewrapped disposable cups exclusively. Asked about their procedures, the major chains described removal-and-machine-washing as policy: Hilton, Radisson, Holiday Inn and Marriott all said glassware is taken out of the room, racked, and run through a commercial dishwasher. Embassy Suites said glassware must be replaced daily and sanitized, and that it was re-emphasizing training. So the written standards are generally sound. What the investigations documented was the gap between the standard and the shift. What Actually Reduces Your Risk The practical advice does not require paranoia, and it is mostly not about the glass. Assume the glass has been rinsed, not sanitized. Wash it yourself with hot water and the hand soap, or use the wrapped disposable cup if the room provides one. Bottled water solves it entirely. Then spend thirty seconds on the things the research actually flagged. Wipe the TV remote and the light switches, which carried the highest bacterial counts in the Houston sampling and which almost nothing in a standard clean touches with disinfectant. Wash your hands after you have finished handling doors, switches and luggage on arrival. And if a glass in your room looks even slightly used, say so. The single most effective thing a guest can do is make the visual check fail.",
-      "url": "https://www.washingtontimes.com/news/2026/sep/11/hotel-glass-problem-hidden-cameras-actually-caught-chains-changed/",
-      "source": "Washington Times",
-      "image": "https://twt-thumbs.washtimes.com/media/image/2026/09/11/Drinking_water_glass_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
-      "publishedAt": "2026-09-11T14:48:56Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"The hotel glass problem: What hidden cameras actually caught, and why the chains changed their rules\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-11T15:50:53.350Z"
-    }
-  ]
+  "articles": [],
+  "pendingReview": []
 }
