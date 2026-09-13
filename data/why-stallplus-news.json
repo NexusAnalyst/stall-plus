@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:58:06.645Z",
+  "updatedAt": "2026-09-13T15:35:50.392Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 0,
-    "rejected": 68,
+    "pending": 2,
+    "rejected": 65,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -54,5 +54,50 @@
     }
   ],
   "articles": [],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Pasco Deputies Search For Person Of Interest In Port Richey Bathroom Investigation",
+      "description": "PORT RICHEY, Fla. -- The Pasco Sheriff's Office is asking for the community's help to identify a man connected to an ongoing criminal investigation in Port Richey. Deputies released an image of the individual from an incident that occurred August 26 in the Little Road area. In the surveillance photo, the man appears to be adjusting what looks like a hidden camera inside a public restroom. Authorities have not yet released further official details regarding the specific allegations, but investigators are actively seeking information on his identity and whereabouts. Anyone who recognizes the man or has information related to the investigation is asked to contact the Pasco Sheriff's Crime Tips Line at 1-800-706-2488 and reference case number 26030394. Tips can also be submitted online at pascosheriff.com/tips. Please make a small donation to the Tampa Free Press to help sustain independent journalism. Your contribution enables us to continue delivering high-quality, local, and national news coverage. Sign up: Subscribe to our free newsletter for a curated selection of top stories delivered straight to your inbox.",
+      "url": "https://www.tampafp.com/pasco-deputies-search-for-person-of-interest-in-port-richey-bathroom-investigation/",
+      "source": "The Free Press - Tampa",
+      "image": "https://mcnymx.infiniteuploads.cloud/2026/09/Pasco-ID-6-.jpeg",
+      "publishedAt": "2026-09-12T20:27:46Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Pasco Deputies Search For Person Of Interest In Port Richey Bathroom Investigation\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-13T15:35:50.392Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "0.9\" Mini Spy Camera w/ Night Vision & Motion Detection for $30 + free shipping w/ Prime",
+      "description": "This hidden camera is $29.80, down from $49.80, the lowest price it has hit on Amazon. Independent testing of several hidden cameras singled out this AD9 model as the smallest one with true 4K recording, calling it the most discreet camera in that lineup. Pri…",
+      "url": "https://www.dealnews.com/0-9-Mini-Spy-Camera-w-Night-Vision-Motion-Detection-for-30-free-shipping-w-Prime/22169723.html",
+      "source": "Dealnews.com",
+      "image": "https://d.dlnws.com/64599/1789141449-51_jc-ilwbl.jpg?h=1024&w=1024",
+      "publishedAt": "2026-09-11T15:44:15Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms",
+        "failed category gate"
+      ],
+      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"0.9\" Mini Spy Camera w/ Night Vision & Motion Detection for $30 + free shipping w/ Prime\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-13T15:35:50.392Z"
+    }
+  ]
 }
