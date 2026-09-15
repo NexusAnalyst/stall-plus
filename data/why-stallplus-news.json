@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:40:18.903Z",
+  "updatedAt": "2026-09-15T16:13:38.860Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 0,
     "pending": 1,
-    "rejected": 69,
+    "rejected": 64,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -76,7 +76,7 @@
         "failed category gate"
       ],
       "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"0.9\" Mini Spy Camera w/ Night Vision & Motion Detection for $30 + free shipping w/ Prime\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-14T17:40:18.903Z"
+      "flaggedAt": "2026-09-15T16:13:38.860Z"
     }
   ]
 }
