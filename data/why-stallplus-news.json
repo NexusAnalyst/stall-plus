@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T16:13:38.860Z",
+  "updatedAt": "2026-09-16T16:06:45.185Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -56,27 +56,26 @@
   "articles": [],
   "pendingReview": [
     {
-      "provider": "NewsAPI.org",
-      "title": "0.9\" Mini Spy Camera w/ Night Vision & Motion Detection for $30 + free shipping w/ Prime",
-      "description": "This hidden camera is $29.80, down from $49.80, the lowest price it has hit on Amazon. Independent testing of several hidden cameras singled out this AD9 model as the smallest one with true 4K recording, calling it the most discreet camera in that lineup. Pri…",
-      "url": "https://www.dealnews.com/0-9-Mini-Spy-Camera-w-Night-Vision-Motion-Detection-for-30-free-shipping-w-Prime/22169723.html",
-      "source": "Dealnews.com",
-      "image": "https://d.dlnws.com/64599/1789141449-51_jc-ilwbl.jpg?h=1024&w=1024",
-      "publishedAt": "2026-09-11T15:44:15Z",
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bathroom at downtown Denton barbershop",
+      "description": "An employee told police a phone was hidden in a box and recording in the barbershop bathroom. The owner turned himself in and was released on bond.",
+      "url": "https://www.nbcdfw.com/news/local/hidden-camera-found-in-bathroom-at-downtown-denton-barbershop/4077674/",
+      "source": "Nbc 5 Dallas",
+      "image": "https://media.nbcdfw.com/2026/09/denton-police.png?fit=443,249&quality=85&strip=all",
+      "publishedAt": "2026-09-15 18:18:45",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 50,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "category terms (2)",
+        "restroom context (1 terms)",
+        "category terms (1)",
         "primary topic in title",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"0.9\" Mini Spy Camera w/ Night Vision & Motion Detection for $30 + free shipping w/ Prime\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-15T16:13:38.860Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bathroom at downtown Denton barbershop\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-16T16:06:45.185Z"
     }
   ]
 }
