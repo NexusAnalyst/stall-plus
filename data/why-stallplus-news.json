@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T16:06:45.185Z",
+  "updatedAt": "2026-09-17T16:13:19.569Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 0,
     "pending": 1,
-    "rejected": 64,
+    "rejected": 67,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -56,13 +56,13 @@
   "articles": [],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bathroom at downtown Denton barbershop",
-      "description": "An employee told police a phone was hidden in a box and recording in the barbershop bathroom. The owner turned himself in and was released on bond.",
-      "url": "https://www.nbcdfw.com/news/local/hidden-camera-found-in-bathroom-at-downtown-denton-barbershop/4077674/",
-      "source": "Nbc 5 Dallas",
-      "image": "https://media.nbcdfw.com/2026/09/denton-police.png?fit=443,249&quality=85&strip=all",
-      "publishedAt": "2026-09-15 18:18:45",
+      "provider": "NewsAPI.ai",
+      "title": "Detectives Uncover Hidden Camera Near Burglarized Whittier Home",
+      "description": "Forget simply locking the front door. Police in Southern California are warning residents to look beyond their windows and doors after a hidden camera was apparently used to monitor a Whittier home before it was burglarized. While investigating the break-in, Whittier detectives made an unsettling discovery: a surveillance camera had been planted across the street, concealed in landscaping in a setup that seemed straight out of a low-budget spy thriller. This was not a basic device quietly searching for a nearby Wi-Fi connection. The Whittier Police Department said the camera was powered by \"a large battery\" and operated through its own hotspot. According to a photo released by police, the device had been tucked among artificial leaves and branches, creating a surprisingly effective disguise. \"Our detectives recently located a camera hidden in a bush across the street from a home that had been burglarized,\" the department said in a social media post. Police added that burglars may rely on hidden cameras and other surveillance tools to observe homes and determine when an opportunity to strike arises. The warning is clear: landscaping that appears harmless could potentially be hiding more than leaves and branches. Detectives found the camera near a dead-end road leading from Hadley Street into the hills as they investigated the burglary. Authorities have not disclosed how long the camera had been in place, and the person responsible has not been identified. The burglary case remains under investigation. In the meantime, police are urging homeowners to step outside and inspect the full perimeter of their property. That includes checking bushes, shrubs and other landscaping features. If an area looks like an ideal spot for someone to conceal a camera, officials say it deserves a closer inspection. Police also advise residents to keep trees and bushes trimmed, lock and secure doors, windows and gates, install outdoor lighting, use home security cameras and consider alarms throughout the property. The Whittier discovery is not the first hidden-camera warning issued in Southern California. In June, Brea police alerted residents after finding a surveillance device concealed in neighborhood bushes, prompting concerns that people may have been watched without their knowledge.",
+      "url": "https://internewscast.com/news/us/detectives-uncover-hidden-camera-near-burglarized-whittier-home/",
+      "source": "Internewscast Journal",
+      "image": "https://internewscast.com/wp-content/uploads/2026/09/Whittier-detectives-find-hidden-camera-near-burglarized-home.jpg",
+      "publishedAt": "2026-09-17T14:04:51Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -74,8 +74,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bathroom at downtown Denton barbershop\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-16T16:06:45.185Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Detectives Uncover Hidden Camera Near Burglarized Whittier Home\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-17T16:13:19.569Z"
     }
   ]
 }
