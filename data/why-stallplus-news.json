@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:48:16.270Z",
+  "updatedAt": "2026-09-19T15:20:41.029Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 4,
-    "rejected": 63,
-    "carriedForward": 0
+    "pending": 1,
+    "rejected": 65,
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
@@ -79,29 +79,6 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Kanawha judge OKs $9.1M settlement in WVSP hidden camera litigation",
-      "description": "A Kanawha County judge has approved a $9.1 million settlement for women who may have been secretly recorded by hidden cameras at the West Virginia State Police Academy. Kanawha County Circuit Judge Kenneth Ballard approved the deal Sept. 16 during a final settlement hearing. The WVSP was directed to wire the $9.1 million to the qualified settlement fund. The money will be disbursed to qualifying class members by the claims administrator. Legal Affairs WVSP hidden camera cases continue; include allegations of physical, sexual abuse * By Chris Dickerson West Virginia Record Legal Affairs State Police locker room camera whistleblower files lawsuit against department * By Ashley Perham aperham@hdmediallc.com Politics Four troopers fired as WVSP housecleaning continues",
-      "url": "https://www.wvgazettemail.com/news/legal_affairs/kanawha-judge-oks-9-1m-settlement-in-wvsp-hidden-camera-litigation/article_ad1b018c-3ec7-4de3-8820-903ed57b450a.html",
-      "source": "Charleston Gazette-Mail",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/a/d1/ad1b018c-3ec7-4de3-8820-903ed57b450a/6aacfcd3ef2e2.preview.jpg?crop=1370%2C719%2C17%2C257&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-09-18T10:15:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Kanawha judge OKs $9.1M settlement in WVSP hidden camera litigation\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-18T15:48:16.270Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Parents concerned about who watched girls undress at Arizona school",
       "description": "An employee of Tempe Union High School District is facing voyeurism charges after police said he misused school security footage to spy on undressed girls. Prosecutors say Antony Cruz, 28, downloaded videos of female students in a changing room at Corona del Sol High School. * Parents are concerned about who may have viewed footage of students changing in a dance room at Corona del Sol High School. * A former district employee was previously accused of downloading security footage of girls undressing in the room. * Students used the dance room to change because the locker room was under renovation. * Parents say students have changed in the dance room for years, even before the recent locker room renovations. Parents of Corona del Sol students are raising new questions about who may have viewed girls changing clothes in a dance room nearly a month after a former district employee was accused of downloading footage of students undressing. During a Sept. 16 Tempe Union High School District Governing Board meeting, parents said students have routinely changed clothes in the dance room for years. They're now asking who had access to the footage, and whether anyone aside from former surveillance officer Antony Cruz viewed it. The girls were changing in the dance room while the girls' locker room was undergoing renovations when students returned to school in July, according to the district. Police believe cameras in the makeshift changing room were \"inadvertently\" left on. Cruz was arrested Aug. 22. The district previously said the cameras were installed in the room in 2024 because of security concerns. District spokesperson Megan Sterling said she could not confirm whether students regularly changed clothes in the dance room before and after the cameras were installed in 2024, citing the ongoing police investigation. The district also is conducting an internal investigation. The Tempe Police Department has cleared the district itself of any criminal charges, and Cruz is the only staff member identified as a suspect. Tracy Pearl, a technology and law professor at Arizona State University, previously told The Arizona Republic that schools legally cannot have cameras in private areas like locker rooms and bathrooms without the consent of the people being filmed or their parents. But because the dance room became a de facto locker room from a legal standpoint, the district would have to follow all normal surveilance laws. It could be held liable if it was found that an employee was instructing students to change in a room with cameras, she said. But it's still unclear which staff member directed the students to change in the locker room. Tempe police declined to comment further when asked about specific charges the district was cleared of. Students have changed clothes in dance room for years, parents say While the district said the girls changed in the dance room because of locker room renovations, one parent at the meeting expressed concerns that girls could have been seen undressing as far back as 2024. Some parents have said they were never made aware of cameras in the room. Amy Vidal, who spoke at the Sept. 16 meeting, said she was concerned that other security guards may have seen girls changing in the locker room prior to 2026. Vidal said the girls have always undressed in the dance room. \"Dancers are always changing their dance clothes. Sometimes between different genres of dance, like going from hip hop to contemporary, or sometimes changing into costumes,\" Vidal said. The girls have seen the dance room as a safe space, she said. And because they are comfortable around one another and travel to competitions together, they are also comfortable changing in front of one another in the dance room, she said. Vidal also said other teams change in the dance room, and that in the past the school locked the locker room doors at 2:30 p.m. and did not provide coaches with keys, requiring girls to use the dance room after that time. Sterling declined to comment on Vidal's comments, citing the ongoing investigation. The district has maintained that the dance room was never meant to be a designated changing area and that there are no cameras in authorized changing rooms. Sterling previously told The Republic an internal investigation will determine whether established procedures were followed and what corrective actions the district will take. The investigation is still ongoing. Parents want details on who had access to camera footage Ceclia Trevizo, the mother of a dancer, said she's concerned that while Cruz was arrested, other staff members could have viewed the footage. Cruz worked at the district for several years but had only held his position in surveillance since the beginning of July. Trevizo said she was not invited to a meeting between parents and police, which meant her daughter was not identified as a victim. But Trevizo said her daughter has used the dance room since 2024. \"Where are the details of who logged in and when? And were there any safeguards to whoever had access to these cameras?\" Trevizo told reporters after the board meeting. Trevizo said her daughter at one point asked a dance teacher if she could change in the room after noticing the cameras. The teacher told her she could because she would not be getting fully undressed, Trevizo said. \"What if there's girls that didn't ask because they didn't know the camera was there?\" she said.",
       "url": "https://eu.azcentral.com/story/news/education/schools/2026/09/18/tempe-union-parents-want-more-answers-about-corona-del-sol-cameras/91815704007/",
@@ -119,51 +96,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Parents concerned about who watched girls undress at Arizona school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-18T15:48:16.270Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Former Memorial Hermann The Woodlands employee pleads guilty to 7 felonies in hidden camera case, sentenced to 4 years",
-      "description": "A former Memorial Hermann The Woodlands Medical Center manager pleaded guilty to seven felony counts after investigators uncovered hidden cameras used to secretly record people in hospital bathrooms and dressing rooms.",
-      "url": "https://us.headtopics.com/news/former-memorial-hermann-the-woodlands-employee-pleads-87858024",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/9/17/kprc2/former-memorial-hermann-the-woodlands-employee-ple-former-memorial-hermann-the-woodlands-employee-ple-8F12B7B0125FC05B0A20E8AB2C2D3D5B-16x9.webp",
-      "publishedAt": "2026-09-17 20:06:46",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Memorial Hermann The Woodlands employee pleads guilty to 7 felonies in hidden camera case, sentenced to 4 years\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-18T15:48:16.270Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Former Memorial Hermann The Woodlands employee pleads guilty to 7 felonies in hidden camera case, sentenced to 4 years",
-      "description": "A former Memorial Hermann The Woodlands Medical Center manager pleaded guilty to seven felony counts after investigators uncovered hidden cameras used to secretly record people in hospital bathrooms and dressing rooms.",
-      "url": "https://www.click2houston.com/news/local/2026/09/17/former-memorial-hermann-manager-pleads-guilty-to-7-felonies-in-hidden-camera-case-sentenced-to-4-years/",
-      "source": "Click2houston",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SX6BOFS3XJBKPNRLELKLY7DZCI.png",
-      "publishedAt": "2026-09-17 19:08:05",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Memorial Hermann The Woodlands employee pleads guilty to 7 felonies in hidden camera case, sentenced to 4 years\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-18T15:48:16.270Z"
+      "flaggedAt": "2026-09-19T15:20:41.029Z"
     }
   ]
 }
