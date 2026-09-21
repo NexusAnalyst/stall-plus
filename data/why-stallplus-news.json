@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:25:25.867Z",
+  "updatedAt": "2026-09-21T17:51:27.543Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -79,38 +79,35 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Peeping tom installed equipment to spy on woman - In the Dock",
-      "description": "The following cases were heard at Weymouth Magistrates' Court: CAMERON SAMPSON, 27, and of Grove Road in Bournemouth, admitted to driving a motor vehicle when alcohol level above limit, namely 0.54mg/l of alcohol in breath, in Layton Road in Poole on July 26. Sampson was banned from driving for 36 months, fined £675 and ordered to pay costs to the Crown Prosecution Service of £85 and a victim surcharge of £270. LUKE BALDOCK, 41, and of Station Approach in Littlestone, admitted to failing to provide specimen for analysis as a vehicle driver in Bournemouth Custody on July 24. Baldock was banned from driving for 12 months fined £101 and ordered to pau costs to the Crown Prosecution Service of £85. SHICARA GEORGE, 37, and of St Paul's Lane in Bournemouth, admitted to theft from a shop, namely stealing a bottle of wine to the value of £8.75 from Tesco in Bournemouth on January 15. George was ordered to pay £8.75 in compensation. KASSANDRYA TAYLOR, 33, and of Wood Park in Ludgershall, Wiltshire, admitted to two counts of harassment by breaching a restraining order on conviction in Lagland Court in Poole on September 22, 2024, in Bournemouth between June 1 and July 29 and failing to answer to court or police bail as soon as practicable in Weymouth on June 5. Taylor was fined £40 and ordered to complete 20 rehabilitation activity requirement days. MARTIN ELLIS , 41, and of Dunbar Road in Bournemouth, admitted to voyeurism by installing equipment for the purpose of obtaining sexual gratification in Dunbar Road on January 1, 2025, and sharing photographs of a person in intimate state intending to cause alarm distress or humiliation on March 3, 2025. Ellis further admitted to criminal damage to property of value under £5,000, namely damaging a car by placing a large screw behind the rear tyre of a car, in Commercial Road in Poole on March 3. Ellis was fined £1,280, ordered to complete 40 hours of unpaid work, 20 rehabilitation activity requirement days and pay costs to the Crown Prosecution Service of £85 and a victim surcharge of £114. CHRISTOPHER CARTER, 36, and of Granville Road in Poole, admitted to harassment without violence, namely persistently sending emails, messages and texts and attending the victim's address uninvited, where he shouted and kicked the outer doors, in St Leonards and St Ives between January 17 and 24. Carter was ordered to wear an electronic monitoring tag for four week, handed a curfew ordering to remain at his home daily between 9pm and 7am for four weeks, handed restraining order prohibiting contact with the victim for one year and ordered to complete 30 rehabilitation activity requirement days and pay victim surcharge of £114.",
-      "url": "https://www.bournemouthecho.co.uk/news/26565512.dock---appearances-dorset-magistrates-courts/",
-      "source": "Daily Echo Sport",
-      "image": "https://www.bournemouthecho.co.uk/resources/images/19853552.jpg?type=og-image",
-      "publishedAt": "2026-09-20T09:53:59Z",
+      "title": "Former Pokémon Co. Employee Arrested For Hiding Cameras In Bathrooms - GamerHeadlines",
+      "description": "A former employee of The Pokémon Company has been arrested for secretly placing cameras inside bathrooms at the company's offices, according to the original report from GoNintendo. The arrest follows an internal investigation into hidden recording devices discovered in restrooms used by staff. Details about when the cameras were installed or how long the surveillance had gone undetected have not been disclosed. The employee, whose name and position have not been released, is no longer with the company. What We Know So Far The Pokémon Company has not publicly addressed the arrest beyond confirming a former employee was involved. The case appears to be in early legal stages, and no charges have been detailed in the initial reporting. While the specific office location where the cameras were found remains unclear, the incident raises obvious workplace privacy violations. Japan, where the company is headquartered, has strict voyeurism laws, and similar cases in the past have led to prison sentences. Privacy and Company Culture Fallout Incidents of this nature are rare but not unheard of in the gaming and tech industries. They often trigger uncomfortable conversations about workplace surveillance, security gaps, and the responsibility companies have to protect their employees. For The Pokémon Company, an entity known for family-friendly branding and close ties to Nintendo, the optics are particularly damaging. Trust is hard to rebuild once it's broken inside a studio or office, and staff may justifiably question how such a breach could occur on company grounds. GamerHeadlines Takeaway This is a disheartening story that has little to do with the games themselves but everything to do with the people who make them. It's a reminder that safety and privacy in game development workplaces remain an ongoing concern. As the legal process unfolds, more details will likely emerge, and we'll update if any significant developments come to light.",
+      "url": "https://gamerheadlines.com/former-pokemon-co-employee-arrested-for-hiding-cameras-in-bathrooms/",
+      "source": "GH",
+      "image": "https://gamerheadlines.com/wp-content/uploads/2026/06/pokemon2-og.jpg",
+      "publishedAt": "2026-08-06T01:00:35Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 65,
+      "confidence": 55,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
+        "restroom context (3 terms)",
+        "category terms (1)"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Peeping tom installed equipment to spy on woman - In the Dock\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-20T15:25:25.867Z"
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1)). \"Former Pokémon Co. Employee Arrested For Hiding Cameras In Bathrooms - GamerHeadlines\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-21T17:51:27.543Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "22-year-old man arrested for voyeurism at NTU hall gym, reportedly a student",
-      "description": "Man arrested for voyeurism is reportedly an NTU student A 22-year-old man was arrested for voyeurism on Saturday (19 Sept) night at Nanyang Technological University (NTU), according to the police. Netizens on Reddit said they saw campus security and the police at North Hill Gym, which is located in NTU's Banyan Hall. NTU security seen patting down man A Reddit user who went to the gym said they saw five security officers patting down a man and wondered what had happened. Another user replied that security had arrived at about 7.30pm and were later joined by two police officers, who questioned other students. The original poster (OP) added that the officers were still there when he walked in at 8.40pm. Man said to be undergraduate student Another netizen on the same thread identified the man as an undergraduate student studying mathematical sciences. In another comment, the same user claimed they recognised the man as he is a final-year student in the same course. This prompted another commenter to lament that his future was \"gone\". Police arrest man for voyeurism at NTU Banyan Hall In response to queries from MS News, the Singapore Police Force (SPF) said it received a call for assistance at about 7.30pm on 19 Sept. It came from 66 Nanyang Crescent -- the address of NTU's Banyan Hall. A 22-year-old man was arrested for voyeurism, SPF added, without specifying whether he is a student. Police investigations are ongoing. NTU confirms that man is a student An NTU spokesperson confirmed in a statement to The Straits Times (ST) that the man arrested is a student. NTU campus security had responded to a call for assistance at a campus gym that evening and subsequently called the police, the spokesperson said. University staff are in touch with the affected parties to provide support and assistance. Also read: Man jailed for filming woman showering at NTU dormitory, netizens outraged at 'lenient' sentence Man jailed for filming woman showering at NTU dormitory, netizens outraged at 'lenient' sentence Have news you must share? Get in touch with us via email at news@mustsharenews.com. Featured image adapted from Nanyang Technological University.",
-      "url": "https://mustsharenews.com/ntu-voyeurism/",
-      "source": "MS News - Independent News For Singaporeans",
-      "image": "https://mustsharenews.com/wp-content/uploads/2026/09/22-year-old-man-arrested-for-voyeurism-at-NTU-hall-gym-reportedly-a-student.jpg",
-      "publishedAt": "2026-09-20T14:01:32Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
+      "title": "Cheap smartphone add-on pinpoints hidden cameras to shut down spies",
+      "description": "There have been far too many cases of people finding cameras in places they didn't belong: hotel rooms, bedrooms, and bathrooms in Airbnb rentals. The problem became serious enough that Airbnb announced a global ban on indoor security cameras a couple of years ago. But, of course, saying that something is illegal doesn't magically stop people from doing it. If only there was a hidden-camera detector: effective, cheap, and small enough to take with you when you travel. Well, researchers may have come up with exactly that. A team at the Korea Advanced Institute of Science and Technology (KAIST), in collaboration with the National University of Singapore and Singapore Management University, has developed a device called SweepLED. The basic idea behind finding a hidden camera is simple: shine light at a suspicious object, and look for the bright reflection that bounces back from the camera's lens. In fact, devices utilizing this concept already exist. But they're not that effective ... guess why? Because there are dozens of shiny objects in every apartment or hotel room: mirrors, lamps, glasses, pots, glossy plastic - and they all reflect light. Existing detectors struggle to distinguish between the reflection from a toaster and the reflection from a hidden camera, leading to false positives. SweepLED is designed to tackle this problem. Instead of looking at a single bright spot, it analyzes how the reflection changes as the light moves, and that's the key innovation. The device uses a small LED array built into a smartphone case. The prototype has 15 LEDs, and the hardware costs about US$7, which is quite a bargain for protecting your privacy. Here's how it works ... You point the phone at a suspicious object and hold it still for a few seconds. The LEDs on the back of the phone case rapidly sweep light across the object from different angles, while the phone's camera records the reflection. Both a normal shiny object and a hidden camera lens can reflect the light, but their reflections behave differently as the angle of the light changes. And this is where things get interesting. Camera lenses have a distinctive optical structure, which produces very particular reflection patterns as the illumination changes. Those unique patterns are what the device is looking for. The phone records the reflection changes and sends the video to software that processes and analyzes the footage. First, the system stabilizes the recording, because the phone could be moving slightly. Then, it compares frames captured with the LEDs on and the LEDs off to isolate the reflections produced by the LED sweep. The researchers use an AI model trained to track and analyze changes captured over time rather than just looking at a single image. Basically, instead of pointing out all the shiny things, it looks for those whose reflection changes in a particular way.",
+      "url": "https://www.freedomsphoenix.com/News/401530-2026-09-21-cheap-smartphone-add-on-pinpoints-hidden-cameras-to-shut-down.htm",
+      "source": "freedomsphoenix.com",
+      "image": "https://www.freedomsphoenix.com/Uploads/Graphics/522-0921053515-images-17.jpg",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -119,8 +116,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"22-year-old man arrested for voyeurism at NTU hall gym, reportedly a student\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-20T15:25:25.867Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Cheap smartphone add-on pinpoints hidden cameras to shut down spies\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-21T17:51:27.543Z"
     }
   ]
 }
