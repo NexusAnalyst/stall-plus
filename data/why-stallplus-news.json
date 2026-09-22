@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:51:27.543Z",
+  "updatedAt": "2026-09-22T16:15:38.447Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 1,
-    "pending": 2,
-    "rejected": 67,
+    "published": 2,
+    "pending": 5,
+    "rejected": 64,
     "carriedForward": 1
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -55,6 +55,28 @@
   ],
   "articles": [
     {
+      "provider": "NewsData.io",
+      "title": "Arrest report details Peeping Tom accusation involving 85-year-old Villager",
+      "description": "An arrest affidavit is shedding new light on a voyeurism charge against an 85-year-old Villager who allegedly spied on a man through a hole in a public restroom stall. Read more: Arrest report details Peeping Tom accusation involving 85-year-old Villager",
+      "url": "https://www.villages-news.com/2026/09/21/arrest-report-details-peeping-tom-accusation-involving-85-year-old-villager/",
+      "source": "Villages-news.com",
+      "image": "https://www.villages-news.com/wp-content/uploads/2026/09/Robert-Donald-Rice-1-600x435.jpg",
+      "publishedAt": "2026-09-21 22:45:12",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 95,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Arrest report details Peeping Tom accusation involving 85-year-old Villager\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
       "provider": "NewsAPI.ai",
       "title": "Parents press for answers from Tempe school district in Corona del Sol voyeurism case",
       "description": "Parents remain frustrated after nearly a month has passed with few answers from the Tempe Union High School District amid a voyeurism investigation centered on Corona del Sol High School. TEMPE, AZ -- Parents remain frustrated after nearly a month has passed with few answers from the Tempe Union High School District amid a voyeurism investigation centered on Corona del Sol High School. Several parents took to the podium during the district governing board meeting on Wednesday night, pressing for a third-party investigation of district privacy safeguards, greater transparency and more thorough communication to families. Former district surveillance officer Antony Cruz stands accused of downloading security footage of female students in a makeshift locker room at Corona del Sol while working for the district. The students were in \"various states of undress,\" according to a police report. Tempe Police arrested Cruz, now indicted on eight counts of voyeurism, on Saturday, Aug. 22. \"When something this serious happens, the question must be: how did this happen?\" one woman said at the podium. \"Where did our safeguards fail, and what are you going to do about it?\" Parents expressed frustration with the limited information they have received from the district. They want to know how many other individuals had access to the camera in the space where parents say students changed for practice, if other cameras captured students in sensitive states and if any particular failed safeguards or warning signs have been identified. Tempe Police told ABC15 that at this time, \"only one camera has been identified and only one person of interest.\" All victims have been identified, police said, and district communication to families stated police held a private meeting with victims' families last week. Students of families not contacted by police were not victims in the investigation, the district said. The district previously told families that the dance room became a makeshift locker room during renovations, though that was not approved by the district. The camera, installed in 2024 for security purposes, is now off and covered. Previous statements said that there are no cameras in changing areas, bathrooms or classrooms district-wide. \"These children get one childhood. They cannot undo what happened to them,\" the woman continued. \"But this board can decide what happens next.\" The district has not responded to ABC15's latest request for comment on questions asked by parents during the Sept. 16 governing board meeting. During the district governing board's Sept. 2 meeting, Superintendent Stacia Wilson acknowledged the impact the incident has had on students and families. \"To the families who spoke here tonight: thank you,\" Dr. Wilson said. \"We know it is not easy to come forward and share your concerns, and we appreciate you giving us the opportunity to listen.\" The superintendent said the district will share further information \"as it becomes available and as we are able to do so.\"",
@@ -79,32 +101,77 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Former Pokémon Co. Employee Arrested For Hiding Cameras In Bathrooms - GamerHeadlines",
-      "description": "A former employee of The Pokémon Company has been arrested for secretly placing cameras inside bathrooms at the company's offices, according to the original report from GoNintendo. The arrest follows an internal investigation into hidden recording devices discovered in restrooms used by staff. Details about when the cameras were installed or how long the surveillance had gone undetected have not been disclosed. The employee, whose name and position have not been released, is no longer with the company. What We Know So Far The Pokémon Company has not publicly addressed the arrest beyond confirming a former employee was involved. The case appears to be in early legal stages, and no charges have been detailed in the initial reporting. While the specific office location where the cameras were found remains unclear, the incident raises obvious workplace privacy violations. Japan, where the company is headquartered, has strict voyeurism laws, and similar cases in the past have led to prison sentences. Privacy and Company Culture Fallout Incidents of this nature are rare but not unheard of in the gaming and tech industries. They often trigger uncomfortable conversations about workplace surveillance, security gaps, and the responsibility companies have to protect their employees. For The Pokémon Company, an entity known for family-friendly branding and close ties to Nintendo, the optics are particularly damaging. Trust is hard to rebuild once it's broken inside a studio or office, and staff may justifiably question how such a breach could occur on company grounds. GamerHeadlines Takeaway This is a disheartening story that has little to do with the games themselves but everything to do with the people who make them. It's a reminder that safety and privacy in game development workplaces remain an ongoing concern. As the legal process unfolds, more details will likely emerge, and we'll update if any significant developments come to light.",
-      "url": "https://gamerheadlines.com/former-pokemon-co-employee-arrested-for-hiding-cameras-in-bathrooms/",
-      "source": "GH",
-      "image": "https://gamerheadlines.com/wp-content/uploads/2026/06/pokemon2-og.jpg",
-      "publishedAt": "2026-08-06T01:00:35Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
+      "title": "Gwalior Hotel MMS Leak Case: Hidden Cameras in Bulb Holders, Blackmail Racket Busted",
+      "description": "A hidden-camera racket at a Gwalior hotel allegedly turned private moments into blackmail material. Police say three suspects secretly recorded couples using cameras disguised as bulb holders, then threatened victims with video leaks. What started as a single blackmail complaint has now unravelled into something far more disturbing. The Gwalior Hotel MMS Leak Case exposed an alleged spy-camera network operating quietly inside a hotel, and the people behind it weren't who anyone might have expected. Police arrested three individuals, including an engineering student, after investigators found that miniature cameras had reportedly been hidden inside bulb holders to secretly record couples staying at the property. According to reports from NDTV and The Times of India, the people allegedly behind this were Radha Chaubey, her boyfriend Bhupendra Dhakad, and his associate Brijesh Dhakad. Police say the trio collected private recordings and then used them as leverage, threatening victims with exposure unless they paid up. Gwalior Hotel MMS Leak Case: How Were the Videos Recorded? Police say the accused used rooms at Gwalior's Hotel Virat Inn to carry out their plan. The method was calculated: Radha would book the room, and then Bhupendra and Brijesh would allegedly come in to install small surveillance cameras cleverly disguised as ordinary bulb holders. Days later, they'd return, remove the device, and walk away with the footage. The reason it worked for as long as it did? The cameras looked like something you'd find in any hotel room. Guests had no reason to look twice. During the investigation, police reportedly recovered spy-camera equipment, mobile phones, memory cards, and pen drives. The seized material allegedly contained recordings of multiple couples, none of whom had any idea they were being filmed. How Did the Gwalior Spy Camera Racket Come to Light? The whole thing unravelled because one victim decided to fight back. A 27-year-old man identified in reports as Pushpendra Prajapati had stayed at the hotel with his girlfriend on July 26, 2025. Some time later, he started receiving WhatsApp messages threatening to leak his private video unless he paid ₹1 lakh. He paid ₹5,000 first, then ₹45,000, hoping it would end there. It didn't. When another ₹50,000 demand came, he told his brother and finally went to the police. That complaint gave investigators the thread they needed to pull. The phone number used to send those threats eventually led them straight to the accused. Who Was Arrested in the Gwalior Hotel Case? Police arrested three people in connection with this alleged operation: * Radha Chaubey, described in police accounts as an engineering student and the alleged mastermind of the scheme. * Bhupendra Dhakad, identified as her boyfriend. * Brijesh Dhakad, described as Bhupendra's associate. India Today reported that Chaubey was 22 years old at the time of her arrest. According to police, she allegedly told investigators that financial difficulties and her ambition to pursue an MBA had pushed her toward this. That claim, it should be noted, is part of what investigators have shared, it hasn't been established as fact beyond the allegations. What Did Police Find During the Investigation? The seizures went well beyond what was directly linked to the original complaint. According to The Times of India, police found private clips involving several couples stored across memory cards and pen drives, all of which were sent for forensic examination. Investigators were also looking into whether anyone at the hotel may have assisted or at least turned a blind eye. The question was hard to ignore, the cameras were allegedly installed and removed from rooms over multiple visits without anyone apparently noticing. That said, reports also suggested the accused had difficulty getting the contact details of other hotel guests, which may have limited how many additional victims they were able to directly target. Alleged Blackmail Was at the Centre of the Case The hidden cameras alone are troubling enough. But what makes the hotel blackmail case especially serious is what the recordings were allegedly used for. Police say the victim was explicitly threatened: pay ₹1 lakh or the video goes public. He paid a significant portion of that amount before involving his family and approaching the police. Investigators then traced the threatening messages back to the accused. Reports also indicated that Chaubey allegedly presented herself to some victims as someone who could help them access money, which police viewed as part of the pressure campaign being run against them. What Happened to the Three Accused? All three were arrested and sent to judicial custody, according to police statements carried by NDTV and The Times of India. Charges reportedly include provisions related to extortion, criminal conspiracy, and the Information Technology Act. The investigation into the seized digital material was still continuing, and police were also looking into whether anyone else may have been involved. It's important to note that being arrested and charged is not the same as being found guilty, that determination ultimately rests with the court. Why the Gwalior Hotel Case Is Raising Privacy Concerns This case touches on something that a lot of people don't think about until it's too late: surveillance devices can be hidden inside completely ordinary objects. A bulb holder, a smoke detector, a charging adapter, these are things guests simply don't inspect. And that's precisely what makes them useful to someone with bad intentions. The hidden camera hotel case in Gwalior is also a reminder of why it's important to be careful about what gets shared or searched online when these stories surface. The existence of a police case doesn't validate every claim circulating on social media, and spreading or seeking out private recordings causes further harm to the people who were allegedly filmed without their consent. What is verified: Gwalior police arrested three suspects following a blackmail complaint, which led them to an alleged hidden-camera operation at a local hotel. The investigation into the seized material and possible additional involvement is ongoing. Note: The incident described was reported by police and news outlets in August 2025. Allegations against the arrested suspects remain subject to the legal process.",
+      "url": "https://www.stackumbrella.com/viral-news-videos-photos/gwalior-hotel-mms-leak-case-hidden-cameras-in-bulb-holders-blackmail-racket-busted-12564485",
+      "source": "Stackumbrella.com",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/stackumbrella/media/media_files/2026/09/22/gwalior-hotel-mms-leak-case2-2026-09-22-17-19-32.png",
+      "publishedAt": "2026-09-22T11:57:06Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 65,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)"
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1)). \"Former Pokémon Co. Employee Arrested For Hiding Cameras In Bathrooms - GamerHeadlines\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-21T17:51:27.543Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Gwalior Hotel MMS Leak Case: Hidden Cameras in Bulb Holders, Blackmail Racket Busted\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-22T16:15:38.447Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Cheap smartphone add-on pinpoints hidden cameras to shut down spies",
-      "description": "There have been far too many cases of people finding cameras in places they didn't belong: hotel rooms, bedrooms, and bathrooms in Airbnb rentals. The problem became serious enough that Airbnb announced a global ban on indoor security cameras a couple of years ago. But, of course, saying that something is illegal doesn't magically stop people from doing it. If only there was a hidden-camera detector: effective, cheap, and small enough to take with you when you travel. Well, researchers may have come up with exactly that. A team at the Korea Advanced Institute of Science and Technology (KAIST), in collaboration with the National University of Singapore and Singapore Management University, has developed a device called SweepLED. The basic idea behind finding a hidden camera is simple: shine light at a suspicious object, and look for the bright reflection that bounces back from the camera's lens. In fact, devices utilizing this concept already exist. But they're not that effective ... guess why? Because there are dozens of shiny objects in every apartment or hotel room: mirrors, lamps, glasses, pots, glossy plastic - and they all reflect light. Existing detectors struggle to distinguish between the reflection from a toaster and the reflection from a hidden camera, leading to false positives. SweepLED is designed to tackle this problem. Instead of looking at a single bright spot, it analyzes how the reflection changes as the light moves, and that's the key innovation. The device uses a small LED array built into a smartphone case. The prototype has 15 LEDs, and the hardware costs about US$7, which is quite a bargain for protecting your privacy. Here's how it works ... You point the phone at a suspicious object and hold it still for a few seconds. The LEDs on the back of the phone case rapidly sweep light across the object from different angles, while the phone's camera records the reflection. Both a normal shiny object and a hidden camera lens can reflect the light, but their reflections behave differently as the angle of the light changes. And this is where things get interesting. Camera lenses have a distinctive optical structure, which produces very particular reflection patterns as the illumination changes. Those unique patterns are what the device is looking for. The phone records the reflection changes and sends the video to software that processes and analyzes the footage. First, the system stabilizes the recording, because the phone could be moving slightly. Then, it compares frames captured with the LEDs on and the LEDs off to isolate the reflections produced by the LED sweep. The researchers use an AI model trained to track and analyze changes captured over time rather than just looking at a single image. Basically, instead of pointing out all the shiny things, it looks for those whose reflection changes in a particular way.",
-      "url": "https://www.freedomsphoenix.com/News/401530-2026-09-21-cheap-smartphone-add-on-pinpoints-hidden-cameras-to-shut-down.htm",
-      "source": "freedomsphoenix.com",
-      "image": "https://www.freedomsphoenix.com/Uploads/Graphics/522-0921053515-images-17.jpg",
-      "publishedAt": "2026-09-21T00:00:00Z",
+      "title": "Kenner business owner arrested after hidden cameras discovered in restrooms: Kenner PD",
+      "description": "KENNER, La. (WGNO) -- A Kenner business owner is in police custody after allegedly placing cameras in the facility's restrooms. On Sept. 17, the Kenner Police Department was alerted of a video voyeurism incident, where a victim reportedly found a camera under the sink, while in the businesses' restroom. Through the investigation, the business owner, 57-year-old Henry Rios was allegedly seen positioning the camera and later placing it inside his office. A search warrant was executed at his office and home where detective found three additional cameras. Kenner PD said three victims have been found but the data revealed over 500 photos and videos dating back to at least Sept. 5, with more possible. Also recovered was: * 13 thumb drives * 5 memory cards * A concealed camera with an attached alarm clock Rios was arrested and booked on three counts of video voyeurism with additional charges possible as detectives continue to examine evidence. Kenner police are advising that any business serviced by Rios, inspect their restrooms and other areas for concealed cameras. Anyone who finds the camera is asked not to remove, unplug or attempt to access it, but to restrict the area and call police at 504-712-2222. \"We are asking all businesses to please inspect their restrooms, changing rooms, and other private areas for suspicious devices. We have included photographs of the devices of the devices recovered in this investigation to assist businesses in knowing what to look for. It is a shame that predators like this exist and walk among us, but we at the Kenner Police Department will aggressively investigate these crimes, identify those responsible, and do everything within our authority to protect our community to protect our community and hold offenders accountable. If you locate anything suspicious, do not touch it - contact law enforcement immediately so it can be properly recovered and examined,\" said Chief Keith Conley.",
+      "url": "https://wgno.com/news/crime/kenner-business-owner-arrested-after-hidden-cameras-discovered-in-restrooms-kenner-pd/",
+      "source": "WGNO - News With A Twist",
+      "image": "https://wgno.com/wp-content/uploads/sites/2/2026/09/WGNO-Mug-Shot-and-Photo-Template-September-14-2026-at-15.59.21-5.jpeg?strip=1&w=640",
+      "publishedAt": "2026-09-22T14:01:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Kenner business owner arrested after hidden cameras discovered in restrooms: Kenner PD\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-22T16:15:38.447Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Kenner business owner accused of filming customers with hidden cameras in his bathroom",
+      "description": "A Kenner man was arrested after he was accused of illegally filming guests inside the restroom of his business, Kenner police said Tuesday. Henry Rios, 57, owner of ETC Nola, a signs and banner business at the Cornerstone Business Center on Bainbridge Avenue, was booked with three counts of video voyeurism after Kenner police were notified Thursday that a victim discovered a concealed video camera underneath the sink of the business' bathroom, police said. Officers reviewed recordings from the camera. They allegedly showed Rios manipulating the device's position and later taking it to his office. Police obtained a search warrant for ETC Nola Thursday and found three additional concealable surveillance cameras, according to authorities. Three victims have been identified by investigators, but detectives are concerned there may be more victims. An initial examination turned up more than 500 photos and videos dating back to at least September. Thirteen thumb drives, five memory cards and a concealable camera that looked like an LED alarm clock were also seized. The investigation is ongoing and additional charges could follow. Any business that contracted Rios or ETC Nola is encouraged to inspect their restrooms and other areas for concealed cameras or other unfamiliar electronic devices. If a recording device is recovered, businesses should restrict access to the area and immediately call the police. Anyone who believes they may be a victim or who has relevant information can call Kenner police at 504-712-2222.",
+      "url": "https://www.nola.com/news/crime_police/kenner-bathroom-recording-business-arrest/article_9852faf7-51eb-493c-9838-a17eeb935aa1.html",
+      "source": "NOLA",
+      "image": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/5e/95e8655c-3e7e-4018-8a67-e432da8913c7/6a2334aa4484b.image.jpg?crop=1023%2C538%2C0%2C110&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-09-22T12:24:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Kenner business owner accused of filming customers with hidden cameras in his bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-22T16:15:38.447Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Karnataka Viral MMS Case: Fake Journalists Allegedly Planted Hidden Cameras In Woman's Home, Demanded Rs 50 Lakh",
+      "description": "Three YouTubers were arrested in Belagavi for allegedly planting hidden cameras inside a woman government officer's home and demanding Rs 50 lakh over threats to leak private recordings. A disturbing case has emerged from Belagavi, Karnataka, where three YouTubers have been arrested for allegedly recording the private moments of a woman government officer using hidden cameras inside her home. Police said the accused allegedly demanded Rs 50 lakh after threatening to circulate the recordings online. The arrested men have been identified as Sameer Nisar Ahmed Sheikh, 32, Abdul Nazeer Ahmed Makanadar, 51, and Mohammed Dilawar Balekundri, 43. All three are residents of Gokak taluk. Hidden Cameras Allegedly Installed Inside Bulb Holders According to police, the accused allegedly gained access to the woman's house with the help of her domestic worker while she was away. Investigators said hidden cameras were reportedly placed inside bulb holders, allowing the suspects to capture footage from inside the house. The accused allegedly monitored the property from outside and later used the recordings to threaten the woman. Rs 50 Lakh Ransom Demand Police said the suspects allegedly threatened to make the private recordings public and circulate them on social media unless the woman paid Rs 50 lakh. Following the alleged threats, the woman approached Malmaruti police station. A special team led by Inspector BR Gaddekar subsequently arrested the three accused on Wednesday evening under the supervision of ACP Santosh Satyanaik. Cameras, Phones And Memory Cards Seized During the investigation, police reportedly recovered a car, six hidden camera holders, three mobile phones, eight memory cards, pen drives and memory card readers from the accused. A case has been registered under Sections 308(2), 77 and 351 of the Bharatiya Nyaya Sanhita, along with Sections 66(E), 67 and 67(A) of the Information Technology Act. Police Suspect A Larger Racket Belagavi City Police Commissioner Bhushan Borase said investigators suspect that more people could be involved. The recovered mobile phones are being analysed, and further action will depend on the findings. Police have also urged people to remain cautious about home security and hidden cameras, particularly in places such as hotels and other private spaces.",
+      "url": "https://www.newsx.com/offbeat/karnataka-viral-mms-case-fake-journalists-allegedly-planted-hidden-cameras-in-womans-home-demanded-rs-50-lakh-274571/",
+      "source": "NewsX",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/representative-image-2026-09-22t130715317.jpg",
+      "publishedAt": "2026-09-22T07:38:23Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -116,8 +183,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Cheap smartphone add-on pinpoints hidden cameras to shut down spies\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-21T17:51:27.543Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Karnataka Viral MMS Case: Fake Journalists Allegedly Planted Hidden Cameras In Woman's Home, Demanded Rs 50 Lakh\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-22T16:15:38.447Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man charged with voyeurism, child pornography after recording in a bathroom",
+      "description": "A Huntsville man faces felony charges after allegedly using a cellphone to record a child inside a bathroom, according to police.",
+      "url": "https://www.waff.com/2026/09/21/man-charged-with-voyeurism-child-pornography-after-bathroom-recording/",
+      "source": "Waff",
+      "image": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/D7K52GAXZNBLPBPZS5DIS5RUEA.png?auth=a236ef4c6804035d6051ed1f23919eef95c6103098ceae91d38c9a6bbef5d2c2&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-21 17:55:59",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged with voyeurism, child pornography after recording in a bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-22T16:15:38.447Z"
     }
   ]
 }
