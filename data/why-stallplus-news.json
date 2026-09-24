@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:04:56.588Z",
+  "updatedAt": "2026-09-24T16:29:05.935Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 3,
-    "rejected": 67,
+    "pending": 1,
+    "rejected": 69,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -100,67 +100,26 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Polk government employee found dead after being accused of hiding camera in bathroom",
-      "description": "Shock is rolling through the Polk County Tax Collector's Office after an employee found a hidden camera in the women's restroom of their Bartow IT building.",
-      "url": "https://www.wfla.com/news/polk-county/polk-government-employee-found-dead-after-being-accused-of-hiding-camera-in-bathroom/",
-      "source": "Wfla",
-      "image": "https://www.wfla.com/wp-content/uploads/sites/71/2026/09/GettyImages-813799990.jpg?w=900",
-      "publishedAt": "2026-09-22 20:42:11",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Polk government employee found dead after being accused of hiding camera in bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-23T16:04:56.588Z"
-    },
-    {
       "provider": "NewsAPI.ai",
-      "title": "How modeling helped a local vet beat PTSD",
-      "description": "On Monday, a man was sentenced to 50 years in prison following an investigation that began after a teenager discovered a hidden camera in a bathroom. 46-year-old Justin Elliott Lee pleaded guilty to five counts involving illegal images of a minor. Prosecutors say Lee also admitted guilt to five additional counts and an aggravated offense involving a child. The investigation began in August 2024, when the Madison County Sheriff's Office responded to a home in North Zulch after authorities were notified that a 15-year-old had discovered a hidden camera in a family bathroom. Investigators later obtained a search warrant for Lee's phone and reported finding images and recordings of the teenager. According to prosecutors, investigators also recovered recordings showing Lee placing cameras facing the shower. Another hidden camera was found in the living room, where the teenager had been sleeping. Madison County Sheriff's Investigator Carly Foster led the investigation, with assistance from investigators Steve Jeter and Blake Baldobino. District Judge David Moorman sentenced Lee to a total of 50 years in the Texas Department of Criminal Justice. Lee must serve half of the sentence before becoming eligible for parole and will be required to register as a sex offender for life. Lee, who prosecutors say had no prior criminal history, remains in the Madison County Jail awaiting transfer to state prison. Madison County District Attorney Courtney Cain said, \"The victim in this case showed such strength and courage. She was being sexually abused and recorded by someone she trusted. I am thankful that the victim did not have to testify and relive this trauma. I am also glad that the Defendant is off the streets of Madison County for a long time and where he deserves to be - prison!\" Got a news tip? e-mail us at news@wtaw.com, text us at (979) 695-1620, or reach out on Facebook or Twitter/X.",
-      "url": "https://wtaw.com/how-modeling-helped-a-local-vet-beat-ptsd/",
-      "source": "WTAW | 1620AM & 94.5FM",
-      "image": "https://wtaw.com/wp-content/uploads/2026/07/WTAW-logo.jpg",
-      "publishedAt": "2026-09-23T14:25:47Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
+      "title": "Police: Man charged with 11 counts of voyeurism after allegedly hiding in ceiling of women's locker room",
+      "description": "A man has been charged with nearly a dozen counts of voyeurism after being found in the ceiling of a women's locker room at Wilmington College, according to police. Wilmington police say officers responded to the Scheve Athletic Center on WC's campus around 9:40 p.m. Tuesday for a report of a person taking pictures of members of the women's soccer team while they were changing inside the locker room. Officers say upon their arrival, the suspect, later identified as Jayson Barker of Jeffersonville, Ohio, was being detained by Wilmington College Campus Safety personnel. Police say Barker is alleged to have hidden himself in the ceiling area of the women's locker room and was discovered by a member of the soccer team. Campus Safety and Wilmington police were then notified. Authorities say Barker was working at WC as a contracted employee, performing custodial services. Barker has been charged with 11 counts of voyeurism. He is being held at the Clinton County Jail on a $22,000 cash surety bond. He's scheduled to make his next court appearance on Monday, Oct. 5, in the Clinton County Municipal Court. Wilmington police say an investigation is ongoing.",
+      "url": "https://www.wlwt.com/article/man-charged-voyeurism-11-counts-womens-locker-room-ohio/73869803",
+      "source": "WLWT5",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/02f66fad-f84a-4909-bdd2-73f5e5f66af6.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=640%3A*",
+      "publishedAt": "2026-09-24T15:01:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
+        "restroom context (1 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"How modeling helped a local vet beat PTSD\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-23T16:04:56.588Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Bryan Mayor Bobby Gutierrez on The Infomaniacs",
-      "description": "City of Bryan Mayor Bobby Gutierrez called into the show this morning to talk the emerging nuclear power industry in Texas and how it could effect Bryan in a big way. Also; big numbers are coming out of the Legends Events Center and what does that mean going forward? Hear the entire segment below: On Monday, a man was sentenced to 50 years in prison following an investigation that began after a teenager discovered a hidden camera in a bathroom. 46-year-old Justin Elliott Lee pleaded guilty to five counts involving illegal images of a minor. Prosecutors say Lee also admitted guilt to five additional counts and an aggravated offense involving a child. The investigation began in August 2024, when the Madison County Sheriff's Office responded to a home in North Zulch after authorities were notified that a 15-year-old had discovered a hidden camera in a family bathroom. Investigators later obtained a search warrant for Lee's phone and reported finding images and recordings of the teenager. According to prosecutors, investigators also recovered recordings showing Lee placing cameras facing the shower. Another hidden camera was found in the living room, where the teenager had been sleeping. Madison County Sheriff's Investigator Carly Foster led the investigation, with assistance from investigators Steve Jeter and Blake Baldobino. District Judge David Moorman sentenced Lee to a total of 50 years in the Texas Department of Criminal Justice. Lee must serve half of the sentence before becoming eligible for parole and will be required to register as a sex offender for life. Lee, who prosecutors say had no prior criminal history, remains in the Madison County Jail awaiting transfer to state prison. Madison County District Attorney Courtney Cain said, \"The victim in this case showed such strength and courage. She was being sexually abused and recorded by someone she trusted. I am thankful that the victim did not have to testify and relive this trauma. I am also glad that the Defendant is off the streets of Madison County for a long time and where he deserves to be - prison!\" Got a news tip? e-mail us at news@wtaw.com, text us at (979) 695-1620, or reach out on Facebook or Twitter/X.",
-      "url": "https://wtaw.com/bryan-mayor-bobby-gutierrez-on-the-infomaniacs-6/",
-      "source": "WTAW | 1620AM & 94.5FM",
-      "image": "https://wtaw.com/wp-content/uploads/2023/01/Bobby-Gutierrez-WTAW-640x360-1.jpg",
-      "publishedAt": "2026-09-23T14:28:44Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Bryan Mayor Bobby Gutierrez on The Infomaniacs\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-23T16:04:56.588Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Police: Man charged with 11 counts of voyeurism after allegedly hiding in ceiling of women's locker room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-24T16:29:05.935Z"
     }
   ]
 }
