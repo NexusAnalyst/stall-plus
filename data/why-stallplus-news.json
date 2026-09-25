@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:29:05.935Z",
+  "updatedAt": "2026-09-25T16:30:39.720Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 1,
-    "rejected": 69,
-    "carriedForward": 2
+    "published": 3,
+    "pending": 2,
+    "rejected": 66,
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 2
     },
     {
       "id": "workplace-privacy",
@@ -78,38 +78,82 @@
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Parents press for answers from Tempe school district in Corona del Sol voyeurism case",
-      "description": "Parents remain frustrated after nearly a month has passed with few answers from the Tempe Union High School District amid a voyeurism investigation centered on Corona del Sol High School. TEMPE, AZ -- Parents remain frustrated after nearly a month has passed with few answers from the Tempe Union High School District amid a voyeurism investigation centered on Corona del Sol High School. Several parents took to the podium during the district governing board meeting on Wednesday night, pressing for a third-party investigation of district privacy safeguards, greater transparency and more thorough communication to families. Former district surveillance officer Antony Cruz stands accused of downloading security footage of female students in a makeshift locker room at Corona del Sol while working for the district. The students were in \"various states of undress,\" according to a police report. Tempe Police arrested Cruz, now indicted on eight counts of voyeurism, on Saturday, Aug. 22. \"When something this serious happens, the question must be: how did this happen?\" one woman said at the podium. \"Where did our safeguards fail, and what are you going to do about it?\" Parents expressed frustration with the limited information they have received from the district. They want to know how many other individuals had access to the camera in the space where parents say students changed for practice, if other cameras captured students in sensitive states and if any particular failed safeguards or warning signs have been identified. Tempe Police told ABC15 that at this time, \"only one camera has been identified and only one person of interest.\" All victims have been identified, police said, and district communication to families stated police held a private meeting with victims' families last week. Students of families not contacted by police were not victims in the investigation, the district said. The district previously told families that the dance room became a makeshift locker room during renovations, though that was not approved by the district. The camera, installed in 2024 for security purposes, is now off and covered. Previous statements said that there are no cameras in changing areas, bathrooms or classrooms district-wide. \"These children get one childhood. They cannot undo what happened to them,\" the woman continued. \"But this board can decide what happens next.\" The district has not responded to ABC15's latest request for comment on questions asked by parents during the Sept. 16 governing board meeting. During the district governing board's Sept. 2 meeting, Superintendent Stacia Wilson acknowledged the impact the incident has had on students and families. \"To the families who spoke here tonight: thank you,\" Dr. Wilson said. \"We know it is not easy to come forward and share your concerns, and we appreciate you giving us the opportunity to listen.\" The superintendent said the district will share further information \"as it becomes available and as we are able to do so.\"",
-      "url": "https://www.abc15.com/news/region-southeast-valley/tempe/parents-press-for-answers-from-tempe-school-district-in-corona-del-sol-voyeurism-case",
-      "source": "abc15 Arizona",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/41bff3b/2147483647/strip/true/crop/1774x998+60+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F52%2Fab%2Fd8091150404bb985d888b307ca52%2Fscreenshot-2026-09-17-at-3-19-25-pm.png",
-      "publishedAt": "2026-09-17T22:28:06Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
+      "title": "Blenheim health professional jailed for covertly filming girls 144 times",
+      "description": "Two young girls, their family and friends have been torn apart by revelations their most private daily routines were filmed and viewed by the man they trusted. The Blenheim health professional has been sentenced to four years in prison on more than 30 charges of child sexual exploitation, with covert filming at the heart of his abuse. Several charges were representative. The man, who has permanent name suppression, filmed the victims showering and using the toilet on 144 occasions. Proof that he was present was in his zooming in and out on his victims, using a spy camera hidden in a power socket. On one occasion, he accidentally filmed himself entering the bathroom and moving a towel on a towel rail, which had covered the hidden camera. \"An important observation was that you appeared to be controlling the recording as it was happening,\" Judge Tony Snell said the sentencing in the Nelson District Court. He said that demonstrated the motives were sexual. The man, described as having been a \"high functioning member of the community\", hung his head and sobbed, as he heard five of the six victims' statements read on their behalf during the hearing. One said she was shocked, sad and embarrassed. Another said knowing he had viewed her in such a way and that police had viewed the videos had also caused \"immense distress\". Another was left \"physically sick\" at knowing that the man had \"captured parts of her she didn't like to look at herself\". The man's former partner said the shame and sadness were so immense, they often avoided going out in public and considered leaving town. Judge Snell said the victims had been left ashamed, degraded, humiliated and terrified that people would find out what had happened to them. \"They are victims of a sexual predator, which is you, which is ironic, because you blame much of this on your own experience being a victim.\" He was earlier found guilty at a judge-alone trial, where he maintained that, while his body might have been involved, his mind wasn't. \"I'm still not quite sure you accept it was you doing this,\" Judge Snell said. The charges for offending over 16 months fell into three categories - knowingly making an objectionable publication, making an intimate visual recording and possessing an objectionable publication. Crown prosecutor Jackson Webber said there was no evidence the recordings were distributed or shared. Defence lawyer Hannah Stuart said the offending wouldn't have happened, if not for the long periods the man had been unwell, because of what happened to him as a child. The first tranche arose from him installing and operating a covert video camera at two properties, where he filmed the victims using the bathroom. He took a large number of screenshots from the videos. Charges of possession of child sexual exploitation material arose from him sourcing material online. In February 2023, police searched his Marlborough home and seized devices, which were assessed by a specialist forensics unit. Judge Snell said material from a phone could not be extracted until December 2024, because the passcode given to police was wrong. Almost 2700 still images were found in deleted data on an iPhone, which were screenshots from 58 videos, featuring three young girls in the bathroom, showering, using the toilet and dressing. The images were created between October 2021 and February 2022. Other charges related to 86 videos found in a recycle bin on the man's iPhone, taken using covert cameras hidden in a bathroom power socket. Judge Snell said it was notable that the total recording time of those 86 videos was 23 hours. Forty-three of the videos focused on the victims using the toilet. Charges 12-33 related to internet-sourced child exploitation material between April and December 2022, which had been repeatedly accessed. Police also found a file of images dating back several years. \"It's clear from the evidence you were accessing such material back in 2015 for your own viewing,\" Judge Snell said. He said the offending against the victims he filmed was \"shameful, exploitative conduct\" and a \"massive breach of trust\". From an adjusted starting point of five years in prison, the man was awarded a minimal discount for his previous good character and personal circumstances, including that he had suffered abuse as a child, verified by a psychologist's report. Judge Snell also accepted that the man's remorse was genuine in part, which was ironic, when he was someone who claimed to understand the harm caused.",
+      "url": "https://www.rnz.co.nz/news/crime-and-justice/1575783/blenheim-health-professional-jailed-for-covertly-filming-girls-144-times",
+      "source": "RNZ",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--TZlp0cG9--/t_tohu-badge-twitter/f_auto/q_auto/4JHQFAM_GettyImages_522024364_jpg",
+      "publishedAt": "2026-09-25T08:05:48Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 85,
       "confidenceLabel": "high",
       "matchReasons": [
         "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Parents press for answers from Tempe school district in Corona del Sol voyeurism case\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Blenheim health professional jailed for covertly filming girls 144 times\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "'Massive breach of trust': Health professional covertly filmed girls 144 times",
+      "description": "The man, who has permanent name suppression, filmed the victims showering and using the toilet on 144 occasions. Proof that he was present was in his zooming in and out on his victims using a spy camera hidden in a power socket. On one occasion he accidentally filmed himself entering the bathroom and moving a towel on a towel rail which had covered the hidden camera. \"An important observation was that you appeared to be controlling the recording as it was happening,\" Judge Tony Snell said at today's sentencing in the Nelson District Court. He said that demonstrated the motives were sexual. The man, described as having been a \"high functioning member of the community\", hung his head and sobbed as he heard five of the six victims' statements, read on their behalf during the hearing. One said she was shocked, sad and embarrassed. Another said knowing he had viewed her in such a way, and that police had viewed the videos had also caused \"immense distress\". Another was left \"physically sick\" at knowing that the man had \"captured parts of her she didn't like to look at herself\". The man's former partner said the shame and sadness were so immense they often avoided going out in public and were considering leaving town. Judge Snell said the victims had been left ashamed, degraded, humiliated and terrified that people would find out what had happened to them. \"They are victims of a sexual predator, which is you, which is ironic because you blame much of this on your own experience being a victim.\" He was earlier found guilty at a judge-alone trial where he maintained that while his body might have been involved, his mind wasn't. \"I'm still not quite sure you accept it was you doing this,\" Judge Snell said. The charges for offending over 16 months fell into three categories: knowingly making an objectionable publication, making an intimate visual recording and possessing an objectionable publication. Crown prosecutor Jackson Webber said there was no evidence the recordings were distributed or shared. Defence lawyer Hannah Stuart said the offending wouldn't have happened if not for the long periods the man had been unwell because of what happened to him as a child. The first tranche arose from him installing and operating a covert video camera at two properties, where he filmed the victims using the bathroom. He took a large number of screenshots from the videos. Charges of possession of child sexual exploitation material arose from him sourcing material online. In February 2023, police searched his Marlborough home and seized devices which were assessed by a specialist forensics unit. Judge Snell said material from a phone could not be extracted until December 2024 because the passcode given to police was wrong. Almost 2700 still images were found in deleted data on an iPhone which were screenshots from 58 videos featuring three young girls in the bathroom, showering, using the toilet and dressing. The images were created between October 2021 and February 2022. Other charges related to 86 videos found in a recycle bin on the man's iPhone, taken using covert cameras hidden in a bathroom power socket. Judge Snell said it was notable that the total recording time of those 86 videos was 23 hours. Forty-three of the videos focused on the victims using the toilet. Charges 12 to 33 related to internet-sourced child exploitation material between April and December 2022 which had been repeatedly accessed. Police also found a file of images dating back several years. \"It's clear from the evidence you were accessing such material back in 2015 for your own viewing,\" Judge Snell said. He said the offending against the victims he filmed was \"shameful, exploitative conduct\" and a \"massive breach of trust\". From an adjusted starting point of five years in prison, the man was awarded a minimal discount for his previous good character and personal circumstances, including that he had suffered abuse as a child, verified by a psychologist's report. Judge Snell also accepted that the man's remorse was genuine in part, which was ironic when he was someone who claimed to understand the harm caused. Tracy Neal is a Nelson-based Open Justice reporter at NZME. She was previously RNZ's regional reporter in Nelson-Marlborough and has covered general news, including court and local government for the Nelson Mail. Join the NZ Herald's Open Justice team for Case by Case, a video and podcast series examining the disputes and decisions that make headlines across New Zealand.",
+      "url": "https://www.nzherald.co.nz/nz/blenheim-health-professional-jailed-for-covertly-filming-girls-144-times/YYA2KK77RZCH7OADIQ3DSYDI6M/",
+      "source": "NZ Herald",
+      "image": "https://www.nzherald.co.nz/resizer/v2/HPQNONACRX3T57BJ7NY2K626LM.jpg?auth=8420d697967e1e944b55223aff74766480bd147f28a88e2073a5cbf0086cea04&width=1200&height=675&quality=70&focal=185%2C138&smart=false",
+      "publishedAt": "2026-09-25T06:02:27Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 85,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"'Massive breach of trust': Health professional covertly filmed girls 144 times\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Police: Man charged with 11 counts of voyeurism after allegedly hiding in ceiling of women's locker room",
-      "description": "A man has been charged with nearly a dozen counts of voyeurism after being found in the ceiling of a women's locker room at Wilmington College, according to police. Wilmington police say officers responded to the Scheve Athletic Center on WC's campus around 9:40 p.m. Tuesday for a report of a person taking pictures of members of the women's soccer team while they were changing inside the locker room. Officers say upon their arrival, the suspect, later identified as Jayson Barker of Jeffersonville, Ohio, was being detained by Wilmington College Campus Safety personnel. Police say Barker is alleged to have hidden himself in the ceiling area of the women's locker room and was discovered by a member of the soccer team. Campus Safety and Wilmington police were then notified. Authorities say Barker was working at WC as a contracted employee, performing custodial services. Barker has been charged with 11 counts of voyeurism. He is being held at the Clinton County Jail on a $22,000 cash surety bond. He's scheduled to make his next court appearance on Monday, Oct. 5, in the Clinton County Municipal Court. Wilmington police say an investigation is ongoing.",
-      "url": "https://www.wlwt.com/article/man-charged-voyeurism-11-counts-womens-locker-room-ohio/73869803",
-      "source": "WLWT5",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/02f66fad-f84a-4909-bdd2-73f5e5f66af6.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=640%3A*",
-      "publishedAt": "2026-09-24T15:01:00Z",
+      "provider": "NewsData.io",
+      "title": "Peeping Tom busted for allegedly taking photos of players from college women’s soccer locker room ceiling",
+      "description": "Jayson Barker faces 11 counts of voyeurism after being discovered above the Wilmington College locker room.",
+      "url": "https://nypost.com/2026/09/24/us-news/alleged-peeping-tom-caught-hiding-in-ceiling-of-college-womens-soccer-locker-room/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fjayson-barker-arrested-11-counts-142383239.jpg?w%3D1024",
+      "publishedAt": "2026-09-24 21:19:23",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Peeping Tom busted for allegedly taking photos of players from college women’s soccer locker room ceiling\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-25T16:30:39.720Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "‘Disgusted’ visitors react as Tybee Island restaurant hidden camera case shocks North Beach Bar & Grill",
+      "description": "Tybee Island police arrested a former North Beach Bar & Grill employee, saying hidden cameras were found in both restrooms. How the restaurant responded —",
+      "url": "https://www.wjcl.com/article/tybee-island-hidden-camera-bathroom-restaurant-arrest/73876635",
+      "source": "Wjcl Television",
+      "image": "https://hips.hearstapps.com/htv-prod/images/1d93acfb-d534-45b4-8a37-4d1eef6b1359.png",
+      "publishedAt": "2026-09-24 22:29:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -118,8 +162,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Police: Man charged with 11 counts of voyeurism after allegedly hiding in ceiling of women's locker room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-24T16:29:05.935Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"‘Disgusted’ visitors react as Tybee Island restaurant hidden camera case shocks North Beach Bar & Grill\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-25T16:30:39.720Z"
     }
   ]
 }
