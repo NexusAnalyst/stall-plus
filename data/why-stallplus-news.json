@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:30:39.720Z",
+  "updatedAt": "2026-09-26T15:44:57.210Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 2,
-    "rejected": 66,
-    "carriedForward": 1
+    "pending": 4,
+    "rejected": 62,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
@@ -121,36 +121,57 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsData.io",
-      "title": "Peeping Tom busted for allegedly taking photos of players from college women’s soccer locker room ceiling",
-      "description": "Jayson Barker faces 11 counts of voyeurism after being discovered above the Wilmington College locker room.",
-      "url": "https://nypost.com/2026/09/24/us-news/alleged-peeping-tom-caught-hiding-in-ceiling-of-college-womens-soccer-locker-room/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fjayson-barker-arrested-11-counts-142383239.jpg?w%3D1024",
-      "publishedAt": "2026-09-24 21:19:23",
+      "provider": "NewsAPI.ai",
+      "title": "Peeping tom watched 'topless' women in changing rooms at Splash",
+      "description": "On two separate occasions Yehia Elgamal looked under the changing room doors when women were in a 'state of undress' A peeping tom stuck his head under changing room doors to observe women \"topless\". Yehia Elgamal looked under the gap of unisex changing facilities in Stockton Splash. The then \"immature\" 19-year-old watched two women who were in a \"state of undress\" on two separate occasions. The Stockton man denied both offences of observing a person doing a private act contrary to section 67 of the Sexual Offences Act 2003 and stood trial at Teesside Crown Court earlier this year. The 21-year-old was found guilty of both charges and appeared at the Middlesbrough court on Thursday for sentencing. Both women gave victim impact statements to the Crown Prosecution Service. One woman told how the incident made her feel \"furious\" as Elgamal 'invaded her privacy and made her feel unsafe'. She also told how she experienced panic attacks after the incident and now doesn't like using public cubicles. The other victim stated that she felt 'shocked, violated, exposed and humiliated'. She also avoids public showers following the incident at the Tees Active facility. Michelle Turner, mitigating, stated that her client is a young man who lived abroad for a period of time with a \"restricted\" life. He then came back to the UK to a \"different society\" and experienced a \"degree of loneliness in the build up to these offences\". The defence barrister added that there has been no further offending and Elgamal had no previous convictions. \"There has been some degree of growing up and maturity,\" Ms Turner said. Judge Armstrong told Elgamal that as he was convicted after a trial he cannot give credit or reduce any sentence. He added that there was no physical sexual assault but it was an \"invasion of a private space\" and in his view, \"the same as if there had been touching\". The court heard that Elgamal is \"unable to admit what he did\" with mentions of \"immaturity\" and \"distorted thinking\". Elgamal, of Shaftesbury Street in Stockton, was sentenced to a 12-month community order along with 30 rehabilitation activity requirement days, 250 hours of unpaid work and is subject to notification requirements for five years. He was also handed a five year restraining order prohibiting him from contacting both women and banned from entering the Tees Active leisure centres for five years. Did you know you can make Teesside Live a preferred source of Teesside news i n Google, which will mean you get more of our breaking news, exclusives, and must-read stories straight away? Here's more information about what this means and how to do it - you can also do it by clicking here .",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/yehia-elgamal-stockton-splash-voyeurism-34664870",
+      "source": "Gazette live",
+      "image": "https://i2-prod.gazettelive.co.uk/article29803324.ece/ALTERNATES/s1200/1_Splash-Leisure-Centre-Stockton-edit.png",
+      "publishedAt": "2026-09-25T23:01:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 65,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Peeping tom watched 'topless' women in changing rooms at Splash\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-26T15:44:57.210Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Ohio Janitor Allegedly Caught Hiding in Ceiling of Women's College Soccer Team Locker Room, Police Claim",
+      "description": "By entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and Privacy Policy. An Ohio man was arrested for allegedly taking photos of college women undressing in their locker room, RadarOnline.com can reveal. According to the Wilmington Police Department, the alleged crime occurred at Wilmington College. The suspect was identified as Jayson Barker, who worked there as a janitor.Suspect Allegedly Caught in the ActBarker would allegedly hide in the ceiling of the women's locker room to take photos of the soccer team changing. The janitor was finally caught on September 22, around 10 p.m., when one of the women allegedly noticed him. She then alerted Wilmington College's campus safety department, which called the authorities. It is unclear how long the janitor was allegedly doing this before he was detained.Barker's ChargesJayson Barker was charged with 11 counts of voyeurism. Currently, he is held on a $22,000 bond at the nearby Clinton County Jail. He has a court hearing in the Clinton County Municipal Court on October 5. \"The Wilmington Police Department continues to investigate this incident. Investigators are reviewing potential evidence to determine whether additional criminal charges are warranted,\" the press release read. Law enforcement is still investigating the case, and more details may come to light in the future.Potential SentenceIf the ex-janitor is found guilty of voyeurism, he faces only up to 90 days behind bars. He could also be ordered to pay a fine of up to $750. But this may change in the future. Some lawmakers in the state are pushing to make punishments for voyeurism more severe.Harsher ChargesIn June 2026, Ohio House representatives passed House Bill 345, which increases the classification of some voyeurism charges. If approved by the Senate, secretly viewing or recording another adult's \"private area\" in a space where privacy is expected becomes a fifth-degree felony. Secretly recording or viewing an adult's body or undergarments also upgrades to a fifth-degree felony. If the victim was a minor, first-time perpetrators would face a fourth-degree felony, and repeat offenders would face a third-degree felony \"The goal of this legislation is to ensure that our criminal statutes appropriately reflect the seriousness of the harm being committed,\" State Representative Jeff LaRe wrote in a press release. \"When someone deliberately invades another person's privacy for sexual gratification or exploitation, especially when that victim is a child, the law must respond firmly.\" As of September 25, the bill still requires Senate approval.",
+      "url": "https://radaronline.com/p/ohio-janitor-busted-hiding-ceiling-womens-college-soccer-team-locker-room/",
+      "source": "RadarOnline",
+      "image": "https://media.radaronline.com/brand-img/tsi215JuO/1200x628/janitorlockeroomgirlssportsteam-1790370638604.jpg",
+      "publishedAt": "2026-09-25T22:38:02Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 55,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
         "category terms (2)",
-        "primary topic in title",
         "published within 7 days",
         "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Peeping Tom busted for allegedly taking photos of players from college women’s soccer locker room ceiling\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-25T16:30:39.720Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Ohio Janitor Allegedly Caught Hiding in Ceiling of Women's College Soccer Team Locker Room, Police Claim\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-26T15:44:57.210Z"
     },
     {
-      "provider": "NewsData.io",
-      "title": "‘Disgusted’ visitors react as Tybee Island restaurant hidden camera case shocks North Beach Bar & Grill",
-      "description": "Tybee Island police arrested a former North Beach Bar & Grill employee, saying hidden cameras were found in both restrooms. How the restaurant responded —",
-      "url": "https://www.wjcl.com/article/tybee-island-hidden-camera-bathroom-restaurant-arrest/73876635",
-      "source": "Wjcl Television",
-      "image": "https://hips.hearstapps.com/htv-prod/images/1d93acfb-d534-45b4-8a37-4d1eef6b1359.png",
-      "publishedAt": "2026-09-24 22:29:00",
+      "provider": "NewsAPI.ai",
+      "title": "From hotel Wi-Fi to hidden cameras: 7 simple ways to check if your hotel room is safe",
+      "description": "Almost every trip brings a change of address. Whether you're checking into a hotel, renting an apartment or staying with a local host, you're suddenly living in an unfamiliar space. But do you really know how to check whether your temporary home is safe? As travellers move between cities and countries, a few simple digital and physical safety checks can help protect personal information, devices and privacy during a stay.Here, Kaspersky shares digital‑life hacks that help you protect yourself and make every stay in a new hotel a little more secure:Step 1: Secure your internet connectionHotels and guesthouses often invite guests to join their free Wi-Fi. While convenient, public or poorly secured networks can carry security risks. Open Wi-Fi networks may lack strong encryption and authentication, making it possible for attackers on the same network to intercept or manipulate traffic. There is also a risk of connecting to a fake hotspot designed to resemble the property's official network.Travellers should avoid accessing sensitive accounts or carrying out financial transactions on unfamiliar networks unless they have additional protection in place. Using a trusted VPN can encrypt internet traffic, while using mobile data or an eSIM can be an alternative to public Wi-Fi when travelling abroad.It is also worth confirming the exact name and login process of the property's Wi-Fi network with reception before connecting.Step 2: Check your room for hidden camerasThe thought of discovering a hidden camera in a hotel room or rented apartment can be unsettling. While such incidents are uncommon, travellers can take a few basic precautions to protect their privacy.Start by looking around the room for unfamiliar or unusually positioned electronic devices. Pay particular attention to objects that could conceal a small lens, such as smoke detectors, alarm clocks, USB chargers, electrical outlets, picture frames and decorative items.In a darkened room, some cameras with infrared capabilities may produce a faint glow. A smartphone camera can sometimes help detect infrared light, although this method does not work with every device or camera.Travellers should also be cautious about relying on the commonly suggested \"flashlight test\" for mirrors. A flashlight cannot reliably establish whether a mirror is two-way glass, so physical inspection and attention to unusual fixtures are more useful precautions.If you discover a suspected recording device in a private space, avoid tampering with it. Document what you see and contact the property manager or appropriate local authorities, depending on the circumstances.Step 3: Be careful with smart home devicesSmart TVs, speakers, coffee makers, door locks and other connected devices are increasingly common in hotels and holiday rentals. These devices may collect information about usage and, depending on how they are configured, could be connected to cloud services.Travellers should avoid linking sensitive personal accounts to unfamiliar smart devices whenever possible. If you use a smart TV to access streaming services, remember to sign out before leaving.It is also worth checking whether the television or other device allows you to remove your account information or reset the device. Avoid entering passwords, banking details or other sensitive information into unfamiliar connected devices.For devices that connect to the property's Wi-Fi network, checking the network's connected-device list can sometimes help identify unfamiliar equipment. However, travellers should remember that not every device displayed on a network will necessarily be visible or identifiable to a guest.Step 4: Prepare your devices before travellingDuring a trip, phones and laptops are inevitably left unattended at times -- in a hotel room, rental apartment, café or transport lounge. A few precautions before leaving home can reduce the risk of personal information being accessed if a device is lost or stolen.Set an automatic screen lock. Choose a short period before your phone, tablet or laptop locks automatically. This helps prevent casual access when a device is left unattended.Use strong, unique passwords. Avoid reusing the same password across multiple accounts. A password manager can help store complex passwords securely.Protect sensitive documents. Avoid keeping unnecessary copies of passports, identity documents, banking information or other sensitive files readily accessible on your device. If such documents need to be stored digitally, use encrypted or otherwise protected storage.Turn on device-finding features. Android, iOS, Windows and other major platforms offer tools that can help locate lost devices and, in some cases, remotely lock or erase them. Make sure these features are enabled before leaving for a trip.Keep software updated. Install operating system and security updates before travelling. Updated software can help protect devices against known vulnerabilities.A few minutes can make a differenceChecking the Wi-Fi network, looking around the room, signing out of connected devices and securing your phone or laptop may take only a few minutes. Yet these small steps can help travellers protect their privacy while staying in an unfamiliar place.A hotel, rental apartment or homestay is meant to be a temporary home during a journey. Taking a little time to understand the space and the technology connected to it can make that stay more secure and give travellers greater peace of mind.",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/hotels/from-hotel-wi-fi-to-hidden-cameras-7-simple-ways-to-check-if-your-hotel-room-is-safe/articleshow/134503889.cms",
+      "source": "The Times of India",
+      "image": "https://static.toiimg.com/thumb/msid-134504346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-26T12:21:00Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -162,8 +183,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"‘Disgusted’ visitors react as Tybee Island restaurant hidden camera case shocks North Beach Bar & Grill\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-25T16:30:39.720Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"From hotel Wi-Fi to hidden cameras: 7 simple ways to check if your hotel room is safe\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-26T15:44:57.210Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Former Riverside care facility worker accused of secretly recording staff in workplace restroom",
+      "description": "A former Riverside care facility worker was arrested for allegedly using a hidden camera to record staff members in the restroom. The Riverside Police Department identified the man as Williams Coronado-Morales, 38, of Riverside. Coronado-Morales was a former employee of Riverwalk Post Acute Care, a short-term rehabilitation and nursing facility in Riverside. The investigation began on July 9, after an employee discovered a cell phone that was concealed inside a single-occupancy employee restroom. Detectives collected multiple sources of digital evidence and \"performed a comprehensive examination of recovered recordings, facility surveillance footage, and employment records,\" the police department said. Authorities confirmed that a total of seven victims were recorded without their consent. Police later identified Coronado-Morales as the suspect allegedly responsible for the recordings. On Sept. 8, he was located and arrested in Riverside. He was booked on seven counts of Invasion of Privacy and his bail was set at $5,000. Detectives are searching for more possible victims as the investigation remains ongoing. Anyone who may have been a victim or has information on the case is asked to call Officer J. Payne at 951-353-7113 or email Jpayne@RiversideCA.gov.",
+      "url": "https://ktla.com/news/california/riverside-man-accused-secretly-recording-staff/",
+      "source": "KTLA 5",
+      "image": "https://ktla.com/wp-content/uploads/sites/4/2026/09/Riverside-restroom-recording-suspect.jpg?strip=1&w=640",
+      "publishedAt": "2026-09-26T01:33:19Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Riverside care facility worker accused of secretly recording staff in workplace restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-26T15:44:57.210Z"
     }
   ]
 }
