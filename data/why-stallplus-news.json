@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:44:57.210Z",
+  "updatedAt": "2026-09-27T16:22:54.157Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 4,
-    "rejected": 62,
+    "published": 5,
+    "pending": 1,
+    "rejected": 60,
     "carriedForward": 3
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 3
     },
     {
       "id": "dorm-privacy",
@@ -78,6 +78,48 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Man, 34, arrested over alleged voyeurism after pinhole cameras found at Sha Tin 24/Fitness branch",
+      "description": "27th September 2026 - (Hong Kong) Police arrested a 34‑year‑old local man surnamed Fung in Sha Tin this evening on suspicion of voyeurism following the discovery of suspected pinhole cameras at the 24/7 Fitness branch on Lek Yuen Street. Officers said three changing rooms at the premises were found to contain similar devices. The suspect is being held for further enquiries, with the investigation handled by Sha Tin District Crime Squad Team Two. The case surfaced after a male member reported noticing a tiny blue light within a gap in the suspended ceiling of a single‑occupancy communal shower. Staff removed an object believed to be a covert camera and alerted police at about 5.11pm on 25th September. Responding officers subsequently found two more similar devices at the scene. It is understood the wiring was connected to the ceiling lighting circuit. Checks of other nearby branches under the same operator did not reveal further devices. 24/7 Fitness said it takes the matter seriously and apologised for the alarm caused to members, stressing it has zero tolerance for any intrusion of privacy. The company suspended the affected shower immediately, carried out a full inspection of all showers and changing rooms at the branch in the presence of police, and only reopened facilities after confirming no irregularities. The operator also conducted same‑day spot checks across all branches, focusing on concealed locations such as false ceilings and light troughs, and reported no abnormalities. It reiterated that CCTV is installed only in public areas for security and never in showers, changing rooms or toilets. The firm said staff notified police at the first opportunity and the branch manager has provided a statement. Additional measures include reviewing and strengthening daily cleaning and patrol routines, with increased inspection frequency. The company said it would share further updates in due course without prejudicing the ongoing investigation.",
+      "url": "https://www.dimsumdaily.hk/man-34-arrested-over-alleged-voyeurism-after-pinhole-cameras-found-at-sha-tin-24-fitness-branch/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27222828/247-Fitness-pinhole-3.webp",
+      "publishedAt": "2026-09-27T14:31:51Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man, 34, arrested over alleged voyeurism after pinhole cameras found at Sha Tin 24/Fitness branch\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hong Kong has a voyeurism law, but not a voyeurism strategy",
+      "description": "27th September 2026 - (Hong Kong) At 5.11pm on 25th September, police received a call from the 24/7 Fitness branch on Lek Yuen Street in Sha Tin. A member had noticed a gap in the false ceiling above a changing area and a small blue light inside it. He removed a panel and found a device fixed in place with black tape. Officers who followed up found similar devices in two more changing rooms and sealed three of the facility's four. Initial checks suggested the wiring had been connected to the lighting circuits above the ceiling. The case has been classified as voyeurism and passed to the Sha Tin District Crime Squad. No arrests have been made. The devices were not carried in a bag or held in a hand. They were wired into the building. Someone had access, time and a working knowledge of the ceiling void. The bathrooms serve both men and women, so the pool of potential victims is the entire membership rather than one gender. And the discovery was made by a customer, not by staff, a contractor or any inspection regime. The operator says it checked every changing room, shower and toilet across its network the same day, paying attention to false ceilings and light troughs, and found nothing further. The incident is not isolated. In March last year an aircraft maintenance worker admitted two counts of voyeurism after using a hidden camera in the shared changing room of a 24-hour gym in Tsz Wan Shan. He had recorded more than 100 videos involving some 50 victims and received 12 months in prison. This month a male primary school teacher was alleged to have twice filmed the intimate parts of two women inside a school in Aberdeen. Gyms, schools, hostels and trains are different places, but the pattern is constant. The offender chooses a setting where the target has undressed, or is about to, and where nobody is watching the watcher. Hong Kong's legal framework is newer than many realise. Until 2019, prosecutors relied on the offence of obtaining access to a computer with dishonest intent, known colloquially as the universal key, to charge people who filmed up skirts with their phones. The Court of Final Appeal ruled the offence could not be stretched to cover a person using his own device. The government legislated in response, and since 8 October 2021 the Crimes Ordinance has contained a specific voyeurism offence under section 159AAB and a separate offence of unlawful recording or observation of intimate parts under section 159AAC. Both carry a maximum of five years' imprisonment. Installing or adapting equipment or a structure to enable voyeurism is itself an offence at the same maximum, even if no footage is recovered. Publishing or threatening to publish intimate images is a fourth. Where the act occurs in public, the common law charge of outraging public decency remains available with a seven year maximum. A conviction also enters the sex offender conviction record, which can close off work involving children. On paper, the tools exist. The question is why the behaviour persists regardless. Part of the answer lies in sentencing. Defence practitioners note that the Department of Justice now almost never agrees to bind-over orders for these offences and that first offenders are sometimes jailed immediately. Yet the Tsz Wan Shan case, with 50 victims and over 100 recordings, drew 12 months against a five-year ceiling. Another part lies in detection. A pinhole camera is designed to defeat the eye. A five-year maximum deters only those who expect to be caught, and a device wired into a light circuit is built on the assumption that nobody will look. Singapore offers a comparison rather than a model. Reported voyeurism there rose 12 per cent to 476 cases in 2023, with public transport among the top three locations. Since April 2024, MRT stations have broadcast peak-hour warnings against molestation and upskirt photography, and some public toilets carry mirrors that let users see the top of their cubicle. Criminologist Razwana Begum frames this through routine activity theory, which holds that crime requires a motivated offender, a suitable target and the absence of a capable guardian. Announcements and mirrors add guardianship. She also cautions that constant warnings can breed suspicion, desensitise commuters and unsettle the people they are meant to protect. Visibility of enforcement matters as much as severity of punishment, and the message must be calibrated. Hong Kong's own record shows the cost of not calibrating. Student journalism from local university hostels has long documented the same cycle. A peeping incident in a bathroom, a survey on locking toilet doors, a split vote because locks are inconvenient, access codes that everyone knows, doors propped open, and punishments never made public so no deterrent is communicated. The Sha Tin gym is that cycle at commercial scale. Operators of changing facilities should treat ceiling voids, vents and fittings as security assets and inspect them on a logged schedule. Sentencing should weigh the number of victims and the degree of planning, and a wired installation should be treated as the aggravating factor it plainly is. And the public deserves a clear account of how often these offences are prosecuted and what sentences result, because deterrence that cannot be seen is not deterrence at all.",
+      "url": "https://www.dimsumdaily.hk/hong-kong-has-a-voyeurism-law-but-not-a-voyeurism-strategy/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/27131040/Voyeurism-2-23.gif",
+      "publishedAt": "2026-09-27T05:11:56Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Hong Kong has a voyeurism law, but not a voyeurism strategy\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Blenheim health professional jailed for covertly filming girls 144 times",
       "description": "Two young girls, their family and friends have been torn apart by revelations their most private daily routines were filmed and viewed by the man they trusted. The Blenheim health professional has been sentenced to four years in prison on more than 30 charges of child sexual exploitation, with covert filming at the heart of his abuse. Several charges were representative. The man, who has permanent name suppression, filmed the victims showering and using the toilet on 144 occasions. Proof that he was present was in his zooming in and out on his victims, using a spy camera hidden in a power socket. On one occasion, he accidentally filmed himself entering the bathroom and moving a towel on a towel rail, which had covered the hidden camera. \"An important observation was that you appeared to be controlling the recording as it was happening,\" Judge Tony Snell said the sentencing in the Nelson District Court. He said that demonstrated the motives were sexual. The man, described as having been a \"high functioning member of the community\", hung his head and sobbed, as he heard five of the six victims' statements read on their behalf during the hearing. One said she was shocked, sad and embarrassed. Another said knowing he had viewed her in such a way and that police had viewed the videos had also caused \"immense distress\". Another was left \"physically sick\" at knowing that the man had \"captured parts of her she didn't like to look at herself\". The man's former partner said the shame and sadness were so immense, they often avoided going out in public and considered leaving town. Judge Snell said the victims had been left ashamed, degraded, humiliated and terrified that people would find out what had happened to them. \"They are victims of a sexual predator, which is you, which is ironic, because you blame much of this on your own experience being a victim.\" He was earlier found guilty at a judge-alone trial, where he maintained that, while his body might have been involved, his mind wasn't. \"I'm still not quite sure you accept it was you doing this,\" Judge Snell said. The charges for offending over 16 months fell into three categories - knowingly making an objectionable publication, making an intimate visual recording and possessing an objectionable publication. Crown prosecutor Jackson Webber said there was no evidence the recordings were distributed or shared. Defence lawyer Hannah Stuart said the offending wouldn't have happened, if not for the long periods the man had been unwell, because of what happened to him as a child. The first tranche arose from him installing and operating a covert video camera at two properties, where he filmed the victims using the bathroom. He took a large number of screenshots from the videos. Charges of possession of child sexual exploitation material arose from him sourcing material online. In February 2023, police searched his Marlborough home and seized devices, which were assessed by a specialist forensics unit. Judge Snell said material from a phone could not be extracted until December 2024, because the passcode given to police was wrong. Almost 2700 still images were found in deleted data on an iPhone, which were screenshots from 58 videos, featuring three young girls in the bathroom, showering, using the toilet and dressing. The images were created between October 2021 and February 2022. Other charges related to 86 videos found in a recycle bin on the man's iPhone, taken using covert cameras hidden in a bathroom power socket. Judge Snell said it was notable that the total recording time of those 86 videos was 23 hours. Forty-three of the videos focused on the victims using the toilet. Charges 12-33 related to internet-sourced child exploitation material between April and December 2022, which had been repeatedly accessed. Police also found a file of images dating back several years. \"It's clear from the evidence you were accessing such material back in 2015 for your own viewing,\" Judge Snell said. He said the offending against the victims he filmed was \"shameful, exploitative conduct\" and a \"massive breach of trust\". From an adjusted starting point of five years in prison, the man was awarded a minimal discount for his previous good character and personal circumstances, including that he had suffered abuse as a child, verified by a psychologist's report. Judge Snell also accepted that the man's remorse was genuine in part, which was ironic, when he was someone who claimed to understand the harm caused.",
       "url": "https://www.rnz.co.nz/news/crime-and-justice/1575783/blenheim-health-professional-jailed-for-covertly-filming-girls-144-times",
@@ -122,91 +164,24 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Peeping tom watched 'topless' women in changing rooms at Splash",
-      "description": "On two separate occasions Yehia Elgamal looked under the changing room doors when women were in a 'state of undress' A peeping tom stuck his head under changing room doors to observe women \"topless\". Yehia Elgamal looked under the gap of unisex changing facilities in Stockton Splash. The then \"immature\" 19-year-old watched two women who were in a \"state of undress\" on two separate occasions. The Stockton man denied both offences of observing a person doing a private act contrary to section 67 of the Sexual Offences Act 2003 and stood trial at Teesside Crown Court earlier this year. The 21-year-old was found guilty of both charges and appeared at the Middlesbrough court on Thursday for sentencing. Both women gave victim impact statements to the Crown Prosecution Service. One woman told how the incident made her feel \"furious\" as Elgamal 'invaded her privacy and made her feel unsafe'. She also told how she experienced panic attacks after the incident and now doesn't like using public cubicles. The other victim stated that she felt 'shocked, violated, exposed and humiliated'. She also avoids public showers following the incident at the Tees Active facility. Michelle Turner, mitigating, stated that her client is a young man who lived abroad for a period of time with a \"restricted\" life. He then came back to the UK to a \"different society\" and experienced a \"degree of loneliness in the build up to these offences\". The defence barrister added that there has been no further offending and Elgamal had no previous convictions. \"There has been some degree of growing up and maturity,\" Ms Turner said. Judge Armstrong told Elgamal that as he was convicted after a trial he cannot give credit or reduce any sentence. He added that there was no physical sexual assault but it was an \"invasion of a private space\" and in his view, \"the same as if there had been touching\". The court heard that Elgamal is \"unable to admit what he did\" with mentions of \"immaturity\" and \"distorted thinking\". Elgamal, of Shaftesbury Street in Stockton, was sentenced to a 12-month community order along with 30 rehabilitation activity requirement days, 250 hours of unpaid work and is subject to notification requirements for five years. He was also handed a five year restraining order prohibiting him from contacting both women and banned from entering the Tees Active leisure centres for five years. Did you know you can make Teesside Live a preferred source of Teesside news i n Google, which will mean you get more of our breaking news, exclusives, and must-read stories straight away? Here's more information about what this means and how to do it - you can also do it by clicking here .",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/yehia-elgamal-stockton-splash-voyeurism-34664870",
-      "source": "Gazette live",
-      "image": "https://i2-prod.gazettelive.co.uk/article29803324.ece/ALTERNATES/s1200/1_Splash-Leisure-Centre-Stockton-edit.png",
-      "publishedAt": "2026-09-25T23:01:00Z",
+      "title": "Police arrest man, 34, over hidden cameras found in Hong Kong gym changing rooms",
+      "description": "Hong Kong police have arrested a 34-year-old man in connection with the installation of three suspected pinhole cameras found in changing rooms at a gym in Sha Tin. The arrest on Sunday came a day after police launched an investigation into a suspected voyeurism case at the 24/7 Fitness branch on Lek Yuen Street. A police spokesman said officers arrested the suspect, a local man, in Sha Tin and he remained in custody as investigations continued. Officers were alerted on Friday after a suspected pinhole camera was found attached with black tape to the false ceiling of a changing room in the fitness centre. A search uncovered three suspected pinhole cameras in total in three separate changing rooms in the branch.",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368974/police-arrest-man-34-over-hidden-cameras-found-hong-kong-gym-changing-rooms",
+      "source": "South China Morning Post",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/27/16cc8d25-9fac-43d1-8b92-bd14a4f50557_904798e5.jpg?itok=EpNBR02n&v=1790521021",
+      "publishedAt": "2026-09-27T14:58:51Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 60,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Peeping tom watched 'topless' women in changing rooms at Splash\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-26T15:44:57.210Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Ohio Janitor Allegedly Caught Hiding in Ceiling of Women's College Soccer Team Locker Room, Police Claim",
-      "description": "By entering your email and clicking Sign Up, you're agreeing to let us send you customized marketing messages about us and our advertising partners. You are also agreeing to our Terms of Service and Privacy Policy. An Ohio man was arrested for allegedly taking photos of college women undressing in their locker room, RadarOnline.com can reveal. According to the Wilmington Police Department, the alleged crime occurred at Wilmington College. The suspect was identified as Jayson Barker, who worked there as a janitor.Suspect Allegedly Caught in the ActBarker would allegedly hide in the ceiling of the women's locker room to take photos of the soccer team changing. The janitor was finally caught on September 22, around 10 p.m., when one of the women allegedly noticed him. She then alerted Wilmington College's campus safety department, which called the authorities. It is unclear how long the janitor was allegedly doing this before he was detained.Barker's ChargesJayson Barker was charged with 11 counts of voyeurism. Currently, he is held on a $22,000 bond at the nearby Clinton County Jail. He has a court hearing in the Clinton County Municipal Court on October 5. \"The Wilmington Police Department continues to investigate this incident. Investigators are reviewing potential evidence to determine whether additional criminal charges are warranted,\" the press release read. Law enforcement is still investigating the case, and more details may come to light in the future.Potential SentenceIf the ex-janitor is found guilty of voyeurism, he faces only up to 90 days behind bars. He could also be ordered to pay a fine of up to $750. But this may change in the future. Some lawmakers in the state are pushing to make punishments for voyeurism more severe.Harsher ChargesIn June 2026, Ohio House representatives passed House Bill 345, which increases the classification of some voyeurism charges. If approved by the Senate, secretly viewing or recording another adult's \"private area\" in a space where privacy is expected becomes a fifth-degree felony. Secretly recording or viewing an adult's body or undergarments also upgrades to a fifth-degree felony. If the victim was a minor, first-time perpetrators would face a fourth-degree felony, and repeat offenders would face a third-degree felony \"The goal of this legislation is to ensure that our criminal statutes appropriately reflect the seriousness of the harm being committed,\" State Representative Jeff LaRe wrote in a press release. \"When someone deliberately invades another person's privacy for sexual gratification or exploitation, especially when that victim is a child, the law must respond firmly.\" As of September 25, the bill still requires Senate approval.",
-      "url": "https://radaronline.com/p/ohio-janitor-busted-hiding-ceiling-womens-college-soccer-team-locker-room/",
-      "source": "RadarOnline",
-      "image": "https://media.radaronline.com/brand-img/tsi215JuO/1200x628/janitorlockeroomgirlssportsteam-1790370638604.jpg",
-      "publishedAt": "2026-09-25T22:38:02Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Ohio Janitor Allegedly Caught Hiding in Ceiling of Women's College Soccer Team Locker Room, Police Claim\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-26T15:44:57.210Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "From hotel Wi-Fi to hidden cameras: 7 simple ways to check if your hotel room is safe",
-      "description": "Almost every trip brings a change of address. Whether you're checking into a hotel, renting an apartment or staying with a local host, you're suddenly living in an unfamiliar space. But do you really know how to check whether your temporary home is safe? As travellers move between cities and countries, a few simple digital and physical safety checks can help protect personal information, devices and privacy during a stay.Here, Kaspersky shares digital‑life hacks that help you protect yourself and make every stay in a new hotel a little more secure:Step 1: Secure your internet connectionHotels and guesthouses often invite guests to join their free Wi-Fi. While convenient, public or poorly secured networks can carry security risks. Open Wi-Fi networks may lack strong encryption and authentication, making it possible for attackers on the same network to intercept or manipulate traffic. There is also a risk of connecting to a fake hotspot designed to resemble the property's official network.Travellers should avoid accessing sensitive accounts or carrying out financial transactions on unfamiliar networks unless they have additional protection in place. Using a trusted VPN can encrypt internet traffic, while using mobile data or an eSIM can be an alternative to public Wi-Fi when travelling abroad.It is also worth confirming the exact name and login process of the property's Wi-Fi network with reception before connecting.Step 2: Check your room for hidden camerasThe thought of discovering a hidden camera in a hotel room or rented apartment can be unsettling. While such incidents are uncommon, travellers can take a few basic precautions to protect their privacy.Start by looking around the room for unfamiliar or unusually positioned electronic devices. Pay particular attention to objects that could conceal a small lens, such as smoke detectors, alarm clocks, USB chargers, electrical outlets, picture frames and decorative items.In a darkened room, some cameras with infrared capabilities may produce a faint glow. A smartphone camera can sometimes help detect infrared light, although this method does not work with every device or camera.Travellers should also be cautious about relying on the commonly suggested \"flashlight test\" for mirrors. A flashlight cannot reliably establish whether a mirror is two-way glass, so physical inspection and attention to unusual fixtures are more useful precautions.If you discover a suspected recording device in a private space, avoid tampering with it. Document what you see and contact the property manager or appropriate local authorities, depending on the circumstances.Step 3: Be careful with smart home devicesSmart TVs, speakers, coffee makers, door locks and other connected devices are increasingly common in hotels and holiday rentals. These devices may collect information about usage and, depending on how they are configured, could be connected to cloud services.Travellers should avoid linking sensitive personal accounts to unfamiliar smart devices whenever possible. If you use a smart TV to access streaming services, remember to sign out before leaving.It is also worth checking whether the television or other device allows you to remove your account information or reset the device. Avoid entering passwords, banking details or other sensitive information into unfamiliar connected devices.For devices that connect to the property's Wi-Fi network, checking the network's connected-device list can sometimes help identify unfamiliar equipment. However, travellers should remember that not every device displayed on a network will necessarily be visible or identifiable to a guest.Step 4: Prepare your devices before travellingDuring a trip, phones and laptops are inevitably left unattended at times -- in a hotel room, rental apartment, café or transport lounge. A few precautions before leaving home can reduce the risk of personal information being accessed if a device is lost or stolen.Set an automatic screen lock. Choose a short period before your phone, tablet or laptop locks automatically. This helps prevent casual access when a device is left unattended.Use strong, unique passwords. Avoid reusing the same password across multiple accounts. A password manager can help store complex passwords securely.Protect sensitive documents. Avoid keeping unnecessary copies of passports, identity documents, banking information or other sensitive files readily accessible on your device. If such documents need to be stored digitally, use encrypted or otherwise protected storage.Turn on device-finding features. Android, iOS, Windows and other major platforms offer tools that can help locate lost devices and, in some cases, remotely lock or erase them. Make sure these features are enabled before leaving for a trip.Keep software updated. Install operating system and security updates before travelling. Updated software can help protect devices against known vulnerabilities.A few minutes can make a differenceChecking the Wi-Fi network, looking around the room, signing out of connected devices and securing your phone or laptop may take only a few minutes. Yet these small steps can help travellers protect their privacy while staying in an unfamiliar place.A hotel, rental apartment or homestay is meant to be a temporary home during a journey. Taking a little time to understand the space and the technology connected to it can make that stay more secure and give travellers greater peace of mind.",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/hotels/from-hotel-wi-fi-to-hidden-cameras-7-simple-ways-to-check-if-your-hotel-room-is-safe/articleshow/134503889.cms",
-      "source": "The Times of India",
-      "image": "https://static.toiimg.com/thumb/msid-134504346,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-26T12:21:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"From hotel Wi-Fi to hidden cameras: 7 simple ways to check if your hotel room is safe\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-09-26T15:44:57.210Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Former Riverside care facility worker accused of secretly recording staff in workplace restroom",
-      "description": "A former Riverside care facility worker was arrested for allegedly using a hidden camera to record staff members in the restroom. The Riverside Police Department identified the man as Williams Coronado-Morales, 38, of Riverside. Coronado-Morales was a former employee of Riverwalk Post Acute Care, a short-term rehabilitation and nursing facility in Riverside. The investigation began on July 9, after an employee discovered a cell phone that was concealed inside a single-occupancy employee restroom. Detectives collected multiple sources of digital evidence and \"performed a comprehensive examination of recovered recordings, facility surveillance footage, and employment records,\" the police department said. Authorities confirmed that a total of seven victims were recorded without their consent. Police later identified Coronado-Morales as the suspect allegedly responsible for the recordings. On Sept. 8, he was located and arrested in Riverside. He was booked on seven counts of Invasion of Privacy and his bail was set at $5,000. Detectives are searching for more possible victims as the investigation remains ongoing. Anyone who may have been a victim or has information on the case is asked to call Officer J. Payne at 951-353-7113 or email Jpayne@RiversideCA.gov.",
-      "url": "https://ktla.com/news/california/riverside-man-accused-secretly-recording-staff/",
-      "source": "KTLA 5",
-      "image": "https://ktla.com/wp-content/uploads/sites/4/2026/09/Riverside-restroom-recording-suspect.jpg?strip=1&w=640",
-      "publishedAt": "2026-09-26T01:33:19Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Riverside care facility worker accused of secretly recording staff in workplace restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-26T15:44:57.210Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Police arrest man, 34, over hidden cameras found in Hong Kong gym changing rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-27T16:22:54.157Z"
     }
   ]
 }
