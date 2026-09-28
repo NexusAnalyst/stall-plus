@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:22:54.157Z",
+  "updatedAt": "2026-09-28T19:13:37.258Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 5,
-    "pending": 1,
-    "rejected": 60,
-    "carriedForward": 3
+    "pending": 6,
+    "rejected": 64,
+    "carriedForward": 5
   },
   "categoryCounts": [
     {
@@ -164,12 +164,119 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Police arrest man, 34, over hidden cameras found in Hong Kong gym changing rooms",
-      "description": "Hong Kong police have arrested a 34-year-old man in connection with the installation of three suspected pinhole cameras found in changing rooms at a gym in Sha Tin. The arrest on Sunday came a day after police launched an investigation into a suspected voyeurism case at the 24/7 Fitness branch on Lek Yuen Street. A police spokesman said officers arrested the suspect, a local man, in Sha Tin and he remained in custody as investigations continued. Officers were alerted on Friday after a suspected pinhole camera was found attached with black tape to the false ceiling of a changing room in the fitness centre. A search uncovered three suspected pinhole cameras in total in three separate changing rooms in the branch.",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3368974/police-arrest-man-34-over-hidden-cameras-found-hong-kong-gym-changing-rooms",
-      "source": "South China Morning Post",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/27/16cc8d25-9fac-43d1-8b92-bd14a4f50557_904798e5.jpg?itok=EpNBR02n&v=1790521021",
-      "publishedAt": "2026-09-27T14:58:51Z",
+      "title": "Man arrested over hidden pinhole cameras in Sha Tin gym changing room",
+      "description": "Police have arrested a Hong Kong man on suspicion of installing hidden pinhole cameras in a commercial gym's changing room. The 34-year-old suspect, surnamed Fung, was arrested on Sunday after a staff member at 24/7 Fitness Shatin in Lek Yuen Estate noticed the cameras and filed a police report, according to a police brief. The case has been classified as voyeurism -- an offence that carries a maximum penalty of five years in prison -- and passed on to the Shatin District Crime Unit for investigation. In a statement issued on Saturday evening, 24/7 Fitness said that it was aware police had arrested a man in connection with the incident at its Shatin Fun City location and expressed gratitude for their swift action, adding that the company will continue to assist with the investigation. Stepped up checks To ensure patrons' safety, the gym chain has suspended the suspect's membership and provided information requested by the police. It said that it has a zero-tolerance policy for any acts that violate member privacy and apologised to affected members. The statement also said that the company has implemented new procedures and stepped up checks across all branches. New equipment has been installed to inspect hidden areas in showers, changing rooms, and restrooms \"to ensure members can use the facilities safely and with peace of mind,\" it said. According to the police brief, officers received the report at around 5pm on Friday and discovered three cameras upon arriving at the scene. The suspect was arrested two days later on Sunday. A Threads user who said he was a member at the gym posted a video of the hidden camera taped to the ceiling on Saturday, saying that he had also filed a police report. The video shows what appears to be a pinhole camera with a ribbon cable taped to a removable ceiling panel with black electrical tape.",
+      "url": "https://hongkongfp.com/2026/09/28/man-arrested-over-hidden-pinhole-cameras-in-sha-tin-gym-changing-room/",
+      "source": "Hong Kong Free Press HKFP",
+      "image": "https://hongkongfp.com/wp-content/uploads/2026/09/Hong-Kong-man-arrested-over-hidden-pinhole-cameras-found-in-gym-changing-rooms.jpg?w=640",
+      "publishedAt": "2026-09-28T05:54:03Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (4 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Man arrested over hidden pinhole cameras in Sha Tin gym changing room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Prosecutor seeks higher bond for ex-church leader facing 280 years in hidden camera case",
+      "description": "A prosecutor is asking a judge to increase the bond for a former Fruitland Park church leader accused of planting hidden cameras in a women's restroom. Read more: Prosecutor seeks higher bond for ex-church leader facing 280 years in hidden camera case",
+      "url": "https://www.villages-news.com/2026/09/27/prosecutor-seeks-higher-bond-for-ex-church-leader-facing-280-years-in-hidden-camera-case/",
+      "source": "Villages-news.com",
+      "image": "https://www.villages-news.com/wp-content/uploads/2026/06/Bart-Lucas-600x344.png",
+      "publishedAt": "2026-09-27 22:30:55",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Prosecutor seeks higher bond for ex-church leader facing 280 years in hidden camera case\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Suspect charged in gym voyeurism case",
+      "description": "Police on Monday charged a man who allegedly installed pinhole cameras in the changing rooms of a gym with one count of voyeurism. The 34-year-old suspect, who was arrested on Sunday, will appear at Sha Tin Magistrates' Courts on Tuesday. Speaking in a media briefing, Sha Tin District chief inspector Ng Yuk-pui said three pinhole cameras were found inside the changing rooms of a 24/7 Fitness outlet on Lek Yuen Street. Ng said officers seized three memory cards. \"Through digital forensic analysis, relevant video footage was recovered from the memory cards, enabling the rapid identification of the suspect and the subsequent arrest.\" Police also said electronic equipment believed to be related to the case was seized from the man's home. Officers added that no footage has circulated online, and there were no signs that the videos were to be sold. 24/7 Fitness said it has already suspended the membership of the suspect and pledged to step up inspections at all gyms.",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1871888-20260928.htm",
+      "source": "news.rthk.hk",
+      "image": "https://newsstatic.rthk.hk/images/mfile_1871888_1_M_20260928191610.jpg",
+      "publishedAt": "2026-09-28T12:22:37Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Suspect charged in gym voyeurism case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Scared of Staying Alone in Hotel? Do THIS First Thing After Check-In",
+      "description": "You must check for hidden cameras as soon as you enter the room. You should look for small lenses inside the TV facing the bed, smoke detectors, wall clocks, mirrors, and bathroom shower heads. You can turn off all the lights and scan the room with your phone flashlight. The camera lens will reflect the light and shine. You can also use anti-spy detector apps or camera detectors to find hidden camera signals. You must also do the two-way mirror test. You place your fingernail on the glass. You have a normal mirror if you see a gap between your finger and the reflection. You must stay alert if your finger touches the reflection directly, because it might be a two-way mirror.",
+      "url": "https://newsable.asianetnews.com/gallery/lifestyle/essential-hotel-room-safety-tips-to-find-hidden-cameras-and-scams-adcfg9x",
+      "source": "Asianet News Network Pvt Ltd",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m3kr6918smp21zzc1gvw5k0f,imgname-hotel-room-1790590526504.jpg",
+      "publishedAt": "2026-09-28T12:05:19Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Scared of Staying Alone in Hotel? Do THIS First Thing After Check-In\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Evil carer who was secretly filmed threatening Scots dementia patient struck off",
+      "description": "A carer who was snared on a secret camera abusing an elderly dementia patient has been struck off. Amina Sani was recorded mocking and threatening the 81-year-old bedbound man until he was visibly distressed. Sick Sani also forcibly washed the man, including in his private parts, while another carer held his arms down whilst threatening to put him in a shower when he refused because he was scared. In the 20 minute footage the a former Merchant Navy crewman is heard screaming \"no\" and \"leave me alone\" in distress, before swearing at Sani and another carer. The two are then seen laughing at the frail pensioner. The Nigerian worker was caught when the man's daughter Su Christie installed a hidden camera in his room at Castlehill Care Home in Inverness. The footage was later part of a BBC documentary into the care home which featured other families speaking of cruelty and neglect. Sani went before the Scottish Social Services Council (SSSC) in a misconduct hearing after the footage came to light on April 10 last year. Th carer's lawyer, Namatirai Chiperem, told the hearing Sani had not been trained properly as the job was her first one since arriving in the UK However, SSSC chairman Iain Burke blasted the shocking incidents as \"significant abuse of trust and power\" and slammed Sani for failing to show remorse and said her actions were \"fundamentally incompatible\" with being a care worker. Morar Living who runs the care home denied Sani had not been given proper training and the facility - which has been renamed Morar Highland - was given a \"good\" grading in its most recent care inspection. During evidence at the hearing, the man's daughter Su Christie, said her father, a former merchant navy crewman, had a lifelong fear of showers due to a childhood trauma. Following the decsion to strike Sani off, the man's daughter, Ms Christie said: \"You could tell by the things he was doing, the things he was saying, that his distress was growing and growing throughout that interaction and there was no attempt to bring him down or de-escalate him whatsoever. \"He didn't know what was going on. He's a confused 81-year-old man living with dementia. He was frightened. \"It was devastating, utterly devastating. I was in shock because, although I knew there were issues, I didn't expect to see that. It was very distressing to watch. \"In a care setting, people living with dementia, like my father, should be treated with respect, dignity, and patience and courtesy. They should be treated as human beings and that's all I was asking for.\" SSSC chairman Iain Burke said: \"It is clear throughout the video clips that you did not show any kindness or compassion to the resident. At one point you and your colleague can be seen laughing in response to something the resident says or does. \"It does not appear to us to be laughing with the resident, but it appears more disrespectful in nature. We find that the resident suffered harm and you did not respect his dignity.\" A spokesperson for Morar Living told the BBC: \"There is no truth in Amina Sani's claim that she was not trained properly by Morar. \"The safety, dignity and wellbeing of our residents remains our priority, and all concerns regarding staff conduct are taken seriously and acted upon appropriately.\"",
+      "url": "https://www.thescottishsun.co.uk/news/16872134/evil-carer-filmed-mocking-threatening-dementia-patient-struck-off/",
+      "source": "The Scottish Sun",
+      "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/09/newspress-collage-epv9ryvj9-1790582459025.jpg?quality=90&strip=all&1790586076&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-09-28T08:02:27Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Evil carer who was secretly filmed threatening Scots dementia patient struck off\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Suspect identified as 34‑year‑old construction site foreman arrested over alleged spy cameras at 24/7 Fitness branch",
+      "description": "28th September 2026 - (Hong Kong) Police arrested a 34‑year‑old local man surnamed Fung on suspicion of voyeurism after pinhole cameras were discovered in changing rooms at a 24/7 Fitness branch on Lek Yuen Street in Sha Tin. Officers received a report from a female staff member on Saturday, 26th September, and subsequently found devices installed in three changing rooms. The suspect, understood to be a construction site foreman, was detained in the Sha Tin district on Sunday, 27th September, as part of the ongoing investigation. According to police, three miniature cameras seized from the premises have been sent for forensic examination, with multiple clips recovered that were filmed between 24th and 25th September. Officers later searched the suspect's residence in Sha Tin Wai and seized further potential evidence, including two desktop computers and a laptop, for detailed analysis.",
+      "url": "https://www.dimsumdaily.hk/suspect-identified-as-34%E2%80%91year%E2%80%91old-construction-site-foreman-arrested-over-alleged-spy-cameras-at-24-7-fitness-branch%EF%BF%BC/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/28123448/247-Fitness-33.webp",
+      "publishedAt": "2026-09-28T04:37:40Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -180,8 +287,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Police arrest man, 34, over hidden cameras found in Hong Kong gym changing rooms\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-27T16:22:54.157Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Suspect identified as 34‑year‑old construction site foreman arrested over alleged spy cameras at 24/7 Fitness branch\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-28T19:13:37.258Z"
     }
   ]
 }
