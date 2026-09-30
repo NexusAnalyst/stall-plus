@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:36:44.232Z",
+  "updatedAt": "2026-09-30T17:35:48.790Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 5,
-    "pending": 2,
-    "rejected": 65,
-    "carriedForward": 4
+    "pending": 4,
+    "rejected": 66,
+    "carriedForward": 5
   },
   "categoryCounts": [
     {
@@ -163,36 +163,81 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Man who allegedly hid 3 spy cameras in Hong Kong gym changing rooms out on bail",
-      "description": "Fung Kwok-wang, 34, granted HK$2,000 bail pending further probe into alleged voyeurism at 24/7 Fitness branch in Sha Tin but cannot leave city A Hong Kong man who allegedly installed pinhole cameras in the changing rooms of a popular gym chain has been released on bail pending the identification of victims. Construction site foreman Fung Kwok-wang, 34, was not required to answer a count of voyeurism in his first appearance at Sha Tin Court on Tuesday, as prosecutors sought an eight-week adjournment for further police inquiries. Acting Principal Magistrate Cheang Kei-hong granted the defendant HK$2,000 (US$255) bail on condition that he remain in Hong Kong, avoid contact with prosecution witnesses and stay away from the 24/7 Fitness branch on Lek Yuen Street in Sha Tin. The case will be heard again on November 25.",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369143/man-who-allegedly-hid-3-pinhole-cameras-hong-kong-gym-changing-rooms-out-bail",
-      "source": "South China Morning Post",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/29/db2f9ba5-0021-4ded-9d82-f33be90c5405_4ddd5270.jpg?itok=vclcILRs&v=1790656004",
-      "publishedAt": "2026-09-29T04:26:53Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
+      "title": "California therapist who recorded clients in bathroom with hidden camera sentenced to 16 years",
+      "description": "A South Bay therapist has been sentenced to more than 16 years in federal prison for installing a hidden camera in a bathroom at his workplace and recording women and girls, including some of his clients, according to the federal prosecutors. Joseph Toews, 31, a Manhattan Beach family therapist, pleaded guilty to one count of producing child pornography in June and was sentenced on Tuesday, Sept. 29. In January 2023, Toews placed a camera in his office building's bathroom, recording women and girls, including some therapy clients, according to the Department of Justice. He recorded at least 11 videos involving minors, prosecutors said. The victims were between the ages of 8 and 12, according to a release from the FBI at the time of his arrest. \"His conduct was not a spur of the moment happening,\" according to a prosecution sentencing memorandum. \"[Toews] had been stockpiling CSAM [child sexual abuse material] prior to his decision to create CSAM of his own.\" In a nearly three-year period from early 2023 to late 2025, Toews admitted to, as a part of his plea agreement, purchasing child sexual abuse material from dark net online video stores, according to the U.S. Department of Justice. In addition to his prison sentence, Toews was fined $50,000, ordered to pay a special assessment of $55,000 and will be on supervised release for 25 years following his release.",
+      "url": "https://www.mercurynews.com/2026/09/30/manhattan-beach-therapist-who-recorded-clients-in-bathroom-with-hidden-camera-sentenced-to-16-years/",
+      "source": "San Jose Mercury News",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/courts-generic-1.jpg?w=640",
+      "publishedAt": "2026-09-30T14:01:40Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man who allegedly hid 3 spy cameras in Hong Kong gym changing rooms out on bail\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-29T17:36:44.232Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"California therapist who recorded clients in bathroom with hidden camera sentenced to 16 years\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-30T17:35:48.790Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Site supervisor charged over pinhole cameras at Sha Tin 24/7 Fitness, bailed until 25th November",
-      "description": "29th September 2026 - (Hong Kong) A construction site supervisor charged with voyeurism after pinhole cameras were found in changing rooms at a Sha Tin 24/7 Fitness branch was granted bail today, with the case adjourned so investigators can seize the devices and track down numerous alleged victims. Fung Kwok-wang, 34, a site foreman, faced Sha Tin Magistrates' Courts this morning in case STCC3577/2026 on one count of voyeurism. Acting principal magistrate Mr Cheang Kei Hong granted the prosecution's application to put the matter back to 25th November. Meanwhile Mr Fung was released on HK$2,000 cash bail on conditions that he must not leave Hong Kong, must not return to the 24/7 Fitness branch where the cameras were found, and must not contact prosecution witnesses. The charge says that between 24th and 25th September 2026, both dates inclusive, at a changing room of the 24/7 Fitness centre on the ground floor of Sha Tin Entertainment Building, 7 Lek Yuen Street, Sha Tin, New Territories, he installed or operated equipment -- namely pinhole cameras -- so that he or any other person could commit an offence under section 159AAB(1) of the Crimes Ordinance (Cap 200). Police had earlier revealed that covert lenses were first spotted in a false ceiling at the Lek Yuen Street outlet, and that three further changing rooms held similar devices. After the haul, officers arrested a site supervisor and brought the voyeurism charge that landed in court today. The adjournment, the magistrate was told, is needed for the devices to be fully processed and for many victims still to be identified and approached.",
-      "url": "https://www.dimsumdaily.hk/site-supervisor-charged-over-pinhole-cameras-at-sha-tin-24-7-fitness-bailed-until-25th-november/",
-      "source": "Dimsum Daily",
-      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/09/29110951/247-Fitness-pinhole-3-1.webp",
-      "publishedAt": "2026-09-29T03:11:53Z",
+      "title": "California therapist who recorded clients in bathroom with hidden camera sentenced to 16 years",
+      "description": "A South Bay therapist has been sentenced to more than 16 years in federal prison for installing a hidden camera in a bathroom at his workplace and recording women and girls, including some of his clients, according to the federal prosecutors. Joseph Toews, 31, a Manhattan Beach family therapist, pleaded guilty to one count of producing child pornography in June and was sentenced on Tuesday, Sept. 29. In January 2023, Toews placed a camera in his office building's bathroom, recording women and girls, including some therapy clients, according to the Department of Justice. He recorded at least 11 videos involving minors, prosecutors said. The victims were between the ages of 8 and 12, according to a release from the FBI at the time of his arrest. \"His conduct was not a spur of the moment happening,\" according to a prosecution sentencing memorandum. \"[Toews] had been stockpiling CSAM [child sexual abuse material] prior to his decision to create CSAM of his own.\" In a nearly three-year period from early 2023 to late 2025, Toews admitted to, as a part of his plea agreement, purchasing child sexual abuse material from dark net online video stores, according to the U.S. Department of Justice. In addition to his prison sentence, Toews was fined $50,000, ordered to pay a special assessment of $55,000 and will be on supervised release for 25 years following his release.",
+      "url": "https://www.eastbaytimes.com/2026/09/30/manhattan-beach-therapist-who-recorded-clients-in-bathroom-with-hidden-camera-sentenced-to-16-years/",
+      "source": "East Bay Times",
+      "image": "https://www.eastbaytimes.com/wp-content/uploads/2026/09/courts-generic-1.jpg?w=640",
+      "publishedAt": "2026-09-30T14:01:40Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"California therapist who recorded clients in bathroom with hidden camera sentenced to 16 years\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-09-30T17:35:48.790Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "South Bay therapist sentenced to more than 16 years for secretly recording girls in bathroom",
+      "description": "According to court documents, Toews installed a hidden camera in January 2023 inside a women’s bathroom stall in the building where he worked.",
+      "url": "https://www.nbclosangeles.com/news/local/south-bay-therapist-sentenced-to-more-than-16-years-for-secretly-recording-girls-in-bathroom/3948906/",
+      "source": "Nbc Los Angeles",
+      "image": "https://media.nbclosangeles.com/2022/05/GettyImages-sb10062143p-001-e1652885349359.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-09-29 21:40:26",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"South Bay therapist sentenced to more than 16 years for secretly recording girls in bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-09-30T17:35:48.790Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "Clean It Fix It S05E06 1080p WEB-DL H264-P147YPU5",
+      "description": "Season 5, Episode 06 – Mark Wright and the team help foster carer Lyndee prepare her home for a new chapter, welcoming young mums and mums-to-be. After years of use, two spare bedrooms and a shared bathroom no longer provide the calm, practical spaces her gue…",
+      "url": "https://post.rlsbb.cc/clean-it-fix-it-s05e06-1080p-web-dl-h264-p147ypu5/",
+      "source": "Rlsbb.cc",
+      "image": null,
+      "publishedAt": "2026-09-29T04:51:47Z",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
       "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -200,8 +245,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Site supervisor charged over pinhole cameras at Sha Tin 24/7 Fitness, bailed until 25th November\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-09-29T17:36:44.232Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Clean It Fix It S05E06 1080p WEB-DL H264-P147YPU5\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
+      "flaggedAt": "2026-09-30T17:35:48.790Z"
     }
   ]
 }
