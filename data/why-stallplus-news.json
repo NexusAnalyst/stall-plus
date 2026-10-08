@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:25:02.817Z",
+  "updatedAt": "2026-10-08T18:24:26.486Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 3,
-    "pending": 1,
-    "rejected": 69,
+    "pending": 0,
+    "rejected": 67,
     "carriedForward": 3
   },
   "categoryCounts": [
@@ -121,28 +121,5 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"'Peeping Tom gets out': Man who allegedly hid three spy cameras in Hong Kong gym changing rooms out on bail\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "KY gym owner says customers weren't recorded after husband accused of hiding cameras",
-      "description": "A lawsuit accuses Wes Henderson of voyeurism and invasion of privacy. Julie Henderson, wife of ousted CEO Wes Henderson, has sent a message to members of her gyms saying they are not being secretly filmed, according to a published report. Henderson is a franchise partner at four Burn Boot Camp locations in the Louisville area. Some members had expressed concerns after her husband, Wes Henderson, was accused of secretly recording family members and others in states of undress, as well as other intimate situations. Hidden cameras were found in two of the Hendersons' homes -- one in Florida and one in Kentucky. A federal investigation is being conducted by Homeland Security, which reviewing footage that was turned over to law enforcement by family members who discovered at least 30 hidden cameras. No criminal charges have been filed. Wes Henderson, through an attorney, has denied the allegations. On Oct. 3, TKC Distilling announced that it had terminated Henderson as CEO a day after the Herald-Leader reported that, according to a court filing, the videos include recordings of sex at The Kentucky Castle hotel, restaurant and wedding venue in Versailles. An email to Burn Boot Camp members On Oct. 3, according to Louisville Business Journal, Julie Henderson emailed Burn Boot Camp members saying, \"It is with a heavy heart that I address the allegations made in a public lawsuit involving my husband, Wes. I want to assure my members and staff that no cameras have ever been located at any of our Burn Boot Camp premises other than those professionally installed for legitimate security purposes.\" Julie Henderson is listed as the registered agent for Spirited Fitness LLC, which operates the Burn Boot Camp franchises in Louisville, Crestwood and Prospect, Ky., as well as in Jeffersonville, Indiana. Wes Henderson had appeared in videos for Burn Boot Camp gyms, which have since been removed. Allegations against Wes Henderson Wes Henderson was accused in a lawsuit filed in Oldham County of voyeurism, invasion of privacy and possession or viewing of matter portraying a sexual performance by a minor. The court filing, which has been sealed, says some underage family members were captured on the cameras nude. According to the filing, Wes Henderson also was on camera placing multiple hidden cameras in \"third-party homes\" which were not identified. According to the filing, at least 40 people were captured on cameras without their knowledge.",
-      "url": "https://www.kentucky.com/lexgoeat/bourbon/article317523260.html",
-      "source": "Lexington Herald Leader",
-      "image": "https://www.kentucky.com/public/latest-news/pqc6gv/picture292670949/alternates/LANDSCAPE_1200/Wes%201.jpg",
-      "publishedAt": "2026-10-07T14:07:59Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"KY gym owner says customers weren't recorded after husband accused of hiding cameras\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-07T18:25:02.817Z"
-    }
-  ]
+  "pendingReview": []
 }
