@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:24:26.486Z",
+  "updatedAt": "2026-10-09T17:57:17.070Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 0,
-    "rejected": 67,
-    "carriedForward": 3
+    "published": 4,
+    "pending": 2,
+    "rejected": 58,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 2
     },
     {
       "id": "workplace-privacy",
@@ -100,26 +100,90 @@
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "'Peeping Tom gets out': Man who allegedly hid three spy cameras in Hong Kong gym changing rooms out on bail",
-      "description": "A Hong Kong man who allegedly installed pinhole cameras in changing rooms at a branch of a popular gym chain has been released on bail pending further police investigation to identify potential victims. Construction site foreman Fung Kwok-wang, 34, was not required to answer a count of voyeurism during his first appearance at Sha Tin Court on Tuesday, as prosecutors sought an eight-week adjournment for further police inquiries. Acting Principal Magistrate Cheang Kei-hong granted the defendant HK$2,000 (US$255) bail on condition that he remain in Hong Kong, avoid contact with prosecution witnesses and stay away from the 24/7 Fitness branch on Lek Yuen Street in Sha Tin. The case will be heard again on November 25. The fitness centre reported the case to police on Friday after a customer spotted a small camera secured with black tape in the false ceiling of a changing room. Police combed through the premises and seized three pinhole cameras and three 12GB memory cards from three of the four individual unisex changing rooms. Officers subsequently recovered multiple video clips filmed between September 23 and 25. Fung was arrested shortly after 9pm on Sunday. The Sha Tin district investigation team is handling the case. Voyeurism is punishable by up to five years in prison, which is capped at two years when the case is heard by a magistrate.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/02/039peeping-tom-gets-out039-man-who-allegedly-hid-three-spy-cameras-in-hong-kong-gym-changing-rooms-out-on-bail",
-      "source": "The Star",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4137025.jpg",
-      "publishedAt": "2026-10-02T09:53:43Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 80,
+      "title": "Teacher allegedly filmed hundreds of kids using toilets",
+      "description": "A primary school teacher has been accused of secretly filming young children as they used the school bathroom more than 357 times on hidden spy cameras. Timothy Blamires, 33, appeared before Melbourne Magistrates Court on Friday, for a brief hearing before his matter was adjourned to November 20. Charge sheets released by the court revealed the extent of the teacher's alleged crimes committed over six months at Kingswood Primary School, at Dingley Village in Melbourne's southeast. Blamires is accused of installing the spy cameras inside fragrance dispensers in school toilets and filming children between October 13, 2025 and April 21. Court documents allege he recorded \"in excess\" of 34 prepubescent children on October 13, 2025, more than 188 children a week later on October 20, and over 60 children two days after that on October 22. On March 30, he is accused of recording in excess of 74 children using the spy cams. A cleaner replacing an odour dispenser's fragrance inside the male toilets on April 28 allegedly discovered the hidden camera inside, which had a wire connected to a hard drive. She placed it into a plastic bag and put it on the principal's desk before police were called. While officers were on their way, Blamires is accused of taking the camera and putting it inside a drawer in a sick bay before returning to his class to teach. The odour dispenser was allegedly found inside his backpack at the school after his arrest, and police seized devices from his home including laptops, phones and tablets. Blamires has been charged with 16 offences, including six counts of installing a spy cam, five counts of producing child abuse material, four counts of possessing child abuse material and one count of refusing to comply with a police direction to hand over access codes to devices. He was denied bail in May after a magistrate found his risks could not be reduced to an acceptable level, pointing to difficulties in enforcing a ban on internet access. 1800 RESPECT (1800 737 732) National Sexual Abuse and Redress Support Service 1800 211 028",
+      "url": "https://www.crookwellgazette.com.au/story/9365879/teacher-allegedly-filmed-hundreds-of-kids-using-toilets/",
+      "source": "Crookwell Gazette",
+      "image": "https://www.crookwellgazette.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a9e4ad4f-544d-4a2f-b1dc-9f0d9f5f7252.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-10-09T06:36:07Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 70,
       "confidenceLabel": "high",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (2)",
-        "primary topic in title",
         "published within 7 days",
         "multiple category terms"
       ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"'Peeping Tom gets out': Man who allegedly hid three spy cameras in Hong Kong gym changing rooms out on bail\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Teacher allegedly filmed hundreds of kids using toilets",
+      "description": "A primary school teacher has been accused of secretly filming young children as they used the school bathroom more than 357 times on hidden spy cameras. Timothy Blamires, 33, appeared before Melbourne Magistrates Court on Friday, for a brief hearing before his matter was adjourned to November 20. Charge sheets released by the court revealed the extent of the teacher's alleged crimes committed over six months at Kingswood Primary School, at Dingley Village in Melbourne's southeast. Blamires is accused of installing the spy cameras inside fragrance dispensers in school toilets and filming children between October 13, 2025 and April 21. Court documents allege he recorded \"in excess\" of 34 prepubescent children on October 13, 2025, more than 188 children a week later on October 20, and over 60 children two days after that on October 22. On March 30, he is accused of recording in excess of 74 children using the spy cams. A cleaner replacing an odour dispenser's fragrance inside the male toilets on April 28 allegedly discovered the hidden camera inside, which had a wire connected to a hard drive. She placed it into a plastic bag and put it on the principal's desk before police were called. While officers were on their way, Blamires is accused of taking the camera and putting it inside a drawer in a sick bay before returning to his class to teach. The odour dispenser was allegedly found inside his backpack at the school after his arrest, and police seized devices from his home including laptops, phones and tablets. Blamires has been charged with 16 offences, including six counts of installing a spy cam, five counts of producing child abuse material, four counts of possessing child abuse material and one count of refusing to comply with a police direction to hand over access codes to devices. He was denied bail in May after a magistrate found his risks could not be reduced to an acceptable level, pointing to difficulties in enforcing a ban on internet access. 1800 RESPECT (1800 737 732) National Sexual Abuse and Redress Support Service 1800 211 028",
+      "url": "https://www.moreechampion.com.au/story/9365879/teacher-allegedly-filmed-hundreds-of-kids-using-toilets/",
+      "source": "Time Travel Turtle",
+      "image": "https://www.moreechampion.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a9e4ad4f-544d-4a2f-b1dc-9f0d9f5f7252.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-10-09T06:36:07Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 70,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Primary school teacher, 33, 'filmed 350 kids with spy cams hidden in toilets'",
+      "description": "A PRIMARY school teacher is accused of secretly filming more than 350 children using spy cameras hidden inside toilet air fresheners. Timothy Blamires, 33, allegedly installed the devices at Kingswood Primary School in Melbourne, Australia. He reportedly recorded unsuspecting pupils over a six-month period. Court documents reveal he is accused of filming more than 34 prepubescent children on October 13, 2025, before recording over 188 just a week later. Another 60 children were allegedly filmed on October 22, followed by more than 74 on March 30 this year. The alleged spying operation was uncovered on April 28 when a cleaner discovered a hidden camera while replacing a fragrance dispenser in the boys' toilets. The device was connected by a wire to a hard drive and was placed in a plastic bag on the headteacher's desk before police were called. But while officers were on their way, Blamires allegedly took the camera and hid it inside a drawer in the school's sick bay before returning to teach his class. Following his arrest, police allegedly discovered the fragrance dispenser inside his backpack at the school. Officers also seized laptops, mobile phones and tablets from his home as part of their investigation. Blamires faces 16 charges, including six counts of installing a spy camera, five counts of producing child abuse material and four counts of possessing it. He is also accused of refusing to comply with a police order to provide access codes to his electronic devices. The teacher was denied bail in May after a magistrate ruled the risks he posed could not be reduced to an acceptable level. The court raised concerns over the difficulty of enforcing restrictions on his internet access if he were released. Blamires appeared before Melbourne Magistrates' Court on Friday for a brief hearing, where charge sheets revealed the extent of the allegations. His case was adjourned until November 20. It comes after a teacher in Michigan filmed herself having sex with another student at his home. She was sentenced to 15 years behind bars after pleading guilty to third-degree sexual conduct. The educator was arrested after admitting to a colleague in 2025 that she had sex with a 16-year-old student she was tutoring in 2023. At the time of the sexual act, she was also teaching at Oakside Prep Academy in Waterford Township. She also filmed the abuse - a fact that the judge found astonishing, saying: \"This is serious risk-taking behaviour, taking advantage of a minor and videotaping. \"You're having sex with a minor at his home, right? And it's just disgusting.\"",
+      "url": "https://www.thescottishsun.co.uk/news/16918393/teacher-filmed-350-kids-spy-cams-toilet/",
+      "source": "The Scottish Sun",
+      "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/10/crop-40630076.jpg?quality=90&strip=all&1791545223&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-10-09T10:26:12Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 55,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Primary school teacher, 33, 'filmed 350 kids with spy cams hidden in toilets'\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-09T17:57:17.070Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Nurse files FIR against hosp staff for rape",
+      "description": "Jaisalmer: A nurse employed at a private hospital in Barmer has lodged a complaint at the women's police station, accusing the hospital owner, a doctor, the hospital manager and other staff members of rape and sexual harassment. Police registered the FIR on Oct 8 and have begun an investigation into the allegations.The complaint comes several months after the doctor filed a case against the nurse on July 22, 2026, alleging honey-trapping and blackmail. The nurse was arrested in connection with that case and remained in jail until her release on Sept 30. She subsequently filed the present complaint on Oct 8.In her statement, the nurse alleged that the doctor and hospital owner secretly captured objectionable photographs and videos of her through a hidden camera installed in a changing room while she was changing clothes during her delivery. She claimed they later informed her about the recordings and allegedly used them to coerce her into a sexual relationship, threatening to make the material public.She further alleged that in Jan 2024, while on night duty, she was taken from the labour room to another room and sexually assaulted after being threatened with the release of the photos and videos. According to her complaint, the incident was also recorded, and she was repeatedly threatened with the circulation of the footage and harm to her children. The nurse claimed that she was regularly assigned night shifts and subjected to continued sexual exploitation. Fearing further abuse, she said she stopped reporting to work on March 4 and informed the doctor of her decision through a message.However, she alleged that the doctor later visited her residence and threatened to take his own life if she did not return to work. She claimed she resumed her duties under pressure and that the alleged sexual abuse and physical assaults continued.The complainant also alleged that the doctor sent her explicit videos of himself. She further stated that in May 2026, while the doctor was abroad, the hospital manager and another individual allegedly threatened and sexually assaulted her on May 10. According to the complaint, a female staff member who attempted to help her was threatened with termination.The nurse said she had informed her brother and other hospital employees about the alleged incidents. She further claimed that the doctor later shared the videos on social media and filed the honey-trapping and blackmail case against her in retaliation.Additional Superintendent of Police Nitesh Arya confirmed that a rape complaint had been filed against a doctor, a manager and another staff member. He said the matter is under investigation, and the complainant will undergo a medical examination before her statement is formally recorded.The case is being investigated by the additional SP attached to the women's cell. The allegations remain unverified and are subject to the outcome of the police investigation.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/nurse-files-fir-against-hosp-staff-for-rape/articleshow/134839270.cms",
+      "source": "The Times of India",
+      "image": "https://static.toiimg.com/thumb/msid-131948702,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-09T16:56:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Nurse files FIR against hosp staff for rape\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-09T17:57:17.070Z"
+    }
+  ]
 }
