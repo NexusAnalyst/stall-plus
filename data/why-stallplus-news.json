@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:57:17.070Z",
+  "updatedAt": "2026-10-10T16:57:17.317Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 4,
+    "published": 2,
     "pending": 2,
-    "rejected": 58,
+    "rejected": 64,
     "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 0
     },
     {
       "id": "dorm-privacy",
@@ -56,47 +56,24 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Wes Henderson Sued: Angel's Envy Co-Founder Accused of Secretly Recording Intimate Moments of Around 40 People",
-      "description": "Angel's Envy co-founder Wes Henderson faces a civil lawsuit from family members alleging he secretly recorded around 40 people using hidden cameras. His attorney 'unequivocally denies the allegations in the lawsuit'. Wes Henderson, co-founder of the Angel's Envy whiskey brand, Kentucky Bourbon Hall of Fame inductee and owner of the Kentucky Castle hotel in Versailles, is facing a civil lawsuit filed by family members who allege he used hidden cameras to secretly record around 40 people without their consent. The complaint, first filed in Oldham County, Kentucky, claims the recordings were made across several locations, including his private homes and the Kentucky Castle hotel. Henderson has denied the claims through his attorney, and no criminal charges have been publicly reported so far. His attorney said Henderson 'unequivocally denies the allegations in the lawsuit' and added that the defense expects the case to be either voluntarily dismissed or fought hard in court. Wes Henderson Sued Over Alleged Hidden Camera Recordings How The Cameras Were Allegedly Found According to the filing, family members spotted about 15 disguised cameras during a stay at Henderson's Florida home in June 2025. A later search of his Oldham County residence allegedly turned up roughly 15 more recording devices. Nebraska S*x Trafficking Bust: Gujarati Woman Used Hidden Hotel Cameras To Monitor S*xual Abuse of 2 Teenage Girls Live. The plaintiffs claim the memory cards and footage they recovered show people undressing, using the restroom and being intimate. They also allege some cameras were pointed at beds, that cameras were placed inside homes belonging to third parties, and that some clips show s*xual activity at the Kentucky Castle hotel. The complaint further claims there is footage of Henderson himself with other women. Florida Therapist Has Secret S*xual Relationship With Patient, Arrested. Charges Listed In The Civil Complaint The suit lists counts of voyeurism, invasion of privacy, and viewing or possessing depictions of a minor in a s*xual performance. The last count relates to bathroom footage that allegedly features an unidentified person who appeared to be a minor. The plaintiffs also allege that Henderson sent multiple text messages over an 11-month period after being confronted, apologizing and asking for forgiveness. Police Role And Damages Sought The plaintiffs say they handed the recovered equipment and digital recordings to law enforcement. Local agencies, however, indicated they were not actively involved in the civil case. The family is seeking punitive damages, compensation for pain and suffering and medical expenses, and has demanded a jury trial. Who Is Wes Henderson? Henderson co-founded Angel's Envy with his father, master distiller Lincoln Henderson. Bacardi bought the brand in 2015 in a deal reportedly worth about USD 150 million. He was inducted into the Kentucky Bourbon Hall of Fame in 2019, later bought the 53-acre Kentucky Castle property in Versailles and launched the True Story whiskey brand. (The above story first appeared on LatestLY on Oct 03, 2026 07:44 AM IST. For more news and updates on politics, world, sports, entertainment and lifestyle, log on to our website latestly.com).",
-      "url": "https://www.latestly.com/us/wes-henderson-sued-angels-envy-co-founder-accused-of-secretly-recording-intimate-moments-of-around-40-people-7630681.html",
-      "source": "LatestLY",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/10/06-137047877-784x441.jpg",
-      "publishedAt": "2026-10-03T02:14:15Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 80,
+      "title": "Teacher allegedly filmed hundreds of kids using toilets",
+      "description": "A primary school teacher has been accused of secretly filming young children as they used the school bathroom more than 357 times on hidden spy cameras. Timothy Blamires, 33, appeared before Melbourne Magistrates' Court on Friday 9 October, for a brief hearing before his matter was adjourned to November 20. Charge sheets released by the court revealed the extent of the teacher's alleged crimes committed over six months at Kingswood Primary School, at Dingley Village. Blamires is accused of installing the spy cameras inside fragrance dispensers in school toilets and filming children between October 13, 2025 and April 21. Court documents allege he recorded \"in excess\" of 34 prepubescent children on October 13, 2025, more than 188 children a week later on October 20, and over 60 children two days after that on October 22. On March 30, he is accused of recording in excess of 74 children using the spy cams. A cleaner replacing an odour dispenser's fragrance inside the male toilets on April 28 allegedly discovered the hidden camera inside, which had a wire connected to a hard drive. She placed it into a plastic bag and put it on the principal's desk before police were called. While officers were on their way, Blamires is accused of taking the camera and putting it inside a drawer in a sick bay before returning to his class to teach. The odour dispenser was allegedly found inside his backpack at the school after his arrest, and police seized devices from his home including laptops, phones and tablets. Blamires has been charged with 16 offences, including six counts of installing a spy cam, five counts of producing child abuse material, four counts of possessing child abuse material and one count of refusing to comply with a police direction to hand over access codes to devices. He was denied bail in May after a magistrate found his risks could not be reduced to an acceptable level, pointing to difficulties in enforcing a ban on internet access. 1800 RESPECT (1800 737 732) National Sexual Abuse and Redress Support Service 1800 211 028",
+      "url": "https://dandenong.starcommunity.com.au/news/2026-10-10/teacher-allegedly-filmed-hundreds-of-kids-using-toilets/",
+      "source": "Dandenong Star Journal",
+      "image": "https://dandenong.starcommunity.com.au/files/2026/10/Courthouse_171634_05.jpg",
+      "publishedAt": "2026-10-09T20:21:04Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 70,
       "confidenceLabel": "high",
       "matchReasons": [
         "restroom context (2 terms)",
         "category terms (2)",
-        "primary topic in title",
         "published within 7 days",
         "multiple category terms"
       ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Wes Henderson Sued: Angel's Envy Co-Founder Accused of Secretly Recording Intimate Moments of Around 40 People\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Former WSU Student Receives Maximum Jail Sentence For Secretly Recording Men In Campus Shower",
-      "description": "The 20 year old former Washington State University student convicted of secretly taking videos of men inside a dorm shower and bathroom has received the maximum jail sentence. Juan Velasco pleaded guilty in August to one count of felony voyeurism in Whitman County Superior Court. Velasco was initially charged with three counts for using his phone to secretly record men in the 3rd floor bathroom of Stephenson South in April of last year. The prosecutor's office dropped two counts partly because two of the victims could not be identified. One victim who was recorded in the shower was identified. Judge Roger Sandberg agreed with the prosecutor's request for the maximum sentence allowed by state law in this case. Judge Sandberg sent Velasco to jail for 3 months, ordered that he undergo a psychosexual evaluation and register as a sex offender for 10 years. The identified victim agreed with that sentencing recommendation. Velasco has been living in Toppenish since he was suspended by WSU. The case was investigating by the WSU PD.",
-      "url": "https://pullmanradio.com/former-wsu-student-receives-maximum-jail-sentence-for-secretly-recording-men-in-campus-shower/",
-      "source": "Pullman Radio",
-      "image": "https://i0.wp.com/pullmanradio.com/wp-content/uploads/velascosentence.jpg?fit=147%2C263&ssl=1&w=144",
-      "publishedAt": "2026-10-02T19:54:27Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 80,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former WSU Student Receives Maximum Jail Sentence For Secretly Recording Men In Campus Shower\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     },
     {
       "provider": "NewsAPI.ai",
@@ -118,52 +95,9 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Teacher allegedly filmed hundreds of kids using toilets",
-      "description": "A primary school teacher has been accused of secretly filming young children as they used the school bathroom more than 357 times on hidden spy cameras. Timothy Blamires, 33, appeared before Melbourne Magistrates Court on Friday, for a brief hearing before his matter was adjourned to November 20. Charge sheets released by the court revealed the extent of the teacher's alleged crimes committed over six months at Kingswood Primary School, at Dingley Village in Melbourne's southeast. Blamires is accused of installing the spy cameras inside fragrance dispensers in school toilets and filming children between October 13, 2025 and April 21. Court documents allege he recorded \"in excess\" of 34 prepubescent children on October 13, 2025, more than 188 children a week later on October 20, and over 60 children two days after that on October 22. On March 30, he is accused of recording in excess of 74 children using the spy cams. A cleaner replacing an odour dispenser's fragrance inside the male toilets on April 28 allegedly discovered the hidden camera inside, which had a wire connected to a hard drive. She placed it into a plastic bag and put it on the principal's desk before police were called. While officers were on their way, Blamires is accused of taking the camera and putting it inside a drawer in a sick bay before returning to his class to teach. The odour dispenser was allegedly found inside his backpack at the school after his arrest, and police seized devices from his home including laptops, phones and tablets. Blamires has been charged with 16 offences, including six counts of installing a spy cam, five counts of producing child abuse material, four counts of possessing child abuse material and one count of refusing to comply with a police direction to hand over access codes to devices. He was denied bail in May after a magistrate found his risks could not be reduced to an acceptable level, pointing to difficulties in enforcing a ban on internet access. 1800 RESPECT (1800 737 732) National Sexual Abuse and Redress Support Service 1800 211 028",
-      "url": "https://www.moreechampion.com.au/story/9365879/teacher-allegedly-filmed-hundreds-of-kids-using-toilets/",
-      "source": "Time Travel Turtle",
-      "image": "https://www.moreechampion.com.au/images/transform/v1/crop/frm/silverstone-feed-data/a9e4ad4f-544d-4a2f-b1dc-9f0d9f5f7252.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-10-09T06:36:07Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 70,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Primary school teacher, 33, 'filmed 350 kids with spy cams hidden in toilets'",
-      "description": "A PRIMARY school teacher is accused of secretly filming more than 350 children using spy cameras hidden inside toilet air fresheners. Timothy Blamires, 33, allegedly installed the devices at Kingswood Primary School in Melbourne, Australia. He reportedly recorded unsuspecting pupils over a six-month period. Court documents reveal he is accused of filming more than 34 prepubescent children on October 13, 2025, before recording over 188 just a week later. Another 60 children were allegedly filmed on October 22, followed by more than 74 on March 30 this year. The alleged spying operation was uncovered on April 28 when a cleaner discovered a hidden camera while replacing a fragrance dispenser in the boys' toilets. The device was connected by a wire to a hard drive and was placed in a plastic bag on the headteacher's desk before police were called. But while officers were on their way, Blamires allegedly took the camera and hid it inside a drawer in the school's sick bay before returning to teach his class. Following his arrest, police allegedly discovered the fragrance dispenser inside his backpack at the school. Officers also seized laptops, mobile phones and tablets from his home as part of their investigation. Blamires faces 16 charges, including six counts of installing a spy camera, five counts of producing child abuse material and four counts of possessing it. He is also accused of refusing to comply with a police order to provide access codes to his electronic devices. The teacher was denied bail in May after a magistrate ruled the risks he posed could not be reduced to an acceptable level. The court raised concerns over the difficulty of enforcing restrictions on his internet access if he were released. Blamires appeared before Melbourne Magistrates' Court on Friday for a brief hearing, where charge sheets revealed the extent of the allegations. His case was adjourned until November 20. It comes after a teacher in Michigan filmed herself having sex with another student at his home. She was sentenced to 15 years behind bars after pleading guilty to third-degree sexual conduct. The educator was arrested after admitting to a colleague in 2025 that she had sex with a 16-year-old student she was tutoring in 2023. At the time of the sexual act, she was also teaching at Oakside Prep Academy in Waterford Township. She also filmed the abuse - a fact that the judge found astonishing, saying: \"This is serious risk-taking behaviour, taking advantage of a minor and videotaping. \"You're having sex with a minor at his home, right? And it's just disgusting.\"",
-      "url": "https://www.thescottishsun.co.uk/news/16918393/teacher-filmed-350-kids-spy-cams-toilet/",
-      "source": "The Scottish Sun",
-      "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2026/10/crop-40630076.jpg?quality=90&strip=all&1791545223&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-10-09T10:26:12Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 55,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"Primary school teacher, 33, 'filmed 350 kids with spy cams hidden in toilets'\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-09T17:57:17.070Z"
-    },
     {
       "provider": "NewsAPI.ai",
       "title": "Nurse files FIR against hosp staff for rape",
@@ -183,7 +117,29 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Nurse files FIR against hosp staff for rape\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-09T17:57:17.070Z"
+      "flaggedAt": "2026-10-10T16:57:17.317Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Purdue student arrested in Owen Hall voyeurism case",
+      "description": "A Purdue student was arrested Friday in relation to a voyeurism case at Owen Residence Hall. Jaden Van Vactor, a sophomore in interdisciplinary studies, was arrested after Purdue police received a call around 1:30 p.m. about a suspicious person in the hall, according to PUPD Captain Song Kang. While searching the building for an unescorted male, officers reportedly found the 19-year-old Van Vactor trying to evade the scene, Kang said. After a \"brief scuffle,\" officers apprehended Van Vactor, and he was booked into the Tippecanoe County Jail around 6:30 p.m. Kang said that while evidence is still being collected, Van Vactor is suspected to be the same person who reportedly video recorded or took photos of a woman in a shower in Owen Hall on Sept. 9. Van Vactor has been preliminarily charged with voyeurism, battery on law enforcement and resisting law enforcement. He is being held on a $500 cash bond, according to jail logs. Purdue University spokesperson Trevor Peters confirmed that Van Vactor is a Purdue student and has been suspended. Crime State Sen. Ron Alting accused of shoplifting",
+      "url": "https://www.purdueexponent.org/campus/crime/purdue-student-arrested-owen-voyeurism/article_33c9c7f8-6140-4f82-bdd4-d2feaab0f070.html",
+      "source": "Purdue Exponent",
+      "image": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/3/3c/33c9c7f8-6140-4f82-bdd4-d2feaab0f070/6ac9abbae1c65.preview.jpg?crop=800%2C420%2C0%2C14&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-10-10T03:02:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Purdue student arrested in Owen Hall voyeurism case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-10T16:57:17.317Z"
     }
   ]
 }
