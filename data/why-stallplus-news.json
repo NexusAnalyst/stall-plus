@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:57:17.317Z",
+  "updatedAt": "2026-10-11T17:18:31.504Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 2,
-    "rejected": 64,
+    "pending": 1,
+    "rejected": 63,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -100,27 +100,6 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Nurse files FIR against hosp staff for rape",
-      "description": "Jaisalmer: A nurse employed at a private hospital in Barmer has lodged a complaint at the women's police station, accusing the hospital owner, a doctor, the hospital manager and other staff members of rape and sexual harassment. Police registered the FIR on Oct 8 and have begun an investigation into the allegations.The complaint comes several months after the doctor filed a case against the nurse on July 22, 2026, alleging honey-trapping and blackmail. The nurse was arrested in connection with that case and remained in jail until her release on Sept 30. She subsequently filed the present complaint on Oct 8.In her statement, the nurse alleged that the doctor and hospital owner secretly captured objectionable photographs and videos of her through a hidden camera installed in a changing room while she was changing clothes during her delivery. She claimed they later informed her about the recordings and allegedly used them to coerce her into a sexual relationship, threatening to make the material public.She further alleged that in Jan 2024, while on night duty, she was taken from the labour room to another room and sexually assaulted after being threatened with the release of the photos and videos. According to her complaint, the incident was also recorded, and she was repeatedly threatened with the circulation of the footage and harm to her children. The nurse claimed that she was regularly assigned night shifts and subjected to continued sexual exploitation. Fearing further abuse, she said she stopped reporting to work on March 4 and informed the doctor of her decision through a message.However, she alleged that the doctor later visited her residence and threatened to take his own life if she did not return to work. She claimed she resumed her duties under pressure and that the alleged sexual abuse and physical assaults continued.The complainant also alleged that the doctor sent her explicit videos of himself. She further stated that in May 2026, while the doctor was abroad, the hospital manager and another individual allegedly threatened and sexually assaulted her on May 10. According to the complaint, a female staff member who attempted to help her was threatened with termination.The nurse said she had informed her brother and other hospital employees about the alleged incidents. She further claimed that the doctor later shared the videos on social media and filed the honey-trapping and blackmail case against her in retaliation.Additional Superintendent of Police Nitesh Arya confirmed that a rape complaint had been filed against a doctor, a manager and another staff member. He said the matter is under investigation, and the complainant will undergo a medical examination before her statement is formally recorded.The case is being investigated by the additional SP attached to the women's cell. The allegations remain unverified and are subject to the outcome of the police investigation.",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/nurse-files-fir-against-hosp-staff-for-rape/articleshow/134839270.cms",
-      "source": "The Times of India",
-      "image": "https://static.toiimg.com/thumb/msid-131948702,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-09T16:56:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Nurse files FIR against hosp staff for rape\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-10T16:57:17.317Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Purdue student arrested in Owen Hall voyeurism case",
       "description": "A Purdue student was arrested Friday in relation to a voyeurism case at Owen Residence Hall. Jaden Van Vactor, a sophomore in interdisciplinary studies, was arrested after Purdue police received a call around 1:30 p.m. about a suspicious person in the hall, according to PUPD Captain Song Kang. While searching the building for an unescorted male, officers reportedly found the 19-year-old Van Vactor trying to evade the scene, Kang said. After a \"brief scuffle,\" officers apprehended Van Vactor, and he was booked into the Tippecanoe County Jail around 6:30 p.m. Kang said that while evidence is still being collected, Van Vactor is suspected to be the same person who reportedly video recorded or took photos of a woman in a shower in Owen Hall on Sept. 9. Van Vactor has been preliminarily charged with voyeurism, battery on law enforcement and resisting law enforcement. He is being held on a $500 cash bond, according to jail logs. Purdue University spokesperson Trevor Peters confirmed that Van Vactor is a Purdue student and has been suspended. Crime State Sen. Ron Alting accused of shoplifting",
       "url": "https://www.purdueexponent.org/campus/crime/purdue-student-arrested-owen-voyeurism/article_33c9c7f8-6140-4f82-bdd4-d2feaab0f070.html",
@@ -139,7 +118,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Purdue student arrested in Owen Hall voyeurism case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-10T16:57:17.317Z"
+      "flaggedAt": "2026-10-11T17:18:31.504Z"
     }
   ]
 }
