@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T17:18:31.504Z",
+  "updatedAt": "2026-10-12T20:53:18.272Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 2,
     "pending": 1,
-    "rejected": 63,
+    "rejected": 68,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -100,12 +100,12 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Purdue student arrested in Owen Hall voyeurism case",
-      "description": "A Purdue student was arrested Friday in relation to a voyeurism case at Owen Residence Hall. Jaden Van Vactor, a sophomore in interdisciplinary studies, was arrested after Purdue police received a call around 1:30 p.m. about a suspicious person in the hall, according to PUPD Captain Song Kang. While searching the building for an unescorted male, officers reportedly found the 19-year-old Van Vactor trying to evade the scene, Kang said. After a \"brief scuffle,\" officers apprehended Van Vactor, and he was booked into the Tippecanoe County Jail around 6:30 p.m. Kang said that while evidence is still being collected, Van Vactor is suspected to be the same person who reportedly video recorded or took photos of a woman in a shower in Owen Hall on Sept. 9. Van Vactor has been preliminarily charged with voyeurism, battery on law enforcement and resisting law enforcement. He is being held on a $500 cash bond, according to jail logs. Purdue University spokesperson Trevor Peters confirmed that Van Vactor is a Purdue student and has been suspended. Crime State Sen. Ron Alting accused of shoplifting",
-      "url": "https://www.purdueexponent.org/campus/crime/purdue-student-arrested-owen-voyeurism/article_33c9c7f8-6140-4f82-bdd4-d2feaab0f070.html",
-      "source": "Purdue Exponent",
-      "image": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/3/3c/33c9c7f8-6140-4f82-bdd4-d2feaab0f070/6ac9abbae1c65.preview.jpg?crop=800%2C420%2C0%2C14&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-10-10T03:02:00Z",
+      "title": "Purdue sophomore suspected of last month's voyeurism in Owen Hall",
+      "description": "WEST LAFAYETTE, IN -- A sophomore at Purdue University has been arrested on suspicion of last month's voyeurism in the women's showers in Owen Hall. Purdue police arrested Jaden Colt Van Vactor, 19, of Plymouth, Indiana, on suspicion of voyeurism, battery on a a police officer and resisting law enforcement, Purdue spokesman Trevor Peters said. Van Vactor posted a $500 bond about 7 a.m. Saturday and was released, according to the Tippecanoe County Jail. He was also suspended from the university, Peters said. Van Vactor was a sophomore in interdisciplinary studies. Police suspect Van Vactor was the man who sneaked into the women's shower about 8:30 p.m. Sept. 9. The woman told police she saw a phone pointed at her in her shower, Purdue police said last month. The man with the phone left after the woman noticed the phone and reacted to his presence, police said last month.",
+      "url": "https://www.jconline.com/story/news/crime/2026/10/12/purdue-sophomore-suspected-of-last-months-voyeurism-in-owen-hall/92217210007/",
+      "source": "Journal and Courier",
+      "image": "https://www.jconline.com/gcdn/authoring/authoring-images/2026/09/11/PLAI/91714622007-owenexterior-640-x-360.jpg?crop=639,359,x0,y0&width=639&height=319&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-12T16:21:54Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -117,8 +117,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Purdue student arrested in Owen Hall voyeurism case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-11T17:18:31.504Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Purdue sophomore suspected of last month's voyeurism in Owen Hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-12T20:53:18.272Z"
     }
   ]
 }
