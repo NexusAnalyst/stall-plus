@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T18:51:31.003Z",
+  "updatedAt": "2026-10-14T16:30:58.349Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,7 +12,7 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 1,
+    "pending": 0,
     "rejected": 69,
     "carriedForward": 2
   },
@@ -97,29 +97,5 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Woman Hid A Spy Camera At Work After Severe Health Problems No One Could Explain -- What She Saw Was Bone Chilling",
-      "description": "A California woman, Rong Yuan, expressed disappointment in the legal system over the slap on the wrist given to her former co-worker, David Xu. Yuan was battling years of unexplained health issues and thought she was suffering from cancer at one point. But she found the answer to her health problems after a hidden camera caught Xu red-handed, secretly pois*ning her while they were working together for the same company. NBCNews Rong Yuan is going public with footage of her former co-worker David Xu pois*ning her water bottle with cadmium, a toxic heavy metal, from 2017 to 2019. The 50-year-old woman said she was releasing the footage because of the lenient punishment given to Xu, who is now asking a judge to dismiss his felony conviction. The metallurgist explained that she had been feeling terribly sick in January 2017, shortly after taking up a new job at the forensic engineering firm Berkeley Engineering and Research, also known as BEAR, in California. ABC News At the new company, she met senior materials engineer Xu, who seemingly had a grudge against her from day one. Their very first encounter was tense, Yuan said, recalling how Xu didn't want to share the firm's material characterization lab with her. \"I just decided I will never overlap with him,\" she said. \"I'll just simply do my work, and he can do whatever he wants.\" NBCNews Things seemed to be going normally over the next few weeks until Yuan noticed certain health issues, including hair loss and dry heaving. These symptoms escalated the same year. Recalling one incident in July, 2017, she said she woke up and took a few sips of water from her water bottle, only to feel ill soon after. \"I began to feel like I was dy*ng,\" she said. By the next year, hospital trips became frequent for Yuan, and she even suspected having stomach cancer at one point. She sent the company an email on November 27, 2018, saying she couldn't make it to the office because she was throwing up. Xu reportedly responded to the email, saying: \"You should work from home until you feel better. No reason to rush in. I think BEAR is moldy.\" In January 2019, Yuan remembered thinking, \"I'm going to d*e,\" after drinking from the water bottle at her work desk. Her parents had traveled from China to the U.S. around the same time to stay with her as her symptoms worsened. Berkeley Police Things took a turn when her mother tasted the water from the same bottle and noticed a strange sour taste. That's when Yuan became suspicious about someone tampering with her water. After ordering a spy camera from Amazon, Yuan set up the device at her work desk and caught the culprit red-handed on February 11, 2019. She was shocked to see Xu brazenly adding some substance into her water bottle at around 11:04 a.m. ABC News A video from March 4, 2019, also captured the co-worker pouring something into her bottle. \"My blood was frozen. I almost d*ed,\" she told the San Francisco Standard. \"I experienced de*th so, so close so many times. I cannot let him go.\" An investigation began, and officers tested samples from her water bottle, her blood, and even her parents' blood, as the mom had used the same water to cook food. All the samples had tested positive for cadmium, with the bottle containing 3.5 million times the safe level of cadmium in drinking water, as per federal government limits. NBCNews Xu was initially charged with premeditated attempted m**der and two felony counts of pois*ning but hasn't spent a single day in jail. The busted co-worker was later given what many see as a lenient plea deal of one count of pois*ning, and Xu pleaded no contest. While this is functionally equal to a conviction in court, it is technically not an admission of guilt. Xu recently completed his two-year probation under the plea deal. And as per California law, he is currently entitled to request an expungement or a dismissal of his felony conviction. This would mean future employers wouldn't find his criminal action during background checks. His criminal history can only be used against him if he faces charges for a brand new crime. ABC News Yuan believes her former co-worker hasn't been punished enough while she faces long-term consequences of cadmium exposure, which could lead to organ damage, bone disease, and even cancer. The metallurgist suspects that her father's passing from heart failure had something to do with ingesting the toxic heavy metal. She said she was releasing footage of Xu pois*ning her water bottle, hoping he wouldn't get away so easily. \"This legal system already failed me,\" she said. \"This is my last resort.\" ABC News Netizens were surprised by the lenient sentence given to Xu, saying: \"This psychopath is now trying to get his record expunged so that he can continue to get work without anyone finding out he has a history of trying to k*ll the people he works with.\" \"Wow, the leniency is disturbing,\" one said. \"My brain hurts trying to understand this,\" wrote another. \"I can't think of any justification for not giving this guy life in prison.\"",
-      "url": "https://2.boredpanda.com/woman-poisoned-coworker-david-wu-berkeley-chemical-lab-hidden-camera/",
-      "source": "2.boredpanda.com",
-      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6ace06f521cbd.png",
-      "publishedAt": "2026-10-13T15:52:36Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
-      ],
-      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Woman Hid A Spy Camera At Work After Severe Health Problems No One Could Explain -- What She Saw Was Bone Chilling\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-13T18:51:31.003Z"
-    }
-  ]
+  "pendingReview": []
 }
