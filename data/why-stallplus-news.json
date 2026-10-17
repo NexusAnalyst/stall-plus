@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:03:39.134Z",
+  "updatedAt": "2026-10-17T14:56:06.128Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 2,
-    "rejected": 64,
+    "published": 1,
+    "pending": 5,
+    "rejected": 59,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -75,38 +75,38 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former WSU student sentenced to three months in jail for voyeurism felony\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Teacher allegedly filmed hundreds of kids using toilets",
-      "description": "A primary school teacher has been accused of secretly filming young children as they used the school bathroom more than 357 times on hidden spy cameras. Timothy Blamires, 33, appeared before Melbourne Magistrates' Court on Friday 9 October, for a brief hearing before his matter was adjourned to November 20. Charge sheets released by the court revealed the extent of the teacher's alleged crimes committed over six months at Kingswood Primary School, at Dingley Village. Blamires is accused of installing the spy cameras inside fragrance dispensers in school toilets and filming children between October 13, 2025 and April 21. Court documents allege he recorded \"in excess\" of 34 prepubescent children on October 13, 2025, more than 188 children a week later on October 20, and over 60 children two days after that on October 22. On March 30, he is accused of recording in excess of 74 children using the spy cams. A cleaner replacing an odour dispenser's fragrance inside the male toilets on April 28 allegedly discovered the hidden camera inside, which had a wire connected to a hard drive. She placed it into a plastic bag and put it on the principal's desk before police were called. While officers were on their way, Blamires is accused of taking the camera and putting it inside a drawer in a sick bay before returning to his class to teach. The odour dispenser was allegedly found inside his backpack at the school after his arrest, and police seized devices from his home including laptops, phones and tablets. Blamires has been charged with 16 offences, including six counts of installing a spy cam, five counts of producing child abuse material, four counts of possessing child abuse material and one count of refusing to comply with a police direction to hand over access codes to devices. He was denied bail in May after a magistrate found his risks could not be reduced to an acceptable level, pointing to difficulties in enforcing a ban on internet access. 1800 RESPECT (1800 737 732) National Sexual Abuse and Redress Support Service 1800 211 028",
-      "url": "https://dandenong.starcommunity.com.au/news/2026-10-10/teacher-allegedly-filmed-hundreds-of-kids-using-toilets/",
-      "source": "Dandenong Star Journal",
-      "image": "https://dandenong.starcommunity.com.au/files/2026/10/Courthouse_171634_05.jpg",
-      "publishedAt": "2026-10-09T20:21:04Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 70,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Teacher allegedly filmed hundreds of kids using toilets\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "The weird Reno invention that suddenly makes perfect sense",
-      "description": "Here's what to bring on a road trip in case you have to use a dirty restroom. I'm not necessarily out here looking for weird ideas to write about. These things just fall into my lap. For example: Did you know that Reno is suddenly a hotbed of public restroom innovation? It's true. First, there's the Peep No More, the green/red indicator that shows whether restroom stalls are occupied or not. That was a game-changer in 2011. We no longer had to walk hunched over down the line of stalls, looking for shoes and desperately avoiding eye contact with stall occupants. (\"No, I'm not skulking around the restroom peeping into stalls, like some kind of creep! I was actually just ... uh, about to bend over and tie my shoe, right here in the restroom, a totally normal place to do this.\") And after that, who can forget about the ... uh ... OK, maybe we're only at two restroom breakthroughs for Reno so far. But still, that's a lot for one mid-sized city! What has Spokane done to improve the restroom experience? Nothing, probably. (I will not research this.) As for the next big thing ... it's weird that nobody has invented it already. Sometimes when we touch, the honesty's too much Every time I'm in a public restroom with manual flushing, faucet knobs and do-it-yourself paper-towel-dispensing, I think, \"Am I in some kind of time-capsule restroom from 1985? Where's the tech?\" Theoretically, restroom visits should all be 100% hands-free experience. That is, except for that one other thing we touch. The grossest thing. The toilet seat. With that, it's just chaos. It's like some sort of post-apocalyptic nightmare. Just lawless. And nobody was doing anything about it. That is, until Leon Abravanel and Sean Fannan got together to develop the Seat Lift, a foot pedal that automatically raises and lowers the seat on public toilets. \"It's a subconscious problem because we just deal with it,\" Abravanel said. He'd had the idea for the apparatus as part of an entrepreneurship course while earning his MBA. Years later, both he and Fannan were in search of their next big idea. Fannan wasn't on board at first. \"Originally he said, yeah, I don't know,\" Abravanel recalled. \"And then I took him to a gas station bathroom -- two friends walking into the bathroom, it looked suspicious, right? -- but I had to give him the visual of what we're solving.\" Pedals everywhere The idea is simple. The Seat Lift is a foot pedal for men's and unisex restrooms that lifts the seat if you're standing up to pee, then lowers it when you walk away. OK, it's actually fairly complicated. They tested nearly a dozen materials before settling on durable industrial-grade magnesium coated with an antimicrobial finish, able to handle restroom cleaning chemicals, and designed to be compatible with basically every toilet in the United States and Canada. Why test almost an entire continent's worth of toilets? Because that's the vision for Abravanel and Fannan: near-universal foot pedals, replacing the universal \"flipping the toilet seat up with your shoe, but gentle enough that it stays up and doesn't crash back down, flinging pee everywhere\" method. Long story short: These guys think that the devices might be everywhere in no time. \"It's like Koala Care,\" Abravanel said, referring to the baby-changing station brand. \"It's the same thing. It shows that you care about parents being able to change their kids in a hygienic way. \"That's kind of our goal as a business ... where people, obviously years from now, expect this to be part of the restroom experience.\" Once he mentioned the baby-changing stations, it clicked. I got it. (Sometimes I don't immediately get the utility of things. Three decades ago, I remember thinking that sending photos via text was too niche of an idea to catch on.) But universal baby-changing stations -- of course. We didn't have those, and definitely not in men's restrooms. They started showing up when I became a dad, but not nearly enough. I changed several diapers on sink countertops when there were no other options, getting me a bunch of angry stares. (\"Please, by all means, complain to the management about this! I have no other options, and I am deliberately making this everyone's problem now.\") In other words, I'm a believer. I think these really might be everywhere. Reno 911? Or Reno No. 1 and 2? Maybe this is Reno's next identity, becoming the Silicon Valley of restrooms. Personally, I'm fine with it. Better yet, we could make it our thing to solve one weird public restroom issue every decade or so -- enough to keep things innovative, but not enough that we become known as Toilet Town USA. For Abravanel, Northern Nevada was as good a place as any to launch a product aimed at a universal problem. \"Northern Nevada is a great place to start,\" he said. \"We love being a Northern Nevada company and the problem is the same everywhere in the world. So why not start here?\" He pointed to Reno's growth and evolution over the last decade. \"It's really impressive to see how this town has transitioned from what it was to what it's becoming,\" he said. \"It's ripe for opportunity.\" Your move, Spokane. Email your worst public restroom experiences to bmcginness@rgj.com. Brett McGinness is the engagement editor for the Reno Gazette Journal. He's also the writer of The Reno Memo -- a free newsletter about news in the Biggest Little City.",
-      "url": "https://eu.rgj.com/story/life/2026/10/16/reno-may-be-americas-capital-of-restroom-innovation/92047544007/",
-      "source": "Reno Gazette Journal",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/10/02/PREN/92057141007-image-42.jpg?auto=webp&crop=767,431,x0,y359&format=pjpg&width=1200",
-      "publishedAt": "2026-10-16T12:02:01Z",
+      "title": "ICE detains Filipino convicted in restroom hidden-camera case",
+      "description": "The 21-year-old was placed in ICE custody following his sentencing in Alexandria, Virginia ALEXANDRIA, Va. - A 21-year-old Filipino national convicted of secretly recording people inside a Virginia restaurant restroom has been transferred to US Immigration and Customs Enforcement (ICE) custody, according to federal officials and local authorities. Joshua Hombrebueno, of Oxon Hill, Maryland, was turned over to ICE on Oct. 12, following his detention at the William G. Truesdale Alexandria Adult Detention Center, the Alexandria Sheriff's Office has confirmed. The Department of Homeland Security (DHS) identified Hombrebueno in an Oct. 14 news release highlighting recent immigration arrests involving foreign nationals convicted of crimes. DHS said Hombrebueno, a Philippine national, had been convicted of \"two counts of videotaping undressed people without their consent\" in Alexandria, Virginia. The agency described him as being in the United States illegally. Hidden camera in restaurant restroom The case originated from a Sept. 20, 2025, incident at Gustave Boulangerie & Brasserie, a restaurant in Alexandria's Del Ray neighborhood where Hombrebueno worked. According to media reports, a woman and her young daughter were allowed to use the restaurant's employee restroom because the public restroom was occupied. While inside, the woman noticed that the doors of a bathroom vanity were slightly open. She discovered a cellphone concealed inside the cabinet, propped against a roll of toilet paper. The woman told investigators she reviewed the footage and saw the person who had placed the device inside the restroom. Hombrebueno was arrested in connection with the recordings, according to ALXnow. He was sentenced in August 2026 after being found guilty of secretly filming people without their consent. He received a five-year suspended jail sentence, five years of probation and a requirement to register as a sex offender.",
+      "url": "https://usa.inquirer.net/212607/ice-detains-filipino-convicted-in-restroom-hidden-camera-case",
+      "source": "INQUIRER.net USA",
+      "image": "https://usa.inquirer.net/files/2026/10/Joshua-Gabriel-Hombrebueno-featured-scaled.png",
+      "publishedAt": "2026-10-17T00:49:21Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"ICE detains Filipino convicted in restroom hidden-camera case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-17T14:56:06.128Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Corona del Sol dance director repeatedly expressed concerns over cameras, emails show",
+      "description": "TEMPE -- Former Tempe Union High School District surveillance officer Antony Cruz is currently facing voyeurism charges, and Tempe Police recently submitted 100 additional charges. The Maricopa County Attorney's Office told ABC15 the additional charges are still being reviewed as of Friday afternoon. Court documents say Cruz accessed and downloaded footage from cameras that were placed in the dance room. The school district previously told families that the dance room was never an approved changing area for students while the regular locker room was undergoing renovations. According to the emails released, an assistant principal emailed staff on September 24, 2024, about the cameras being installed in both the east and west dance rooms and that the cameras ran 24/7. \"I know sometimes the girls change in the rooms, but we will need to adjust and use locker rooms or use the dance closets as changing \"stalls\" if need be,\" the email read. The assistant principal continued to say that all PE areas, including wrestling, weight rooms, gyms, have monitoring with cameras as well. \"The good news is injuries, conflicts, and students entering the room unsupervised will be able to be accessed moving forward,\" the email read. The district said the camera in the dance room \"was installed in 2024 for campus safety and security purposes related to the room's exterior access,\" and previously told families that there are no cameras in any areas designated as changing rooms, bathrooms, and locker rooms district-wide. An email from the dance program director on the same day, time-stamped before the assistant principal's email, said she acknowledged the cameras went live, but she was \"under the impression that the purpose of the camera(s) was for security, focusing on the two sets of double doors leading out to the parking lot.\" She continued to ask for an explanation of \"why they are not focused solely on the outside entrance and exit doors,\" as the entire classroom is visible. \"I am concerned with the privacy of our students as the dance room is frequently used as an extended locker-room and students are using that space for custom fittings, changing before and after games and practice,\" the email read. Do you have a concern in your community or a news tip? We want to hear from you! Connect with us: share@abc15.com Facebook | Instagram | YouTube The dance director then questioned if the cameras can be moved or centered \"to address the problem without classroom instruction being filmed every day.\" Then, on July 21, 2026, the dance director sent an email to school administrators again saying that the locker room isn't finished being renovated, so they would move the dancers to another spot to change. \"I would request the camera is off during the day until we move into the new locker room,\" the dance director said. According to police records, Cruz is accused of viewing the cameras around July 16, 2026, and allegedly downloaded several videos onto the school computer around July 22, 2026. In another email dated August 28, 2026, about a week after Cruz's arrest, the dance director sent an email to both school administrators and district officials about the cameras, saying the district \"needs to acknowledge its failure to adequately protect students.\" The dance director said the lack of clarity from leadership led people to assume that dance and/or the dance teacher were involved, which they refuted. \"I have always been aware of the cameras, and I specifically raised documented concerns when they were installed because I recognize the potential risk they posed in a room used by students for dance, costume fittings and other after-school activities,\" the email read. The director said she had been attacked on social media and that the situation has \"been incredibly difficult.\" Her email continued to say she felt the district focused on placing blame and conducting an internal investigation \"rather than acknowledging the larger issue: these security cameras the district installed and monitored should have been focused on the security concern, the doors in question, and not the entire dance classroom.\" The dance program director also questioned why there was never a report that students were changing in the room or any instructions to stop it, as the cameras were potentially monitored for two years. These emails were released through a public records request, and ABC15 is still waiting for more records to be released. The emails that were released Friday only provided these four emails and did not include any responses that may have occurred, if they did. The district said the cameras have been covered and that they have launched an internal investigation into whether procedures were followed.",
+      "url": "https://www.abc15.com/homepage-showcase/corona-del-sol-dance-director-repeatedly-expressed-concerns-over-cameras-emails-show",
+      "source": "abc15 Arizona",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/70b90ae/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc4%2F38%2F75b2a8574685a2ec369b9f4c59dc%2Fdb-4898.jpg",
+      "publishedAt": "2026-10-17T00:03:42Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -117,17 +117,61 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"The weird Reno invention that suddenly makes perfect sense\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-16T16:03:39.134Z"
+      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Corona del Sol dance director repeatedly expressed concerns over cameras, emails show\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-17T14:56:06.128Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Gymnastics coach sentenced to 90 years for secretly recording girls",
-      "description": "The case has revived questions about whether USA Gymnastics and SafeSport adequately responded to warnings about Gardner. PURVIS, Mississippi - A former youth gymnastics coach was sentenced to 90 years in federal prison Wednesday for secretly recording young female gymnasts undressing and using the bathroom at a Mississippi gym. Gymnastics coach sentenced to prison for secretly recording girls Big picture view: U.S. District Judge Kristi Johnson handed down the maximum possible sentence to Sean Gardner, 39, ordering him to serve 30 years for each of three federal child pornography production charges to which he pleaded guilty. The sentence is likely to keep Gardner behind bars for the rest of his life. Sean Gardner admits to placing hidden camera in bathroom The backstory: Gardner admitted to placing a hidden camera in a bathroom at a gymnastics studio in Purvis, Mississippi, between December 2017 and April 2018. Investigators said he recorded videos showing close-up images of at least 10 minors who were naked or undressing. Authorities recovered the videos from his computers years later while investigating allegations of sexual abuse involving gymnasts in Iowa. Before his arrest, Gardner was a prominent figure in youth gymnastics. He coached at Chow's Gymnastics and Dance Institute in West Des Moines, Iowa, founded by renowned coach Liang \"Chow\" Qiao, who has helped develop Olympic champions. Gardner worked with several promising young gymnasts and directed an annual winter competition in Iowa that attracted hundreds of athletes. SafeSport temporarily suspended Gardner in 2022 after a gymnast at Chow's alleged sexual abuse. Chow's fired him that year. Gardner was arrested last summer by the FBI. Case brings back renewed scrutiny around athlete safety Why you should care: His arrest has renewed scrutiny of USA Gymnastics and other organizations responsible for protecting young athletes from abuse by coaches in positions of authority. An Associated Press investigation found that concerns about Gardner dated back to 2017, yet the U.S. Center for SafeSport did not sanction him until 2022. The investigation also raised questions about why a proposed lifetime coaching ban was not finalized before his arrest in 2025. The parallels to the Larry Nassar scandal center on institutional accountability. The Nassar scandal exposed serious failures by organizations and officials who received warnings about the former USA Gymnastics team doctor's abuse. Nassar sexually abused more than 100 victims under the guise of medical treatment, and a 2021 Justice Department inspector general report criticized the FBI's handling of allegations against him. Nassar is serving decades in prison for convictions in state and federal courts.",
-      "url": "https://www.fox7austin.com/news/gymnastics-coach-sentenced-90-years-secretly-recording-girls",
-      "source": "FOX 7 Austin",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1280/720/gymnastics-getty-scaled.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-15T00:00:00Z",
+      "title": "Australia Investigates Hidden Camera Found in Women's Bathroom on Navy Ship",
+      "description": "The Australian Defence Force is reporting that a person of interest has been identified and is cooperating with its investigation into a hidden camera that was found aboard one of its vessels. The camera located in a women's bathroom on HMAS Leeuwin has turned into a national embarrassment and is being treated as an act of sexual violence. The video recording device was discovered aboard HMAS Leeuwin on October 11 while the ship was at its berth in Cairns, Queensland. The device had been planted in the shower facilities of female sailors. The Australian Defence Force, which described the discovery of the device as the \"most despicable betrayal of trust,\" said the ship's program had been altered to enable a rapid and rigorous investigation by the Joint Military Police Unit working with civilian authorities. The Warrant Officer of the Navy was also in Cairns to support the ship's company. Commissioned in 2000, the 71-meter HMAS Leeuwin is the lead ship of the Leeuwin-class of hydrographic survey vessels. The ship, which can accommodate 46 crew, is mainly deployed for hydrographic duties, although at times she's called to carry out border protection operations. Together with her sister ship Melville, Leeuwin is equipped with multi-beam echo sounders and the ability to support a helicopter, and carry three nine-meter survey motor boats, all for survey operations. The surveys are designed to make the passage of vessels safer and help to protect Australia's ocean environment. Vice Admiral Matt Buckley, the Chief of the Navy, said, \"The location of the recording device is the most despicable betrayal of trust and is fundamentally misaligned with the Navy's values.\" \"You have my assurance and commitment that we will tackle this act of sexual violence with all of our energy. Any perpetrator will be held to account. Further, you should all know that eradicating sexual violence in our workplace is fundamental to the fighting efficiency of our Navy,\" he said. The Navy reports it is also undertaking an audit of all its bathrooms across the fleet. Political leaders are calling out the incident and demanding to know how long the camera was in place and how many sailors might have been involved in the incident.",
+      "url": "https://maritime-executive.com/article/australia-investigates-hidden-camera-found-in-women-s-bathroom-on-navy-ship",
+      "source": "Maritime Executive",
+      "image": "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/HMAS-Leeuwin.jpg",
+      "publishedAt": "2026-10-16T22:51:11Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Australia Investigates Hidden Camera Found in Women's Bathroom on Navy Ship\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-17T14:56:06.128Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Trauma Centre Sues CIMAS for US$1m Over \"Hidden Camera\" Claim | Best African News Online",
+      "description": "HARARE - A row over an alleged hidden surveillance camera has reached the High Court. The operators of the Trauma Centre in Borrowdale, Harare, are suing CIMAS Health Group for US$1 000 000 in damages for defamation. Vislink Investments (Private) Limited, which trades as the Trauma Centre, filed the summons on October 6, 2026, under case number HCH5019/26. The hospital wants the full amount with interest from the date of summons, plus the costs of the suit. The case stems from a September 14 bulletin titled \"Member Update on Access to Services at Trauma Centre, Borrowdale.\" CIMAS sent it to its members at home and abroad, as well as to medical practitioners. According to the summons, the bulletin presented as established fact that the hospital had installed a surveillance camera in leased premises without prior knowledge or consent. Vislink is represented by Venturas & Samukange. Its lawyers argue that presenting unverified suspicions as fact seriously damaged the hospital's professional reputation. Patient confidentiality, privacy and trust are central to healthcare, they say. Because the bulletin was circulated in print and online, the hospital argues, the damage spread further. The dispute first went to court when CIMAS filed an urgent chamber application for an interdict against Vislink and Drochia Investments, citing concerns over patient confidentiality. In an opposing affidavit, Trauma Centre representative Rutendo Mhembere called the application an abuse of court process. She disputed that the matter was urgent and pointed out that the lease agreement contains an arbitration clause. Mhembere said the respondents had not installed any new cameras. The only device in the doctors' wing, she said, is an \"ALHUA\" security camera above the main entrance, which has been working for a decade. On September 16, a court-ordered inspection took place. According to the hospital's lawyers, CIMAS officials could not identify, point out or produce the alleged hidden camera. CIMAS later withdrew its application. Vislink's lawyers argue that dropping the case is not a retraction and does not correct the public record. On September 21, the hospital gave CIMAS 48 hours to publish a formal retraction on its electronic platforms and in two daily newspapers. CIMAS did not comply by the deadline, and the hospital went ahead with the lawsuit. The Sheriff of the High Court served the summons at CIMAS's headquarters at Borrowdale Office Park. CIMAS now has ten days to enter an appearance to defend. If it does not, the court may grant default judgment.",
+      "url": "https://spikedmedia.co.zw/trauma-centre-sues-cimas-for-us1m-over-hidden-camera-claim/",
+      "source": "Best African News Online",
+      "image": "https://spikedmedia.co.zw/wp-content/uploads/5651515A-7D38-4F32-ADE4-235696A64875.jpeg",
+      "publishedAt": "2026-10-17T00:32:21Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Trauma Centre Sues CIMAS for US$1m Over \"Hidden Camera\" Claim | Best African News Online\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-17T14:56:06.128Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Filipino national transferred to ICE after voyeurism conviction in Virginia",
+      "description": "Joshua Hombrebueno, a 21-year-old Philippine national residing unlawfully in the United States, was taken into the custody of U.S. Immigration and Customs Enforcement (ICE) for removal proceedings following his conviction for hidden-camera voyeurism in a Virginia restaurant restroom. On 20 September 2025, a customer and her young daughter used the employee restroom at Gustave Boulangerie & Brasserie in Del Ray, Alexandria, where Hombrebueno worked. The customer noticed a phone hidden in a slightly open vanity and positioned against toilet paper. Upon checking the device, she identified Hombrebueno as the person who had placed it there, leading to his arrest by local police. Hombrebueno initially faced three felony charges and nine misdemeanors. Under a plea agreement, a felony charge involving a child was withheld, and he pleaded guilty to two misdemeanor counts of videotaping undressed individuals without their consent. In August 2026, he was sentenced to five years in jail, suspended, five years of probation, and mandatory sex offender registration. After serving time at the William G. Truesdale Alexandria Adult Detention Center, the Alexandria Sheriff's Office transferred Hombrebueno to ICE custody on 12 October. DHS Secretary Markwayne Mullin said the action was part of a broader Department of Homeland Security operation targeting individuals convicted of sexual offenses, domestic violence and other offenses considered public safety risks.",
+      "url": "https://tribune.net.ph/2026/10/17/filipino-national-transferred-to-ice-after-voyeurism-conviction-in-virginia",
+      "source": "Daily Tribune",
+      "image": "https://images.assettype.com/tribune/2026-10-17/dt4kxw19/Alexandria-Police-DepartmentAP.png?w=1200&auto=format&q=70&mode=crop&ar=16%3A9&crop=entropy",
+      "publishedAt": "2026-10-17T07:05:40Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -139,8 +183,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Gymnastics coach sentenced to 90 years for secretly recording girls\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-16T16:03:39.134Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Filipino national transferred to ICE after voyeurism conviction in Virginia\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-17T14:56:06.128Z"
     }
   ]
 }
