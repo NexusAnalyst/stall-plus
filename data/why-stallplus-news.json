@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T14:56:06.128Z",
+  "updatedAt": "2026-10-18T15:21:47.050Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 1,
-    "pending": 5,
-    "rejected": 59,
+    "published": 2,
+    "pending": 0,
+    "rejected": 67,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 0
+      "count": 1
     },
     {
       "id": "workplace-privacy",
@@ -75,116 +75,29 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Former WSU student sentenced to three months in jail for voyeurism felony\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    }
-  ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "ICE detains Filipino convicted in restroom hidden-camera case",
-      "description": "The 21-year-old was placed in ICE custody following his sentencing in Alexandria, Virginia ALEXANDRIA, Va. - A 21-year-old Filipino national convicted of secretly recording people inside a Virginia restaurant restroom has been transferred to US Immigration and Customs Enforcement (ICE) custody, according to federal officials and local authorities. Joshua Hombrebueno, of Oxon Hill, Maryland, was turned over to ICE on Oct. 12, following his detention at the William G. Truesdale Alexandria Adult Detention Center, the Alexandria Sheriff's Office has confirmed. The Department of Homeland Security (DHS) identified Hombrebueno in an Oct. 14 news release highlighting recent immigration arrests involving foreign nationals convicted of crimes. DHS said Hombrebueno, a Philippine national, had been convicted of \"two counts of videotaping undressed people without their consent\" in Alexandria, Virginia. The agency described him as being in the United States illegally. Hidden camera in restaurant restroom The case originated from a Sept. 20, 2025, incident at Gustave Boulangerie & Brasserie, a restaurant in Alexandria's Del Ray neighborhood where Hombrebueno worked. According to media reports, a woman and her young daughter were allowed to use the restaurant's employee restroom because the public restroom was occupied. While inside, the woman noticed that the doors of a bathroom vanity were slightly open. She discovered a cellphone concealed inside the cabinet, propped against a roll of toilet paper. The woman told investigators she reviewed the footage and saw the person who had placed the device inside the restroom. Hombrebueno was arrested in connection with the recordings, according to ALXnow. He was sentenced in August 2026 after being found guilty of secretly filming people without their consent. He received a five-year suspended jail sentence, five years of probation and a requirement to register as a sex offender.",
-      "url": "https://usa.inquirer.net/212607/ice-detains-filipino-convicted-in-restroom-hidden-camera-case",
-      "source": "INQUIRER.net USA",
-      "image": "https://usa.inquirer.net/files/2026/10/Joshua-Gabriel-Hombrebueno-featured-scaled.png",
-      "publishedAt": "2026-10-17T00:49:21Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"ICE detains Filipino convicted in restroom hidden-camera case\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-17T14:56:06.128Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Corona del Sol dance director repeatedly expressed concerns over cameras, emails show",
-      "description": "TEMPE -- Former Tempe Union High School District surveillance officer Antony Cruz is currently facing voyeurism charges, and Tempe Police recently submitted 100 additional charges. The Maricopa County Attorney's Office told ABC15 the additional charges are still being reviewed as of Friday afternoon. Court documents say Cruz accessed and downloaded footage from cameras that were placed in the dance room. The school district previously told families that the dance room was never an approved changing area for students while the regular locker room was undergoing renovations. According to the emails released, an assistant principal emailed staff on September 24, 2024, about the cameras being installed in both the east and west dance rooms and that the cameras ran 24/7. \"I know sometimes the girls change in the rooms, but we will need to adjust and use locker rooms or use the dance closets as changing \"stalls\" if need be,\" the email read. The assistant principal continued to say that all PE areas, including wrestling, weight rooms, gyms, have monitoring with cameras as well. \"The good news is injuries, conflicts, and students entering the room unsupervised will be able to be accessed moving forward,\" the email read. The district said the camera in the dance room \"was installed in 2024 for campus safety and security purposes related to the room's exterior access,\" and previously told families that there are no cameras in any areas designated as changing rooms, bathrooms, and locker rooms district-wide. An email from the dance program director on the same day, time-stamped before the assistant principal's email, said she acknowledged the cameras went live, but she was \"under the impression that the purpose of the camera(s) was for security, focusing on the two sets of double doors leading out to the parking lot.\" She continued to ask for an explanation of \"why they are not focused solely on the outside entrance and exit doors,\" as the entire classroom is visible. \"I am concerned with the privacy of our students as the dance room is frequently used as an extended locker-room and students are using that space for custom fittings, changing before and after games and practice,\" the email read. Do you have a concern in your community or a news tip? We want to hear from you! Connect with us: share@abc15.com Facebook | Instagram | YouTube The dance director then questioned if the cameras can be moved or centered \"to address the problem without classroom instruction being filmed every day.\" Then, on July 21, 2026, the dance director sent an email to school administrators again saying that the locker room isn't finished being renovated, so they would move the dancers to another spot to change. \"I would request the camera is off during the day until we move into the new locker room,\" the dance director said. According to police records, Cruz is accused of viewing the cameras around July 16, 2026, and allegedly downloaded several videos onto the school computer around July 22, 2026. In another email dated August 28, 2026, about a week after Cruz's arrest, the dance director sent an email to both school administrators and district officials about the cameras, saying the district \"needs to acknowledge its failure to adequately protect students.\" The dance director said the lack of clarity from leadership led people to assume that dance and/or the dance teacher were involved, which they refuted. \"I have always been aware of the cameras, and I specifically raised documented concerns when they were installed because I recognize the potential risk they posed in a room used by students for dance, costume fittings and other after-school activities,\" the email read. The director said she had been attacked on social media and that the situation has \"been incredibly difficult.\" Her email continued to say she felt the district focused on placing blame and conducting an internal investigation \"rather than acknowledging the larger issue: these security cameras the district installed and monitored should have been focused on the security concern, the doors in question, and not the entire dance classroom.\" The dance program director also questioned why there was never a report that students were changing in the room or any instructions to stop it, as the cameras were potentially monitored for two years. These emails were released through a public records request, and ABC15 is still waiting for more records to be released. The emails that were released Friday only provided these four emails and did not include any responses that may have occurred, if they did. The district said the cameras have been covered and that they have launched an internal investigation into whether procedures were followed.",
-      "url": "https://www.abc15.com/homepage-showcase/corona-del-sol-dance-director-repeatedly-expressed-concerns-over-cameras-emails-show",
-      "source": "abc15 Arizona",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/70b90ae/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc4%2F38%2F75b2a8574685a2ec369b9f4c59dc%2Fdb-4898.jpg",
-      "publishedAt": "2026-10-17T00:03:42Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (4 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (4 terms), category terms (1), published within 7 days). \"Corona del Sol dance director repeatedly expressed concerns over cameras, emails show\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-17T14:56:06.128Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Australia Investigates Hidden Camera Found in Women's Bathroom on Navy Ship",
-      "description": "The Australian Defence Force is reporting that a person of interest has been identified and is cooperating with its investigation into a hidden camera that was found aboard one of its vessels. The camera located in a women's bathroom on HMAS Leeuwin has turned into a national embarrassment and is being treated as an act of sexual violence. The video recording device was discovered aboard HMAS Leeuwin on October 11 while the ship was at its berth in Cairns, Queensland. The device had been planted in the shower facilities of female sailors. The Australian Defence Force, which described the discovery of the device as the \"most despicable betrayal of trust,\" said the ship's program had been altered to enable a rapid and rigorous investigation by the Joint Military Police Unit working with civilian authorities. The Warrant Officer of the Navy was also in Cairns to support the ship's company. Commissioned in 2000, the 71-meter HMAS Leeuwin is the lead ship of the Leeuwin-class of hydrographic survey vessels. The ship, which can accommodate 46 crew, is mainly deployed for hydrographic duties, although at times she's called to carry out border protection operations. Together with her sister ship Melville, Leeuwin is equipped with multi-beam echo sounders and the ability to support a helicopter, and carry three nine-meter survey motor boats, all for survey operations. The surveys are designed to make the passage of vessels safer and help to protect Australia's ocean environment. Vice Admiral Matt Buckley, the Chief of the Navy, said, \"The location of the recording device is the most despicable betrayal of trust and is fundamentally misaligned with the Navy's values.\" \"You have my assurance and commitment that we will tackle this act of sexual violence with all of our energy. Any perpetrator will be held to account. Further, you should all know that eradicating sexual violence in our workplace is fundamental to the fighting efficiency of our Navy,\" he said. The Navy reports it is also undertaking an audit of all its bathrooms across the fleet. Political leaders are calling out the incident and demanding to know how long the camera was in place and how many sailors might have been involved in the incident.",
-      "url": "https://maritime-executive.com/article/australia-investigates-hidden-camera-found-in-women-s-bathroom-on-navy-ship",
-      "source": "Maritime Executive",
-      "image": "https://maritime-executive.com/media/images/article/Photos/Navy_Govt_CoastGuard/HMAS-Leeuwin.jpg",
-      "publishedAt": "2026-10-16T22:51:11Z",
+      "title": "Your Phone Can Help You Spot Hidden Cameras - Here's How - BGR",
+      "description": "Travelers should be aware of a potential privacy threat that may ruin their vacation: the presence of hidden cameras in some hotel rooms and rental properties. While well-known hotel chains may be less likely to contain spy cameras, short-term rentals booked via travel websites such as Airbnb may feature such unwanted surprises. Camera technology has advanced significantly in the last few decades, allowing manufacturers to create spy cameras that can be placed in common household items like USB chargers and smoke detectors. These devices are harder to spot with the naked eye, but there is one tool you can use to help identify some of them: your iPhone or Android smartphone. The first thing to do when you arrive is to make a visual inspection of the lodging. Check for any suspicious items with small holes in specific rooms, such as bathrooms, bedrooms, and walk-in closets. You can use your phone's magnifier apps or the camera zoom to inspect these openings before you move to the next step. Take pictures if necessary so you can zoom in further. After that, turn off all the lights in the room and draw the curtains. Turn on your phone's flashlight, and hold it close to all the suspicious device openings you've identified previously. If a spy camera is present, the lens may reflect light. Move the phone slowly over these openings, and notice any reflections. Next, redo the checks, but with the camera app open and the flashlight turned off. Some smartphones can detect infrared light that some hidden cameras may emit. You'll want to find bright points that appear on your phone's display but aren't visible to your naked eye. Every camera needs power to work. If you find a convenient USB charger in your room and notice it has an opening, you can unplug and report it immediately. Unfortunately, if the hidden cam is placed on the ceiling inside a smoke detector, it might not be possible to remove it. After using the phone's hardware to check for signs of concealed cameras, you can use some software. Many hidden cameras need a connection to the internet, so the footage can be uploaded to the cloud. (Be aware that some cameras may record to local storage to avoid a wireless connection.) You can install an application like Fing to scan your rental's Wi-Fi network for devices that shouldn't be there. Smart TVs, wireless printers, and speakers may show up as connected to Wi-Fi. Similarly, all your connected devices, including phones, tablets, and computers, may appear on the network. But you should pay attention to any sightings of unusual devices, including gadgets with the word \"camera\" in the name. The Fing app supports iPhone, Android, macOS, and Windows, and offers up to three free manual scans a day. A hidden camera detector feature is available on the premium version. Some hidden cameras may create their own Wi-Fi hotspots, so you can use your phone's Settings app to see if any Wi-Fi hotspots appear near suspicious household items. Some cameras may use Bluetooth to connect to other devices. An app like nRF Connect for Mobile can help you identify nearby Bluetooth signals, but it may not detect spy cams. Airbnb has banned all indoor cameras since March 2024, including security cameras in common areas. That's a policy to look for when booking a vacation stay with other competing services, but rental owners may still hide cameras inside their properties. Several surveys and investigations have shown in recent years that spy camera use is on the rise. An IPX1031 study from 2025 revealed that 47% of respondents discovered a camera in an Airbnb vacation rental, compared with 25% in a similar 2023 survey. The 2025 study also found that 55% of Airbnb hosts still used indoor cameras despite the ban. In 2024, a CNN investigation found that Airbnb received over 35,000 support tickets concerning surveillance equipment over about a decade. While these figures may include visible security cameras placed outdoors rather than concealed cameras disguised as common products, these findings suggest the risk of finding a spy camera is real. It's not just Airbnb-type rentals either. The BBC detailed a spying operation involving hotel rooms in China. Footage from hidden cameras was available on social media. Using your smartphone to inspect a hotel room or short-term rental should become a habit. The handset will also help you document the process, as you can take photos and videos of your findings. However, you should keep in mind that the smartphone isn't a perfect tool. It may fail to produce reflections or detect infrared light. The software can also fail. An apartment building will show a large number of Wi-Fi networks, but spy cameras may be connected to a separate network to avoid detection.",
+      "url": "https://www.bgr.com/2285437/how-phone-can-detect-hidden-cameras/",
+      "source": "BGR",
+      "image": "https://www.bgr.com/img/gallery/your-phone-can-help-you-spot-hidden-cameras-heres-how/l-intro-1791906780.jpg",
+      "publishedAt": "2026-10-18T12:47:00Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
+      "confidence": 80,
+      "confidenceLabel": "high",
       "matchReasons": [
         "restroom context (2 terms)",
-        "category terms (1)",
+        "category terms (2)",
         "primary topic in title",
-        "published within 7 days"
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Australia Investigates Hidden Camera Found in Women's Bathroom on Navy Ship\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-17T14:56:06.128Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Trauma Centre Sues CIMAS for US$1m Over \"Hidden Camera\" Claim | Best African News Online",
-      "description": "HARARE - A row over an alleged hidden surveillance camera has reached the High Court. The operators of the Trauma Centre in Borrowdale, Harare, are suing CIMAS Health Group for US$1 000 000 in damages for defamation. Vislink Investments (Private) Limited, which trades as the Trauma Centre, filed the summons on October 6, 2026, under case number HCH5019/26. The hospital wants the full amount with interest from the date of summons, plus the costs of the suit. The case stems from a September 14 bulletin titled \"Member Update on Access to Services at Trauma Centre, Borrowdale.\" CIMAS sent it to its members at home and abroad, as well as to medical practitioners. According to the summons, the bulletin presented as established fact that the hospital had installed a surveillance camera in leased premises without prior knowledge or consent. Vislink is represented by Venturas & Samukange. Its lawyers argue that presenting unverified suspicions as fact seriously damaged the hospital's professional reputation. Patient confidentiality, privacy and trust are central to healthcare, they say. Because the bulletin was circulated in print and online, the hospital argues, the damage spread further. The dispute first went to court when CIMAS filed an urgent chamber application for an interdict against Vislink and Drochia Investments, citing concerns over patient confidentiality. In an opposing affidavit, Trauma Centre representative Rutendo Mhembere called the application an abuse of court process. She disputed that the matter was urgent and pointed out that the lease agreement contains an arbitration clause. Mhembere said the respondents had not installed any new cameras. The only device in the doctors' wing, she said, is an \"ALHUA\" security camera above the main entrance, which has been working for a decade. On September 16, a court-ordered inspection took place. According to the hospital's lawyers, CIMAS officials could not identify, point out or produce the alleged hidden camera. CIMAS later withdrew its application. Vislink's lawyers argue that dropping the case is not a retraction and does not correct the public record. On September 21, the hospital gave CIMAS 48 hours to publish a formal retraction on its electronic platforms and in two daily newspapers. CIMAS did not comply by the deadline, and the hospital went ahead with the lawsuit. The Sheriff of the High Court served the summons at CIMAS's headquarters at Borrowdale Office Park. CIMAS now has ten days to enter an appearance to defend. If it does not, the court may grant default judgment.",
-      "url": "https://spikedmedia.co.zw/trauma-centre-sues-cimas-for-us1m-over-hidden-camera-claim/",
-      "source": "Best African News Online",
-      "image": "https://spikedmedia.co.zw/wp-content/uploads/5651515A-7D38-4F32-ADE4-235696A64875.jpeg",
-      "publishedAt": "2026-10-17T00:32:21Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Trauma Centre Sues CIMAS for US$1m Over \"Hidden Camera\" Claim | Best African News Online\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-17T14:56:06.128Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Filipino national transferred to ICE after voyeurism conviction in Virginia",
-      "description": "Joshua Hombrebueno, a 21-year-old Philippine national residing unlawfully in the United States, was taken into the custody of U.S. Immigration and Customs Enforcement (ICE) for removal proceedings following his conviction for hidden-camera voyeurism in a Virginia restaurant restroom. On 20 September 2025, a customer and her young daughter used the employee restroom at Gustave Boulangerie & Brasserie in Del Ray, Alexandria, where Hombrebueno worked. The customer noticed a phone hidden in a slightly open vanity and positioned against toilet paper. Upon checking the device, she identified Hombrebueno as the person who had placed it there, leading to his arrest by local police. Hombrebueno initially faced three felony charges and nine misdemeanors. Under a plea agreement, a felony charge involving a child was withheld, and he pleaded guilty to two misdemeanor counts of videotaping undressed individuals without their consent. In August 2026, he was sentenced to five years in jail, suspended, five years of probation, and mandatory sex offender registration. After serving time at the William G. Truesdale Alexandria Adult Detention Center, the Alexandria Sheriff's Office transferred Hombrebueno to ICE custody on 12 October. DHS Secretary Markwayne Mullin said the action was part of a broader Department of Homeland Security operation targeting individuals convicted of sexual offenses, domestic violence and other offenses considered public safety risks.",
-      "url": "https://tribune.net.ph/2026/10/17/filipino-national-transferred-to-ice-after-voyeurism-conviction-in-virginia",
-      "source": "Daily Tribune",
-      "image": "https://images.assettype.com/tribune/2026-10-17/dt4kxw19/Alexandria-Police-DepartmentAP.png?w=1200&auto=format&q=70&mode=crop&ar=16%3A9&crop=entropy",
-      "publishedAt": "2026-10-17T07:05:40Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Filipino national transferred to ICE after voyeurism conviction in Virginia\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-17T14:56:06.128Z"
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Your Phone Can Help You Spot Hidden Cameras - Here's How - BGR\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
-  ]
+  ],
+  "pendingReview": []
 }
