@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:21:47.050Z",
+  "updatedAt": "2026-10-19T18:19:14.850Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 0,
-    "rejected": 67,
-    "carriedForward": 1
+    "pending": 1,
+    "rejected": 64,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -99,5 +99,29 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Your Phone Can Help You Spot Hidden Cameras - Here's How - BGR\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsData.io",
+      "title": "Your Phone Can Help You Spot Hidden Cameras - Here's How",
+      "description": "Spy camera use in vacation rentals through Airbnb and other similar services is on the rise, so it's prudent to check your rental before settling in.",
+      "url": "https://www.bgr.com/2285437/how-phone-can-detect-hidden-cameras/",
+      "source": "Bgr",
+      "image": "https://www.bgr.com/img/gallery/your-phone-can-help-you-spot-hidden-cameras-heres-how/l-intro-1791906780.jpg",
+      "publishedAt": "2026-10-18 12:47:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms",
+        "failed category gate"
+      ],
+      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Your Phone Can Help You Spot Hidden Cameras - Here's How\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-19T18:19:14.850Z"
+    }
+  ]
 }
