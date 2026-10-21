@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:20:08.907Z",
+  "updatedAt": "2026-10-21T16:35:40.891Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 1,
-    "rejected": 65,
+    "pending": 2,
+    "rejected": 67,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -101,25 +101,48 @@
   ],
   "pendingReview": [
     {
-      "provider": "NewsAPI.ai",
-      "title": "Tempe Union employee raised alarm about cameras in 2024, emails show",
-      "description": "* Emails show Tempe Union High School District employees knew girls changed in a dance room after cameras were installed in 2024. * A former surveillance officer was later arrested and accused of downloading footage of students undressing in that room. * A dance program employee expressed privacy concerns about the cameras to the principal in 2024. Tempe Union High School District employees were made aware of girls changing in a dance room at Corona del Sol High School after cameras were first installed in 2024, emails released by the district show. The emails were sent nearly two years before a former employee was accused of downloading footage of students undressing from the cameras. In August, former district surveillance officer Antony Cruz was arrested after he was accused of downloading footage of girls undressing in the dance room and watching the clips from his home. At the time, the room was used as a makeshift locker room while the girls' locker room was undergoing renovations. Since then, some parents have said dancers have changed in the dance rooms for years. They expressed concerns that the cameras have been present since 2024 and that other people with access to the cameras could have viewed footage of the girls changing. While the district has stayed mum about whether girls used the dance room as a changing room prior to the 2026-27 school year, newly released emails show a dance program employee sounded the alarm two years ago. In September 2024, former assistant principal Monique Brandau sent an email to several employees informing them that cameras were installed in the two dance rooms. \"These cameras run 24/7 and I know sometimes the girls change in the rooms, but we will need to adjust and use locker rooms or use the dance closets as changing 'stalls' if need be,\" Brandau said in the email. Several hours before that email was sent, dance program director Elizabeth Pease sent an email to Principal Nathan Kleve saying she was under the impression that the cameras were for security purposes and would be focusing on the double doors outside of the classroom leading to the parking lot. \"I am concerned with the privacy of our students as the dance room is frequently used as an extended lockerroom,\" Pease said in the email. Pease also sent an email in July 2026 to Kleve and physical education director Tanner Vesely asking for the cameras to be turned off during the locker room renovations. Pease again emailed Kleve and other district staff six days after Cruz was arrested on Aug. 22, saying that a lack of clarity from the district led to the assumption that the dance program and staff were involved in the situation. \"Since those cameras went up, Dance has never used the Dance room as a changing area,\" Pease said in the email. Pease further said the \"incidents\" that led to Cruz's arrest did not occur during the school day when she was responsible for students. Pease said she had been attacked on social media and that \"false assumptions\" were being made both about her and her program. \"If these cameras were being properly monitored for two years, why was there never a report that students were changing in the room where they shouldn't or an instruction to stop it?\" Pease said in the email. Pease could not immediately be reached for comment. In August, district spokesperson Megan Sterling released a statement saying the district approved the school administration's request for \"separate, camera-free locations for students to use for changing\" during locker room renovations. The dance room was not one of those locations, Sterling said in the statement. It's unclear who instructed the girls to use the dance room as a changing room and the district's internal investigation is ongoing. Cruz is facing charges for 98 counts of voyeurism and two counts of bestiality, which police have said were not related to the incidents that occurred on the school campus. He is scheduled to appear in court on Nov. 19.",
-      "url": "https://eu.azcentral.com/story/news/education/schools/2026/10/20/corona-del-sol-employee-warned-officials-about-cameras-in-2024/92338507007/",
-      "source": "AZ Central",
-      "image": "https://www.gannett-cdn.com/-mm-/eefc86037b2c59bda9132d19984b0f2066a1c98b/c=0-62-2397-1416/local/-/media/2018/05/04/Phoenix/Phoenix/636610688825333013-Lacrosse-Div2-Finaks-02.jpg?auto=webp&format=pjpg&width=1200",
-      "publishedAt": "2026-10-20T12:02:37Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 65,
+      "provider": "NewsData.io",
+      "title": "Emails show Tempe high school warned about locker room camera before arrest",
+      "description": "Emails show a Corona del Sol teacher raised concerns twice about a camera in a temporary locker room before a former security guard was arrested on more than 100 counts.",
+      "url": "https://www.kold.com/2026/10/21/emails-show-tempe-high-school-warned-about-locker-room-camera-before-arrest/",
+      "source": "Https://www.kold.com",
+      "image": "https://gray-kold-prod.gtv-cdn.com/resizer/v2/J5XBPQNV7NCVHATSMBMIPU5RLA.png?auth=87a66f7867e0a9ba6d458b46499a1e4dd0509ca68b5ab5164c3f35295c4cccb4&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-21 04:34:46",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (3 terms)",
+        "restroom context (1 terms)",
         "category terms (1)",
+        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Tempe Union employee raised alarm about cameras in 2024, emails show\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-20T16:20:08.907Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Emails show Tempe high school warned about locker room camera before arrest\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-21T16:35:40.891Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Emails show Tempe high school warned about locker room camera before arrest",
+      "description": "Emails show a Corona del Sol teacher raised concerns twice about a camera in a temporary locker room before a former security guard was arrested on more than 100 counts.",
+      "url": "https://www.azfamily.com/2026/10/21/emails-show-tempe-high-school-warned-about-locker-room-camera-before-arrest/",
+      "source": "Arizona's Family",
+      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/J5XBPQNV7NCVHATSMBMIPU5RLA.png?auth=87a66f7867e0a9ba6d458b46499a1e4dd0509ca68b5ab5164c3f35295c4cccb4&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-21 04:34:46",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Emails show Tempe high school warned about locker room camera before arrest\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-21T16:35:40.891Z"
     }
   ]
 }
