@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:35:40.891Z",
+  "updatedAt": "2026-10-22T16:36:55.887Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 2,
-    "rejected": 67,
+    "published": 3,
+    "pending": 0,
+    "rejected": 68,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 2
     },
     {
       "id": "workplace-privacy",
@@ -97,52 +97,28 @@
         "multiple category terms"
       ],
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Your Phone Can Help You Spot Hidden Cameras - Here's How - BGR\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
-    }
-  ],
-  "pendingReview": [
-    {
-      "provider": "NewsData.io",
-      "title": "Emails show Tempe high school warned about locker room camera before arrest",
-      "description": "Emails show a Corona del Sol teacher raised concerns twice about a camera in a temporary locker room before a former security guard was arrested on more than 100 counts.",
-      "url": "https://www.kold.com/2026/10/21/emails-show-tempe-high-school-warned-about-locker-room-camera-before-arrest/",
-      "source": "Https://www.kold.com",
-      "image": "https://gray-kold-prod.gtv-cdn.com/resizer/v2/J5XBPQNV7NCVHATSMBMIPU5RLA.png?auth=87a66f7867e0a9ba6d458b46499a1e4dd0509ca68b5ab5164c3f35295c4cccb4&width=1200&height=600&smart=true",
-      "publishedAt": "2026-10-21 04:34:46",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Emails show Tempe high school warned about locker room camera before arrest\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-21T16:35:40.891Z"
     },
     {
-      "provider": "NewsData.io",
-      "title": "Emails show Tempe high school warned about locker room camera before arrest",
-      "description": "Emails show a Corona del Sol teacher raised concerns twice about a camera in a temporary locker room before a former security guard was arrested on more than 100 counts.",
-      "url": "https://www.azfamily.com/2026/10/21/emails-show-tempe-high-school-warned-about-locker-room-camera-before-arrest/",
-      "source": "Arizona's Family",
-      "image": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/J5XBPQNV7NCVHATSMBMIPU5RLA.png?auth=87a66f7867e0a9ba6d458b46499a1e4dd0509ca68b5ab5164c3f35295c4cccb4&width=1200&height=600&smart=true",
-      "publishedAt": "2026-10-21 04:34:46",
+      "provider": "NewsAPI.ai",
+      "title": "Former Williams student gets 30 days in hidden camera case",
+      "description": "Maxwell Hall, a former wrestler at Williams College, pleaded guilty Wednesday to placing a hidden camera. PITTSFIELD -- A former Williams College student was sentenced to 30 days in jail for putting a hidden camera in a gym bathroom after pleading guilty Wednesday. Maxwell Hall, 23, was charged with 16 counts of photographing an unsuspecting nude person after a camera hidden in what appeared to be a phone charger was discovered in January 2025 in a single-stall bathroom in Lassell Fitness Center. Assistant District Attorney Rachael Eramo said the device was planted approximately six hours before being discovered. During that time, 16 people, all appearing to be college-aged, were recorded in varying states of undress. Out of the 16 recorded, 11 were identified by police with the help of the college. During a hearing last month in Berkshire Superior Court to discuss a plea deal, Eramo asked for 18 months of incarceration. She said in court that she understands that Hall does not have a criminal record, but the victims in the case feel violated, with several of the female victims still being afraid of using public bathrooms. \"What Mr. Hall chose to do was so egregious,\" Eramo said in September. \"He came out the gate pretty hot.\" During that hearing, defense lawyer Dan Kelly argued for two years of probation. He cited Hall's lack of criminal record and argued that Hall's obsessive-compulsive disorder affects his impulse control. During Wednesday's hearing, one of the victims spoke to the court over Zoom. She said she is disappointed with the 30-day sentence, saying that his actions were a \"deliberate mass sexual assault.\" \"Our dignity was robbed from us,\" she said. Eramo also read out a victim impact statement from a woman who was a senior at the college at the time. The former student wrote that she still cannot use public restrooms without fear. She characterized Hall's behavior as \"actions of a sick individual.\" Judge James Manitsas, who appeared over Zoom, sentenced Hall to one year in the Berkshire House of Correction, with all but 30 days suspended. Hall will serve 30 days in jail, followed by one year of probation. The crime to which he pleaded guilty does not carry a requirement to register as a sex offender, but he will be evaluated as a sex offender as a condition of probation. He will continue psychological treatment and is ordered to not contact the named victims. Additionally, he is not allowed to possess surveillance equipment other than security devices for a residence.",
+      "url": "https://www.berkshireeagle.com/crime/former-williams-college-student-sentenced-to-30-days-in-jail-for-placing-camera-in-bathroom/5040747",
+      "source": "The Berkshire Eagle",
+      "image": "https://image.berkshireeagle.com/2552287.jpg?imageId=2552287&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-10-22T13:48:35Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
+      "confidence": 75,
+      "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (5 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Emails show Tempe high school warned about locker room camera before arrest\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-21T16:35:40.891Z"
+      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Former Williams student gets 30 days in hidden camera case\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
-  ]
+  ],
+  "pendingReview": []
 }
