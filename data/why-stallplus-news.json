@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:13:08.412Z",
+  "updatedAt": "2026-10-27T17:27:21.187Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 4,
-    "rejected": 64,
+    "pending": 0,
+    "rejected": 70,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -76,92 +76,5 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Former Williams student gets 30 days in hidden camera case\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Singapore national serviceman who allegedly trespassed into female toilet jumps from third-storey ledge, recovering in hospital",
-      "description": "SINGAPORE, Oct 26 -- A full-time national serviceman (NSF) with the Singapore Police Force allegedly trespassed into a female toilet at the Police Training Command, where he is a staff member, before jumping from a third-storey ledge while being engaged by police officers. The 23-year-old was later arrested for criminal trespass and voyeurism. The police told AsiaOne they were alerted to the incident about 5.40am on October 19. Preliminary investigations found that the NSF had trespassed into a women's restroom. He was detained and police assistance was sought. While police officers were engaging him, the man suddenly ran away. He then made his way to the third storey of a nearby block and jumped off a ledge. The NSF was conscious when taken to the hospital, said the police, adding that he has been receiving treatment for his injuries. He was subsequently arrested. Police investigations are ongoing. -- AsiaOne",
-      "url": "https://www.malaymail.com/news/singapore/2026/10/26/singapore-national-serviceman-who-allegedly-trespassed-into-female-toilet-jumps-from-third-storey-ledge-recovering-in-hospital/240644",
-      "source": "Malay Mail",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/26/370549.jpg",
-      "publishedAt": "2026-10-26T06:14:09Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Singapore national serviceman who allegedly trespassed into female toilet jumps from third-storey ledge, recovering in hospital\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-26T18:13:08.412Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Police NSF who allegedly trespassed into female toilet jumps from 3rd-storey ledge",
-      "description": "A full-time national serviceman (NSF) with the Singapore Police Force allegedly trespassed into a female toilet at the Police Training Command, where he is a staff member, before jumping from a third-storey ledge while being engaged by police officers. The 23-year-old was later arrested for criminal trespass and voyeurism. The police told AsiaOne they were alerted to the incident about 5.40am on Oct 19. Preliminary investigations found that the NSF had trespassed into a women's restroom. He was detained and police assistance was sought. While police officers were engaging him, the man suddenly ran away. He then made his way to the third storey of a nearby block and jumped off a ledge. The NSF was conscious when taken to the hospital, said the police, adding that he has been receiving treatment for his injuries. He was subsequently arrested. Police investigations are ongoing.",
-      "url": "https://www.asiaone.com/singapore/police-nsf-female-toilet-trespass-jumps-3rd-storey-ledge-singapore",
-      "source": "AsiaOne",
-      "image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/20260219_HomeTeamAcademy%20HTA.jpg?itok=rFITpoE6",
-      "publishedAt": "2026-10-26T03:40:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Police NSF who allegedly trespassed into female toilet jumps from 3rd-storey ledge\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-26T18:13:08.412Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Claude Code Prompt Can Turn Your Laptop Into A Hidden Camera Detector For Hotel Rooms And Airbnbs, Sweeping Wi-Fi, Bluetooth Trackers, And Your Phone Before You Unpack",
-      "description": "We've always had that looming fear that there's a hidden camera in a hotel room or Airbnb, recording your every move, and given that these are well concealed, it's difficult to determine their exact spot, unless you're willing to search every nook and cranny of the room. Fortunately, a single Claude Code prompt means you won't have to make that effort, because AI can help sweep a hotel room or Airbnb for hidden cameras, Bluetooth trackers, and phone spyware before you've unpacked. One user claims a friend used it to find a camera hidden behind a bathroom mirror in 90 seconds. Discovering the hidden camera using Claude Code takes five stages to complete The prompt shared by X user @Damir_Akaza casts Claude Code as a \"check-in security assistant\" and sets strict read-only rules. This virtual shield allows discovery and passive listening only, with no logins, default passwords, exploits, or touching devices that aren't the user's. The agent is also told to explain each command in one line before running it. The first step is a Wi-Fi scan, where the agent runs \"arp-scan\" and \"nmap\" to list every device on the guest network from MAC addresses. It then checks ports commonly used by cameras and flags vendors such as Hikvision and other brands, along with RTSP streaming ports. Also, Claude Code is explicitly told never to open a single stream. Next comes a Bluetooth scan. Using a short Python script built on the bleak library, Claude Code listens for 30 seconds every two minutes over a 10-minute window, logging manufacturer data, service UUIDs, and signal strength. The script then searches for Apple Find My, Tile, and Samsung SmartTag signatures, matching on payload and signal rather than MAC address since Bluetooth trackers rotate theirs. The post also says the third stage audits your phone using Amnesty International's open-source Mobile Verification Toolkit. If the hotel isolates guest devices on its network, the fourth stage has the agent walk you through a flashlight check of mirrors, vents, and angles facing the bed. The final stage builds a ranked table of suspicious findings, with suggested next steps ranging from asking for another room to calling the police. Of course, Claude Code has its limitations. For instance, a network scan can only find cameras on the network you're connected to, so if a device is recording to an SD card, running its own hotspot, or sitting behind guest isolation, it obviously won't show up. In short, a clean result doesn't necessarily mean that the hotel room or an Airbnb is safe to use, so be mindful of this. Claude Code certainly has its uses, but even on this occasion, we should treat it as a safeguard instead of a guarantee. Fortunately, the AI is capable of locating spyware and backdoors on Macs, not to mention hidden cryptominers, so it's more than useful in a multitude of cases.",
-      "url": "https://wccftech.com/claude-code-prompt-hidden-camera-detector-hotel-airbnb-wifi-bluetooth/",
-      "source": "Wccftech",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Claude-Code-discovered-hidden-camera-in-AirBnb-2.jpg",
-      "publishedAt": "2026-10-26T17:16:22Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Claude Code Prompt Can Turn Your Laptop Into A Hidden Camera Detector For Hotel Rooms And Airbnbs, Sweeping Wi-Fi, Bluetooth Trackers, And Your Phone Before You Unpack\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-26T18:13:08.412Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Carer jailed after family uncovers theft using hidden camera",
-      "description": "A carer who stole thousands worth of jewellery from an elderly and vulnerable client has been jailed for three years after the victim's family caught her red-handed using a hidden camera. Lara Jones, 50 from Kent in the UK, was sentenced on Friday, October 9, after being found guilty of three counts of burglary following a trial. The court heard that on November 26, 2025, Jones entered her client's bedroom at his home during her very first shift. Following her departure, the victim's family spotted an earring at the top of the stairs. When they went to return it to a bedroom jewellery box, they discovered multiple pieces of valuable jewellery were missing. Unsure but suspicious of the new carer, the family took quick-thinking action and installed hidden cameras inside the bedroom. When Jones returned for her second shift, the covert cameras captured her opening drawers, searching wardrobes, and pocketing jewellery worth a total of £8,000. On Wednesday, December 3, the victim's daughter alerted Surrey Police while her vulnerable father was alone in the house with Jones. Officers immediately attended the scene and arrested Jones on suspicion of burglary. A search revealed the stolen jewellery in her possession. Despite pleading not guilty, Jones was convicted by a jury. Along with a three-year prison sentence, she was ordered to pay a victim surcharge of £228. In a statement following the sentencing, the victim's family expressed the deep emotional toll of the crime: 'Having someone violate your trust in your own home, at a time when you are at your most vulnerable, is devastating. The emotional impact has been profound, and it has made an already difficult situation even harder. 'We are immensely grateful to Surrey Police and the Crown Prosecution Service for their dedication, compassion and determination in securing this conviction. Their support throughout has meant a great deal to our family, and we are relieved that justice has been served.'",
-      "url": "https://extra.ie/2026/10/26/news/carer-jailed-hidden-camera",
-      "source": "Extra.ie",
-      "image": "https://extra.ie/wp-content/uploads/2026/10/Hidden-camera.jpg",
-      "publishedAt": "2026-10-26T16:23:01Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Carer jailed after family uncovers theft using hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-26T18:13:08.412Z"
-    }
-  ]
+  "pendingReview": []
 }
