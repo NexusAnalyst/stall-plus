@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:27:21.187Z",
+  "updatedAt": "2026-10-28T17:52:44.645Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 0,
-    "rejected": 70,
+    "pending": 2,
+    "rejected": 67,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -76,5 +76,48 @@
       "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Former Williams student gets 30 days in hidden camera case\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Williams College student jailed for hidden restroom camera",
+      "description": "A student at a Western Massachusetts college was sentenced to prison after pleading guilty to setting up a hidden camera in a public restroom. Maxwell Hall pleaded guilty on Oct. 22 and was sentenced to one year, with 30 days to be served and the rest suspended, according to the Berkshire District Attorney's Office. On Jan. 16, 2025, the Williams College campus police reported to Williamstown police that they believed someone had placed a surveillance camera in a public restroom at the school's gymnasium, prosecutors said. The camera was disguised as a phone charger. Investigators identified Hall, a student at Williams College, as the person who placed the camera. Hall was arrested and charged with 16 counts of surveilling a person in the state of nudity or semi-nudity.",
+      "url": "https://www.masslive.com/westernmass/2026/10/man-pleads-guilty-to-placing-hidden-cameras-in-campus-restroom-at-western-mass-college.html",
+      "source": "MassLive",
+      "image": "https://www.masslive.com/resizer/v2/FYDIZFPHOBFIPMPXXJTZNNUMXY.png?auth=0938a5b56c7a9f45cf1ae4996e5daddfb6798518873eaec2d86da47ec6e07bf9&width=1280&smart=true",
+      "publishedAt": "2026-10-28T13:10:10Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Williams College student jailed for hidden restroom camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-10-28T17:52:44.645Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Three-time Jeopardy! winner is arrested on child porn charges",
+      "description": "A three-time Jeopardy! winner has been arrested on child porn charges, just three months after pleading guilty to two felony charges of being a Peeping Tom. Philip Joseph 'Joey' DeSena, 44, was arrested last Friday, October 23, in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, per court records obtained by The Daily Mail. An arrest warrant indicated the charges stemmed from DeSena's alleged possession of sexually explicit pictures and videos that showed children. Court records state the alleged offenses occurred on November 19, 2025. DeSena, a software developer who hails from Raleigh, was arrested during his 60-month probation after pleading guilty to two counts of felony secret peeping in July 2026. DeSena was booked in the Wake County Jail and held without bail following his first court appearance. His bond was denied by a judge on Monday and he remains incarcerated at the Wake County Jail, records show. Three-time Jeopardy! winner Philip Joseph 'Joey' DeSena has been arrested on child porn charges, just three months after pleading guilty to two felony charges of being a Peeping Tom DeSena, 44, was arrested last Friday, October 23, in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, per records obtained by The Daily Mail - seen in his most recent mugshot He is next due to appear in court on November 11. The Daily Mail has contacted representatives for the Raleigh Police Department for comment. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla. EXCLUSIVE Alexander brothers assaulted in prison: Devastating front-row account of day that sealed their fate DeSena 'unlawfully, willfully, and feloniously' put in 'any device that can be used to create a photographic image, namely a camera placed in the bathroom, with the intent to capture the image of another without their consent,' according to the indictment. He was charged with two counts of felony secret peeping and pleaded guilty, where he received a 60-month probationary sentence. The harrowing incident unfolded on October 10, 2025, when the victim told police she found two black USB wall chargers with hidden cameras inside the rental home while visiting for a wedding, prosecutors alleged at the hearing, according to WAVY. DeSena turned himself in on December 1, 2025, and was released two days later after he posted $5,000 bail. The Peeping Tom made his inaugural Jeopardy! appearance on November 11, 2024, won that night and came back and won again on November 12. Although he lost on November 13, cutting off his winning streak, he returned in January 2025 for the Champions Wildcard tournament and made the semifinals. In March 2025, a previous Jeopardy! winner, New York City math teacher Winston Nguyen, was sentenced to seven years in prison for catfishing his students into sending him lewd images. Nguyen, who competed in and won Jeopardy! in 2014, was ultimately arrested in June 2024 and charged with a litany of offences. Nguyen was given a second chance in 2020 to teach at the prestigious Saint Ann's private school in Brooklyn after he was convicted on fraud charges. But just four years later, the math teacher was arrested again - sending the prep school spiraling into a PR crisis. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla In 2022, students at Saint Ann's and other private schools within Brooklyn began reporting that they were receiving solicitations via Snapchat for inappropriate photos and videos. Some of these students were as young as 13. The District Attorney's office alerted Saint Ann's in February 2024 that an investigation was taking place into the anonymous account. Parents were not notified.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16246353/Jeopardy-winner-Joey-DeSena-arrested-child-porn-charges.html",
+      "source": "Mail Online",
+      "image": "https://i.dailymail.com/1s/2026/10/28/16/112149985-0-image-a-5_1793204916105.jpg",
+      "publishedAt": "2026-10-28T16:58:30Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Three-time Jeopardy! winner is arrested on child porn charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-28T17:52:44.645Z"
+    }
+  ]
 }
