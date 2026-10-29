@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:52:44.645Z",
+  "updatedAt": "2026-10-29T18:00:17.608Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,15 +12,15 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 2,
-    "rejected": 67,
-    "carriedForward": 1
+    "pending": 1,
+    "rejected": 68,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 0
+      "count": 1
     },
     {
       "id": "dorm-privacy",
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -56,56 +56,35 @@
   "articles": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Former Williams student gets 30 days in hidden camera case",
-      "description": "Maxwell Hall, a former wrestler at Williams College, pleaded guilty Wednesday to placing a hidden camera. PITTSFIELD -- A former Williams College student was sentenced to 30 days in jail for putting a hidden camera in a gym bathroom after pleading guilty Wednesday. Maxwell Hall, 23, was charged with 16 counts of photographing an unsuspecting nude person after a camera hidden in what appeared to be a phone charger was discovered in January 2025 in a single-stall bathroom in Lassell Fitness Center. Assistant District Attorney Rachael Eramo said the device was planted approximately six hours before being discovered. During that time, 16 people, all appearing to be college-aged, were recorded in varying states of undress. Out of the 16 recorded, 11 were identified by police with the help of the college. During a hearing last month in Berkshire Superior Court to discuss a plea deal, Eramo asked for 18 months of incarceration. She said in court that she understands that Hall does not have a criminal record, but the victims in the case feel violated, with several of the female victims still being afraid of using public bathrooms. \"What Mr. Hall chose to do was so egregious,\" Eramo said in September. \"He came out the gate pretty hot.\" During that hearing, defense lawyer Dan Kelly argued for two years of probation. He cited Hall's lack of criminal record and argued that Hall's obsessive-compulsive disorder affects his impulse control. During Wednesday's hearing, one of the victims spoke to the court over Zoom. She said she is disappointed with the 30-day sentence, saying that his actions were a \"deliberate mass sexual assault.\" \"Our dignity was robbed from us,\" she said. Eramo also read out a victim impact statement from a woman who was a senior at the college at the time. The former student wrote that she still cannot use public restrooms without fear. She characterized Hall's behavior as \"actions of a sick individual.\" Judge James Manitsas, who appeared over Zoom, sentenced Hall to one year in the Berkshire House of Correction, with all but 30 days suspended. Hall will serve 30 days in jail, followed by one year of probation. The crime to which he pleaded guilty does not carry a requirement to register as a sex offender, but he will be evaluated as a sex offender as a condition of probation. He will continue psychological treatment and is ordered to not contact the named victims. Additionally, he is not allowed to possess surveillance equipment other than security devices for a residence.",
-      "url": "https://www.berkshireeagle.com/crime/former-williams-college-student-sentenced-to-30-days-in-jail-for-placing-camera-in-bathroom/5040747",
-      "source": "The Berkshire Eagle",
-      "image": "https://image.berkshireeagle.com/2552287.jpg?imageId=2552287&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-10-22T13:48:35Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
+      "title": "Students share safety concerns after voyeurism arrest",
+      "description": "Students are questioning their safety as they reside in university dorm halls following Purdue University Police Department's arrest of Jaden Van Vactor, a sophomore in interdisciplinary studies, in relation to a bathroom voyeurism case. Many of Purdue's residence halls, such as Shreve and Owen, are separated by sex with each sex either occupying a side of the building or alternating floors. However, with these buildings being older, a few of their amenities, such as bathrooms, have missed out on some recent renovations. Some shower stalls are equipped with a door, lock and shower curtain. Others are secured only by a shower curtain with no further separation from the remainder of the bathroom space. This design choice is partly why many students are concerned for their safety within their residence halls, leading them to believe this is a factor that made it possible for Van Vactor to commit his crime. \"I visited (my twin sister's) college, and her bathrooms have keys and scanners to go into the bathroom. I feel like having that would be safer than being able to walk into the bathroom,\" said Ava Klotz, a freshman in special education. Some students noted that their resident assistants failed to notify them of the incident, only finding out about it through other means. \"I feel like it wasn't publicly announced enough (about) what actually happened here,\" said Claire Michalak, a freshman in radiological sciences. \"Not a lot of people knew about it. I didn't even know about it until one of my friends from a different dorm told me.\" Another student wished for more transparency from Purdue about the situation and asked for a public address due to the severity of the incident. Cassandra Montoya, a freshman in law and society, believes that Purdue's public image is being valued more than student safety. \"They should have held a meeting,\" Montoya said. \"I think that they were trying to uphold the reputation of the school and the safety we have here. It's something that obviously has to be addressed because something major happened.\" Students called for Purdue to take action rather than only state that they are. They suggested using forms that allow students to report dorm activity that may pose a threat. Another suggestion was using surveys to measure students' perceptions of their safety within dorm halls. \"They could have safety checks where different halls or floors could have QR codes where they could vote, like 'Do you feel safe in this building? Have you seen anything going on that you'd like to report?'\" said Andrew Griffin, a freshman in first-year engineering. \"Then there can be an actual checkpoint to see if things are changing, instead of this happening and then nothing happening as a result of the fact.\" In response to students' safety concerns, the university assured that the perpetrator is no longer a student and encouraged other students to take part in maintaining dorm hall safety. \"There is no responsibility Purdue University takes more seriously than the safety of our students, faculty, staff and guests,\" said Trevor Peters, university spokesperson and director of issues and reputation management. \"We understand the concerns raised by this incident and appreciate those students who assisted in the police investigation. We encourage anyone who sees or experiences suspicious or concerning behavior to report it immediately so the university can respond quickly and appropriately.\" When asked about updates regarding Van Vactor's case, PUPD Capt. Song Kang stated that the department could not provide any comment or opinion on the matter since the case is still active. * By MATTHEW OSTROWSKI Staff Reporter",
+      "url": "https://www.purdueexponent.org/campus/general_news/students-share-safety-concerns-after-voyeurism-arrest/article_eb5a8951-89d8-4ae8-be55-078bf1eb0276.html",
+      "source": "Purdue Exponent",
+      "image": "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/e/b5/eb5a8951-89d8-4ae8-be55-078bf1eb0276/6ae22cd46f331.preview.jpg?crop=1762%2C925%2C0%2C125&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
       "confidence": 75,
       "confidenceLabel": "high",
       "matchReasons": [
-        "restroom context (5 terms)",
+        "restroom context (3 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"Former Williams student gets 30 days in hidden camera case\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Students share safety concerns after voyeurism arrest\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Williams College student jailed for hidden restroom camera",
-      "description": "A student at a Western Massachusetts college was sentenced to prison after pleading guilty to setting up a hidden camera in a public restroom. Maxwell Hall pleaded guilty on Oct. 22 and was sentenced to one year, with 30 days to be served and the rest suspended, according to the Berkshire District Attorney's Office. On Jan. 16, 2025, the Williams College campus police reported to Williamstown police that they believed someone had placed a surveillance camera in a public restroom at the school's gymnasium, prosecutors said. The camera was disguised as a phone charger. Investigators identified Hall, a student at Williams College, as the person who placed the camera. Hall was arrested and charged with 16 counts of surveilling a person in the state of nudity or semi-nudity.",
-      "url": "https://www.masslive.com/westernmass/2026/10/man-pleads-guilty-to-placing-hidden-cameras-in-campus-restroom-at-western-mass-college.html",
-      "source": "MassLive",
-      "image": "https://www.masslive.com/resizer/v2/FYDIZFPHOBFIPMPXXJTZNNUMXY.png?auth=0938a5b56c7a9f45cf1ae4996e5daddfb6798518873eaec2d86da47ec6e07bf9&width=1280&smart=true",
-      "publishedAt": "2026-10-28T13:10:10Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Williams College student jailed for hidden restroom camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-10-28T17:52:44.645Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Three-time Jeopardy! winner is arrested on child porn charges",
-      "description": "A three-time Jeopardy! winner has been arrested on child porn charges, just three months after pleading guilty to two felony charges of being a Peeping Tom. Philip Joseph 'Joey' DeSena, 44, was arrested last Friday, October 23, in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, per court records obtained by The Daily Mail. An arrest warrant indicated the charges stemmed from DeSena's alleged possession of sexually explicit pictures and videos that showed children. Court records state the alleged offenses occurred on November 19, 2025. DeSena, a software developer who hails from Raleigh, was arrested during his 60-month probation after pleading guilty to two counts of felony secret peeping in July 2026. DeSena was booked in the Wake County Jail and held without bail following his first court appearance. His bond was denied by a judge on Monday and he remains incarcerated at the Wake County Jail, records show. Three-time Jeopardy! winner Philip Joseph 'Joey' DeSena has been arrested on child porn charges, just three months after pleading guilty to two felony charges of being a Peeping Tom DeSena, 44, was arrested last Friday, October 23, in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, per records obtained by The Daily Mail - seen in his most recent mugshot He is next due to appear in court on November 11. The Daily Mail has contacted representatives for the Raleigh Police Department for comment. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla. EXCLUSIVE Alexander brothers assaulted in prison: Devastating front-row account of day that sealed their fate DeSena 'unlawfully, willfully, and feloniously' put in 'any device that can be used to create a photographic image, namely a camera placed in the bathroom, with the intent to capture the image of another without their consent,' according to the indictment. He was charged with two counts of felony secret peeping and pleaded guilty, where he received a 60-month probationary sentence. The harrowing incident unfolded on October 10, 2025, when the victim told police she found two black USB wall chargers with hidden cameras inside the rental home while visiting for a wedding, prosecutors alleged at the hearing, according to WAVY. DeSena turned himself in on December 1, 2025, and was released two days later after he posted $5,000 bail. The Peeping Tom made his inaugural Jeopardy! appearance on November 11, 2024, won that night and came back and won again on November 12. Although he lost on November 13, cutting off his winning streak, he returned in January 2025 for the Champions Wildcard tournament and made the semifinals. In March 2025, a previous Jeopardy! winner, New York City math teacher Winston Nguyen, was sentenced to seven years in prison for catfishing his students into sending him lewd images. Nguyen, who competed in and won Jeopardy! in 2014, was ultimately arrested in June 2024 and charged with a litany of offences. Nguyen was given a second chance in 2020 to teach at the prestigious Saint Ann's private school in Brooklyn after he was convicted on fraud charges. But just four years later, the math teacher was arrested again - sending the prep school spiraling into a PR crisis. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla In 2022, students at Saint Ann's and other private schools within Brooklyn began reporting that they were receiving solicitations via Snapchat for inappropriate photos and videos. Some of these students were as young as 13. The District Attorney's office alerted Saint Ann's in February 2024 that an investigation was taking place into the anonymous account. Parents were not notified.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16246353/Jeopardy-winner-Joey-DeSena-arrested-child-porn-charges.html",
+      "title": "TAP HERE FOR FULLY STORY",
+      "description": "A three-time Jeopardy! winner was arrested on child porn charges last Friday, just three months after pleading guilty to being a Peeping Tom. Philip Joseph 'Joey' DeSena, 44, was taken into custody in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, according to court records obtained by The Daily Mail. An arrest warrant alleged the possession of sexually explicit pictures and videos that showed children by DeSena, a software developer from Raleigh, after he admitted to installing cameras in a female bathroom to spy on strangers. SCROLL DOWN FOR VIDEO Crimes: Three-time Jeopardy! winner Philip Joseph 'Joey' DeSena has been arrested on child porn charges Court records state the alleged offenses occurred on November 19, 2025. DeSena was arrested during his 60-month probation after pleading guilty to two counts of felony secret peeping in July 2026. He was booked in the Wake County Jail and held without bail following his first court appearance. His bond was denied by a judge on Monday, and he remains incarcerated. Arrested: DeSena, 44, was charged with 10 counts of second-degree sexual exploitation of a minor after two felony charges of being a Peeping Tom He is next due to appear in court on November 11. The Daily Mail has contacted representatives for the Raleigh Police Department for comment. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla. Three-time Jeopardy! winner admits to installing cameras in apartment to watch people strip DeSena 'unlawfully, willfully, and feloniously' put in 'any device that can be used to create a photographic image, namely a camera placed in the bathroom, with the intent to capture the image of another without their consent,' according to the indictment. He was charged with two counts of felony secret peeping and pleaded guilty, and he received a 60-month probationary sentence. On October 10, 2025, when the victim told police she found two black USB wall chargers with hidden cameras inside the rental home while visiting for a wedding, prosecutors alleged at the hearing, according to WAVY. DeSena turned himself in on December 1, 2025, and was released two days later after he posted $5,000 bail. The Peeping Tom made his inaugural Jeopardy! appearance on November 11, 2024, won that night and came back and won again on November 12. Although he lost on November 13, cutting off his winning streak, he returned in January 2025 for the Champions Wildcard tournament and made the semifinals. Felony: DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla",
+      "url": "https://www.dailymail.com/snapchat/article-16248757/Three-time-Jeopardy-winner-arrested-having-child-porn-Peeping-Tom-rap.html",
       "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/10/28/16/112149985-0-image-a-5_1793204916105.jpg",
-      "publishedAt": "2026-10-28T16:58:30Z",
+      "image": "https://i.dailymail.com/1s/2026/07/30/01/110334371-0-image-a-19_1785371123741.jpg",
+      "publishedAt": "2026-10-29T10:18:38Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -116,8 +95,8 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Three-time Jeopardy! winner is arrested on child porn charges\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-28T17:52:44.645Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"TAP HERE FOR FULLY STORY\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-29T18:00:17.608Z"
     }
   ]
 }
