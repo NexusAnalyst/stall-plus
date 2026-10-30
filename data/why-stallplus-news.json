@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T18:00:17.608Z",
+  "updatedAt": "2026-10-30T17:42:13.199Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 1,
-    "rejected": 68,
-    "carriedForward": 0
+    "pending": 3,
+    "rejected": 63,
+    "carriedForward": 1
   },
   "categoryCounts": [
     {
@@ -79,12 +79,12 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "TAP HERE FOR FULLY STORY",
-      "description": "A three-time Jeopardy! winner was arrested on child porn charges last Friday, just three months after pleading guilty to being a Peeping Tom. Philip Joseph 'Joey' DeSena, 44, was taken into custody in North Carolina and charged with 10 counts of second-degree sexual exploitation of a minor, according to court records obtained by The Daily Mail. An arrest warrant alleged the possession of sexually explicit pictures and videos that showed children by DeSena, a software developer from Raleigh, after he admitted to installing cameras in a female bathroom to spy on strangers. SCROLL DOWN FOR VIDEO Crimes: Three-time Jeopardy! winner Philip Joseph 'Joey' DeSena has been arrested on child porn charges Court records state the alleged offenses occurred on November 19, 2025. DeSena was arrested during his 60-month probation after pleading guilty to two counts of felony secret peeping in July 2026. He was booked in the Wake County Jail and held without bail following his first court appearance. His bond was denied by a judge on Monday, and he remains incarcerated. Arrested: DeSena, 44, was charged with 10 counts of second-degree sexual exploitation of a minor after two felony charges of being a Peeping Tom He is next due to appear in court on November 11. The Daily Mail has contacted representatives for the Raleigh Police Department for comment. In July, DeSena pleaded guilty to two felony charges of being a Peeping Tom. DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla. Three-time Jeopardy! winner admits to installing cameras in apartment to watch people strip DeSena 'unlawfully, willfully, and feloniously' put in 'any device that can be used to create a photographic image, namely a camera placed in the bathroom, with the intent to capture the image of another without their consent,' according to the indictment. He was charged with two counts of felony secret peeping and pleaded guilty, and he received a 60-month probationary sentence. On October 10, 2025, when the victim told police she found two black USB wall chargers with hidden cameras inside the rental home while visiting for a wedding, prosecutors alleged at the hearing, according to WAVY. DeSena turned himself in on December 1, 2025, and was released two days later after he posted $5,000 bail. The Peeping Tom made his inaugural Jeopardy! appearance on November 11, 2024, won that night and came back and won again on November 12. Although he lost on November 13, cutting off his winning streak, he returned in January 2025 for the Champions Wildcard tournament and made the semifinals. Felony: DeSena was arrested in December 2025 in Maple, North Carolina after he installed a camera in an unknowing victim's bathroom and bedroom at a rental property in Corolla",
-      "url": "https://www.dailymail.com/snapchat/article-16248757/Three-time-Jeopardy-winner-arrested-having-child-porn-Peeping-Tom-rap.html",
-      "source": "Mail Online",
-      "image": "https://i.dailymail.com/1s/2026/07/30/01/110334371-0-image-a-19_1785371123741.jpg",
-      "publishedAt": "2026-10-29T10:18:38Z",
+      "title": "Spy camera paedophile caught after girl spots device hidden in shower",
+      "description": "A paedophile who hid cameras to spy on young girls naked and filmed others through the window of a home has been jailed. Gaven Clarke, 41, groomed youngsters in order to secretly record a trove of videos and photos over a five-year period. Unwitting teenage girls were captured undressing for the shower in bathrooms and using the toilet at locations in Norwich and Dereham. His depraved covert activities were unmasked when one of the girls noticed a flashing light and discovered a camera phone hidden behind a shampoo bottle. Norwich Crown Court heard she had been left \"disgusted and extremely shocked\" when she scrolled through the phone's gallery to discover films and photos of herself in various states of undress. Richard Potts, prosecuting, said police had also discovered similar secret images involving other victims, as well as photos and video of girls that had been recorded from a high vantage point into a property. Clarke, of Brancaster Close in Drayton, pleaded guilty to nine sexual offences including voyeurism, attempting to observe another person doing a private act for sexual gratification, and taking indecent images of children. Gaven Clarke was jailed for 44 months after admitting nine sexual offences including voyeurism (Image: Norfolk Constabulary) He also asked for two further offences to be taken into consideration including the secret filming of an adult woman. Mr Potts said his grooming had involved a \"significant degree of planning\" and was aggravated by the ages and vulnerability of some of those he targeted and the sustained period of his offending between 2020 and 2025. Following his arrest in May 2025 police also discovered hundreds of images of child sexual abuse, some involving youngsters in distress and pain which a police expert described as \"some of the worst they had ever seen\". Recorder Simon Taylor jailed him for a total of three years and six months. He said: \"It's quite clear to me you have a sexual interest in children and that there is a progression from online images to known victims.\" His offences had left a \"serious and lasting impact on the young victims and their families and caused real psychological harm\", he added. Victims left disgusted and paranoid In a statement to the court one of the girls, who was aged between 10 and 15, said: \"I felt disgusted and was extremely shocked and physically shaking when I discovered the images.\" She said she had been in an \"internal battle\" whether to tell an adult before eventually confessing to a close friend. \"The thought of being near him makes me sick to my stomach,\" she added. The family whose home he covertly targeted only discovered children had been filmed when police approached them with images and footage. In a statement they said they had been left paranoid and fearful and now kept curtains and blinds closed most of the time. Gaven Clarke was placed on the sex offenders' register for life after being sentenced at Norwich Crown Court (Image: Newsquest) Clarke showed no emotion as he was sentenced. He was placed on the sex offenders' register for life and made subject of an indefinite restraining order and 10 years Sexual Harm Prevention Order (SHPO). Rob Pollington, mitigating, said: \"It is a web of despair that flows from Mr Clarke. He does understand the significance of his actions and is ashamed of what he has done. \"He is clearly sexually interested in children, but he is not fixated on that, rather the drive here comes from the titillation of doing wrong.\"",
+      "url": "https://www.eveningnews24.co.uk/news/26683523.norwich-paedophile-jailed-secretly-filming-young-girls/",
+      "source": "Norwich Evening News",
+      "image": "https://www.eveningnews24.co.uk/resources/images/21649629.jpg?type=og-image",
+      "publishedAt": "2026-10-30T10:20:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -95,8 +95,51 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"TAP HERE FOR FULLY STORY\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-29T18:00:17.608Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Spy camera paedophile caught after girl spots device hidden in shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-30T17:42:13.199Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Spy camera paedophile caught after girl spots device hidden in shower",
+      "description": "A paedophile who hid cameras to spy on young girls naked and filmed others through the window of a home has been jailed. Gaven Clarke, 41, groomed youngsters in order to secretly record a trove of videos and photos over a five-year period. Unwitting teenage girls were captured undressing for the shower in bathrooms and using the toilet at locations in Norwich and Dereham. His depraved covert activities were unmasked when one of the girls noticed a flashing light and discovered a camera phone hidden behind a shampoo bottle. Norwich Crown Court heard she had been left \"disgusted and extremely shocked\" when she scrolled through the phone's gallery to discover films and photos of herself in various states of undress. Richard Potts, prosecuting, said police had also discovered similar secret images involving other victims, as well as photos and video of girls that had been recorded from a high vantage point into a property. Clarke, of Brancaster Close in Drayton, pleaded guilty to nine sexual offences including voyeurism, attempting to observe another person doing a private act for sexual gratification, and taking indecent images of children. Gaven Clarke was jailed for 44 months after admitting nine sexual offences including voyeurism (Image: Norfolk Constabulary) He also asked for two further offences to be taken into consideration including the secret filming of an adult woman. Mr Potts said his grooming had involved a \"significant degree of planning\" and was aggravated by the ages and vulnerability of some of those he targeted and the sustained period of his offending between 2020 and 2025. Following his arrest in May 2025 police also discovered hundreds of images of child sexual abuse, some involving youngsters in distress and pain which a police expert described as \"some of the worst they had ever seen\". Recorder Simon Taylor jailed him for a total of three years and six months. He said: \"It's quite clear to me you have a sexual interest in children and that there is a progression from online images to known victims.\" His offences had left a \"serious and lasting impact on the young victims and their families and caused real psychological harm\", he added. Victims left disgusted and paranoid In a statement to the court one of the girls, who was aged between 10 and 15, said: \"I felt disgusted and was extremely shocked and physically shaking when I discovered the images.\" She said she had been in an \"internal battle\" whether to tell an adult before eventually confessing to a close friend. \"The thought of being near him makes me sick to my stomach,\" she added. The family whose home he covertly targeted only discovered children had been filmed when police approached them with images and footage. In a statement they said they had been left paranoid and fearful and now kept curtains and blinds closed most of the time. Gaven Clarke was placed on the sex offenders' register for life after being sentenced at Norwich Crown Court (Image: Newsquest) Clarke showed no emotion as he was sentenced. He was placed on the sex offenders' register for life and made subject of an indefinite restraining order and 10 years Sexual Harm Prevention Order (SHPO). Rob Pollington, mitigating, said: \"It is a web of despair that flows from Mr Clarke. He does understand the significance of his actions and is ashamed of what he has done. \"He is clearly sexually interested in children, but he is not fixated on that, rather the drive here comes from the titillation of doing wrong.\"",
+      "url": "https://www.edp24.co.uk/news/26683523.norwich-paedophile-jailed-secretly-filming-young-girls/",
+      "source": "Eastern Daily Press",
+      "image": "https://www.edp24.co.uk/resources/images/21649629.jpg?type=og-image",
+      "publishedAt": "2026-10-30T10:20:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Spy camera paedophile caught after girl spots device hidden in shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-30T17:42:13.199Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Man accused of voyeurism in Weston remains jailed",
+      "description": "A man remains behind bars Thursday after being accused of trying to record an 11-year-old girl through her bathroom window in Weston. NBC6’s Kim Wynne…",
+      "url": "https://www.nbcmiami.com/video/nbc-6-news/man-accused-of-voyeurism-in-weston-remains-jailed/3880507/",
+      "source": "Nbc 6 South Florida",
+      "image": "https://media.nbcmiami.com/2026/10/52293288218-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-10-29 22:15:16",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of voyeurism in Weston remains jailed\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-10-30T17:42:13.199Z"
     }
   ]
 }
