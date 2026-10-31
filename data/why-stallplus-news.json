@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T17:42:13.199Z",
+  "updatedAt": "2026-10-31T16:48:13.715Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 3,
-    "rejected": 63,
+    "pending": 0,
+    "rejected": 68,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -76,70 +76,5 @@
       "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Students share safety concerns after voyeurism arrest\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Spy camera paedophile caught after girl spots device hidden in shower",
-      "description": "A paedophile who hid cameras to spy on young girls naked and filmed others through the window of a home has been jailed. Gaven Clarke, 41, groomed youngsters in order to secretly record a trove of videos and photos over a five-year period. Unwitting teenage girls were captured undressing for the shower in bathrooms and using the toilet at locations in Norwich and Dereham. His depraved covert activities were unmasked when one of the girls noticed a flashing light and discovered a camera phone hidden behind a shampoo bottle. Norwich Crown Court heard she had been left \"disgusted and extremely shocked\" when she scrolled through the phone's gallery to discover films and photos of herself in various states of undress. Richard Potts, prosecuting, said police had also discovered similar secret images involving other victims, as well as photos and video of girls that had been recorded from a high vantage point into a property. Clarke, of Brancaster Close in Drayton, pleaded guilty to nine sexual offences including voyeurism, attempting to observe another person doing a private act for sexual gratification, and taking indecent images of children. Gaven Clarke was jailed for 44 months after admitting nine sexual offences including voyeurism (Image: Norfolk Constabulary) He also asked for two further offences to be taken into consideration including the secret filming of an adult woman. Mr Potts said his grooming had involved a \"significant degree of planning\" and was aggravated by the ages and vulnerability of some of those he targeted and the sustained period of his offending between 2020 and 2025. Following his arrest in May 2025 police also discovered hundreds of images of child sexual abuse, some involving youngsters in distress and pain which a police expert described as \"some of the worst they had ever seen\". Recorder Simon Taylor jailed him for a total of three years and six months. He said: \"It's quite clear to me you have a sexual interest in children and that there is a progression from online images to known victims.\" His offences had left a \"serious and lasting impact on the young victims and their families and caused real psychological harm\", he added. Victims left disgusted and paranoid In a statement to the court one of the girls, who was aged between 10 and 15, said: \"I felt disgusted and was extremely shocked and physically shaking when I discovered the images.\" She said she had been in an \"internal battle\" whether to tell an adult before eventually confessing to a close friend. \"The thought of being near him makes me sick to my stomach,\" she added. The family whose home he covertly targeted only discovered children had been filmed when police approached them with images and footage. In a statement they said they had been left paranoid and fearful and now kept curtains and blinds closed most of the time. Gaven Clarke was placed on the sex offenders' register for life after being sentenced at Norwich Crown Court (Image: Newsquest) Clarke showed no emotion as he was sentenced. He was placed on the sex offenders' register for life and made subject of an indefinite restraining order and 10 years Sexual Harm Prevention Order (SHPO). Rob Pollington, mitigating, said: \"It is a web of despair that flows from Mr Clarke. He does understand the significance of his actions and is ashamed of what he has done. \"He is clearly sexually interested in children, but he is not fixated on that, rather the drive here comes from the titillation of doing wrong.\"",
-      "url": "https://www.eveningnews24.co.uk/news/26683523.norwich-paedophile-jailed-secretly-filming-young-girls/",
-      "source": "Norwich Evening News",
-      "image": "https://www.eveningnews24.co.uk/resources/images/21649629.jpg?type=og-image",
-      "publishedAt": "2026-10-30T10:20:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Spy camera paedophile caught after girl spots device hidden in shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-30T17:42:13.199Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Spy camera paedophile caught after girl spots device hidden in shower",
-      "description": "A paedophile who hid cameras to spy on young girls naked and filmed others through the window of a home has been jailed. Gaven Clarke, 41, groomed youngsters in order to secretly record a trove of videos and photos over a five-year period. Unwitting teenage girls were captured undressing for the shower in bathrooms and using the toilet at locations in Norwich and Dereham. His depraved covert activities were unmasked when one of the girls noticed a flashing light and discovered a camera phone hidden behind a shampoo bottle. Norwich Crown Court heard she had been left \"disgusted and extremely shocked\" when she scrolled through the phone's gallery to discover films and photos of herself in various states of undress. Richard Potts, prosecuting, said police had also discovered similar secret images involving other victims, as well as photos and video of girls that had been recorded from a high vantage point into a property. Clarke, of Brancaster Close in Drayton, pleaded guilty to nine sexual offences including voyeurism, attempting to observe another person doing a private act for sexual gratification, and taking indecent images of children. Gaven Clarke was jailed for 44 months after admitting nine sexual offences including voyeurism (Image: Norfolk Constabulary) He also asked for two further offences to be taken into consideration including the secret filming of an adult woman. Mr Potts said his grooming had involved a \"significant degree of planning\" and was aggravated by the ages and vulnerability of some of those he targeted and the sustained period of his offending between 2020 and 2025. Following his arrest in May 2025 police also discovered hundreds of images of child sexual abuse, some involving youngsters in distress and pain which a police expert described as \"some of the worst they had ever seen\". Recorder Simon Taylor jailed him for a total of three years and six months. He said: \"It's quite clear to me you have a sexual interest in children and that there is a progression from online images to known victims.\" His offences had left a \"serious and lasting impact on the young victims and their families and caused real psychological harm\", he added. Victims left disgusted and paranoid In a statement to the court one of the girls, who was aged between 10 and 15, said: \"I felt disgusted and was extremely shocked and physically shaking when I discovered the images.\" She said she had been in an \"internal battle\" whether to tell an adult before eventually confessing to a close friend. \"The thought of being near him makes me sick to my stomach,\" she added. The family whose home he covertly targeted only discovered children had been filmed when police approached them with images and footage. In a statement they said they had been left paranoid and fearful and now kept curtains and blinds closed most of the time. Gaven Clarke was placed on the sex offenders' register for life after being sentenced at Norwich Crown Court (Image: Newsquest) Clarke showed no emotion as he was sentenced. He was placed on the sex offenders' register for life and made subject of an indefinite restraining order and 10 years Sexual Harm Prevention Order (SHPO). Rob Pollington, mitigating, said: \"It is a web of despair that flows from Mr Clarke. He does understand the significance of his actions and is ashamed of what he has done. \"He is clearly sexually interested in children, but he is not fixated on that, rather the drive here comes from the titillation of doing wrong.\"",
-      "url": "https://www.edp24.co.uk/news/26683523.norwich-paedophile-jailed-secretly-filming-young-girls/",
-      "source": "Eastern Daily Press",
-      "image": "https://www.edp24.co.uk/resources/images/21649629.jpg?type=og-image",
-      "publishedAt": "2026-10-30T10:20:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Spy camera paedophile caught after girl spots device hidden in shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-30T17:42:13.199Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Man accused of voyeurism in Weston remains jailed",
-      "description": "A man remains behind bars Thursday after being accused of trying to record an 11-year-old girl through her bathroom window in Weston. NBC6’s Kim Wynne…",
-      "url": "https://www.nbcmiami.com/video/nbc-6-news/man-accused-of-voyeurism-in-weston-remains-jailed/3880507/",
-      "source": "Nbc 6 South Florida",
-      "image": "https://media.nbcmiami.com/2026/10/52293288218-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-29 22:15:16",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of voyeurism in Weston remains jailed\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-10-30T17:42:13.199Z"
-    }
-  ]
+  "pendingReview": []
 }
