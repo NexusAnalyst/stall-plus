@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:23:22.385Z",
+  "updatedAt": "2026-11-03T19:00:37.220Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 2,
-    "rejected": 58,
+    "pending": 1,
+    "rejected": 67,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -79,49 +79,25 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Hidden camera in Rock Hill apartment was allegedly the 2nd found in a York Co. home",
-      "description": "A Rock Hill man is facing more than 20 charges for allegedly recording females, including minors, with a secret bathroom camera in his apartment over more than a year, according to police and court records. It is the second York County hidden camera arrest in weeks. In the most recent case, Brandon Matthew Miller, 46, faces 15 counts of second-degree sexual exploitation of a minor and seven charges of voyeurism, arrest warrants and jail records obtained exclusively by The Herald show. Miller remains in the York County jail without bail, according to court records. September arrest, a camera and more charges Rock Hill police first arrested Miller in mid-September after a camera allegedly was discovered at his Slemish Road apartment. More charges were added in October that have incident dates going back as far as July 2025, according to the warrants. Police allegedly found digital files on his cellphone. Miller \"admitted to the placement of this camera\" to police when he was arrested on more charges in October, warrants show. The Herald does not identify victims of sex crimes. Charges involving minors are felonies Second-degree sexual exploitation of a minor in South Carolina is defined as someone who \"records, photographs, films, develops, duplicates, produces, or creates digital electronic file material that contains a visual representation of a minor or a morphed image of an identifiable minor engaged in sexual activity or appearing in a state of sexually explicit nudity when a reasonable person would infer the purpose is sexual stimulation.\" The felony offense carries a minimum of three years up to 10 years per conviction under South Carolina law. Voyeurism, defined as recording an adult who is in a place where a person has a reasonable expectation of privacy, is a misdemeanor under state law that carries up to three years per conviction. No trial date has been set. Second hidden camera arrest in York County In a separate unrelated case in August, York County Sheriff's Office deputies arrested a Fort Mill man accused of hiding secret cameras in a home where there were two females, one of whom was a minor. Charles Douglas Lieske, 60, faces two counts of voyeurism and three counts of second-degree sexual exploitation of a minor. In a September court hearing covered only by The Herald, prosecutors said Lieske allegedly had images from a secret camera that looked like a cellphone charger before the material was uncovered. Lieske was released on bail in that case that also remains pending.",
-      "url": "https://www.heraldonline.com/news/local/crime/article317804055.html",
-      "source": "The Herald",
-      "image": "https://www.heraldonline.com/public/latest-news/apbhqh/picture316870736/alternates/LANDSCAPE_1200/car.jpg",
-      "publishedAt": "2026-11-02T14:51:10Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
+      "title": "Man accused of indecent assault at Tsim Sha Tsui 24/7 Fitness gym as voyeurism charge withdrawn - Dimsum Daily",
+      "description": "3rd November 2026 - (Hong Kong) A man employed as a veterinary nurse, aged 35, appeared at Kowloon City Magistrates' Courts in connection with an alleged incident at the 24/7 Fitness changing room in Kowloon Centre on Ashley Road, Tsim Sha Tsui. Prosecutors allege that on 24th March 2026 he indecently assaulted another man inside the men's changing area. The defendant, named in court as So Kai‑ho, had also faced a voyeurism count, which the prosecution withdrew today. The indecent assault charge remains active and the matter was adjourned to 12th January 2027 for further hearing. The court allowed the defendant to remain on bail of HK$1,000 pending the next mention.",
+      "url": "https://www.dimsumdaily.hk/man-accused-of-indecent-assault-at-tsim-sha-tsui-24-7-fitness-gym-as-voyeurism-charge-withdrawn/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/11/03213721/247-Fitness-TST.webp",
+      "publishedAt": "2026-11-03T13:39:48Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
         "restroom context (1 terms)",
-        "category terms (2)",
+        "category terms (1)",
         "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Hidden camera in Rock Hill apartment was allegedly the 2nd found in a York Co. home\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-02T21:23:22.385Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera in Rock Hill apartment was allegedly the 2nd found in a York Co. home",
-      "description": "A Rock Hill man is facing more than 20 charges for allegedly recording females, including minors, with a secret bathroom camera in his apartment over more than a year, according to police and court records. It is the second York County hidden camera arrest in weeks. In the most recent case, Brandon Matthew Miller, 46, faces 15 counts of second-degree sexual exploitation of a minor and seven charges of voyeurism, arrest warrants and jail records obtained exclusively by The Herald show. Miller remains in the York County jail without bail, according to court records. September arrest, a camera and more charges Rock Hill police first arrested Miller in mid-September after a camera allegedly was discovered at his Slemish Road apartment. More charges were added in October that have incident dates going back as far as July 2025, according to the warrants. Police allegedly found digital files on his cellphone. Miller \"admitted to the placement of this camera\" to police when he was arrested on more charges in October, warrants show. The Herald does not identify victims of sex crimes. Charges involving minors are felonies Second-degree sexual exploitation of a minor in South Carolina is defined as someone who \"records, photographs, films, develops, duplicates, produces, or creates digital electronic file material that contains a visual representation of a minor or a morphed image of an identifiable minor engaged in sexual activity or appearing in a state of sexually explicit nudity when a reasonable person would infer the purpose is sexual stimulation.\" The felony offense carries a minimum of three years up to 10 years per conviction under South Carolina law. Voyeurism, defined as recording an adult who is in a place where a person has a reasonable expectation of privacy, is a misdemeanor under state law that carries up to three years per conviction. No trial date has been set. Second hidden camera arrest in York County In a separate unrelated case in August, York County Sheriff's Office deputies arrested a Fort Mill man accused of hiding secret cameras in a home where there were two females, one of whom was a minor. Charles Douglas Lieske, 60, faces two counts of voyeurism and three counts of second-degree sexual exploitation of a minor. In a September court hearing covered only by The Herald, prosecutors said Lieske allegedly had images from a secret camera that looked like a cellphone charger before the material was uncovered. Lieske was released on bail in that case that also remains pending.",
-      "url": "https://www.charlotteobserver.com/news/local/crime/article317804055.html",
-      "source": "The Charlotte Observer",
-      "image": "https://www.heraldonline.com/public/latest-news/apbhqh/picture316870736/alternates/LANDSCAPE_1200/car.jpg",
-      "publishedAt": "2026-11-02T14:51:10Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 65,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), primary topic in title, published within 7 days, multiple category terms). \"Hidden camera in Rock Hill apartment was allegedly the 2nd found in a York Co. home\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-02T21:23:22.385Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of indecent assault at Tsim Sha Tsui 24/7 Fitness gym as voyeurism charge withdrawn - Dimsum Daily\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-03T19:00:37.220Z"
     }
   ]
 }
