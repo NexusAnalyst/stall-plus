@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:00:37.220Z",
+  "updatedAt": "2026-11-04T19:20:09.504Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,7 +13,7 @@
   "reviewSummary": {
     "published": 1,
     "pending": 1,
-    "rejected": 67,
+    "rejected": 66,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -79,25 +79,25 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Man accused of indecent assault at Tsim Sha Tsui 24/7 Fitness gym as voyeurism charge withdrawn - Dimsum Daily",
-      "description": "3rd November 2026 - (Hong Kong) A man employed as a veterinary nurse, aged 35, appeared at Kowloon City Magistrates' Courts in connection with an alleged incident at the 24/7 Fitness changing room in Kowloon Centre on Ashley Road, Tsim Sha Tsui. Prosecutors allege that on 24th March 2026 he indecently assaulted another man inside the men's changing area. The defendant, named in court as So Kai‑ho, had also faced a voyeurism count, which the prosecution withdrew today. The indecent assault charge remains active and the matter was adjourned to 12th January 2027 for further hearing. The court allowed the defendant to remain on bail of HK$1,000 pending the next mention.",
-      "url": "https://www.dimsumdaily.hk/man-accused-of-indecent-assault-at-tsim-sha-tsui-24-7-fitness-gym-as-voyeurism-charge-withdrawn/",
-      "source": "Dimsum Daily",
-      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/11/03213721/247-Fitness-TST.webp",
-      "publishedAt": "2026-11-03T13:39:48Z",
+      "title": "Voyeurism incident at University of Guelph leads to arrest",
+      "description": "Police have made an arrest after a reported voyeurism incident at the University of Guelph. The Guelph Police Service was notified after a man was allegedly caught holding a cellphone under a stall door while a woman was taking a shower. The alleged incident happened in a U of G changeroom on Oct. 30. Police say investigators reviewed security footage, along with other assistance, and a suspect was identified. A 21-year-old man from Richmond Hill was arrested on Nov. 3 and charged with voyeurism. The incident follows an extensive voyeurism investigation in Guelph involving university students that led to the arrest of a 24-year-old man. Guelph police are advising the public to always be aware of your surroundings and report suspicious activity immediately.",
+      "url": "https://kitchener.citynews.ca/2026/11/04/voyeurism-incident-at-university-of-guelph-leads-to-arrest/",
+      "source": "CityNews Kitchener",
+      "image": "https://kitchener.citynews.ca/wp-content/blogs.dir/sites/3/2026/11/04/uofgcp-e1793810143373.jpg",
+      "publishedAt": "2026-11-04T16:59:05Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 45,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man accused of indecent assault at Tsim Sha Tsui 24/7 Fitness gym as voyeurism charge withdrawn - Dimsum Daily\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-03T19:00:37.220Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Voyeurism incident at University of Guelph leads to arrest\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-04T19:20:09.504Z"
     }
   ]
 }
