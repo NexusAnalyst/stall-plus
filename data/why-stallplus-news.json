@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T19:28:20.312Z",
+  "updatedAt": "2026-11-06T18:52:26.540Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 0,
-    "rejected": 68,
+    "pending": 3,
+    "rejected": 66,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -54,5 +54,70 @@
     }
   ],
   "articles": [],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man given 15‑month probation order for filming male bather in Morse Park shower",
+      "description": "6th November 2026 - (Hong Kong) A 31‑year‑old accounting employee who hid a mobile phone in a bag beneath a shower‑stall door to record a man washing in the male changing room at Morse Park (Park No. 3) in Wong Tai Sin was on Friday placed on a 15‑month probation order. Acting Principal Magistrate Cheng Lim‑chi at Kowloon City Magistrates' Courts accepted a probation officer's assessment that supervision was appropriate and said the court would \"give one chance\" in light of the report's findings. The defendant, named in court as Lau Chun‑fai, admitted one count of voyeurism over the incident on 26th July 2026. The court heard that the victim noticed a bag pushed under the cubicle door and, suspecting wrongdoing, inspected it to find a phone actively recording with its camera pointed towards him. He stopped the recording, confronted the defendant outside the stall and, upon request, obtained the phone's passcode. A 2‑minute‑36‑second clip was found showing the defendant's face at the outset, panning across the changing and shower areas and capturing the victim nude before ending as the victim picked up the bag. The victim forwarded the footage to his own device and deleted it from the defendant's phone, with a friend witnessing the exchange, and the matter was then reported to police. In mitigation, the defence said the defendant had recently lost his job and acted on impulse. He later underwent a rapid urine test on 29th October that returned negative for drugs and enrolled in a community drug‑rehabilitation programme. The bench stressed that voyeurism typically attracts immediate custody and that the same sentencing principles apply regardless of the genders involved. Having considered the probation report and the circumstances, the court imposed a 15‑month probation order under supervision.",
+      "url": "https://www.dimsumdaily.hk/man-given-15%E2%80%91month-probation-order-for-filming-male-bather-in-morse-park-shower/",
+      "source": "Dimsum Daily",
+      "image": "https://cdn.dimsumdaily.hk/wp-content/uploads/2026/11/06203500/Morse-Park3.webp",
+      "publishedAt": "2026-11-06T12:36:21Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Man given 15‑month probation order for filming male bather in Morse Park shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-06T18:52:26.540Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Accountant receives 15-month probation for filming man showering in Morse Park changing room",
+      "description": "A 31-year-old male accountant was sentenced to a 15-month probation order at Kowloon City Magistrates' Courts after admitting to a charge of voyeurism for secretly filming another man taking a shower in a public park changing room in Wong Tai Sin. Acting Principal Magistrate Andy Cheng Lim-chi adopted the probation officer's recommendation, remarking that although voyeurism cases generally warrant immediate custodial sentences, the court was prepared to grant the defendant an opportunity to turn over a new leaf. Victim catches defendant red-handed and deletes footage from device The defendant, Lau Chun-fai, pleaded guilty to filming a male victim, identified as X, inside the male changing room at Morse Park No. 3 on 26 July 2026. The charge stated that the recording occurred in an area where an individual could reasonably be expected to be naked, expose intimate parts, or perform private acts with a reasonable expectation of privacy, and that the defendant disregarded whether the victim consented to being recorded. The court heard that the incident unfolded when the victim was showering inside a cubicle in the changing room, where no closed-circuit television cameras were installed. The victim noticed a bag placed beneath the gap under the cubicle door and inspected it after growing suspicious. Inside, he found a mobile phone actively recording with its camera lens pointed directly at him. The victim immediately terminated the recording, stepped outside to confront Lau, and demanded the passcode to unlock the handset. A check of the phone uncovered a video recording lasting 2 minutes and 36 seconds. The clip opened with a view of the defendant's face before panning across the changing and showering facilities, capturing the naked victim before ending as the bag was picked up. The victim transferred the recording to his own handset and deleted the footage from the defendant's device in the presence of an accompanying friend, who witnessed the entire encounter before the police were notified. Defendant cites unemployment and impulse before passing voluntary drug screening The defendant initially remained silent under caution, but later confessed in a recorded interview that he had carried out the secret filming on an impulse following recent unemployment. In mitigation, the defense submitted that Lau had voluntarily undergone a rapid urine drug screening on 29 October, which confirmed negative results for narcotics, and had proactively enrolled in a community drug rehabilitation scheme. The defense urged the court to adopt the non-custodial disposal proposed in the pre-sentencing report. The magistrate pointed out that while voyeurism cases typically call for imprisonment and the dynamics differed from men illicitly recording women, the sentencing baseline remained unchanged. He nevertheless accepted that a probation order was appropriate under the circumstances, sentencing Lau to 15 months of probation supervision.",
+      "url": "https://www.thestandard.com.hk/news/article/347760/Accountant-receives-15-month-probation-for-filming-man-showering-in-Morse-Park-changing-room",
+      "source": "thestandard.com.hk",
+      "image": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/0d9f0c85e60e83a35a14db8ab0af7d63/2026-11/New_Project_-_2026-11-06T175019_236.jpg",
+      "publishedAt": "2026-11-06T12:20:30Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 65,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1), published within 7 days). \"Accountant receives 15-month probation for filming man showering in Morse Park changing room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-06T18:52:26.540Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden Camera Found Filming In Bathroom Of Brazen Fox In White Plains: Police",
+      "description": "A 27-year-old Suffern man has been charged with a felony after the recording device was discovered early Sunday morning, cops say.",
+      "url": "https://patch.com/new-york/whiteplains/hidden-camera-found-filming-bathroom-brazen-fox-white-plains-police",
+      "source": "Patch",
+      "image": "https://patch.com/img/cdn20/users/24856073/20261105/074940/styles/patch_image/public/2026-11-05-at-73611pm___05193700789.png",
+      "publishedAt": "2026-11-06 00:52:52",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden Camera Found Filming In Bathroom Of Brazen Fox In White Plains: Police\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-06T18:52:26.540Z"
+    }
+  ]
 }
