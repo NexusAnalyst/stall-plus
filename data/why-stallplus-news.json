@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T17:24:37.074Z",
+  "updatedAt": "2026-11-08T17:35:49.250Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 2,
-    "rejected": 66,
+    "pending": 3,
+    "rejected": 64,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -57,6 +57,50 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
+      "title": "Charlotte man charged with secret peeping after hidden camera found in Old Navy dressing room",
+      "description": "A 25-year-old North Carolina man is facing eight counts of felony secret peeping after employees at an Old Navy in Charlotte found a camera hidden under a dressing room bench, and investigators say they later found more than 200 videos of nude or partially nude women on his devices. Dylan Keanu Hampton has been arrested twice in connection with the investigation, as reported by WSOC. Employees at the Old Navy at Charlotte Premium Outlets found the black camera underneath the bench after the store closed, according to search warrants. Police said the camera was aimed into the door of an adjacent dressing room stall. Investigators reviewed the store's surveillance footage from that day and say Hampton spent about two hours inside, with most of that time in the dressing room area. He was first arrested on October 26 and posted bond the next day. It started with one camera under a bench After obtaining a search warrant for Hampton's devices, investigators say they found more than 200 videos that appeared to have been recorded with three cameras installed in a residence, two in a bedroom and one in a bathroom. Investigators also say they found reviews Hampton left for the cameras he bought, praising how discreet they were. The case also includes a warrant accusing Hampton of secretly peeping into an occupied Old Navy dressing room at SouthPark Mall in July, police said. Police also alleged he recorded inside a fitting room using Meta glasses, WCNC reported. Meta is separately facing a lawsuit over its smart glasses filed by more than 70 people. Employees also told officers the man later came back to the store claiming he had forgotten his keys, then allegedly pulled them from his pocket and set them on a shelf before acting as though he had just found them, according to Charlotte Stories. An officer recognized Hampton from the July incident, and police said body camera footage from that encounter showed him carrying the same type of device found at Old Navy. Law enforcement officials say there are a few ways shoppers can check for hidden cameras, according to WSOC. A red blinking light can indicate a recording device, and people can also look through the list of nearby devices in their Wi-Fi settings for a possible camera signal. Hidden camera lens detectors are also available to buy online. A new warrant led to Hampton's second arrest on November 4, when he was charged with eight counts of felony secret peeping. He is being held in the Mecklenburg County Jail on those charges, according to WCCB.",
+      "url": "https://attackofthefanboy.com/news/a-shopper-allegedly-spent-two-hours-in-an-old-navy-dressing-room-area-and-workers-found-a-hidden-camera-under-the-bench-after-closing/",
+      "source": "Attack of the Fanboy",
+      "image": "https://attackofthefanboy.com/wp-content/uploads/2026/11/security-camera-and-a-culprit-in-handcuffs-pointing-at-a-gun-with-his-hand.jpg",
+      "publishedAt": "2026-11-08T13:45:00Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Charlotte man charged with secret peeping after hidden camera found in Old Navy dressing room\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-08T17:35:49.250Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Suit filed over hidden camera at Ruby Memorial Hospital",
+      "description": "MORGANTOWN, W.Va. -- One of the eight identified victims whose image was captured by a hidden camera in the employee restroom at Ruby Memorial Hospital has filed a lawsuit over the matter. The suit was filed Friday in Monongalia County Circuit Court. It seeks compensatory and punitive damages from WVU Hospitals, WVU Health Systems, and University Health Associates for being negligent in supervision, workplace security, and in their response after the discovery of the first device. The plaintiff's case also claimed a hostile work environment against WVU Hospitals under the West Virginia Human Right Act. The suit also included claims of invasion of privacy and emotional distress. Also named is Lance Parks, a former anesthesiologist at he hospital who was charged with placing the cameras in the restroom. Law enforcement was able to identify eight employees who were recorded against their knowledge and in a partial state of undress. One device was discovered mounted under a sink. The second device was discovered by maintenance workers when they repaired a clogged toilet in the anesthesiology department four days later. The memory card of that camera had no images. According to the lawsuit, investigators discovered additional videos which appeared to have been recoded at Ruby on devices sized from Parks' home. Along with the compensatory and punitive damages, the suit seeks attorney fees and other relief including protection against unnecessary disclosure of recordings of the plaintiff.",
+      "url": "https://wvmetronews.com/2026/11/07/suit-filed-over-hidden-camera-at-ruby-memorial-hospital/",
+      "source": "WV MetroNews",
+      "image": "https://wvmetronews.com/wp-content/uploads/2026/08/Monongalia-County-Courthouse_2-e1602967977508.jpg",
+      "publishedAt": "2026-11-07T17:42:15Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Suit filed over hidden camera at Ruby Memorial Hospital\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-08T17:35:49.250Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Crown presses accused Summerland teacher on phone reset during voyeurism trial",
       "description": "The trial for a Summerland Secondary School teacher charged with voyeurism will be pushed to the new year, as cross-examination of the accused will need more time. Taylor Paul Holubetz, 38, is alleged to have observed or recorded a victim for a sexual purpose in December 2023. Holubetz's voir dire, a trial within a trial focused on evidence, began on Tuesday. The alleged circumstances are that on Dec. 11, 2023, the complainant, who was a 16-year-old student at the time, noticed a flash consistent with a phone flashlight underneath the desk while Holubetz was sitting across from her, and suspected he might be video recording her. Crown prosecutor David Reznikov said the case is circumstantial, as police were ultimately not able to recover any video of the offence from the accused's phone. Voyeurism trial so far Reznikov first put the complainant on the stand to talk about the 14 video clips she submitted to the RCMP, one of which showed Holubetz holding his phone under his desk and pointing the outward camera towards the student. The complainant started filming after telling her friends about her suspicions that he was filming up her skirt. The defence counsel, Andrew Nelson, cross-examined the complainant, trying to establish whether her view that Holubetz might be video recording her was correct. The Crown then questioned former Principal Alan Stel, who delivered a letter from the school district detailing the allegations to Holubetz. Cst. Patti Evans, the officer who took the complainant's statement to RCMP and became lead investigator, also provided testimony. An attempt by Nelson to quash the charge due to insufficient evidence was denied on Thursday morning. Justice Tina-Marie Bradford ruled the trial would continue. The Crown relied on the evidence that Holubetz faced the camera of his phone under the table at the complainant's crotch area, that he was filming with his phone at other times while in her presence that day, that when he was told that he was under investigation, he knew that it involved the complainant despite not having been told that, and that he wiped his phone shortly after being told he was under investigation. Nelson called three witnesses on Thursday, including Holubetz and two of his friends, to testify about their interactions with him on Dec. 11, 2023. Holubetz took the stand and walked through the day of the alleged offence and his relationship with the student. He said he \"factory reset his phone in a panicked state\" after being given the letter from the school district and regretted doing so. The trial resumed Friday, with the Crown cross-examining Holubetz. Crown questions teacher Reznikov got Holubetz to walk through his path to become a teacher and his motives behind working with supporting students with disadvantages. Holubetz previously told the court the complainant was \"by far our greatest challenge\" in the Learning Assistance Class (LAC) he worked in, but he had built a relationship with her, a \"trusting relationship.\" On Friday, Holubetz said that while the complainant was on his caseload, he couldn't recall how often he would work with her directly during that semester. Holubetz previously told the court that he was in the habit of using the flash on his video as a flashlight, rather than the flashlight itself, because to use the flashlight, he would have to unlock the phone, while he could swipe to video from the home screen. Reznikov proved through a demonstration in court with Holubetz's phone that you could access the flashlight without unlocking the phone, but acknowledged that Holubetz said he didn't know he could do that. Holubetz said he had factory reset his phone due to the nude photographs/videos of his wife that he didn't want anyone to see, along with \"shameful conversations with friends.\" Reznikov pressed Holubetz on Friday about the fact that he didn't have those nude photos hidden in any way, just in his regular photo album. \"Doesn't that kind of create the risk that if you're pulling up your photos, a photo that you might not want them seeing might come up?\" Reznikov asked. \"Yes,\" Holubetz responded. \"But you accepted that risk?\" Reznikov asked. \"I shamefully accepted that risk. I'm talking about shame towards putting my wife in that position,\" Holubetz said. The WhatsApp group Reznikov asked Holubetz about a WhatsApp conversation with his friends, which he said he was worried about becoming public. Holubetz said in the group chat, they talked about \"everything from politics to sports to locker room banter,\" and there would have been some racist and sexist comments, but none he would have made. The court was provided 10 screenshots of the chat from one of Holubetz's friends, where Holubetz agreed there was nothing significantly inappropriate. But Holubetz said there were worse conversations. He couldn't recall any specific examples, however, aside from messaging the group himself, saying, \"Is there anything hotter than a hot girl buying toilet paper?\" Holubetz said a joke as simple as that can be detrimental to one's career or reputation. \"I've made worse comments, but I can't remember exactly what,\" he added. \"You said you factored reset your phone, at least largely in part because of this conversation, right?\" Reznikov said. Holubetz said it was mostly the nude photos that were the concern. \"When I received this letter, we know I fainted. We know I had a traumatic experience. I ran into a state of panic. I talked to two medical doctors, my therapist, psychologist and psychiatrists, who all agree that my actions to reset my phone and catastrophize over nude photos of my wife and the way I was behaving in group chats is totally reasonable behaviour to believe the world's falling in on you,\" Holubetz said. \"My mind would have been, 'Oh no, what have I said, and my friends [said] on this group chat that can ruin all of our lives.\" Trial will continue The court day wrapped up with the Crown not concluding its cross-examination of Holubetz, and no time available to continue until January. The charges were first sworn against him on April 23, 2025. School District 67 confirmed that, when the charges came to light, the accused was not teaching in SD67. A standard publication ban is in place for this trial, restricting the sharing of any information that could identify a complainant or witness in a sexual offence proceeding. Holubetz will be back in court on Jan. 6, 2027.",
       "url": "https://www.castanetkamloops.net/news/Summerland/637019/Crown-presses-accused-Summerland-teacher-on-phone-reset-during-voyeurism-trial",
@@ -75,29 +119,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Crown presses accused Summerland teacher on phone reset during voyeurism trial\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-07T17:24:37.074Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "He put spy cams in teen girls' bedroom. Now he faces 16 years in prison",
-      "description": "The Blue Ash man who hid spy cameras in the rooms of teen girls and took their underwear has been sentenced to over 16 years in prison. David Mitsnefes, 33, was charged in federal court in Cincinnati in December 2025. He pleaded guilty to sexual exploitation of children in July. \"By invading the most private spaces in their lives, David Mitsnefes destroyed his victims' sense of safety and stripped them of the fundamental expectation of privacy within their own home,\" said U.S. Attorney Dominick S. Gerace II. \"Over the course of years, he inflicted profound and lasting damage on the minors and their family. This conduct calls for the sentence he received today.\" Investigators said Mitsnefes knew the family, had worked on their internet system and knew the code to the front door. This allowed him to place multiple cameras in the girls' room, and then the videos would be sent to his iPhone. The family repeatedly found the cameras. The first one was found in September 2021 in one of the girl's bedrooms. She was 14 at the time. At least three hidden cameras were found in the home the next year. A fifth hidden camera was found in one of the girl's bedrooms in 2023. When police searched Mitsnefes' home, where he lived with his mother, they found he had videos of the teens as well as 3,000 other videos and 5,000 images containing child sexual abuse material. Mitsnefes admitted to investigators that he possessed the material. When they asked if he knew the ages of the children in the material, he said, \"it's bad,\" according to court documents. U.S. District Court Judge Michael Barrett sentenced Mitsnefes to 200 months in federal prison on Nov. 6.",
-      "url": "https://eu.cincinnati.com/story/news/crime/2026/11/06/blue-ash-man-sentenced-after-spying-on-teens-with-hidden-cameras/92648566007/",
-      "source": "Cincinnati",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/12/18/PCIN/87831333007-vlcsnap-2025121814-h-36-m-36-s-256.png?auto=webp&crop=369,207,x0,y0&format=pjpg&width=1200",
-      "publishedAt": "2026-11-06T23:19:24Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 40,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
-      ],
-      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"He put spy cams in teen girls' bedroom. Now he faces 16 years in prison\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-07T17:24:37.074Z"
+      "flaggedAt": "2026-11-08T17:35:49.250Z"
     }
   ]
 }
