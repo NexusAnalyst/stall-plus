@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T19:17:35.650Z",
+  "updatedAt": "2026-11-11T19:14:03.038Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -13,8 +13,8 @@
   "reviewSummary": {
     "published": 2,
     "pending": 2,
-    "rejected": 66,
-    "carriedForward": 1
+    "rejected": 67,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
@@ -100,6 +100,27 @@
   ],
   "pendingReview": [
     {
+      "provider": "NewsAPI.ai",
+      "title": "Man accused of recording 11-year-old girl in changing room at Ross",
+      "description": "Content warning: This article contains information about alleged child sexual abuse material. Reader discretion is advised. Report CSAM to law enforcement by contacting the ICAC Tip Line at (801) 281-1211 or your local law enforcement agency. PROVO, Utah (ABC4) -- An Orem man is behind bars after he allegedly recorded an 11-year-old girl while she was in the changing room at Ross. Daniel Donofrio, 36, has been arrested on one count of voyeurism for recording a child under 14 years old, a third-degree felony. According to the arrest statement, the Provo Police Department responded to the Ross Store at 1235 S University Avenue on Nov. 8. When officers arrived, an 11-year-old told them that she was using the changing room when she saw a phone appear over the top of the stall next to her. There were only two changing room stalls, located at the front of the store. A family friend, Donofrio, brought the 11-year-old to the store to try on clothes. Officers retrieved surveillance footage from the store, which reportedly showed Donofrio sitting across from the dressing room. He then stood up and entered the stall adjacent to where the child was, stayed in there for 40 seconds, and returned to the chair. The child's mother identified Donofrio in the video, and he was seen with longer hair and a beard. A warrant was approved for Donofrio's residence and cell phone. Officers brought him in for questioning, but stated that his answers were \"inconsistent.\" He also allegedly changed his appearance by cutting his hair and shaving off his beard. In speaking with police, Donofrio claimed that the victim's mother told him to check the stall and make sure no one is in there. She later stated that she never asked him to do that. The 36-year-old then claimed that he went into the changing room to \"walk around,\" but it was a very small room. Donofrio told officers that the 11-year-old's mother had blocked him, and he deleted all of the photos of their family that he had. The mother alleges that he sent her a picture of him holding a knife next to his arm and made suicide threats after she told him she was going to Ross to get the surveillance footage. Donofrio was arrested and booked into the Utah County Jail, where he is being held with bail.",
+      "url": "https://www.abc4.com/news/crimes-against-children/man-records-11yo-changing-room/",
+      "source": "ABC 4",
+      "image": "https://www.abc4.com/wp-content/uploads/sites/4/2023/05/DSC_0169.jpg?w=1280",
+      "publishedAt": "2026-11-11T15:50:49Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man accused of recording 11-year-old girl in changing room at Ross\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-11T19:14:03.038Z"
+    },
+    {
       "provider": "NewsAPI.org",
       "title": "British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory",
       "description": "A British man is facing criminal charges in Singapore after allegedly installing a concealed…",
@@ -119,29 +140,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-10T19:17:35.650Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Case Study: How Restroom Privacy Upgrades Aided School Custodians",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/4996774744505-case-study-how-restroom-privacy-upgrades-aided-school-custodians",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-11-10 00:00:00",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Case Study: How Restroom Privacy Upgrades Aided School Custodians\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-10T19:17:35.650Z"
+      "flaggedAt": "2026-11-11T19:14:03.038Z"
     }
   ]
 }
