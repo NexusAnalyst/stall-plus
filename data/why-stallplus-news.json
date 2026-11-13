@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:31:27.905Z",
+  "updatedAt": "2026-11-13T19:11:40.344Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,21 +11,21 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 3,
-    "pending": 8,
-    "rejected": 58,
-    "carriedForward": 2
+    "published": 5,
+    "pending": 14,
+    "rejected": 54,
+    "carriedForward": 3
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 2
     },
     {
       "id": "dorm-privacy",
       "label": "Dorm Bathroom Privacy + Shared Living",
-      "count": 1
+      "count": 2
     },
     {
       "id": "hidden-cameras",
@@ -77,6 +77,48 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Judge won't seal former Kentucky Castle CEO's divorce proceedings",
+      "description": "A Jefferson Family Court judge denied sealing the divorce between a well-known bourbon maker and his wife. Julie Henderson filed for divorce on Oct. 19, just two weeks after news broke of her husband's alleged voyeurism. Wes Henderson is co-founder of Angel's Envy and the former CEO of The Kentucky Castle, which is owned by parent group TKC Distilling Co. TKC Distilling also owns True Story Whiskey. The company's board terminated Henderson from the hotel and distilling company on Oct. 3, after allegations in a sealed lawsuit surfaced regarding Henderson secretly recording family members and guests in the bathroom, bedroom and during sexual activity at a family vacation home in Florida. It also alleged recordings at the boutique hotel near Lexington. The Courier Journal obtained a copy of that lawsuit which claimed multiple cameras were \"disguised as fire alarms, a camera in a sound bar, cameras in a fan, a camera in a clock, and a camera placed inside a fire alarm, with the fire alarm completely duct-taped black and installed inside a bathroom air vent directly above the toilet of one of the bathrooms.\" The lawsuit also mentioned some of the recordings were allegedly of Henderson having adult relations with women other than his wife. The federal Department of Homeland Security investigations unit is looking into Henderson's alleged recording devices. Julie Henderson is a local fitness center owner, as well as an owner with her husband \"in the business ventures,\" per the divorce filing. Julie Henderson's attorney filed a protective order with Jefferson Family Court Judge Denise Brown asking the divorce be sealed because it would \"contain sensitive, highly confidential personal and financial information, and the public dissemination of which poses a substantial risk of ... embarrassment.\" In a Nov. 3 court filing, Brown denied the request by drawing diagonal lines across the order and writing: \"Parties may file individual motions to request filing is confidential or needs to be redacted.\" That means if Julie Henderson wants something to be kept confidential, her attorney will have to request the individual document be marked confidential or redacted when submitted into the court record. Julie Henderson's attorney did not immediately respond to a request for comment. Henderson's wife operated Burn Boot Camp locations in Kentucky Julie Henderson franchises several Louisville-area Burn Boot Camps. After the civil lawsuit was filed against Wes Henderson, Burn Boot Camp's headquarters began overseeing certain day-to-day operations of the local gyms, saying it was a decision made jointly with Julie Henderson, according to reports. Burn Boot Camp is a group-fitness program that combines high-intensity interval training and strength training. The company has gyms nationally, including six in Kentucky. Four of the locations -- off Hurstbourne Parkway and in Prospect, Crestwood and Jeffersonville, Indiana -- were operated by Julie Henderson. Burn Boot Camp has not been implicated in the voyeurism scandal. \"Burn takes the safety and privacy of its members seriously and has taken appropriate steps in response to the concerns that have been raised,\" Burn Boot Camp Vice President of Marketing Trish Peña said in an email to The Courier Journal. \"Because this involves matters concerning an independent franchisee and third parties, we do not have additional information to provide...\"Stephanie Kuzydym is an enterprise and investigative sports reporter. Reach her at skuzydym@courier-journal.com.",
+      "url": "https://eu.courier-journal.com/story/news/local/2026/11/13/judge-denies-request-to-seal-wes-hendersons-divorce-proceedings/92745556007/",
+      "source": "The Courier-Journal",
+      "image": "https://www.gannett-cdn.com/presto/2019/05/28/PLOU/694d737b-2f37-4042-97bb-ac50f25525a5-20180607_6103.jpg?auto=webp&crop=5658,3169,x0,y74&format=pjpg&width=1200",
+      "publishedAt": "2026-11-13T10:09:18Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 70,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Judge won't seal former Kentucky Castle CEO's divorce proceedings\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Hidden camera found in dorm bathroom at UNC Wilmington",
+      "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
+      "url": "https://myfox8.com/news/north-carolina/hidden-camera-found-in-dorm-bathroom-at-unc-wilmington/",
+      "source": "myfox8.com",
+      "image": "https://myfox8.com/wp-content/uploads/sites/17/2026/11/uncw_38379372_ver1.0.png?strip=1&w=640",
+      "publishedAt": "2026-11-13T13:32:09Z",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in dorm bathroom at UNC Wilmington\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Hidden camera found in UNC Wilmington dorm bathroom; student removed",
       "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating if the camera was used to record people in the restroom. They have seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Officials said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation. No further devices have been found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Out of an abundance of caution, according to university officials, other residential bathrooms are being searched. The investigation remains ongoing. As of Tuesday, it is unknown if anyone was recorded, for how long the alleged recording may have taken place, or if any recordings were shared. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
       "url": "https://www.cbs17.com/news/north-carolina-news/hidden-camera-found-in-unc-wilmington-dorm-bathroom-student-removed/",
@@ -122,76 +164,34 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "UNCW investigates hidden camera in dorm bathroom; student removed from campus",
-      "description": "Students reported a suspicious device in a Pelican Hall bathroom. Investigators have not determined whether anyone was recorded or whether recordings were shared. UNC Wilmington police are investigating the alleged use of a hidden camera in a dorm bathroom, the university said Wednesday. Students reported a suspicious device on Tuesday in a single-occupancy bathroom on the fourth floor of Pelican Hall. Housing and Residence Life staff immediately contacted campus police. The university said a student identified as the device's owner was removed from Pelican Hall on Tuesday and from campus on Wednesday pending the investigation. Police seized electronic evidence and will work with partner agencies to examine it. Investigators have not determined whether anyone was recorded, how long the alleged activity occurred, or whether any recordings were shared. A sweep of Pelican Hall bathrooms found no additional devices. Officials are checking other residential bathrooms across campus as a precaution, though the university said there is no information indicating similar incidents elsewhere. UNCW said it is not aware of any continuing threat related to the incident. The university plans to privately contact anyone investigators identify as potentially affected. Students can seek confidential support through CARE at 910-962-2273 or the Counseling Center at 910-962-3746 without waiting for confirmation that they were recorded.",
-      "url": "https://www.wral.com/news/local/uncw-investigates-hidden-camera-in-dorm-bathroom-student-removed-from-campus-november-2026/",
-      "source": "WRAL",
-      "image": "https://images.wral.com/6b37eb2b-130c-49f3-bfe6-b7275d7d68a0?w=1200&h=630&height=630",
-      "publishedAt": "2026-11-11T22:30:43Z",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"UNCW investigates hidden camera in dorm bathroom; student removed from campus\" may fit Dorm Bathroom Privacy + Shared Living if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Our house's previous owner left a warning -- Six months later, I learned why",
-      "description": "We laughed at the warning scratched inside our new house because our neighbors seemed perfectly kind. Six months later, one security alert made those words impossible to ignore. I stared at the doorbell feed. It was the Johnsons. Tom and Linda were standing on our porch. Tom had something in his hand. PAY ATTENTION: You can now search for all your favourite news and topics on Briefly News. At first, I thought it was his phone. A key. I sat upright so fast I nearly knocked over my drink. Jason looked at me. \"What?\" I handed him the phone. It turned. The door opened. Linda glanced over her shoulder before following him inside. Then the door shut. Jason stared at me. I was already calling the police. \"We never gave them a key.\" \"I know.\" \"Maybe Margaret did.\" The warning scratched inside our upstairs closet flashed through my mind. \"No,\" I whispered. \"I don't think she did.\" We were nearly two hours from home at my sister's house, but Jason had already grabbed his keys. A police officer called while we were driving. Two units had reached the house. Tom and Linda were gone. Nothing obvious appeared stolen. \"Do they have permission to enter?\" the officer asked. \"No.\" \"Could the key have come from the previous owner?\" \"I don't know.\" For six months, Margaret's warning had been sitting 20 feet from our bedroom. We had laughed at it. When we reached home, two police cars were parked outside. Tom and Linda's house next door was dark. Officer Julius met us at the door. Jason shook his head. \"Computers. Jewelry. Normal stuff.\" Then I remembered something. \"The basement office.\" Jason looked at me. I was already heading downstairs. The small room behind the laundry area looked normal. Desk. Bookshelf. Filing cabinet. One corner had been folded back. Underneath was a square metal plate set into the concrete. Jason frowned. \"I've never seen that.\" Neither had I. Below it was a shallow floor safe. The safe was already open. Inside was nothing except dust and one white envelope. My name was written across the front. Officer Julius put on gloves and opened it. Margaret. My knees nearly gave out. The note continued. \"Tom and Linda do not have permission to enter this house.\" \"They had a key once.\" \"If they have another one now, they made it.\" \"Call me before you confront them.\" A phone number was written underneath. I called immediately. \"Margaret?\" \"Who is this?\" \"My name is Emily. We bought your house.\" Another pause. Then: \"They got in.\" \"Yes.\" She exhaled. \"Oh, God.\" I sat on the basement stairs. \"Please tell me what's happening.\" \"Tom and Linda were my best friends for 25 years.\" That wasn't what I expected. She and her husband, George, had moved into our house in 1992. The Johnsons arrived next door a year later. They raised their children side by side. Christmases. Vacations. Hospital visits. Linda had a key to Margaret's house. Margaret had one to theirs. Then George developed pancreatic cancer. He died eight years before we bought the house. Afterward, Linda and Tom checked on Margaret constantly. Linda brought groceries. Tom handled repairs. \"At first?\" Margaret sighed. \"Then I noticed things.\" Drawers left open. Mail moved. A bottle of wine she couldn't remember opening. Nothing large enough to prove. Nothing that couldn't be blamed on grief. \"I thought I was losing my mind.\" George had used it for insurance papers, jewelry, cash, and old business documents. One envelope disappeared. \"What was in it?\" I asked. \"Records about Tom.\" Years earlier, George and Tom had invested in small construction projects together. Not enough to destroy the business. Enough to end their partnership. George bought himself out and kept copies of the financial records in case Tom ever claimed George owed him money. \"And those documents disappeared?\" \"Yes.\" \"No. I couldn't prove he took them.\" So Margaret created a test. She placed an old photograph inside the safe in a specific position. Then she left town for two nights without telling the Johnsons. When she returned, the photograph had moved. \"Then Linda asked why her key stopped working.\" I stared at Jason. \"She admitted trying it?\" \"She said she'd heard a noise and wanted to check the house.\" \"While you were away?\" Margaret told them never to enter again. Linda cried. Tom became angry. After that, strange things started happening. A grocery bag appeared on the kitchen counter. A window Margaret thought she'd left open was suddenly locked. All after she'd changed the locks. \"How were they getting in?\" \"I didn't know.\" Margaret installed cameras. Then one camera vanished completely. Tom told neighbors Margaret had become paranoid since George died. Linda said grief had made her forgetful. Some people believed them. Others didn't want to get involved. I stared at the warning note. \"Why didn't you tell us before we bought the house?\" Margaret was silent. \"My attorney told me not to make accusations I couldn't prove.\" \"So you scratched it into the closet instead.\" \"Why there?\" \"Because Linda hated that closet.\" Despite everything, I almost laughed. Margaret explained that she worried a normal note might disappear during the sale if Tom or Linda entered again. The fixed shelf hid the warning. \"I left it during the final walkthrough.\" Officer Julius leaned closer to the phone. \"Mrs. Margaret, did the Johnsons know about the floor safe?\" Margaret hesitated. \"Eventually.\" \"I don't know.\" Then Jason asked the question that had been bothering me. \"Why come back now? Whatever George kept there is long gone.\" Margaret didn't know. But I remembered something. He hadn't asked whether we had an alarm. He asked about a key. I looked around the basement office. Linda already knew about this room. Tom knew our garage opener model. I pulled open the old desk drawers. The bottom one stuck. Jason tugged harder. It came free. Behind it was a narrow cavity. Officer Julius stopped us from touching it. He removed it with gloves. A camera. Tiny. Battery-powered. \"What the hell?\" We searched the rest of the house. We found two more. One behind a living room bookshelf. Another inside a smoke detector in the upstairs hallway. Not the bathroom. That barely made me feel better. Officer Julius called for more officers. I sat on the front steps while Jason paced. Then Linda opened her door next door. \"Emily?\" I stood. Officer Julius stepped between us. \"Where's Tom?\" I asked. \"Inside.\" Her face changed. \"We were checking something.\" \"Using a key we never gave you.\" \"I can explain.\" Officer Julius nodded. Tom came outside. He looked more annoyed than scared. \"This is ridiculous.\" I almost laughed. That was exactly what Margaret had said he'd done to her. Jason stepped toward him. \"You went inside our house.\" Tom pointed at me. \"Your wife is overreacting.\" \"Don't talk about my wife.\" \"Helping with what?\" Tom glanced at our house. Just once. I saw it. So did Officer Julius. Linda's face collapsed. Tom's didn't. That told me enough. Linda whispered, \"Tom.\" He turned sharply. Officer Julius asked them to return home while police investigated. Then an officer mentioned getting a warrant. Linda began crying. \"Please.\" Tom looked at her. \"No.\" \"Linda.\" She shook her head. \"I'm done.\" Tom stared at her. She looked at us. \"We had a key made.\" Jason froze. Officer Julius asked, \"When?\" \"Two months ago.\" Linda wiped her face. \"Tom copied Jason's key.\" I stared at her. Then I remembered move-in week. Tom had loaned us his ladder. Jason's keys were on the workbench. Apparently, Tom made an impression of the house key and later had a copy made. Jason looked sick. \"Why?\" Linda glanced at Tom. Tom snapped, \"Shut up.\" She didn't. She told us the truth Margaret had suspected for years. Tom had taken George's documents from the safe. He had learned the combination, entered the house using their spare key, and removed the records of his old financial misconduct. He began searching the house whenever Margaret was away. Sometimes Linda kept watch. Sometimes she went inside with him. \"Why keep searching after she sold the house?\" I asked. \"Because Tom thought George hid another set of records.\" Linda nodded. George had used the room years earlier. Tom believed something had been hidden there. \"So you searched our home.\" \"Twice.\" \"The garage door?\" \"Tom.\" \"And the cameras?\" Linda looked down. \"We put them in so we'd know if you found anything.\" Six months of living in that house. Sleeping. Arguing. Eating breakfast. Meanwhile, the people next door thought they had some invisible right to enter. Tom finally spoke. \"You have no proof.\" Linda stared at him. \"I just told them.\" Her expression changed. There it was. The exact thing Margaret had described. Tom didn't shout. He simply looked at Linda as if reality belonged to him. \"No.\" His jaw tightened. \"No what?\" \"I'm not confused.\" Later, after Linda consented to a search of their house, officers found far more than I expected. Margaret's missing envelope. Old photographs of George's business records. Blank keys. A key-copying kit. Our house. Inside were sketches of our basement and notes about our schedules. \"Monday - both cars gone by 8.\" \"Thursday - Jason home early.\" \"Weekend - unpredictable.\" Tom was arrested. The case took months. I won't pretend every charge was simple, especially when it came to things that had happened years earlier. But police had evidence involving unlawful entry, surveillance, stolen property, and the copied key. Linda cooperated. It didn't erase her part. She had entered our house too. She had spent years helping Tom. But she finally gave the police what they needed. She moved out two weeks later. Before Linda left, she knocked on our door. This time she waited for me to answer. I did not invite her inside. \"I'm sorry,\" she said. I said nothing. \"No.\" She looked down. \"I kept telling myself Tom was only looking for something that belonged to him.\" \"Did you believe that?\" \"For a while.\" She shook her head. \"No.\" That answer mattered. \"Then why keep helping?\" \"Because once I admitted what he was doing, I also had to admit what I'd done.\" I understood it. I didn't forgive it. A month later, Margaret came to visit. She stood in the upstairs closet staring at the warning. DON'T EVER GIVE THE JOHNSONS A KEY. \"Why didn't you just write, 'They break into houses'?\" Margaret laughed. \"Would you have believed me?\" Probably not. That was the uncomfortable part. Lasagna. Ladders. Garbage schedules. Halloween advice. We expect dangerous neighbors to glare through blinds and argue about fences. Sometimes they're the people who know when you leave for work because they're the ones bringing your trash can in. For a while, I was angry. Then I remembered how long she'd been called forgetful, grieving, paranoid, confused. Eventually, even Margaret had started doubting herself. I understood why she had left a sentence on a wall instead of making another accusation nobody might believe. We changed every lock. We replaced the alarm and installed new cameras. Real ones. The old desk went. I couldn't look at it without imagining the hidden camera behind the drawer. The basement office is mine now. For the first few months, I checked every corner whenever I entered. Then one afternoon, I realized four hours had passed without me thinking about Tom Harris. That felt like getting part of the house back. The Harris house eventually sold. A young couple moved in. Jason stared at the plate. \"Absolutely not.\" I laughed so hard I nearly dropped them. We ate the cookies. They were excellent. Nobody does. Not because I believe every neighbor is dangerous. Because boundaries do not become rude simply because someone else dislikes them. The strange part is that Margaret's warning was never really about a key. Tom had trust first. Then information. The key was only another step. He knew Margaret's habits because he had been her friend. He knew our routines because we'd welcomed him into our lives. Six months after moving into that house, I finally understood why Margaret carved those words into the closet. She was warning us that once they believed they had a right to enter your life, a locked door became an inconvenience instead of a boundary. The writing is still there. We painted the closet. Replaced the shelf. Fixed the trim. Not because I'm afraid I'll forget Tom and Linda. Because I don't want to forget how easy it was to laugh at a warning simply because the people it warned us about were nice. This story is inspired by the real experiences of our readers. We believe that every story carries a lesson that can bring light to others. To protect everyone's privacy, our editors may change names, locations, and certain details while keeping the heart of the story true. Images are for illustration only. If you'd like to share your own experience, please contact us via email.",
-      "url": "https://briefly.co.za/people/confessions/258803-our-houses-previous-owner-left-a-warning-months-i-learned-why/",
-      "source": "Briefly",
-      "image": "https://cdn.briefly.co.za/images/1200x675/82246b2dbad85ce0.jpeg?v=1",
-      "publishedAt": "2026-11-12T14:13:11Z",
+      "title": "An FBI Agent and Flight Attendant Reveal 5 'Just in Case' Items You Need to Stay Safe in Hotels and Airbnbs",
+      "description": "From a door wedge alarm to a high-tech hidden camera detector, here's what experts say to pack. Your hotel room should feel like a cozy home away from home after a chaotic day of travel, not a scary room in a building full of strangers, where you could be spied on, robbed, or bitten by insects in your sleep. Disturbingly, the space that's meant to be your little safe haven while you explore a destination can be the most dangerous place of all. We scoured TikTok to find out what experts say to pack for peace of mind the next time you check into a hotel or Airbnb. Whether you're planning your first solo trip or already consider yourself a seasoned pro, consider these safety tips from a flight attendant, FBI agent, dermatologist, and cybersecurity educator before you head off on your next vacation. The TikTok-famous flight attendant Cici in the Sky said in a recent video that hotel rooms are actually designed to be broken into -- \"I know,\" she said, \"because I've seen it.\" So, she always travels with this Sabre door wedge alarm that screams a 120-decibel siren when triggered. Among the almost 5,000 customers who have rated the $10 gadget five stars at Amazon are other flight attendants who agree it's a \"must-have\" for travel. The device is compact and TSA-friendly, and yes, there's an \"off\" switch, so it won't accidentally go off in your luggage. In a video with 3.6 million likes, former FBI agent and crime book author Steve Lazarus recommended travelers spend two or three minutes doing a security sweep when they first enter their room. \"Check hiding spots like closets and behind curtains, inspect door locks, deadbolts, and the peep hole to make sure they haven't been tampered with,\" he said. \"If you want to go full James Bond here, there are affordable devices...that will scan for radiofrequencies, magnets, and infrared, all of which are used in spy cameras and hidden microphones.\" This hidden camera detector is easy to pack and use, and is just $32. Cici in the Sky also recommends Sabre's portable door lock, which latches onto the strike plate to reinforce the existing lock. Her video shows that if you just use the \"panic-proof\" mechanism of most hotel room doors -- the kind that automatically unlocks when you turn the handle -- an intruder could easily get in by slipping a hook under the door to catch the handle. \"Unfortunately, this has happened way too many times, and videos are circulating online,\" she said. This tiny device is only about six inches long and 2.5 inches wide, and costs just $15, so you have no excuse not to keep one in your carry-on. Your biggest hotel fears probably concern intruders, thieves, and Peeping Toms, but one dermatologist says you also need to be cautious of the dangers lurking in the corners of your mattress. Dr. Mary Mcdaniel offered the 411 on bedbugs -- how to find them and how to avoid a catastrophic infestation. She says that you should never put luggage on carpet or furniture, avoid putting clothes in the dresser, and pull those bed sheets off to get a good look at the mattress seams. \"Ideally, get a bright light [and] flash it, because it'll make them move,\" she added. We found a packable UV flashlight that will help you see the little critters (and perhaps a lot more than you bargained for, too). A cybersecurity educator raised another concern you may not be aware of: juice jacking. That's when hackers steal your data from, or install malware on, your phone through a compromised USB port. And with so many tech devices now charging this way, USB ports are becoming more common on bedside lamps and wall outlets. Cybersecurity creator Caitlin says to use traditional AC power outlets instead -- and with this multi-plug adaptor that has its own USB-A and USB-C ports, you can still travel without a million charging bricks in your bag.",
+      "url": "https://www.travelandleisure.com/airbnb-hotel-personal-safety-devices-fbi-agent-expert-picks-november-2026-12246864",
+      "source": "Travel + Leisure",
+      "image": "https://www.travelandleisure.com/thmb/iY2OW0c7kCLhrhgBfPPhA1MlgKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-items-you-need-to-stay-safe-in-hotels-tout-b1da2a64901e4a5e8f05ffec57a4ad86.jpg",
+      "publishedAt": "2026-11-13T05:02:18Z",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
-      "confidence": 50,
+      "confidence": 55,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
+        "restroom context (1 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Our house's previous owner left a warning -- Six months later, I learned why\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"An FBI Agent and Flight Attendant Reveal 5 'Just in Case' Items You Need to Stay Safe in Hotels and Airbnbs\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Our house's previous owner left a warning -- Six months later, I learned why",
-      "description": "We laughed at the warning scratched inside our new house because our neighbors seemed perfectly kind. Six months later, one security alert made those words impossible to ignore. I stared at the doorbell feed. It was the Johnsons. Tom and Linda were standing on our porch. Tom had something in his hand. At first, I thought it was his phone. A key. I sat upright so fast I nearly knocked over my drink. Jason looked at me. \"What?\" I handed him the phone. It turned. The door opened. Linda glanced over her shoulder before following him inside. Then the door shut. Jason stared at me. I was already calling the police. \"We never gave them a key.\" \"I know.\" \"Maybe Margaret did.\" The warning scratched inside our upstairs closet flashed through my mind. \"No,\" I whispered. \"I don't think she did.\" We were nearly two hours from home at my sister's house, but Jason had already grabbed his keys. A police officer called while we were driving. Two units had reached the house. Tom and Linda were gone. Nothing obvious appeared stolen. \"Do they have permission to enter?\" the officer asked. \"No.\" \"Could the key have come from the previous owner?\" \"I don't know.\" For six months, Margaret's warning had been sitting 20 feet from our bedroom. We had laughed at it. When we reached home, two police cars were parked outside. Tom and Linda's house next door was dark. Officer Julius met us at the door. Jason shook his head. \"Computers. Jewelry. Normal stuff.\" Then I remembered something. \"The basement office.\" Jason looked at me. I was already heading downstairs. The small room behind the laundry area looked normal. Desk. Bookshelf. Filing cabinet. One corner had been folded back. Underneath was a square metal plate set into the concrete. Jason frowned. \"I've never seen that.\" Neither had I. Below it was a shallow floor safe. The safe was already open. Inside was nothing except dust and one white envelope. My name was written across the front. Officer Julius put on gloves and opened it. Margaret. My knees nearly gave out. The note continued. \"Tom and Linda do not have permission to enter this house.\" \"They had a key once.\" \"If they have another one now, they made it.\" \"Call me before you confront them.\" A phone number was written underneath. I called immediately. \"Margaret?\" \"Who is this?\" \"My name is Emily. We bought your house.\" Another pause. Then: \"They got in.\" \"Yes.\" She exhaled. \"Oh, God.\" I sat on the basement stairs. \"Please tell me what's happening.\" \"Tom and Linda were my best friends for 25 years.\" That wasn't what I expected. She and her husband, George, had moved into our house in 1992. The Johnsons arrived next door a year later. They raised their children side by side. Christmases. Vacations. Hospital visits. Linda had a key to Margaret's house. Margaret had one to theirs. Then George developed pancreatic cancer. He died eight years before we bought the house. Afterward, Linda and Tom checked on Margaret constantly. Linda brought groceries. Tom handled repairs. \"At first?\" Margaret sighed. \"Then I noticed things.\" Drawers left open. Mail moved. A bottle of wine she couldn't remember opening. Nothing large enough to prove. Nothing that couldn't be blamed on grief. \"I thought I was losing my mind.\" George had used it for insurance papers, jewelry, cash, and old business documents. One envelope disappeared. \"What was in it?\" I asked. \"Records about Tom.\" Years earlier, George and Tom had invested in small construction projects together. Not enough to destroy the business. Enough to end their partnership. George bought himself out and kept copies of the financial records in case Tom ever claimed George owed him money. \"And those documents disappeared?\" \"Yes.\" \"No. I couldn't prove he took them.\" So Margaret created a test. She placed an old photograph inside the safe in a specific position. Then she left town for two nights without telling the Johnsons. When she returned, the photograph had moved. \"Then Linda asked why her key stopped working.\" I stared at Jason. \"She admitted trying it?\" \"She said she'd heard a noise and wanted to check the house.\" \"While you were away?\" Margaret told them never to enter again. Linda cried. Tom became angry. After that, strange things started happening. A grocery bag appeared on the kitchen counter. A window Margaret thought she'd left open was suddenly locked. All after she'd changed the locks. \"How were they getting in?\" \"I didn't know.\" Margaret installed cameras. Then one camera vanished completely. Tom told neighbors Margaret had become paranoid since George died. Linda said grief had made her forgetful. Some people believed them. Others didn't want to get involved. I stared at the warning note. \"Why didn't you tell us before we bought the house?\" Margaret was silent. \"My attorney told me not to make accusations I couldn't prove.\" \"So you scratched it into the closet instead.\" \"Why there?\" \"Because Linda hated that closet.\" Despite everything, I almost laughed. Margaret explained that she worried a normal note might disappear during the sale if Tom or Linda entered again. The fixed shelf hid the warning. \"I left it during the final walkthrough.\" Officer Julius leaned closer to the phone. \"Mrs. Margaret, did the Johnsons know about the floor safe?\" Margaret hesitated. \"Eventually.\" \"I don't know.\" Then Jason asked the question that had been bothering me. \"Why come back now? Whatever George kept there is long gone.\" Margaret didn't know. But I remembered something. He hadn't asked whether we had an alarm. He asked about a key. I looked around the basement office. Linda already knew about this room. Tom knew our garage opener model. I pulled open the old desk drawers. The bottom one stuck. Jason tugged harder. It came free. Behind it was a narrow cavity. Officer Julius stopped us from touching it. He removed it with gloves. A camera. Tiny. Battery-powered. \"What the hell?\" We searched the rest of the house. We found two more. One behind a living room bookshelf. Another inside a smoke detector in the upstairs hallway. Not the bathroom. That barely made me feel better. Officer Julius called for more officers. I sat on the front steps while Jason paced. Then Linda opened her door next door. \"Emily?\" I stood. Officer Julius stepped between us. \"Where's Tom?\" I asked. \"Inside.\" Her face changed. \"We were checking something.\" \"Using a key we never gave you.\" \"I can explain.\" Officer Julius nodded. Tom came outside. He looked more annoyed than scared. \"This is ridiculous.\" I almost laughed. That was exactly what Margaret had said he'd done to her. Jason stepped toward him. \"You went inside our house.\" Tom pointed at me. \"Your wife is overreacting.\" \"Don't talk about my wife.\" \"Helping with what?\" Tom glanced at our house. Just once. I saw it. So did Officer Julius. Linda's face collapsed. Tom's didn't. That told me enough. Linda whispered, \"Tom.\" He turned sharply. Officer Julius asked them to return home while police investigated. Then an officer mentioned getting a warrant. Linda began crying. \"Please.\" Tom looked at her. \"No.\" \"Linda.\" She shook her head. \"I'm done.\" Tom stared at her. She looked at us. \"We had a key made.\" Jason froze. Officer Julius asked, \"When?\" \"Two months ago.\" Linda wiped her face. \"Tom copied Jason's key.\" I stared at her. Then I remembered move-in week. Tom had loaned us his ladder. Jason's keys were on the workbench. Apparently, Tom made an impression of the house key and later had a copy made. Jason looked sick. \"Why?\" Linda glanced at Tom. Tom snapped, \"Shut up.\" She didn't. She told us the truth Margaret had suspected for years. Tom had taken George's documents from the safe. He had learned the combination, entered the house using their spare key, and removed the records of his old financial misconduct. He began searching the house whenever Margaret was away. Sometimes Linda kept watch. Sometimes she went inside with him. \"Why keep searching after she sold the house?\" I asked. \"Because Tom thought George hid another set of records.\" Linda nodded. George had used the room years earlier. Tom believed something had been hidden there. \"So you searched our home.\" \"Twice.\" \"The garage door?\" \"Tom.\" \"And the cameras?\" Linda looked down. \"We put them in so we'd know if you found anything.\" Six months of living in that house. Sleeping. Arguing. Eating breakfast. Meanwhile, the people next door thought they had some invisible right to enter. Tom finally spoke. \"You have no proof.\" Linda stared at him. \"I just told them.\" Her expression changed. There it was. The exact thing Margaret had described. Tom didn't shout. He simply looked at Linda as if reality belonged to him. \"No.\" His jaw tightened. \"No what?\" \"I'm not confused.\" Later, after Linda consented to a search of their house, officers found far more than I expected. Margaret's missing envelope. Old photographs of George's business records. Blank keys. A key-copying kit. Our house. Inside were sketches of our basement and notes about our schedules. \"Monday - both cars gone by 8.\" \"Thursday - Jason home early.\" \"Weekend - unpredictable.\" Tom was arrested. The case took months. I won't pretend every charge was simple, especially when it came to things that had happened years earlier. But police had evidence involving unlawful entry, surveillance, stolen property, and the copied key. Linda cooperated. It didn't erase her part. She had entered our house too. She had spent years helping Tom. But she finally gave the police what they needed. She moved out two weeks later. Before Linda left, she knocked on our door. This time she waited for me to answer. I did not invite her inside. \"I'm sorry,\" she said. I said nothing. \"No.\" She looked down. \"I kept telling myself Tom was only looking for something that belonged to him.\" \"Did you believe that?\" \"For a while.\" She shook her head. \"No.\" That answer mattered. \"Then why keep helping?\" \"Because once I admitted what he was doing, I also had to admit what I'd done.\" I understood it. I didn't forgive it. A month later, Margaret came to visit. She stood in the upstairs closet staring at the warning. DON'T EVER GIVE THE JOHNSONS A KEY. \"Why didn't you just write, 'They break into houses'?\" Margaret laughed. \"Would you have believed me?\" Probably not. That was the uncomfortable part. Lasagna. Ladders. Garbage schedules. Halloween advice. We expect dangerous neighbors to glare through blinds and argue about fences. Sometimes they're the people who know when you leave for work because they're the ones bringing your trash can in. For a while, I was angry. Then I remembered how long she'd been called forgetful, grieving, paranoid, confused. Eventually, even Margaret had started doubting herself. I understood why she had left a sentence on a wall instead of making another accusation nobody might believe. We changed every lock. We replaced the alarm and installed new cameras. Real ones. The old desk went. I couldn't look at it without imagining the hidden camera behind the drawer. The basement office is mine now. For the first few months, I checked every corner whenever I entered. Then one afternoon, I realized four hours had passed without me thinking about Tom Harris. That felt like getting part of the house back. The Harris house eventually sold. A young couple moved in. Jason stared at the plate. \"Absolutely not.\" I laughed so hard I nearly dropped them. We ate the cookies. They were excellent. Nobody does. Not because I believe every neighbor is dangerous. Because boundaries do not become rude simply because someone else dislikes them. The strange part is that Margaret's warning was never really about a key. Tom had trust first. Then information. The key was only another step. He knew Margaret's habits because he had been her friend. He knew our routines because we'd welcomed him into our lives. Six months after moving into that house, I finally understood why Margaret carved those words into the closet. She was warning us that once they believed they had a right to enter your life, a locked door became an inconvenience instead of a boundary. The writing is still there. We painted the closet. Replaced the shelf. Fixed the trim. Not because I'm afraid I'll forget Tom and Linda. Because I don't want to forget how easy it was to laugh at a warning simply because the people it warned us about were nice. This story is inspired by the real experiences of our readers. We believe that every story carries a lesson that can bring light to others. To protect everyone's privacy, our editors may change names, locations, and certain details while keeping the heart of the story true. Images are for illustration only. If you'd like to share your own experience, please contact us via email.",
-      "url": "https://www.legit.ng/people/confessions/1740968-our-houses-previous-owner-left-a-warning-months-i-learned-why/",
-      "source": "Legit.ng - Nigeria news.",
-      "image": "https://cdn.legit.ng/images/1200x675/82246b2dbad85ce0.jpeg?v=1",
-      "publishedAt": "2026-11-12T14:04:21Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Our house's previous owner left a warning -- Six months later, I learned why\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Orem Man Accused of Recording Child in Provo Ross Changing Room",
-      "description": "An 11-year-old told Provo police she saw a phone over a Ross changing-room stall. Daniel Donofrio, 36, was booked in Utah County Jail on a voyeurism allegation.",
-      "url": "https://hoodline.com/2026/11/orem-man-accused-of-recording-child-in-provo-ross-changing-room/",
-      "source": "Hoodline",
-      "image": "https://img.hoodline.com/2026/11/orem-man-accused-of-recording-child-in-provo-ross-changing-room.webp",
-      "publishedAt": "2026-11-12 00:50:55",
+      "title": "RI man charged with creating AI-assisted child porn slated for release",
+      "description": "PROVIDENCE - A 38-year-old North Smithfield man, who is accused of using AI tools to generate child sexual abuse material from his own voyeuristic photographs of local gymnasts, cheerleaders and dancers, remained in jail Friday, Nov. 13, after federal prosecutors secured a stay that will temporarily head off his pending release. Despite emotional pleas from five witnesses recognized as victims, prosecutors were unable to persuade U.S. Magistrate Judge Rebecca L. Aitchison to keep Joseph Mello III locked up as his case is handled in federal court. However, Aitchison agreed to issue a stay and give prosecutors until 5 p.m. Friday to file a motion seeking intervention from a U.S. District Court judge. She sent Mello back into detention, but only temporarily. Her decision to order home confinement for Mello, with electronic monitoring and restrictions to keep him from using any devices beyond a flip phone, was a major setback for prosecutors, who argued that Mello's lawyer had not rebutted a presumption under the law that no set of bail conditions can ensure community safety if Mello goes free. \"Optimism is not a rebuttal,\" said Assistant U.S. Attorney Denise M. Barton. \"It is a hope.\" Federal investigation IDs 50+ victims of exploitation Lincoln police initially arrested Mello in April and charged him at the state level with video voyeurism. But since then a federal investigation led by Homeland Security Investigations has identified more than 50 victims of Mello's exploitation, prosecutors say. One mother told Aitchison that Mello's exploitation has changed the way she now experiences family life in public spaces outside their home. \"I find myself constantly looking around,\" she said. \"Watching strangers. Wondering whose cell phone is out.\" A young woman told Aitchison that she had looked up to Mello as a coach. Later, she said, she unwittingly allowed him to have a role when she opened a gym. She would learn that he had preyed on 30 victims, she said, adding that one of the children he exploited was her own sister. She saw the images. \"I will never unlive that moment,\" she said. Shirtless 12-year-old girl notices cell phone pressed against window of a changing room The law enforcement action in the case dates back to April 4, when Lincoln police investigated an incident involving a 12-year-old girl that had taken place in the town on April 3. The girl told investigators she had been changing in a bathroom and she was unclothed from her waist up when she heard a noise. It came from a nearby window in the same room. She told police she looked up to see what she believed was a cell phone pressed against the window, according to an affidavit filed by Lincoln police Detective Nicholas Nunes, who serves on a federal task force with Homeland Security Investigations. As described by Nunes' affidavit, the girl was in a small room with a toilet that also functions as a changing room for the Lincoln facility. The facility, either a site for dancing or cheerleading or gymnastics, is not identified by name. The affidavit, which is redacted, appears to say that Mello and his wife had attended \"classes\" and that he had been a \"performer\" at the same facility. On April 15, acting on the strength of a warrant authorized in state court, police searched Mello's previous home in North Smithfield and seized 11 electronic devices. During an interview recorded on video, the affidavit says, Mello acknowledged he had used his phone to record the 12-year-old child in the bathroom. He \"stated that he makes these videos for the thrill and for sexual gratification,\" the affidavit says. Mello also told investigators that he uses SwapX AI and Grok AI applications to create AI-generated video of oral sex, the affidavit says. He said he stores the content on his Samsung cell phone, it says. Mello was arrested and charged with video voyeurism. The examination of Mello's Samsung phone revealed he had used AI applications to process existing videos and images of children into child sexual abuse material, which depicts the prepubescent minors as engaged in sexually explicit conduct, according to the affidavit. Investigators count 953 videos and 2,881 photographs on a Samsung phone The depicted sexual conduct, which the children did not actually participate in, includes interactions with Mello, it says. The affidavit describes the photos taken prior to the AI processing as \"non-child sexual abuse material.\" The 12-year-old girl photographed in the bathroom in Lincoln is among children pictured in these existing images, says the affidavit, adding that she is looking up \"with a shocked expression.\" The ages of the children in the photographs ranged between 8 and 13, it says. It appears the images were taken at the site in Lincoln; a site in Seekonk, where Mello worked as a gymnastics instructor; and at another site in Smithfield, the affidavit says. The \"overwhelming majority\" of the 953 videos and 2,881 photographs found on Mello's phone depict AI-generated sexual content involving children, including girls known to be minors. The affidavit extensively cites different types of digital evidence, including different verbatim directions that it accuses Mello of using to direct the AI-generation. Many of them are extremely explicit. \"Keep the facial features of the subject in the reference image unchanged and remove her clothes,\" is among the less explicit prompts. \"She holds her gaze and doesn't look away,\" is another. On April 12, 2026, Mello employed a tool identified as AIFaceSwap to create images showing the faces of prepubescent girls from dance and gymnastics facilities that he attended or worked at with the nude bodies of adult women positioned in the setting of a pool area, the affidavit says. Investigators also found other sexual abuse material, examples of child pornography previously cataloged by law enforcement organizations such as the National Center for Missing & Exploited Children, the affidavit says.",
+      "url": "https://eu.providencejournal.com/story/news/crime/2026/11/13/rhode-island-man-charged-with-creating-ai-assisted-child-porn-images-slated-for-release/92753685007/",
+      "source": "Associated Press",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/13/NPRJ/87257088007-thumbnail-gavel-2.jpg?auto=webp&crop=1279,720,x0,y96&format=pjpg&width=1200",
+      "publishedAt": "2026-11-13T11:07:35Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -202,52 +202,29 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Orem Man Accused of Recording Child in Provo Ross Changing Room\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"RI man charged with creating AI-assisted child porn slated for release\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
     },
     {
-      "provider": "NewsData.io",
-      "title": "UNCW police investigating alleged hidden camera in residence hall bathroom",
-      "description": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/5001905299049-uncw-police-investigating-alleged-hidden-camera-in-residence-hall-bathroom",
-      "source": "Newsbreak",
-      "image": null,
-      "publishedAt": "2026-11-12 00:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
+      "provider": "NewsAPI.ai",
+      "title": "Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall",
+      "description": "A Newton man was charged with a felony and misdemeanors after allegedly masturbating outside the windows of first-year female Boston College students living on the University's Newton Campus, according to court records obtained by The Heights. The defendant, Isaac Fine, 50, is a BC Law graduate. He was charged with one felony count of open and gross lewdness, and four misdemeanor charges -- two for trespassing and two for disorderly conduct -- stemming from incidents on Oct. 1, 2025, and March 19, 2026. The lewdness charge alone carries a maximum penalty of three years in state prison. \"The defendant entered Boston College property on the Newton campus and peered through the windows on the side of Cushing Hall, a residence hall for female students,\" a summary of the allegations submitted by the Middlesex County District Attorney's Office on Oct. 13 read. \"He was seen and heard masturbating at an electrical box outside of Cushing Hall.\" Fine has pleaded not guilty to all charges. Fine's attorney, Kate Frame, asserted her client's innocence and raised questions about the adequacy of the investigation in a statement to The Heights. \"The case against our client is a compromised case based solely upon unreliable evidence,\" Frame wrote. \"In the interest of protecting our client's right to a fair trial, we expect to litigate these issues fully and fairly in Court rather than in the Court of public opinion.\" The Middlesex County District Attorney's Office declined to comment on the pending case. In an April interview -- after the Boston College Police Department (BCPD) identified him as a suspect -- Fine allegedly told a BCPD detective he had come to campus to masturbate \"around 20 times\" and had visited \"4 to 5 times\" over approximately the last five years, according to a BCPD case report submitted to the court. Fine also \"admitted to being behind Cushing and masturbating on the March 19 2026 incident,\" according to the report. In reference to the Oct. 1 incident, Fine allegedly said, \"I don't recall the exact date, but I believe I was there.\" When asked \"if he was masturbating during the October 1st incident,\" the report says Fine \"stated 'yes.'\" Fine also allegedly told the detective he had visited the campuses of Lasell University in Newton and Regis College in Weston, according to the detective's report. Weston Police referred The Heights' inquiries to the Regis College Police Department (RCPD). Neither RCPD nor the Newton Police Department (NPD) could verify any incidents involving Fine at either school in the past year. According to the case report, an attorney for Fine was present during the interview, and Fine received his Miranda rights in writing, which he and his attorney both signed. The victim of the March 19 incident told BCPD she first saw a man matching Fine's description wandering behind Cushing Hall during the second week of the 2025-26 academic year. She told the police she did not report it because she assumed he was a parent. Asked in the same April interview whether he had been on campus around that time, Fine allegedly said, \"I don't remember the exact dates, but yes that is possible.\" Asked whether he masturbated then, he allegedly said, \"There were times when I would go there and I wouldn't see anything so I didn't do anything.\" Students reported seeing the same man at least three more times after that first sighting, according to the case report. Fine was charged only in connection with the October and a March incident. BCPD did not identify a suspect until five months after the first reported incident. The University did not issue a campuswide notification or advisory informing students about any of the reported incidents. Responding to a Heights inquiry regarding the March incident, University Spokesman Jack Dunn said a notification was unnecessary. \"Given that the suspect was quickly apprehended and that there were no other reported incidents, BCPD did not issue a campus notification,\" Dunn wrote. BCPD Chief of Police Bill Evans echoed Dunn's statement. \"I think within a couple of days, we knew who the culprit was, so where it's one incident and one incident only, we didn't think the need was, like, an emergency situation where we had to notify everybody,\" Evans said. \"We would never let a situation go where we wouldn't notify if we thought there was a rash of these incidents or our students were in any danger.\" Evans said BCPD installed new security cameras in the area around Cushing Hall following the March incident. The Oct. 1 Incident Around 10 p.m. on Oct. 1, 2025, according to a police report, a female student was sitting on her bed in her first-floor dorm in Cushing Hall when her roommate entered the room and gasped. The roommate told police she saw a white male, around 50 years old, peering into the window directly across from the door and propping himself up on the outside sill. She gasped, and the man ducked. Both ran to the window and watched the man flee toward Centre Street, the main road that runs past Newton Campus. An officer stationed at the Newton Campus responded to Cushing Hall \"regarding a person peering into their first floor window.\" \"I immediately reconnoitered the back of Cushing Hall looking for the suspect who was described as a 50-year-old or older white male with a balding head with short patches of side hair, wearing long pants,\" the officer wrote in his report. The roommate confirmed to the officer that the man was wearing long pants and had \"a shiny bald head with patchy hair.\" Another first-year female resident told the responding officer she had seen that same man several weeks prior wandering behind Cushing Hall around the second week of school. She provided a similar description of an older balding white man with dark blue eyes wearing long pants and a short-sleeve shirt. She stated she thought he was a parent and thus did not report it. The officer on scene provided the students with a police contact number and his email and told them to report any further suspicious activity as soon as possible. It is unclear whether BCPD conducted a further investigation following this incident. BCPD declined to answer questions about the incident, citing pending litigation. The March 19 Incident Around 8 p.m. on March 19, 2026, a female student was changing in her ground-level dorm in Cushing Hall when she saw a man outside peering through her window, according to a BCPD report. She did not notice anyone at first, but a \"rubbing sound\" alerted her to a man's presence. She said she believed the noise was the man masturbating. This was the same student who said she saw a man matching Fine's description walking around the back of Cushing Hall during the second week of school. \"Outside my window, there is a electricity box and the man stepped out from the box looking in my window masturbating,\" she wrote in her statement to BCPD. \"The noise I had heard I am quite certain was from [him] touching himself.\" After spotting the man, the student pretended not to notice him and warned other female students on her floor about what she witnessed via a group chat. \"Guys I'm scared there's a guy outside again,\" she texted in the chat, according to a floormate's account of the incident to police. That floormate said she ran to the victim's room upon receiving the message and found her in the hallway. The floormate then called BCPD's emergency number, while the victim tried to spot the suspect from a nearby window. While she was on the phone with the police, the two saw a man fleeing. \"I saw a blurry figure running to the right but I did not get a great view because I was on the phone trying to explain what had happened,\" the floormate wrote in her statement to BCPD. A uniformed BCPD officer parked within the Cushing Hall circle responded to the call. In the police report, he stated he did not observe anyone fleeing the scene. \"I did not see any person run by me at the time of the dispatch notification,\" the officer wrote. \"I drove towards Stuart Hall and did not see any person matching the description presented as a 40-50 year old white man dressed in black.\" Immediately after the report, NPD broadcast a dispatch asking officers to look out for an approximately 40-year-old man, dressed in all black, fleeing the area toward Newton Centre, according to dispatch logs reviewed by The Heights. In the minutes that followed, NPD informed officers of new information provided by BCPD that the suspect had \"exposed himself through one of the windows into the dorm.\" The BCPD officer then entered Cushing Hall to interview the victim and floormate. Around 30 minutes later, a Massachusetts State Police K-9 unit was dispatched to assist with the \"apprehension of the suspect.\" On arrival, the K-9 unit picked up a scent and traced it to a parking lot of Duchesne Hall, an adjacent dorm on Newton Campus, where it lost the scent. The Heights obtained a GroupMe message from a residential assistant in neighboring Hardey Hall notifying some students of a \"peeping tom,\" described as a \"40-50 year old dressed in all black.\" Hours later, a BCPD detective reviewed footage from a blue light camera located in the Cushing Hall parking lot and \"observed suspicious activity,\" according to another police report. \"At 20:03 hours, a white pickup truck is observed parking on the left side of the screen shortly before the event occurred,\" the detective wrote. \"After the truck stops, and before the operator exits the vehicle, a white male wearing a dark colored jacket, dark colored pants (lighter than the jacket) and white shoes is seen running from behind the white pickup truck from the area where the suspect was said to have been looking in the window of Cushing Hall.\" The detective used the footage to trace the suspect's direction toward Barat House. The officer then attempted to view another blue light camera angle that \"would have observed the male,\" but according to the detective, the camera didn't record any footage. BC's Response to the Incidents On the day of the March incident, NPD provided BCPD with the license number of a person of interest other than Fine, but an NPD spokesperson could not provide more information on why the patrol officer flagged that individual. \"It appears to me that they just gave the name of a person of interest who has been known to frequent that area and matched the description,\" an NPD spokesperson told The Heights in an email. \"It was not to say [that it] was in fact their suspect.\" NPD did not file a police report for this incident, according to the department spokesperson. Evans also told The Heights that the person of interest was not considered a suspect in the case. \"We believe [Fine] was the individual involved, and nobody else,\" Evans said. Following the March incident, a BCPD detective reviewed footage from the Law Library roof and identified a BC shuttle bus entering the Newton Campus around the time the suspect was reported fleeing. BCPD used the bus' dash camera footage to identify a dark sedan exiting the parking lot where the officer \"believe[d] the suspect may have fled to.\" The detective then reviewed Newton Campus Guard Shack footage. It showed a vehicle registered to Fine that \"appeared to be similar\" to the dark sedan leaving the campus around the time of the incident. BCPD contacted Fine, who confirmed, according to the detective's report, that he had been on the Newton Campus on March 19. Fine told the detective that he \"went to the Law Library\" to do research because he was \"going to be writing a book.\" When the detective asked what time Fine entered the library, Fine told him he \"never made it inside\" because he \"had to go to the bathroom.\" He then allegedly told the detective that he \"walked into the woods\" where \"some kids started yelling at [him] while [he] was back there,\" and he left. Following the conversation, the detective met with Fine on March 26, according to a BCPD report filed in the lewdness case. The officer read Fine his Miranda rights and informed him of the criminal allegations against him. Fine responded, \"That's not me, I think there is a misunderstanding,\" according to the detective's report, before continuing, \"I was back there but I wasn't doing anything like that.\" Fine then said, \"I'm going to call a lawyer,\" and asked the detective's permission to leave, according to the detective's report. The detective then issued Fine a trespass warning \"verbally and in writing.\" On April 2, a week after the initial meeting, Fine met with the detective again, now accompanied by a lawyer. This was the meeting in which Fine allegedly admitted to masturbating behind Cushing Hall on both Oct. 1 and March 19, according to BCPD's filings. BCPD filed misdemeanor charges in the Newton District Court on April 29 for the Oct. 1 and March 19 incidents. Fine was arraigned on June 9. On the same day, the Middlesex County District Attorney's Office added one felony charge of lewdness, open and gross, in connection with the March 19 incident. Fine pleaded not guilty to all charges. As part of his pretrial conditions of release on the trespass and disorderly conduct charges, he is barred from Lasell and Regis. He is prohibited from BC's properties, including the main and Newton campuses, under his pretrial conditions of release for all charges. He is due to appear in court next on Nov. 17.",
+      "url": "https://bcheights.com/234589/news/man-charged-with-felony-and-misdemeanors-after-allegedly-masturbating-outside-cushing-hall/",
+      "source": "The Heights",
+      "image": "https://bcheights.com/wp-content/uploads/2026/11/Adobe-Express-file-68.jpg",
+      "publishedAt": "2026-11-13T04:06:53Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
+        "restroom context (2 terms)",
         "category terms (1)",
-        "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"UNCW police investigating alleged hidden camera in residence hall bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "UNCW police investigating alleged hidden camera in residence hall bathroom",
-      "description": "UNCW removed a student from campus after a suspected camera was found in a Pelican Hall residence hall bathroom. Police are investigating possible recordings.",
-      "url": "https://www.wect.com/2026/11/11/uncw-police-investigating-alleged-hidden-camera-residence-hall-bathroom/",
-      "source": "Wect News 6",
-      "image": "https://gray-wect-prod.gtv-cdn.com/resizer/v2/EZSCQJEHRNB6VKGA3EKX7KVNRQ.jpg?auth=3bfa831a112137c5ec8950082e5bbcdd3762278fa2fc023a0f4256a69ed4cac0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-11 19:36:23",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"UNCW police investigating alleged hidden camera in residence hall bathroom\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -269,16 +246,16 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Businessman arrested on voyeurism charges after camera found in bakery bathroom",
-      "description": "A Lake Charles man has been arrested on charges of video voyeurism, as investigators look into cameras found at his residence and at a local business he owned. Emmett \"Cary\" Sole, 55, was booked into the Calcasieu Parish Sheriff's Office on Wednesday, Nov. 11, on two counts of video voyeurism of a child under the age of 17. According to the Lake Charles Police Department, detectives received a complaint on Nov. 9 with digital evidence that showed a camera was hidden in certain rooms of a local residence that captured a minor under the age of 17 fully unclothed. Days before receiving that complaint, LCPD officials said that on Nov. 5, detectives were contacted about a camera that had been found inside the bathroom at the Helen Street Bake House, located at 1736 Common St. Sole is the registered owner of the Helen Street Bake House, but police have not commented on whether they believe Sole is connected to both incidents. As of Thursday, no additional charges have been filed against Sole. His current bond is set at $1 million. Authorities said the investigation is ongoing. Anyone who has information regarding these incidents is encouraged to contact Lake Charles Police at 337-491-1311.",
-      "url": "https://americanpress.com/2026/11/12/local-bakery-owner-arrested-on-video-voyeurism-charges/",
-      "source": "Lake Charles American Press",
-      "image": "https://americanpress.com/wp-content/uploads/sites/65/2026/11/Screen-Shot-2026-11-12-at-1.12.14-PM.png?w=406",
-      "publishedAt": "2026-11-12T19:13:24Z",
+      "title": "Northumberland man sentenced after pleading guilty to voyeurism",
+      "description": "A Northumberland man has been given a suspended prison sentence after he admitted two charges of voyeurism. Sean Macneil pleaded guilty to the offences when he appeared at Berwick Magistrates' Court on October 15. The 47-year-old, from Byrness Village, was back before magistrates on Thursday following the preparation of pre-sentence reports. He admitted recording a private act and installing equipment for the purpose of obtaining sexual gratification between November 19 and March 15. James Long, prosecuting, said the hidden camera in place over a period of time and which required batteries to be changed at regular intervals showed there had been a degree of planning. The defendant also admitted a charge of possession of cannabis. Ian O'Rourke, in mitigation, said: \"His judgement and decision-making appears to have been influenced by the amount of alcohol he was taking coupled with drugs. \"He was taking non-prescription morphine, cocaine and cannabis and that was steadily increasing as he attempted to self-medicate because of worries about a debt totalling £30,000.\" The court heard he had also been diagnosed with depression but was receiving help from a number of agencies. Chair of magistrates John Fleet said: \"We do find there has been both raised harm and raised culpability. There was a degree of planning in that images were recorded. \"Having read the pre-sentence report we believe there is a realistic prospect of rehabilitation that means we can suspend the prison sentence.\" The defendant was sentenced to a 12 month prison sentence, suspended for 24 months. He was also ordered to do 120 hours unpaid work and pay £750 compensation to the victim.",
+      "url": "https://www.northumberlandgazette.co.uk/news/courts/northumberland-man-sentenced-after-pleading-guilty-to-voyeurism-9349773",
+      "source": "Northumberland Gazette",
+      "image": "https://www.northumberlandgazette.co.uk/webimg/b25lY21zOmRiZTc5NjI0LWFlMzgtNDYzYS1iZGE3LTVjYzRiMGQ4MGE3MDplY2FiZjg0OS00MzgwLTQ0ZDYtYTc5ZS1hNjlhY2U1ZDUyMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-11-13T13:34:07Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -290,8 +267,206 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Businessman arrested on voyeurism charges after camera found in bakery bathroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-12T19:31:27.905Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Northumberland man sentenced after pleading guilty to voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.knoe.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.knoe.com",
+      "image": "https://gray-knoe-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.kotatv.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.kotatv.com",
+      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.kctv5.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Kctv5 News",
+      "image": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.29news.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.29news.com",
+      "image": "https://gray-wvir-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.12onyourside.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.12onyourside.com",
+      "image": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.cleveland19.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.cleveland19.com",
+      "image": "https://gray-woio-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.wfsb.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Wfsb Channel 3",
+      "image": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.newschannel10.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.newschannel10.com",
+      "image": "https://gray-kfda-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
+      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
+      "url": "https://www.wmtv15news.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
+      "source": "Https://www.wmtv15news.com",
+      "image": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-13 00:11:29",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-13T19:11:40.344Z"
     }
   ]
 }
