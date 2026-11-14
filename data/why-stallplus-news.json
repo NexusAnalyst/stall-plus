@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:11:40.344Z",
+  "updatedAt": "2026-11-14T17:38:57.143Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,9 +12,9 @@
   },
   "reviewSummary": {
     "published": 5,
-    "pending": 14,
-    "rejected": 54,
-    "carriedForward": 3
+    "pending": 8,
+    "rejected": 61,
+    "carriedForward": 5
   },
   "categoryCounts": [
     {
@@ -164,34 +164,57 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "An FBI Agent and Flight Attendant Reveal 5 'Just in Case' Items You Need to Stay Safe in Hotels and Airbnbs",
-      "description": "From a door wedge alarm to a high-tech hidden camera detector, here's what experts say to pack. Your hotel room should feel like a cozy home away from home after a chaotic day of travel, not a scary room in a building full of strangers, where you could be spied on, robbed, or bitten by insects in your sleep. Disturbingly, the space that's meant to be your little safe haven while you explore a destination can be the most dangerous place of all. We scoured TikTok to find out what experts say to pack for peace of mind the next time you check into a hotel or Airbnb. Whether you're planning your first solo trip or already consider yourself a seasoned pro, consider these safety tips from a flight attendant, FBI agent, dermatologist, and cybersecurity educator before you head off on your next vacation. The TikTok-famous flight attendant Cici in the Sky said in a recent video that hotel rooms are actually designed to be broken into -- \"I know,\" she said, \"because I've seen it.\" So, she always travels with this Sabre door wedge alarm that screams a 120-decibel siren when triggered. Among the almost 5,000 customers who have rated the $10 gadget five stars at Amazon are other flight attendants who agree it's a \"must-have\" for travel. The device is compact and TSA-friendly, and yes, there's an \"off\" switch, so it won't accidentally go off in your luggage. In a video with 3.6 million likes, former FBI agent and crime book author Steve Lazarus recommended travelers spend two or three minutes doing a security sweep when they first enter their room. \"Check hiding spots like closets and behind curtains, inspect door locks, deadbolts, and the peep hole to make sure they haven't been tampered with,\" he said. \"If you want to go full James Bond here, there are affordable devices...that will scan for radiofrequencies, magnets, and infrared, all of which are used in spy cameras and hidden microphones.\" This hidden camera detector is easy to pack and use, and is just $32. Cici in the Sky also recommends Sabre's portable door lock, which latches onto the strike plate to reinforce the existing lock. Her video shows that if you just use the \"panic-proof\" mechanism of most hotel room doors -- the kind that automatically unlocks when you turn the handle -- an intruder could easily get in by slipping a hook under the door to catch the handle. \"Unfortunately, this has happened way too many times, and videos are circulating online,\" she said. This tiny device is only about six inches long and 2.5 inches wide, and costs just $15, so you have no excuse not to keep one in your carry-on. Your biggest hotel fears probably concern intruders, thieves, and Peeping Toms, but one dermatologist says you also need to be cautious of the dangers lurking in the corners of your mattress. Dr. Mary Mcdaniel offered the 411 on bedbugs -- how to find them and how to avoid a catastrophic infestation. She says that you should never put luggage on carpet or furniture, avoid putting clothes in the dresser, and pull those bed sheets off to get a good look at the mattress seams. \"Ideally, get a bright light [and] flash it, because it'll make them move,\" she added. We found a packable UV flashlight that will help you see the little critters (and perhaps a lot more than you bargained for, too). A cybersecurity educator raised another concern you may not be aware of: juice jacking. That's when hackers steal your data from, or install malware on, your phone through a compromised USB port. And with so many tech devices now charging this way, USB ports are becoming more common on bedside lamps and wall outlets. Cybersecurity creator Caitlin says to use traditional AC power outlets instead -- and with this multi-plug adaptor that has its own USB-A and USB-C ports, you can still travel without a million charging bricks in your bag.",
-      "url": "https://www.travelandleisure.com/airbnb-hotel-personal-safety-devices-fbi-agent-expert-picks-november-2026-12246864",
-      "source": "Travel + Leisure",
-      "image": "https://www.travelandleisure.com/thmb/iY2OW0c7kCLhrhgBfPPhA1MlgKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-items-you-need-to-stay-safe-in-hotels-tout-b1da2a64901e4a5e8f05ffec57a4ad86.jpg",
-      "publishedAt": "2026-11-13T05:02:18Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 55,
+      "title": "Man charged in connection with peeping tom incident at University of Maryland residence hall",
+      "description": "A man has been charged in connection with a \"voyeur incident\" that happened Thursday inside a residence hall at the University of Maryland, police say. Officers from the University of Maryland Police Department (UMPD) responded to reports of the incident at around 8:00 p.m., according to a police statement. A resident at the hall was taking a shower when they noticed a cell phone come over the top of the curtain with the device's camera appearing to point towards them. Police said the suspect gained access to the building by following someone else in through a gate. \"The resident yelled at the suspect and saw that the suspect was a man, wearing a black hooded sweatshirt before the suspect left the bathroom,\" the statement said. The officers arriving on the scene met with the resident and suspect in the lobby of the residence hall after the incident. After further investigation, the suspect -- who police identified as 32-year-old Seonghun Hong, from Falls Church, Virginia -- was placed in handcuffs and taken into custody. Hong has been charged with multiple counts relating to the incident, the statement said. These included peeping tom, trespassing and damaging property.",
+      "url": "https://www.cbsnews.com/baltimore/news/man-charged-peeping-tom-incident-university-of-maryland/",
+      "source": "CBS News",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/5e12b84a-8da8-4216-8108-9e3b1b919340/thumbnail/1200x630/e9adfce916bb281c0c0da5ce80f34393/wjz-thumbnail-38.png",
+      "publishedAt": "2026-11-14T00:00:26Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (2), published within 7 days, multiple category terms). \"An FBI Agent and Flight Attendant Reveal 5 'Just in Case' Items You Need to Stay Safe in Hotels and Airbnbs\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged in connection with peeping tom incident at University of Maryland residence hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "RI man charged with creating AI-assisted child porn slated for release",
-      "description": "PROVIDENCE - A 38-year-old North Smithfield man, who is accused of using AI tools to generate child sexual abuse material from his own voyeuristic photographs of local gymnasts, cheerleaders and dancers, remained in jail Friday, Nov. 13, after federal prosecutors secured a stay that will temporarily head off his pending release. Despite emotional pleas from five witnesses recognized as victims, prosecutors were unable to persuade U.S. Magistrate Judge Rebecca L. Aitchison to keep Joseph Mello III locked up as his case is handled in federal court. However, Aitchison agreed to issue a stay and give prosecutors until 5 p.m. Friday to file a motion seeking intervention from a U.S. District Court judge. She sent Mello back into detention, but only temporarily. Her decision to order home confinement for Mello, with electronic monitoring and restrictions to keep him from using any devices beyond a flip phone, was a major setback for prosecutors, who argued that Mello's lawyer had not rebutted a presumption under the law that no set of bail conditions can ensure community safety if Mello goes free. \"Optimism is not a rebuttal,\" said Assistant U.S. Attorney Denise M. Barton. \"It is a hope.\" Federal investigation IDs 50+ victims of exploitation Lincoln police initially arrested Mello in April and charged him at the state level with video voyeurism. But since then a federal investigation led by Homeland Security Investigations has identified more than 50 victims of Mello's exploitation, prosecutors say. One mother told Aitchison that Mello's exploitation has changed the way she now experiences family life in public spaces outside their home. \"I find myself constantly looking around,\" she said. \"Watching strangers. Wondering whose cell phone is out.\" A young woman told Aitchison that she had looked up to Mello as a coach. Later, she said, she unwittingly allowed him to have a role when she opened a gym. She would learn that he had preyed on 30 victims, she said, adding that one of the children he exploited was her own sister. She saw the images. \"I will never unlive that moment,\" she said. Shirtless 12-year-old girl notices cell phone pressed against window of a changing room The law enforcement action in the case dates back to April 4, when Lincoln police investigated an incident involving a 12-year-old girl that had taken place in the town on April 3. The girl told investigators she had been changing in a bathroom and she was unclothed from her waist up when she heard a noise. It came from a nearby window in the same room. She told police she looked up to see what she believed was a cell phone pressed against the window, according to an affidavit filed by Lincoln police Detective Nicholas Nunes, who serves on a federal task force with Homeland Security Investigations. As described by Nunes' affidavit, the girl was in a small room with a toilet that also functions as a changing room for the Lincoln facility. The facility, either a site for dancing or cheerleading or gymnastics, is not identified by name. The affidavit, which is redacted, appears to say that Mello and his wife had attended \"classes\" and that he had been a \"performer\" at the same facility. On April 15, acting on the strength of a warrant authorized in state court, police searched Mello's previous home in North Smithfield and seized 11 electronic devices. During an interview recorded on video, the affidavit says, Mello acknowledged he had used his phone to record the 12-year-old child in the bathroom. He \"stated that he makes these videos for the thrill and for sexual gratification,\" the affidavit says. Mello also told investigators that he uses SwapX AI and Grok AI applications to create AI-generated video of oral sex, the affidavit says. He said he stores the content on his Samsung cell phone, it says. Mello was arrested and charged with video voyeurism. The examination of Mello's Samsung phone revealed he had used AI applications to process existing videos and images of children into child sexual abuse material, which depicts the prepubescent minors as engaged in sexually explicit conduct, according to the affidavit. Investigators count 953 videos and 2,881 photographs on a Samsung phone The depicted sexual conduct, which the children did not actually participate in, includes interactions with Mello, it says. The affidavit describes the photos taken prior to the AI processing as \"non-child sexual abuse material.\" The 12-year-old girl photographed in the bathroom in Lincoln is among children pictured in these existing images, says the affidavit, adding that she is looking up \"with a shocked expression.\" The ages of the children in the photographs ranged between 8 and 13, it says. It appears the images were taken at the site in Lincoln; a site in Seekonk, where Mello worked as a gymnastics instructor; and at another site in Smithfield, the affidavit says. The \"overwhelming majority\" of the 953 videos and 2,881 photographs found on Mello's phone depict AI-generated sexual content involving children, including girls known to be minors. The affidavit extensively cites different types of digital evidence, including different verbatim directions that it accuses Mello of using to direct the AI-generation. Many of them are extremely explicit. \"Keep the facial features of the subject in the reference image unchanged and remove her clothes,\" is among the less explicit prompts. \"She holds her gaze and doesn't look away,\" is another. On April 12, 2026, Mello employed a tool identified as AIFaceSwap to create images showing the faces of prepubescent girls from dance and gymnastics facilities that he attended or worked at with the nude bodies of adult women positioned in the setting of a pool area, the affidavit says. Investigators also found other sexual abuse material, examples of child pornography previously cataloged by law enforcement organizations such as the National Center for Missing & Exploited Children, the affidavit says.",
-      "url": "https://eu.providencejournal.com/story/news/crime/2026/11/13/rhode-island-man-charged-with-creating-ai-assisted-child-porn-images-slated-for-release/92753685007/",
-      "source": "Associated Press",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/13/NPRJ/87257088007-thumbnail-gavel-2.jpg?auto=webp&crop=1279,720,x0,y96&format=pjpg&width=1200",
-      "publishedAt": "2026-11-13T11:07:35Z",
+      "title": "Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple",
+      "description": "Tirupati: A pair of spy-camera glasses worn by a devotee at the famous Srikalahasti Temple triggered a security alert after priests noticed the hidden recording device inside the Goddess's shrine. The devotee was identified as Ankesh Agarwal, a resident of Pune. He had entered the temple wearing spectacles fitted with a hidden camera. Priests noticed the unusual glasses when Ankesh Agarwal visited the Goddess's shrine along with his family. They immediately alerted Special Protection Force (SPF) personnel. Acting on the information, SPF personnel detained Agarwal and questioned him about the device. According to reports, he had paid Rs 5,000 to perform the Rahu-Ketu pooja at the temple before having darshan of Lord Shiva.",
+      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/spy-camera-glasses-trigger-security-alert-at-srikalahasti-temple-2004340",
+      "source": "Deccan Chronicle",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/11/14/2112885-ai.webp",
+      "publishedAt": "2026-11-14T06:44:20Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "category terms (2)",
+        "primary topic in title",
+        "published within 7 days",
+        "multiple category terms",
+        "failed category gate"
+      ],
+      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man charged with filming University of Maryland Student in the shower",
+      "description": "PRINCE GEORGE'S COUNTY, Va. (DC News Now) -- A man was arrested Thursday in connection with a voyeur incident at a University of Maryland (UMD) dorm, according to the University of Maryland Police Department (UMPD). Police said 32-year-old Seonghun Hong was charged with peeping tom, trespass-posted property, visual surveillance with prurient intent, and trespass/damage property. According to police, officers responded shortly before 8 p.m. on Thursday to reports of a voyeur incident in Cumberland Hall at UMD. There, the victim reported that they were showering when they saw a cell phone camera pointing at them over the top of the curtain. Police said the victim yelled at the suspect, later identified as Hong, who then left the bathroom. Officers said Hong gained access to the building by tailgating another resident inside. Hong was arrested and transported to the Department of Corrections",
+      "url": "https://www.dcnewsnow.com/news/local-news/maryland/prince-georges-county/man-charged-with-filming-university-of-maryland-student-in-the-shower/",
+      "source": "DC News Now | Washington, DC",
+      "image": "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2024/09/AP976525681459-1.jpg?w=1280",
+      "publishedAt": "2026-11-14T03:24:53Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -202,14 +225,14 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"RI man charged with creating AI-assisted child porn slated for release\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man charged with filming University of Maryland Student in the shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     },
     {
       "provider": "NewsAPI.ai",
       "title": "Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall",
-      "description": "A Newton man was charged with a felony and misdemeanors after allegedly masturbating outside the windows of first-year female Boston College students living on the University's Newton Campus, according to court records obtained by The Heights. The defendant, Isaac Fine, 50, is a BC Law graduate. He was charged with one felony count of open and gross lewdness, and four misdemeanor charges -- two for trespassing and two for disorderly conduct -- stemming from incidents on Oct. 1, 2025, and March 19, 2026. The lewdness charge alone carries a maximum penalty of three years in state prison. \"The defendant entered Boston College property on the Newton campus and peered through the windows on the side of Cushing Hall, a residence hall for female students,\" a summary of the allegations submitted by the Middlesex County District Attorney's Office on Oct. 13 read. \"He was seen and heard masturbating at an electrical box outside of Cushing Hall.\" Fine has pleaded not guilty to all charges. Fine's attorney, Kate Frame, asserted her client's innocence and raised questions about the adequacy of the investigation in a statement to The Heights. \"The case against our client is a compromised case based solely upon unreliable evidence,\" Frame wrote. \"In the interest of protecting our client's right to a fair trial, we expect to litigate these issues fully and fairly in Court rather than in the Court of public opinion.\" The Middlesex County District Attorney's Office declined to comment on the pending case. In an April interview -- after the Boston College Police Department (BCPD) identified him as a suspect -- Fine allegedly told a BCPD detective he had come to campus to masturbate \"around 20 times\" and had visited \"4 to 5 times\" over approximately the last five years, according to a BCPD case report submitted to the court. Fine also \"admitted to being behind Cushing and masturbating on the March 19 2026 incident,\" according to the report. In reference to the Oct. 1 incident, Fine allegedly said, \"I don't recall the exact date, but I believe I was there.\" When asked \"if he was masturbating during the October 1st incident,\" the report says Fine \"stated 'yes.'\" Fine also allegedly told the detective he had visited the campuses of Lasell University in Newton and Regis College in Weston, according to the detective's report. Weston Police referred The Heights' inquiries to the Regis College Police Department (RCPD). Neither RCPD nor the Newton Police Department (NPD) could verify any incidents involving Fine at either school in the past year. According to the case report, an attorney for Fine was present during the interview, and Fine received his Miranda rights in writing, which he and his attorney both signed. The victim of the March 19 incident told BCPD she first saw a man matching Fine's description wandering behind Cushing Hall during the second week of the 2025-26 academic year. She told the police she did not report it because she assumed he was a parent. Asked in the same April interview whether he had been on campus around that time, Fine allegedly said, \"I don't remember the exact dates, but yes that is possible.\" Asked whether he masturbated then, he allegedly said, \"There were times when I would go there and I wouldn't see anything so I didn't do anything.\" Students reported seeing the same man at least three more times after that first sighting, according to the case report. Fine was charged only in connection with the October and a March incident. BCPD did not identify a suspect until five months after the first reported incident. The University did not issue a campuswide notification or advisory informing students about any of the reported incidents. Responding to a Heights inquiry regarding the March incident, University Spokesman Jack Dunn said a notification was unnecessary. \"Given that the suspect was quickly apprehended and that there were no other reported incidents, BCPD did not issue a campus notification,\" Dunn wrote. BCPD Chief of Police Bill Evans echoed Dunn's statement. \"I think within a couple of days, we knew who the culprit was, so where it's one incident and one incident only, we didn't think the need was, like, an emergency situation where we had to notify everybody,\" Evans said. \"We would never let a situation go where we wouldn't notify if we thought there was a rash of these incidents or our students were in any danger.\" Evans said BCPD installed new security cameras in the area around Cushing Hall following the March incident. The Oct. 1 Incident Around 10 p.m. on Oct. 1, 2025, according to a police report, a female student was sitting on her bed in her first-floor dorm in Cushing Hall when her roommate entered the room and gasped. The roommate told police she saw a white male, around 50 years old, peering into the window directly across from the door and propping himself up on the outside sill. She gasped, and the man ducked. Both ran to the window and watched the man flee toward Centre Street, the main road that runs past Newton Campus. An officer stationed at the Newton Campus responded to Cushing Hall \"regarding a person peering into their first floor window.\" \"I immediately reconnoitered the back of Cushing Hall looking for the suspect who was described as a 50-year-old or older white male with a balding head with short patches of side hair, wearing long pants,\" the officer wrote in his report. The roommate confirmed to the officer that the man was wearing long pants and had \"a shiny bald head with patchy hair.\" Another first-year female resident told the responding officer she had seen that same man several weeks prior wandering behind Cushing Hall around the second week of school. She provided a similar description of an older balding white man with dark blue eyes wearing long pants and a short-sleeve shirt. She stated she thought he was a parent and thus did not report it. The officer on scene provided the students with a police contact number and his email and told them to report any further suspicious activity as soon as possible. It is unclear whether BCPD conducted a further investigation following this incident. BCPD declined to answer questions about the incident, citing pending litigation. The March 19 Incident Around 8 p.m. on March 19, 2026, a female student was changing in her ground-level dorm in Cushing Hall when she saw a man outside peering through her window, according to a BCPD report. She did not notice anyone at first, but a \"rubbing sound\" alerted her to a man's presence. She said she believed the noise was the man masturbating. This was the same student who said she saw a man matching Fine's description walking around the back of Cushing Hall during the second week of school. \"Outside my window, there is a electricity box and the man stepped out from the box looking in my window masturbating,\" she wrote in her statement to BCPD. \"The noise I had heard I am quite certain was from [him] touching himself.\" After spotting the man, the student pretended not to notice him and warned other female students on her floor about what she witnessed via a group chat. \"Guys I'm scared there's a guy outside again,\" she texted in the chat, according to a floormate's account of the incident to police. That floormate said she ran to the victim's room upon receiving the message and found her in the hallway. The floormate then called BCPD's emergency number, while the victim tried to spot the suspect from a nearby window. While she was on the phone with the police, the two saw a man fleeing. \"I saw a blurry figure running to the right but I did not get a great view because I was on the phone trying to explain what had happened,\" the floormate wrote in her statement to BCPD. A uniformed BCPD officer parked within the Cushing Hall circle responded to the call. In the police report, he stated he did not observe anyone fleeing the scene. \"I did not see any person run by me at the time of the dispatch notification,\" the officer wrote. \"I drove towards Stuart Hall and did not see any person matching the description presented as a 40-50 year old white man dressed in black.\" Immediately after the report, NPD broadcast a dispatch asking officers to look out for an approximately 40-year-old man, dressed in all black, fleeing the area toward Newton Centre, according to dispatch logs reviewed by The Heights. In the minutes that followed, NPD informed officers of new information provided by BCPD that the suspect had \"exposed himself through one of the windows into the dorm.\" The BCPD officer then entered Cushing Hall to interview the victim and floormate. Around 30 minutes later, a Massachusetts State Police K-9 unit was dispatched to assist with the \"apprehension of the suspect.\" On arrival, the K-9 unit picked up a scent and traced it to a parking lot of Duchesne Hall, an adjacent dorm on Newton Campus, where it lost the scent. The Heights obtained a GroupMe message from a residential assistant in neighboring Hardey Hall notifying some students of a \"peeping tom,\" described as a \"40-50 year old dressed in all black.\" Hours later, a BCPD detective reviewed footage from a blue light camera located in the Cushing Hall parking lot and \"observed suspicious activity,\" according to another police report. \"At 20:03 hours, a white pickup truck is observed parking on the left side of the screen shortly before the event occurred,\" the detective wrote. \"After the truck stops, and before the operator exits the vehicle, a white male wearing a dark colored jacket, dark colored pants (lighter than the jacket) and white shoes is seen running from behind the white pickup truck from the area where the suspect was said to have been looking in the window of Cushing Hall.\" The detective used the footage to trace the suspect's direction toward Barat House. The officer then attempted to view another blue light camera angle that \"would have observed the male,\" but according to the detective, the camera didn't record any footage. BC's Response to the Incidents On the day of the March incident, NPD provided BCPD with the license number of a person of interest other than Fine, but an NPD spokesperson could not provide more information on why the patrol officer flagged that individual. \"It appears to me that they just gave the name of a person of interest who has been known to frequent that area and matched the description,\" an NPD spokesperson told The Heights in an email. \"It was not to say [that it] was in fact their suspect.\" NPD did not file a police report for this incident, according to the department spokesperson. Evans also told The Heights that the person of interest was not considered a suspect in the case. \"We believe [Fine] was the individual involved, and nobody else,\" Evans said. Following the March incident, a BCPD detective reviewed footage from the Law Library roof and identified a BC shuttle bus entering the Newton Campus around the time the suspect was reported fleeing. BCPD used the bus' dash camera footage to identify a dark sedan exiting the parking lot where the officer \"believe[d] the suspect may have fled to.\" The detective then reviewed Newton Campus Guard Shack footage. It showed a vehicle registered to Fine that \"appeared to be similar\" to the dark sedan leaving the campus around the time of the incident. BCPD contacted Fine, who confirmed, according to the detective's report, that he had been on the Newton Campus on March 19. Fine told the detective that he \"went to the Law Library\" to do research because he was \"going to be writing a book.\" When the detective asked what time Fine entered the library, Fine told him he \"never made it inside\" because he \"had to go to the bathroom.\" He then allegedly told the detective that he \"walked into the woods\" where \"some kids started yelling at [him] while [he] was back there,\" and he left. Following the conversation, the detective met with Fine on March 26, according to a BCPD report filed in the lewdness case. The officer read Fine his Miranda rights and informed him of the criminal allegations against him. Fine responded, \"That's not me, I think there is a misunderstanding,\" according to the detective's report, before continuing, \"I was back there but I wasn't doing anything like that.\" Fine then said, \"I'm going to call a lawyer,\" and asked the detective's permission to leave, according to the detective's report. The detective then issued Fine a trespass warning \"verbally and in writing.\" On April 2, a week after the initial meeting, Fine met with the detective again, now accompanied by a lawyer. This was the meeting in which Fine allegedly admitted to masturbating behind Cushing Hall on both Oct. 1 and March 19, according to BCPD's filings. BCPD filed misdemeanor charges in the Newton District Court on April 29 for the Oct. 1 and March 19 incidents. Fine was arraigned on June 9. On the same day, the Middlesex County District Attorney's Office added one felony charge of lewdness, open and gross, in connection with the March 19 incident. Fine pleaded not guilty to all charges. As part of his pretrial conditions of release on the trespass and disorderly conduct charges, he is barred from Lasell and Regis. He is prohibited from BC's properties, including the main and Newton campuses, under his pretrial conditions of release for all charges. He is due to appear in court next on Nov. 17.",
-      "url": "https://bcheights.com/234589/news/man-charged-with-felony-and-misdemeanors-after-allegedly-masturbating-outside-cushing-hall/",
+      "description": "A Newton man was charged with a felony and misdemeanors after allegedly masturbating outside the windows of first-year female Boston College students living on the University's Newton Campus, according to court records obtained by The Heights. The defendant, Isaac Fine, 50, is a BC Law graduate. He was charged with one felony count of open and gross lewdness, and four misdemeanor charges -- two for trespassing and two for disorderly conduct -- stemming from incidents on Oct. 1, 2025, and March 19, 2026. The lewdness charge alone carries a maximum penalty of three years in state prison. \"The defendant entered Boston College property on the Newton campus and peered through the windows on the side of Cushing Hall, a residence hall for female students,\" a summary of the allegations submitted by the Middlesex County District Attorney's Office on Oct. 13 read. \"He was seen and heard masturbating at an electrical box outside of Cushing Hall.\" Fine has pleaded not guilty to all charges. Fine's attorney, Kate Frame, asserted her client's innocence and raised questions about the adequacy of the investigation in a statement to The Heights. \"The case against our client is a compromised case based solely upon unreliable evidence,\" Frame wrote. \"In the interest of protecting our client's right to a fair trial, we expect to litigate these issues fully and fairly in Court rather than in the Court of public opinion.\" The Middlesex County District Attorney's Office declined to comment on the pending case. In an April interview -- after the Boston College Police Department (BCPD) identified him as a suspect -- Fine allegedly told a BCPD detective he had come to campus to masturbate \"around 20 times\" and had visited \"4 to 5 times\" over approximately the last five years, according to a BCPD case report submitted to the court. Fine also \"admitted to being behind Cushing and masturbating on the March 19 2026 incident,\" according to the report. In reference to the Oct. 1 incident, Fine allegedly said, \"I don't recall the exact date, but I believe I was there.\" When asked \"if he was masturbating during the October 1st incident,\" the report says Fine \"stated 'yes.'\" Fine also allegedly told the detective he had visited the campuses of Lasell University in Newton and Regis College in Weston, according to the detective's report. Weston Police referred The Heights' inquiries to the Regis College Police Department (RCPD). Neither RCPD nor the Newton Police Department (NPD) could verify any incidents involving Fine at either school in the past year. According to the case report, an attorney for Fine was present during the interview, and Fine received his Miranda rights in writing, which he and his attorney both signed. The victim of the March 19 incident told BCPD she first saw a man matching Fine's description wandering behind Cushing Hall during the second week of the 2025-26 academic year. She told the police she did not report it because she assumed he was a parent. Asked in the same April interview whether he had been on campus around that time, Fine allegedly said, \"I don't remember the exact dates, but yes that is possible.\" Asked whether he masturbated then, he allegedly said, \"There were times when I would go there and I wouldn't see anything so I didn't do anything.\" Students reported seeing the same man at least three more times after that first sighting, according to the case report. Fine was charged only in connection with the October and March incidents. BCPD did not identify a suspect until five months after the first reported incident. The University did not issue a campuswide notification or advisory informing students about any of the reported incidents. Responding to a Heights inquiry regarding the March incident, University Spokesman Jack Dunn said a notification was unnecessary. \"Given that the suspect was quickly apprehended and that there were no other reported incidents, BCPD did not issue a campus notification,\" Dunn wrote. BCPD Chief of Police Bill Evans echoed Dunn's statement. \"I think within a couple of days, we knew who the culprit was, so where it's one incident and one incident only, we didn't think the need was, like, an emergency situation where we had to notify everybody,\" Evans said. \"We would never let a situation go where we wouldn't notify if we thought there was a rash of these incidents or our students were in any danger.\" Evans said BCPD installed new security cameras in the area around Cushing Hall following the March incident. The Oct. 1 Incident Around 10 p.m. on Oct. 1, 2025, according to a police report, a female student was sitting on her bed in her first-floor dorm in Cushing Hall when her roommate entered the room and gasped. The roommate told police she saw a white male, around 50 years old, peering into the window directly across from the door and propping himself up on the outside sill. She gasped, and the man ducked. Both ran to the window and watched the man flee toward Centre Street, the main road that runs past Newton Campus. An officer stationed at the Newton Campus responded to Cushing Hall \"regarding a person peering into their first floor window.\" \"I immediately reconnoitered the back of Cushing Hall looking for the suspect who was described as a 50-year-old or older white male with a balding head with short patches of side hair, wearing long pants,\" the officer wrote in his report. The roommate confirmed to the officer that the man was wearing long pants and had \"a shiny bald head with patchy hair.\" Another first-year female resident told the responding officer she had seen that same man several weeks prior wandering behind Cushing Hall around the second week of school. She provided a similar description of an older balding white man with dark blue eyes wearing long pants and a short-sleeve shirt. She stated she thought he was a parent and thus did not report it. The officer on scene provided the students with a police contact number and his email and told them to report any further suspicious activity as soon as possible. It is unclear whether BCPD conducted a further investigation following this incident. BCPD declined to answer questions about the incident, citing pending litigation. The March 19 Incident Around 8 p.m. on March 19, 2026, a female student was changing in her ground-level dorm in Cushing Hall when she saw a man outside peering through her window, according to a BCPD report. She did not notice anyone at first, but a \"rubbing sound\" alerted her to a man's presence. She said she believed the noise was the man masturbating. This was the same student who said she saw a man matching Fine's description walking around the back of Cushing Hall during the second week of school. \"Outside my window, there is a electricity box and the man stepped out from the box looking in my window masturbating,\" she wrote in her statement to BCPD. \"The noise I had heard I am quite certain was from [him] touching himself.\" After spotting the man, the student pretended not to notice him and warned other female students on her floor about what she witnessed via a group chat. \"Guys I'm scared there's a guy outside again,\" she texted in the chat, according to a floormate's account of the incident to police. That floormate said she ran to the victim's room upon receiving the message and found her in the hallway. The floormate then called BCPD's emergency number, while the victim tried to spot the suspect from a nearby window. While she was on the phone with the police, the two saw a man fleeing. \"I saw a blurry figure running to the right but I did not get a great view because I was on the phone trying to explain what had happened,\" the floormate wrote in her statement to BCPD. A uniformed BCPD officer parked within the Cushing Hall circle responded to the call. In the police report, he stated he did not observe anyone fleeing the scene. \"I did not see any person run by me at the time of the dispatch notification,\" the officer wrote. \"I drove towards Stuart Hall and did not see any person matching the description presented as a 40-50 year old white man dressed in black.\" Immediately after the report, NPD broadcast a dispatch asking officers to look out for an approximately 40-year-old man, dressed in all black, fleeing the area toward Newton Centre, according to dispatch logs reviewed by The Heights. In the minutes that followed, NPD informed officers of new information provided by BCPD that the suspect had \"exposed himself through one of the windows into the dorm.\" The BCPD officer then entered Cushing Hall to interview the victim and floormate. Around 30 minutes later, a Massachusetts State Police K-9 unit was dispatched to assist with the \"apprehension of the suspect.\" On arrival, the K-9 unit picked up a scent and traced it to a parking lot of Duchesne Hall, an adjacent dorm on Newton Campus, where it lost the scent. The Heights obtained a GroupMe message from a residential assistant in neighboring Hardey Hall notifying some students of a \"peeping tom,\" described as a \"40-50 year old dressed in all black.\" Hours later, a BCPD detective reviewed footage from a blue light camera located in the Cushing Hall parking lot and \"observed suspicious activity,\" according to another police report. \"At 20:03 hours, a white pickup truck is observed parking on the left side of the screen shortly before the event occurred,\" the detective wrote. \"After the truck stops, and before the operator exits the vehicle, a white male wearing a dark colored jacket, dark colored pants (lighter than the jacket) and white shoes is seen running from behind the white pickup truck from the area where the suspect was said to have been looking in the window of Cushing Hall.\" The detective used the footage to trace the suspect's direction toward Barat House. The officer then attempted to view another blue light camera angle that \"would have observed the male,\" but according to the detective, the camera didn't record any footage. BCPD's Investigation On the day of the March incident, NPD provided BCPD with the license number of a person of interest other than Fine, but an NPD spokesperson could not provide more information on why the patrol officer flagged that individual. \"It appears to me that they just gave the name of a person of interest who has been known to frequent that area and matched the description,\" an NPD spokesperson told The Heights in an email. \"It was not to say [that it] was in fact their suspect.\" NPD did not file a police report for this incident, according to the department spokesperson. Evans also told The Heights that the person of interest was not considered a suspect in the case. \"We believe [Fine] was the individual involved, and nobody else,\" Evans said. Following the March incident, a BCPD detective reviewed footage from the Law Library roof and identified a BC shuttle bus entering the Newton Campus around the time the suspect was reported fleeing. BCPD used the bus' dash camera footage to identify a dark sedan exiting the parking lot where the officer \"believe[d] the suspect may have fled to.\" The detective then reviewed Newton Campus Guard Shack footage. It showed a vehicle registered to Fine that \"appeared to be similar\" to the dark sedan leaving the campus around the time of the incident. BCPD contacted Fine, who confirmed, according to the detective's report, that he had been on the Newton Campus on March 19. Fine told the detective that he \"went to the Law Library\" to do research because he was \"going to be writing a book.\" When the detective asked what time Fine entered the library, Fine told him he \"never made it inside\" because he \"had to go to the bathroom.\" He then allegedly told the detective that he \"walked into the woods\" where \"some kids started yelling at [him] while [he] was back there,\" and he left. Following the conversation, the detective met with Fine on March 26, according to a BCPD report filed in the lewdness case. The officer read Fine his Miranda rights and informed him of the criminal allegations against him. Fine responded, \"That's not me, I think there is a misunderstanding,\" according to the detective's report, before continuing, \"I was back there but I wasn't doing anything like that.\" Fine then said, \"I'm going to call a lawyer,\" and asked the detective's permission to leave, according to the detective's report. The detective issued Fine a trespass warning \"verbally and in writing.\" On April 2, a week after the initial meeting, Fine met with the detective again, now accompanied by a lawyer. This was the meeting in which Fine allegedly admitted to masturbating behind Cushing Hall on both Oct. 1 and March 19, according to BCPD's filings. BCPD filed misdemeanor charges in the Newton District Court on April 29 for the Oct. 1 and March 19 incidents. Fine was arraigned on June 9. On the same day, the Middlesex County District Attorney's Office added one felony charge of lewdness, open and gross, in connection with the March 19 incident. Fine pleaded not guilty to all charges. As part of his pretrial conditions of release on the trespass and disorderly conduct charges for the Oct. 1 incident, he is barred from Lasell University and Regis College. He is prohibited from BC's properties, including the main and Newton campuses, under his pretrial conditions of release for all of the charges. He is due to appear in court next on Nov. 17.",
+      "url": "https://bcheights.com/234589/news/newton-man-charged-with-felony-and-misdemeanors-allegedly-after-masturbating-outside-boston-college-dorm/",
       "source": "The Heights",
       "image": "https://bcheights.com/wp-content/uploads/2026/11/Adobe-Express-file-68.jpg",
       "publishedAt": "2026-11-13T04:06:53Z",
@@ -224,7 +247,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -246,16 +269,16 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Northumberland man sentenced after pleading guilty to voyeurism",
-      "description": "A Northumberland man has been given a suspended prison sentence after he admitted two charges of voyeurism. Sean Macneil pleaded guilty to the offences when he appeared at Berwick Magistrates' Court on October 15. The 47-year-old, from Byrness Village, was back before magistrates on Thursday following the preparation of pre-sentence reports. He admitted recording a private act and installing equipment for the purpose of obtaining sexual gratification between November 19 and March 15. James Long, prosecuting, said the hidden camera in place over a period of time and which required batteries to be changed at regular intervals showed there had been a degree of planning. The defendant also admitted a charge of possession of cannabis. Ian O'Rourke, in mitigation, said: \"His judgement and decision-making appears to have been influenced by the amount of alcohol he was taking coupled with drugs. \"He was taking non-prescription morphine, cocaine and cannabis and that was steadily increasing as he attempted to self-medicate because of worries about a debt totalling £30,000.\" The court heard he had also been diagnosed with depression but was receiving help from a number of agencies. Chair of magistrates John Fleet said: \"We do find there has been both raised harm and raised culpability. There was a degree of planning in that images were recorded. \"Having read the pre-sentence report we believe there is a realistic prospect of rehabilitation that means we can suspend the prison sentence.\" The defendant was sentenced to a 12 month prison sentence, suspended for 24 months. He was also ordered to do 120 hours unpaid work and pay £750 compensation to the victim.",
-      "url": "https://www.northumberlandgazette.co.uk/news/courts/northumberland-man-sentenced-after-pleading-guilty-to-voyeurism-9349773",
-      "source": "Northumberland Gazette",
-      "image": "https://www.northumberlandgazette.co.uk/webimg/b25lY21zOmRiZTc5NjI0LWFlMzgtNDYzYS1iZGE3LTVjYzRiMGQ4MGE3MDplY2FiZjg0OS00MzgwLTQ0ZDYtYTc5ZS1hNjlhY2U1ZDUyMTA=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-11-13T13:34:07Z",
+      "title": "Former Butler mayor Wesley Dingus pleads guilty to reduced charges in voyeurism case involving teen",
+      "description": "Dingus pleaded guilty to reduced misdemeanor charges after allegations of being caught on video sniffing a teen's underwear. He received a year of probation. BUTLER, Ohio -- WARNING: This story contains allegations some may find disturbing. Reader discretion is advised. Former Butler Mayor Wesley Dingus pleaded guilty Friday to two counts of disorderly conduct, bringing to a close a criminal case that led to his resignation and stemmed from allegations of being caught on video sniffing a teenage girl's underwear. Dingus, 49, entered guilty pleas to two fourth-degree misdemeanor counts of disorderly conduct in Mansfield Municipal Court in lieu of a bench trial. The charges were amended from the original voyeurism allegations filed earlier this year. According to court records, the judge imposed a 30-day jail sentence on each count but suspended both sentences. Dingus was also placed on one year of probation, ordered to continue complying with a protection order and directed to undergo an assessment for treatment as a condition of probation. No fines were imposed beyond court costs. The case began in February when Dingus was charged with two counts of voyeurism after investigators said security video captured him removing underwear belonging to a teenage girl from a laundry basket and placing it near his face while the girl was sleeping in the home. The teen was under his care at the time, according to investigators. The allegations prompted widespread outrage in the small Richland County village and ultimately led Dingus to resign as mayor. In his resignation letter, Dingus maintained he had made mistakes but denied being a criminal. Friday's resolution comes just days after Dingus was found guilty in a separate Richland County case involving a 2025 incident in which prosecutors accused him of striking a man with his vehicle while attempting to assist police. Dingus entered a no-contest plea to felony vehicular assault in that case and is scheduled to be sentenced in December. Dingus ascended from council president to mayor of Butler in 2022 following the resignation of Joseph Stallard. Stallard then attempted to get his old job back during the next year's election, but the village of less than 1,000 people chose to grant Dingus a full term with 56% of the vote.",
+      "url": "https://www.wkyc.com/article/news/crime/wesley-dingus-butler-mayor-sniffing-underwear-teen-voyeurism-girl-former-probation-guilty-plea/95-6fa5ce23-4f2f-494b-847b-2f2e61f356f1",
+      "source": "wkyc.com",
+      "image": "https://media.wkyc.com/assets/WKYC/images/7f5dac10-d519-4d57-80bd-9b8d3b480734/20260226T043442/7f5dac10-d519-4d57-80bd-9b8d3b480734_1140x641.jpg",
+      "publishedAt": "2026-11-14T01:24:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -267,8 +290,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Northumberland man sentenced after pleading guilty to voyeurism\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Butler mayor Wesley Dingus pleads guilty to reduced charges in voyeurism case involving teen\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Lake Charles man arrested on charges of video voyeurism of a minor",
+      "description": "The owner of Helen Street Bake House in Lake Charles was arrested on charges of video voyeurism of a minor this week. On Monday, the Lake Charles Police Department detectives received digital evidence that led officials to issue an arrest warrant for 55-year-old Emmett Cary Sole, according to a department news release. The evidence acquired by the department's investigators showed that a camera had been hidden and placed in rooms of a Lake Charles residence and captured video a minor under the age of 17 while fully unclothed. On Wednesday, Sole was arrested on two counts of video voyeurism of a child under the age of 17. Judge Tony Fazzio set his bond at $1 million for both counts. The arrest came less than a week after the Lake Charles Police Department was contacted on Nov. 5 about a camera in a bathroom at Helen Street Bake House, located at 1736 Common St. The investigation at Helen Street Bake House is separate and no arrests have been made. Persons with information are asked to call the Lake Charles Police at 337- 491-1311 or anonymously leave a tip on the Lake Charles PD app.",
+      "url": "https://www.theadvocate.com/lake_charles/lake-charles-video-voyeurism/article_0f823ac2-571d-4f85-8de1-e717c2a9bb55.html",
+      "source": "The Advocate",
+      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/54/c542de7c-b212-5e18-b5a2-f4491ba3b8b8/664406d7dc226.image.jpg?crop=1074%2C565%2C0%2C73&resize=438%2C230&order=crop%2Cresize",
+      "publishedAt": "2026-11-13T17:43:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lake Charles man arrested on charges of video voyeurism of a minor\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     },
     {
       "provider": "NewsData.io",
@@ -290,183 +335,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.kotatv.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.kotatv.com",
-      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.kctv5.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Kctv5 News",
-      "image": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.29news.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.29news.com",
-      "image": "https://gray-wvir-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.12onyourside.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.12onyourside.com",
-      "image": "https://gray-wwbt-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.cleveland19.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.cleveland19.com",
-      "image": "https://gray-woio-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.wfsb.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Wfsb Channel 3",
-      "image": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.newschannel10.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.newschannel10.com",
-      "image": "https://gray-kfda-prod.gtv-cdn.com/resizer/v2//4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&smart=true&width=1280&height=720",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.wmtv15news.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.wmtv15news.com",
-      "image": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-13T19:11:40.344Z"
+      "flaggedAt": "2026-11-14T17:38:57.143Z"
     }
   ]
 }
