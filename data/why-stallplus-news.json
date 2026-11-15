@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:38:57.143Z",
+  "updatedAt": "2026-11-15T18:28:17.126Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,8 +11,8 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 5,
-    "pending": 8,
+    "published": 6,
+    "pending": 4,
     "rejected": 61,
     "carriedForward": 5
   },
@@ -20,7 +20,7 @@
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 3
     },
     {
       "id": "dorm-privacy",
@@ -77,6 +77,27 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Man charged with filming resident in University of Maryland residence hall shower",
+      "description": "A Falls Church man was arrested after police said he filmed a resident in a shower at a University of Maryland residence hall. Seonghun Hong, 32, was charged with peeping tom, trespassing, visual surveillance in a private area and related offenses, police said. University of Maryland police said officers responded to Cumberland Hall shortly before 8 p.m. Thursday after a reported voyeurism incident. Police said Hong gained access to the dorm by \"tailgating\" and following someone else into the building. The resident told officers they were showering when a cellphone with its camera pointed toward them appeared \"over the top of the shower curtain.\" Police said the resident yelled at the suspect and saw he was wearing a black hooded sweatshirt before he left the bathroom. Hong was later arrested in the lobby of Cumberland Hall. Anyone with information is asked to contact Lt. Rosanne Hoaas with the University of Maryland police, at 301-405-9960 or email rhoaas@umpd.umd.edu.",
+      "url": "https://wtop.com/maryland/2026/11/man-charged-with-filming-resident-in-university-of-maryland-residence-hall-shower/",
+      "source": "WTOP",
+      "image": "https://wtop.com/wp-content/uploads/2026/10/umd.jpg",
+      "publishedAt": "2026-11-15T10:55:26Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 70,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (2)",
+        "published within 7 days",
+        "multiple category terms"
+      ],
+      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man charged with filming resident in University of Maryland residence hall shower\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Judge won't seal former Kentucky Castle CEO's divorce proceedings",
       "description": "A Jefferson Family Court judge denied sealing the divorce between a well-known bourbon maker and his wife. Julie Henderson filed for divorce on Oct. 19, just two weeks after news broke of her husband's alleged voyeurism. Wes Henderson is co-founder of Angel's Envy and the former CEO of The Kentucky Castle, which is owned by parent group TKC Distilling Co. TKC Distilling also owns True Story Whiskey. The company's board terminated Henderson from the hotel and distilling company on Oct. 3, after allegations in a sealed lawsuit surfaced regarding Henderson secretly recording family members and guests in the bathroom, bedroom and during sexual activity at a family vacation home in Florida. It also alleged recordings at the boutique hotel near Lexington. The Courier Journal obtained a copy of that lawsuit which claimed multiple cameras were \"disguised as fire alarms, a camera in a sound bar, cameras in a fan, a camera in a clock, and a camera placed inside a fire alarm, with the fire alarm completely duct-taped black and installed inside a bathroom air vent directly above the toilet of one of the bathrooms.\" The lawsuit also mentioned some of the recordings were allegedly of Henderson having adult relations with women other than his wife. The federal Department of Homeland Security investigations unit is looking into Henderson's alleged recording devices. Julie Henderson is a local fitness center owner, as well as an owner with her husband \"in the business ventures,\" per the divorce filing. Julie Henderson's attorney filed a protective order with Jefferson Family Court Judge Denise Brown asking the divorce be sealed because it would \"contain sensitive, highly confidential personal and financial information, and the public dissemination of which poses a substantial risk of ... embarrassment.\" In a Nov. 3 court filing, Brown denied the request by drawing diagonal lines across the order and writing: \"Parties may file individual motions to request filing is confidential or needs to be redacted.\" That means if Julie Henderson wants something to be kept confidential, her attorney will have to request the individual document be marked confidential or redacted when submitted into the court record. Julie Henderson's attorney did not immediately respond to a request for comment. Henderson's wife operated Burn Boot Camp locations in Kentucky Julie Henderson franchises several Louisville-area Burn Boot Camps. After the civil lawsuit was filed against Wes Henderson, Burn Boot Camp's headquarters began overseeing certain day-to-day operations of the local gyms, saying it was a decision made jointly with Julie Henderson, according to reports. Burn Boot Camp is a group-fitness program that combines high-intensity interval training and strength training. The company has gyms nationally, including six in Kentucky. Four of the locations -- off Hurstbourne Parkway and in Prospect, Crestwood and Jeffersonville, Indiana -- were operated by Julie Henderson. Burn Boot Camp has not been implicated in the voyeurism scandal. \"Burn takes the safety and privacy of its members seriously and has taken appropriate steps in response to the concerns that have been raised,\" Burn Boot Camp Vice President of Marketing Trish Peña said in an email to The Courier Journal. \"Because this involves matters concerning an independent franchisee and third parties, we do not have additional information to provide...\"Stephanie Kuzydym is an enterprise and investigative sports reporter. Reach her at skuzydym@courier-journal.com.",
       "url": "https://eu.courier-journal.com/story/news/local/2026/11/13/judge-denies-request-to-seal-wes-hendersons-divorce-proceedings/92745556007/",
@@ -98,6 +119,27 @@
     },
     {
       "provider": "NewsAPI.ai",
+      "title": "Hidden camera found in UNC Wilmington dorm bathroom; student removed",
+      "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
+      "url": "https://www.wspa.com/news/state-news/hidden-camera-found-in-unc-wilmington-dorm-bathroom-student-removed/",
+      "source": "WSPA 7News",
+      "image": "https://www.wspa.com/wp-content/uploads/sites/53/2026/11/uncw_38379372_ver1.0.png?strip=1&w=640",
+      "publishedAt": "2026-11-14T21:08:04Z",
+      "category": "Dorm Bathroom Privacy + Shared Living",
+      "categoryId": "dorm-privacy",
+      "priority": 2,
+      "confidence": 75,
+      "confidenceLabel": "high",
+      "matchReasons": [
+        "restroom context (3 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in UNC Wilmington dorm bathroom; student removed\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
+    },
+    {
+      "provider": "NewsAPI.ai",
       "title": "Hidden camera found in dorm bathroom at UNC Wilmington",
       "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
       "url": "https://myfox8.com/news/north-carolina/hidden-camera-found-in-dorm-bathroom-at-unc-wilmington/",
@@ -116,27 +158,6 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in dorm bathroom at UNC Wilmington\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera found in UNC Wilmington dorm bathroom; student removed",
-      "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating if the camera was used to record people in the restroom. They have seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Officials said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation. No further devices have been found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Out of an abundance of caution, according to university officials, other residential bathrooms are being searched. The investigation remains ongoing. As of Tuesday, it is unknown if anyone was recorded, for how long the alleged recording may have taken place, or if any recordings were shared. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
-      "url": "https://www.cbs17.com/news/north-carolina-news/hidden-camera-found-in-unc-wilmington-dorm-bathroom-student-removed/",
-      "source": "CBS17.com",
-      "image": "https://www.cbs17.com/wp-content/uploads/sites/29/2018/09/uncw_38379372_ver1.0.png?strip=1&w=640",
-      "publishedAt": "2026-11-11T20:58:44Z",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in UNC Wilmington dorm bathroom; student removed\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
     },
     {
       "provider": "NewsAPI.ai",
@@ -164,28 +185,6 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Man charged in connection with peeping tom incident at University of Maryland residence hall",
-      "description": "A man has been charged in connection with a \"voyeur incident\" that happened Thursday inside a residence hall at the University of Maryland, police say. Officers from the University of Maryland Police Department (UMPD) responded to reports of the incident at around 8:00 p.m., according to a police statement. A resident at the hall was taking a shower when they noticed a cell phone come over the top of the curtain with the device's camera appearing to point towards them. Police said the suspect gained access to the building by following someone else in through a gate. \"The resident yelled at the suspect and saw that the suspect was a man, wearing a black hooded sweatshirt before the suspect left the bathroom,\" the statement said. The officers arriving on the scene met with the resident and suspect in the lobby of the residence hall after the incident. After further investigation, the suspect -- who police identified as 32-year-old Seonghun Hong, from Falls Church, Virginia -- was placed in handcuffs and taken into custody. Hong has been charged with multiple counts relating to the incident, the statement said. These included peeping tom, trespassing and damaging property.",
-      "url": "https://www.cbsnews.com/baltimore/news/man-charged-peeping-tom-incident-university-of-maryland/",
-      "source": "CBS News",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/5e12b84a-8da8-4216-8108-9e3b1b919340/thumbnail/1200x630/e9adfce916bb281c0c0da5ce80f34393/wjz-thumbnail-38.png",
-      "publishedAt": "2026-11-14T00:00:26Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Man charged in connection with peeping tom incident at University of Maryland residence hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple",
       "description": "Tirupati: A pair of spy-camera glasses worn by a devotee at the famous Srikalahasti Temple triggered a security alert after priests noticed the hidden recording device inside the Goddess's shrine. The devotee was identified as Ankesh Agarwal, a resident of Pune. He had entered the temple wearing spectacles fitted with a hidden camera. Priests noticed the unusual glasses when Ankesh Agarwal visited the Goddess's shrine along with his family. They immediately alerted Special Protection Force (SPF) personnel. Acting on the information, SPF personnel detained Agarwal and questioned him about the device. According to reports, he had paid Rs 5,000 to perform the Rahu-Ketu pooja at the temple before having darshan of Lord Shiva.",
       "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/spy-camera-glasses-trigger-security-alert-at-srikalahasti-temple-2004340",
@@ -205,7 +204,7 @@
         "failed category gate"
       ],
       "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
+      "flaggedAt": "2026-11-15T18:28:17.126Z"
     },
     {
       "provider": "NewsAPI.ai",
@@ -226,28 +225,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man charged with filming University of Maryland Student in the shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall",
-      "description": "A Newton man was charged with a felony and misdemeanors after allegedly masturbating outside the windows of first-year female Boston College students living on the University's Newton Campus, according to court records obtained by The Heights. The defendant, Isaac Fine, 50, is a BC Law graduate. He was charged with one felony count of open and gross lewdness, and four misdemeanor charges -- two for trespassing and two for disorderly conduct -- stemming from incidents on Oct. 1, 2025, and March 19, 2026. The lewdness charge alone carries a maximum penalty of three years in state prison. \"The defendant entered Boston College property on the Newton campus and peered through the windows on the side of Cushing Hall, a residence hall for female students,\" a summary of the allegations submitted by the Middlesex County District Attorney's Office on Oct. 13 read. \"He was seen and heard masturbating at an electrical box outside of Cushing Hall.\" Fine has pleaded not guilty to all charges. Fine's attorney, Kate Frame, asserted her client's innocence and raised questions about the adequacy of the investigation in a statement to The Heights. \"The case against our client is a compromised case based solely upon unreliable evidence,\" Frame wrote. \"In the interest of protecting our client's right to a fair trial, we expect to litigate these issues fully and fairly in Court rather than in the Court of public opinion.\" The Middlesex County District Attorney's Office declined to comment on the pending case. In an April interview -- after the Boston College Police Department (BCPD) identified him as a suspect -- Fine allegedly told a BCPD detective he had come to campus to masturbate \"around 20 times\" and had visited \"4 to 5 times\" over approximately the last five years, according to a BCPD case report submitted to the court. Fine also \"admitted to being behind Cushing and masturbating on the March 19 2026 incident,\" according to the report. In reference to the Oct. 1 incident, Fine allegedly said, \"I don't recall the exact date, but I believe I was there.\" When asked \"if he was masturbating during the October 1st incident,\" the report says Fine \"stated 'yes.'\" Fine also allegedly told the detective he had visited the campuses of Lasell University in Newton and Regis College in Weston, according to the detective's report. Weston Police referred The Heights' inquiries to the Regis College Police Department (RCPD). Neither RCPD nor the Newton Police Department (NPD) could verify any incidents involving Fine at either school in the past year. According to the case report, an attorney for Fine was present during the interview, and Fine received his Miranda rights in writing, which he and his attorney both signed. The victim of the March 19 incident told BCPD she first saw a man matching Fine's description wandering behind Cushing Hall during the second week of the 2025-26 academic year. She told the police she did not report it because she assumed he was a parent. Asked in the same April interview whether he had been on campus around that time, Fine allegedly said, \"I don't remember the exact dates, but yes that is possible.\" Asked whether he masturbated then, he allegedly said, \"There were times when I would go there and I wouldn't see anything so I didn't do anything.\" Students reported seeing the same man at least three more times after that first sighting, according to the case report. Fine was charged only in connection with the October and March incidents. BCPD did not identify a suspect until five months after the first reported incident. The University did not issue a campuswide notification or advisory informing students about any of the reported incidents. Responding to a Heights inquiry regarding the March incident, University Spokesman Jack Dunn said a notification was unnecessary. \"Given that the suspect was quickly apprehended and that there were no other reported incidents, BCPD did not issue a campus notification,\" Dunn wrote. BCPD Chief of Police Bill Evans echoed Dunn's statement. \"I think within a couple of days, we knew who the culprit was, so where it's one incident and one incident only, we didn't think the need was, like, an emergency situation where we had to notify everybody,\" Evans said. \"We would never let a situation go where we wouldn't notify if we thought there was a rash of these incidents or our students were in any danger.\" Evans said BCPD installed new security cameras in the area around Cushing Hall following the March incident. The Oct. 1 Incident Around 10 p.m. on Oct. 1, 2025, according to a police report, a female student was sitting on her bed in her first-floor dorm in Cushing Hall when her roommate entered the room and gasped. The roommate told police she saw a white male, around 50 years old, peering into the window directly across from the door and propping himself up on the outside sill. She gasped, and the man ducked. Both ran to the window and watched the man flee toward Centre Street, the main road that runs past Newton Campus. An officer stationed at the Newton Campus responded to Cushing Hall \"regarding a person peering into their first floor window.\" \"I immediately reconnoitered the back of Cushing Hall looking for the suspect who was described as a 50-year-old or older white male with a balding head with short patches of side hair, wearing long pants,\" the officer wrote in his report. The roommate confirmed to the officer that the man was wearing long pants and had \"a shiny bald head with patchy hair.\" Another first-year female resident told the responding officer she had seen that same man several weeks prior wandering behind Cushing Hall around the second week of school. She provided a similar description of an older balding white man with dark blue eyes wearing long pants and a short-sleeve shirt. She stated she thought he was a parent and thus did not report it. The officer on scene provided the students with a police contact number and his email and told them to report any further suspicious activity as soon as possible. It is unclear whether BCPD conducted a further investigation following this incident. BCPD declined to answer questions about the incident, citing pending litigation. The March 19 Incident Around 8 p.m. on March 19, 2026, a female student was changing in her ground-level dorm in Cushing Hall when she saw a man outside peering through her window, according to a BCPD report. She did not notice anyone at first, but a \"rubbing sound\" alerted her to a man's presence. She said she believed the noise was the man masturbating. This was the same student who said she saw a man matching Fine's description walking around the back of Cushing Hall during the second week of school. \"Outside my window, there is a electricity box and the man stepped out from the box looking in my window masturbating,\" she wrote in her statement to BCPD. \"The noise I had heard I am quite certain was from [him] touching himself.\" After spotting the man, the student pretended not to notice him and warned other female students on her floor about what she witnessed via a group chat. \"Guys I'm scared there's a guy outside again,\" she texted in the chat, according to a floormate's account of the incident to police. That floormate said she ran to the victim's room upon receiving the message and found her in the hallway. The floormate then called BCPD's emergency number, while the victim tried to spot the suspect from a nearby window. While she was on the phone with the police, the two saw a man fleeing. \"I saw a blurry figure running to the right but I did not get a great view because I was on the phone trying to explain what had happened,\" the floormate wrote in her statement to BCPD. A uniformed BCPD officer parked within the Cushing Hall circle responded to the call. In the police report, he stated he did not observe anyone fleeing the scene. \"I did not see any person run by me at the time of the dispatch notification,\" the officer wrote. \"I drove towards Stuart Hall and did not see any person matching the description presented as a 40-50 year old white man dressed in black.\" Immediately after the report, NPD broadcast a dispatch asking officers to look out for an approximately 40-year-old man, dressed in all black, fleeing the area toward Newton Centre, according to dispatch logs reviewed by The Heights. In the minutes that followed, NPD informed officers of new information provided by BCPD that the suspect had \"exposed himself through one of the windows into the dorm.\" The BCPD officer then entered Cushing Hall to interview the victim and floormate. Around 30 minutes later, a Massachusetts State Police K-9 unit was dispatched to assist with the \"apprehension of the suspect.\" On arrival, the K-9 unit picked up a scent and traced it to a parking lot of Duchesne Hall, an adjacent dorm on Newton Campus, where it lost the scent. The Heights obtained a GroupMe message from a residential assistant in neighboring Hardey Hall notifying some students of a \"peeping tom,\" described as a \"40-50 year old dressed in all black.\" Hours later, a BCPD detective reviewed footage from a blue light camera located in the Cushing Hall parking lot and \"observed suspicious activity,\" according to another police report. \"At 20:03 hours, a white pickup truck is observed parking on the left side of the screen shortly before the event occurred,\" the detective wrote. \"After the truck stops, and before the operator exits the vehicle, a white male wearing a dark colored jacket, dark colored pants (lighter than the jacket) and white shoes is seen running from behind the white pickup truck from the area where the suspect was said to have been looking in the window of Cushing Hall.\" The detective used the footage to trace the suspect's direction toward Barat House. The officer then attempted to view another blue light camera angle that \"would have observed the male,\" but according to the detective, the camera didn't record any footage. BCPD's Investigation On the day of the March incident, NPD provided BCPD with the license number of a person of interest other than Fine, but an NPD spokesperson could not provide more information on why the patrol officer flagged that individual. \"It appears to me that they just gave the name of a person of interest who has been known to frequent that area and matched the description,\" an NPD spokesperson told The Heights in an email. \"It was not to say [that it] was in fact their suspect.\" NPD did not file a police report for this incident, according to the department spokesperson. Evans also told The Heights that the person of interest was not considered a suspect in the case. \"We believe [Fine] was the individual involved, and nobody else,\" Evans said. Following the March incident, a BCPD detective reviewed footage from the Law Library roof and identified a BC shuttle bus entering the Newton Campus around the time the suspect was reported fleeing. BCPD used the bus' dash camera footage to identify a dark sedan exiting the parking lot where the officer \"believe[d] the suspect may have fled to.\" The detective then reviewed Newton Campus Guard Shack footage. It showed a vehicle registered to Fine that \"appeared to be similar\" to the dark sedan leaving the campus around the time of the incident. BCPD contacted Fine, who confirmed, according to the detective's report, that he had been on the Newton Campus on March 19. Fine told the detective that he \"went to the Law Library\" to do research because he was \"going to be writing a book.\" When the detective asked what time Fine entered the library, Fine told him he \"never made it inside\" because he \"had to go to the bathroom.\" He then allegedly told the detective that he \"walked into the woods\" where \"some kids started yelling at [him] while [he] was back there,\" and he left. Following the conversation, the detective met with Fine on March 26, according to a BCPD report filed in the lewdness case. The officer read Fine his Miranda rights and informed him of the criminal allegations against him. Fine responded, \"That's not me, I think there is a misunderstanding,\" according to the detective's report, before continuing, \"I was back there but I wasn't doing anything like that.\" Fine then said, \"I'm going to call a lawyer,\" and asked the detective's permission to leave, according to the detective's report. The detective issued Fine a trespass warning \"verbally and in writing.\" On April 2, a week after the initial meeting, Fine met with the detective again, now accompanied by a lawyer. This was the meeting in which Fine allegedly admitted to masturbating behind Cushing Hall on both Oct. 1 and March 19, according to BCPD's filings. BCPD filed misdemeanor charges in the Newton District Court on April 29 for the Oct. 1 and March 19 incidents. Fine was arraigned on June 9. On the same day, the Middlesex County District Attorney's Office added one felony charge of lewdness, open and gross, in connection with the March 19 incident. Fine pleaded not guilty to all charges. As part of his pretrial conditions of release on the trespass and disorderly conduct charges for the Oct. 1 incident, he is barred from Lasell University and Regis College. He is prohibited from BC's properties, including the main and Newton campuses, under his pretrial conditions of release for all of the charges. He is due to appear in court next on Nov. 17.",
-      "url": "https://bcheights.com/234589/news/newton-man-charged-with-felony-and-misdemeanors-allegedly-after-masturbating-outside-boston-college-dorm/",
-      "source": "The Heights",
-      "image": "https://bcheights.com/wp-content/uploads/2026/11/Adobe-Express-file-68.jpg",
-      "publishedAt": "2026-11-13T04:06:53Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man Charged With Felony and Misdemeanors After Allegedly Masturbating Outside Cushing Hall\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
+      "flaggedAt": "2026-11-15T18:28:17.126Z"
     },
     {
       "provider": "NewsAPI.org",
@@ -269,7 +247,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
+      "flaggedAt": "2026-11-15T18:28:17.126Z"
     },
     {
       "provider": "NewsAPI.ai",
@@ -291,51 +269,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Butler mayor Wesley Dingus pleads guilty to reduced charges in voyeurism case involving teen\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Lake Charles man arrested on charges of video voyeurism of a minor",
-      "description": "The owner of Helen Street Bake House in Lake Charles was arrested on charges of video voyeurism of a minor this week. On Monday, the Lake Charles Police Department detectives received digital evidence that led officials to issue an arrest warrant for 55-year-old Emmett Cary Sole, according to a department news release. The evidence acquired by the department's investigators showed that a camera had been hidden and placed in rooms of a Lake Charles residence and captured video a minor under the age of 17 while fully unclothed. On Wednesday, Sole was arrested on two counts of video voyeurism of a child under the age of 17. Judge Tony Fazzio set his bond at $1 million for both counts. The arrest came less than a week after the Lake Charles Police Department was contacted on Nov. 5 about a camera in a bathroom at Helen Street Bake House, located at 1736 Common St. The investigation at Helen Street Bake House is separate and no arrests have been made. Persons with information are asked to call the Lake Charles Police at 337- 491-1311 or anonymously leave a tip on the Lake Charles PD app.",
-      "url": "https://www.theadvocate.com/lake_charles/lake-charles-video-voyeurism/article_0f823ac2-571d-4f85-8de1-e717c2a9bb55.html",
-      "source": "The Advocate",
-      "image": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/54/c542de7c-b212-5e18-b5a2-f4491ba3b8b8/664406d7dc226.image.jpg?crop=1074%2C565%2C0%2C73&resize=438%2C230&order=crop%2Cresize",
-      "publishedAt": "2026-11-13T17:43:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Lake Charles man arrested on charges of video voyeurism of a minor\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-      "description": "A Louisiana man is accused of placing a hidden camera in a home and capturing video of a child undressed.",
-      "url": "https://www.knoe.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-      "source": "Https://www.knoe.com",
-      "image": "https://gray-knoe-prod.gtv-cdn.com/resizer/v2/4QICHM3NZJEOVJ73P6VP3D4A4E.png?auth=293166aace73070f137962818da1890cdd19c328bd97332039c35e1c6002c0a0&width=1200&height=600&smart=true",
-      "publishedAt": "2026-11-13 00:11:29",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-14T17:38:57.143Z"
+      "flaggedAt": "2026-11-15T18:28:17.126Z"
     }
   ]
 }
