@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:28:17.126Z",
+  "updatedAt": "2026-11-16T21:37:47.679Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,9 +11,9 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 6,
-    "pending": 4,
-    "rejected": 61,
+    "published": 5,
+    "pending": 2,
+    "rejected": 67,
     "carriedForward": 5
   },
   "categoryCounts": [
@@ -30,7 +30,7 @@
     {
       "id": "hidden-cameras",
       "label": "Hidden Cameras in Public Spaces",
-      "count": 1
+      "count": 0
     },
     {
       "id": "workplace-privacy",
@@ -158,62 +158,17 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in dorm bathroom at UNC Wilmington\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "British SCOOT Passenger Arrested In Singapore For Installing Spy Camera In Lavatory",
-      "description": "According to the Straits Times, the offender is now facing severe penalties if convicted, including a prison sentence and caning. A man who allegedly hid a camera in the restroom of a Scoot plane on a flight from Osaka, Japan, to Singapore has been charged with one count each of voyeurism and obstructing the course of justice. On Nov 5, Hugh Lutley, 52, a Briton, appeared in a district court accused of committing the offences on board the budget carrier at or around 5.10pm on Oct 7. In a statement on Nov 4, the police said he allegedly activated the camera's recording function remotely through an app on his mobile phone after leaving the restroom. A cabin crew member, who was using the restroom, found the hidden camera. She removed the device and alerted her colleague. Lutley allegedly tried to retrieve the camera later, but found that it had been removed. He is said to have deleted the app and all related pictures on his phone to avoid detection. He was detained at Changi Airport, and the camera and his phone were seized. Lutley's pre-trial conference will take place on Nov 17. For voyeurism, an offender can be jailed for up to two years, fined, caned, or receive any combination of such punishments. An offender convicted of obstructing the course of justice can be jailed for up to seven years, fined, or both. Some os the charges brought forward now include obstruction os justive in addition to the voyeurism counts, likely because of the deletion of the material from his cellphone. Very strange approach since this was done even before he was officially accused of any crime, but whatever, Singapore has an odd legal system, and this guy certainly deserves everything that's coming for him. We have covered a bunch of misconduct by passengers over the years, and some of those included various sex crimes that were either direct assaults or, in this case, voyeurism with the use of electronic devices. I often wonder why and how people get so sick as to plan a deliberate mission to install mobile cameras in an airplane lavatory, connected to a cellphone. Probably some kind of home protection device designed for a totally innocent use within the confines of your home or the front door. Conclusion Singapore has another travel-related criminal case ongoing, as a British citizen was arrested following his flight on Scoot from Osaka to Changi. He is being accused of installing a spy cam in the lavatory of the aircraft that operated his flight. When a flight attendant discovered the device and ripped it off, the alleged offender deleted all material from his cellphone that could have linked him to the crime. Reports do not ascertain how they connected this passenger to the camera or what kind of evidence was used to establish probable cause in this case. Even after deleting the app and videos or pictures, I'd think that it at least requires a forensic analysis of the device to trace and prove the allegations.",
-      "url": "https://loyaltylobby.com/2026/11/09/british-scoot-passenger-arrested-in-singapore-for-installing-spy-camera-in-lavatory/",
-      "source": "LoyaltyLobby",
-      "image": "https://loyaltylobby.com/wp-content/uploads/2026/08/Scoot-Airplane.png",
-      "publishedAt": "2026-11-09T13:19:00Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 80,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Hidden camera stories raise restroom privacy expectations. \"British SCOOT Passenger Arrested In Singapore For Installing Spy Camera In Lavatory\" supports additional sightline protection messaging without claiming surveillance detection or guaranteed prevention."
     }
   ],
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple",
-      "description": "Tirupati: A pair of spy-camera glasses worn by a devotee at the famous Srikalahasti Temple triggered a security alert after priests noticed the hidden recording device inside the Goddess's shrine. The devotee was identified as Ankesh Agarwal, a resident of Pune. He had entered the temple wearing spectacles fitted with a hidden camera. Priests noticed the unusual glasses when Ankesh Agarwal visited the Goddess's shrine along with his family. They immediately alerted Special Protection Force (SPF) personnel. Acting on the information, SPF personnel detained Agarwal and questioned him about the device. According to reports, he had paid Rs 5,000 to perform the Rahu-Ketu pooja at the temple before having darshan of Lord Shiva.",
-      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/spy-camera-glasses-trigger-security-alert-at-srikalahasti-temple-2004340",
-      "source": "Deccan Chronicle",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/11/14/2112885-ai.webp",
-      "publishedAt": "2026-11-14T06:44:20Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "category terms (2)",
-        "primary topic in title",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
-      ],
-      "stallplusAngle": "Flagged for review (category terms (2), primary topic in title, published within 7 days, multiple category terms, failed category gate). \"Spy Camera Glasses Trigger Security Alert At Srikalahasti Temple\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-15T18:28:17.126Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Man charged with filming University of Maryland Student in the shower",
-      "description": "PRINCE GEORGE'S COUNTY, Va. (DC News Now) -- A man was arrested Thursday in connection with a voyeur incident at a University of Maryland (UMD) dorm, according to the University of Maryland Police Department (UMPD). Police said 32-year-old Seonghun Hong was charged with peeping tom, trespass-posted property, visual surveillance with prurient intent, and trespass/damage property. According to police, officers responded shortly before 8 p.m. on Thursday to reports of a voyeur incident in Cumberland Hall at UMD. There, the victim reported that they were showering when they saw a cell phone camera pointing at them over the top of the curtain. Police said the victim yelled at the suspect, later identified as Hong, who then left the bathroom. Officers said Hong gained access to the building by tailgating another resident inside. Hong was arrested and transported to the Department of Corrections",
-      "url": "https://www.dcnewsnow.com/news/local-news/maryland/prince-georges-county/man-charged-with-filming-university-of-maryland-student-in-the-shower/",
-      "source": "DC News Now | Washington, DC",
-      "image": "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2024/09/AP976525681459-1.jpg?w=1280",
-      "publishedAt": "2026-11-14T03:24:53Z",
+      "title": "Why did a couple find a hidden camera under the TV at a Tokyo hotel?",
+      "description": "Not knowing how long it was there is the part that would keep me up at night. A couple who found a hidden camera with an SD card inside their Tokyo hotel room TV still does not know who installed it. Police reportedly found the card empty and could not pursue criminal charges, according to Newsweek. Sedef Demir and her husband have since checked out of Hotel Aperto and complained to the Japanese Hotel Association. Sedef Demir had previously heard about guests being secretly recorded on vacation, so she checked for a hidden camera soon after the couple arrived at the adults-only hotel, which they booked through Booking.com. Soon after, she noticed a suspicious device in the room. A small lens was tucked under the television. \"My husband and I took a closer look and realized that it didn't seem to be part of the TV set. It was loosely attached with adhesive. When we carefully removed it, we discovered an SD card inside,\" Demir said. The couple contacted the hotel manager, who examined the device, confirmed it was a hidden camera, and apologized. The couple still has no idea how long the camera had been there Police arrived with two other individuals to examine the SD card, and Demir said a search of the room reportedly turned up no other hidden cameras. The manager suggested a previous guest may have left the device behind. Demir stressed the couple is not accusing any hotel staff of wrongdoing. \"We still don't know who installed the camera, how long it had been there, or whether it had recorded anything before we discovered it,\" Demir said. Offered a free extra night, the couple instead checked out the next day as they no longer felt safe. Demir said she hopes the story pushes organizations to offer better online reporting tools. Booking.com said in a statement that surveillance devices are never permitted in spaces where guests have a reasonable expectation of privacy, including bedrooms and bathrooms. The company added that properties that break those rules can be suspended or removed from its platform. The outlet said it had also contacted Hotel Aperto for comment. Adrianus Warmenhoven, a cybersecurity expert at NordVPN, told the outlet the couple handled the discovery well, documenting the evidence and reporting it to both the hotel and the booking platform before involving police. However, he said the best move for anyone in that position is to leave the hotel immediately. \"Finding a hidden camera in a place where you expected privacy is a profound violation. Accommodation is a temporary home, a space where people undress, sleep, and have their most intimate moments,\" Warmenhoven said. He noted the impact can be amplified for travelers far from home who face a language barrier or are unsure of their legal rights. Japan only made secret sexual filming a nationwide crime a few years ago Japan's law against photographing sexual acts without consent took effect in July 2023, as such cases were previously handled under a patchwork of local ordinances. The law criminalizes secretly filming a person's intimate areas or sexual acts. Violators face up to three years in prison or a fine of up to 3 million yen, according to Kyodo News. Police made 9,237 arrests for voyeurism offenses nationwide in 2025, the highest number on record, according to CNN. Authorities attribute part of that rise to the new law, which expanded the scope of offenses. However, Warmenhoven said hidden cameras in hotel rooms or rentals are still relatively rare, though they likely happen more often than most travelers assume.",
+      "url": "https://www.themarysue.com/couple-spots-a-small-lens-under-the-tv-in-their-tokyo-hotel-room-when-they-carefully-pull-it-off-they-claim-theres-an-sd-card-inside/",
+      "source": "The Mary Sue",
+      "image": "https://www.themarysue.com/wp-content/uploads/2026/11/tokyo-tower-during-sakura-season-ad-a-camera-in-a-white-room.jpg?fit=1280%2C720",
+      "publishedAt": "2026-11-16T21:00:00Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
@@ -224,17 +179,17 @@
         "category terms (1)",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Man charged with filming University of Maryland Student in the shower\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-15T18:28:17.126Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Why did a couple find a hidden camera under the TV at a Tokyo hotel\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-16T21:37:47.679Z"
     },
     {
-      "provider": "NewsAPI.org",
-      "title": "British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory",
-      "description": "A British man is facing criminal charges in Singapore after allegedly installing a concealed…",
-      "url": "https://thebulkheadseat.com/british-passenger-arrested-after-hidden-camera-discovered-in-scoot-aircraft-lavatory/",
-      "source": "Thebulkheadseat.com",
-      "image": "https://thebulkheadseat.com/wp-content/uploads/2026/11/Scoot-Plane.jpg",
-      "publishedAt": "2026-11-09T15:45:37Z",
+      "provider": "NewsData.io",
+      "title": "Former Kennedale Teacher, Coach Strikes Plea Deal in Hidden Camera Trial",
+      "description": "A former Kennedale teacher accused of hiding a camera in a high school bathroom will spend a year behind bars after agreeing to a plea deal Friday.",
+      "url": "https://us.headtopics.com/news/former-kennedale-teacher-coach-strikes-plea-deal-in-hidden-89887750",
+      "source": "Headtopics",
+      "image": "https://i.headtopics.com/images/2026/11/16/nbcdfw/former-kennedale-teacher-coach-strikes-plea-deal-i-former-kennedale-teacher-coach-strikes-plea-deal-i-1D13D5C3F1F02BA84E7A96A97C108950-16x9.webp",
+      "publishedAt": "2026-11-16 07:29:00",
       "category": "Hidden Cameras in Public Spaces",
       "categoryId": "hidden-cameras",
       "priority": 3,
@@ -246,30 +201,8 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"British Passenger Arrested After Hidden Camera Discovered in Scoot Aircraft Lavatory\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-15T18:28:17.126Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Former Butler mayor Wesley Dingus pleads guilty to reduced charges in voyeurism case involving teen",
-      "description": "Dingus pleaded guilty to reduced misdemeanor charges after allegations of being caught on video sniffing a teen's underwear. He received a year of probation. BUTLER, Ohio -- WARNING: This story contains allegations some may find disturbing. Reader discretion is advised. Former Butler Mayor Wesley Dingus pleaded guilty Friday to two counts of disorderly conduct, bringing to a close a criminal case that led to his resignation and stemmed from allegations of being caught on video sniffing a teenage girl's underwear. Dingus, 49, entered guilty pleas to two fourth-degree misdemeanor counts of disorderly conduct in Mansfield Municipal Court in lieu of a bench trial. The charges were amended from the original voyeurism allegations filed earlier this year. According to court records, the judge imposed a 30-day jail sentence on each count but suspended both sentences. Dingus was also placed on one year of probation, ordered to continue complying with a protection order and directed to undergo an assessment for treatment as a condition of probation. No fines were imposed beyond court costs. The case began in February when Dingus was charged with two counts of voyeurism after investigators said security video captured him removing underwear belonging to a teenage girl from a laundry basket and placing it near his face while the girl was sleeping in the home. The teen was under his care at the time, according to investigators. The allegations prompted widespread outrage in the small Richland County village and ultimately led Dingus to resign as mayor. In his resignation letter, Dingus maintained he had made mistakes but denied being a criminal. Friday's resolution comes just days after Dingus was found guilty in a separate Richland County case involving a 2025 incident in which prosecutors accused him of striking a man with his vehicle while attempting to assist police. Dingus entered a no-contest plea to felony vehicular assault in that case and is scheduled to be sentenced in December. Dingus ascended from council president to mayor of Butler in 2022 following the resignation of Joseph Stallard. Stallard then attempted to get his old job back during the next year's election, but the village of less than 1,000 people chose to grant Dingus a full term with 56% of the vote.",
-      "url": "https://www.wkyc.com/article/news/crime/wesley-dingus-butler-mayor-sniffing-underwear-teen-voyeurism-girl-former-probation-guilty-plea/95-6fa5ce23-4f2f-494b-847b-2f2e61f356f1",
-      "source": "wkyc.com",
-      "image": "https://media.wkyc.com/assets/WKYC/images/7f5dac10-d519-4d57-80bd-9b8d3b480734/20260226T043442/7f5dac10-d519-4d57-80bd-9b8d3b480734_1140x641.jpg",
-      "publishedAt": "2026-11-14T01:24:00Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Butler mayor Wesley Dingus pleads guilty to reduced charges in voyeurism case involving teen\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-15T18:28:17.126Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Kennedale Teacher, Coach Strikes Plea Deal in Hidden Camera Trial\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-16T21:37:47.679Z"
     }
   ]
 }
