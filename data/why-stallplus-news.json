@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:37:47.679Z",
+  "updatedAt": "2026-11-17T20:27:12.219Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,16 +11,16 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 5,
+    "published": 4,
     "pending": 2,
-    "rejected": 67,
-    "carriedForward": 5
+    "rejected": 68,
+    "carriedForward": 4
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 3
+      "count": 2
     },
     {
       "id": "dorm-privacy",
@@ -54,27 +54,6 @@
     }
   ],
   "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Brit Arrested After Flight Attendant Finds Hidden Camera In Airplane Bathroom, Now Faces Voyeurism And Cover-Up Charges - Live and Let's Fly",
-      "description": "A flight attendant discovered a hidden camera while using the lavatory on a Scoot flight from Japan to Singapore. A British passenger now faces charges of voyeurism and obstructing justice, with police alleging that he remotely activated the camera and later tried to erase evidence after realizing it had been found. Hugh Lutley, a 52-year-old British national, was charged on November 5, 2026, following an incident aboard Scoot flight TR821 from Osaka (KIX) to Singapore (SIN) on October 7. He faces one charge each of voyeurism and obstruction of justice. It appears Lutley intends to plead guilty, was offered bail of S$10,000, and has a pretrial conference scheduled for November 17 (which of course is not a conviction or a sentence). Police Say The Camera Was Activated Remotely The Singapore Police Force's account describes an alleged attempt to record people inside an aircraft toilet. Police say the passenger concealed a camera in the lavatory, left, and activated its recording function through an application on his phone. A cabin crew member subsequently used the lavatory and discovered the device. She removed it and immediately alerted a colleague. The passenger allegedly returned to retrieve the camera, found it missing, and deleted the application and related photographs from his phone in an attempt to avoid detection. Police detained him when the flight arrived at Singapore Changi Airport and seized his phone and the camera. The Alleged Cover-Up Carries A Higher Maximum Penalty Police identify two potential penalties: * Voyeurism * Obstructing justice Those are statutory maximums, but the alleged attempt to destroy evidence exposes him to a charge carrying a substantially longer maximum prison term than the underlying voyeurism charge. A Locked Lavatory Door Should Mean Privacy There is something particularly vile about placing a camera in an aircraft lavatory. Passengers and crew have little choice about where to go, and closing and locking the door should allow them to expect privacy. I am thankful the flight attendant found the device and reported it. Discovering something like that while using the restroom must be deeply unsettling. The published accounts do not establish how many people, if any, were recorded before the camera was discovered...the alleged installation and remote operation are disturbing enough. Is this world so twisted that passengers must become amateur surveillance experts every time they use an airplane bathroom? If you notice an unfamiliar device or something suspicious, alert the crew promptly...yeah, I guess you should look around before you drop your drawers. CONCLUSION A British passenger faces criminal charges after a flight attendant found a hidden camera in a Scoot lavatory. Police allege he remotely operated it and then deleted material from his phone after discovering the camera had been removed. The case remains before the court. For now, credit to the crew member who discovered the device and acted. An tight aircraft lavatory may offer very little comfort, but privacy ought to be a given.",
-      "url": "https://liveandletsfly.com/scoot-hidden-camera-bathroom-brit-charged/",
-      "source": "Live and Let's Fly",
-      "image": "https://liveandletsfly.com/wp-content/uploads/2024/09/Singapore-Airlines-737-8-MAX-Business-Class-Review-33.jpeg",
-      "publishedAt": "2026-11-10T11:39:07Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Brit Arrested After Flight Attendant Finds Hidden Camera In Airplane Bathroom, Now Faces Voyeurism And Cover-Up Charges - Live and Let's Fly\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
     {
       "provider": "NewsAPI.ai",
       "title": "Man charged with filming resident in University of Maryland residence hall shower",
@@ -163,36 +142,15 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Why did a couple find a hidden camera under the TV at a Tokyo hotel?",
-      "description": "Not knowing how long it was there is the part that would keep me up at night. A couple who found a hidden camera with an SD card inside their Tokyo hotel room TV still does not know who installed it. Police reportedly found the card empty and could not pursue criminal charges, according to Newsweek. Sedef Demir and her husband have since checked out of Hotel Aperto and complained to the Japanese Hotel Association. Sedef Demir had previously heard about guests being secretly recorded on vacation, so she checked for a hidden camera soon after the couple arrived at the adults-only hotel, which they booked through Booking.com. Soon after, she noticed a suspicious device in the room. A small lens was tucked under the television. \"My husband and I took a closer look and realized that it didn't seem to be part of the TV set. It was loosely attached with adhesive. When we carefully removed it, we discovered an SD card inside,\" Demir said. The couple contacted the hotel manager, who examined the device, confirmed it was a hidden camera, and apologized. The couple still has no idea how long the camera had been there Police arrived with two other individuals to examine the SD card, and Demir said a search of the room reportedly turned up no other hidden cameras. The manager suggested a previous guest may have left the device behind. Demir stressed the couple is not accusing any hotel staff of wrongdoing. \"We still don't know who installed the camera, how long it had been there, or whether it had recorded anything before we discovered it,\" Demir said. Offered a free extra night, the couple instead checked out the next day as they no longer felt safe. Demir said she hopes the story pushes organizations to offer better online reporting tools. Booking.com said in a statement that surveillance devices are never permitted in spaces where guests have a reasonable expectation of privacy, including bedrooms and bathrooms. The company added that properties that break those rules can be suspended or removed from its platform. The outlet said it had also contacted Hotel Aperto for comment. Adrianus Warmenhoven, a cybersecurity expert at NordVPN, told the outlet the couple handled the discovery well, documenting the evidence and reporting it to both the hotel and the booking platform before involving police. However, he said the best move for anyone in that position is to leave the hotel immediately. \"Finding a hidden camera in a place where you expected privacy is a profound violation. Accommodation is a temporary home, a space where people undress, sleep, and have their most intimate moments,\" Warmenhoven said. He noted the impact can be amplified for travelers far from home who face a language barrier or are unsure of their legal rights. Japan only made secret sexual filming a nationwide crime a few years ago Japan's law against photographing sexual acts without consent took effect in July 2023, as such cases were previously handled under a patchwork of local ordinances. The law criminalizes secretly filming a person's intimate areas or sexual acts. Violators face up to three years in prison or a fine of up to 3 million yen, according to Kyodo News. Police made 9,237 arrests for voyeurism offenses nationwide in 2025, the highest number on record, according to CNN. Authorities attribute part of that rise to the new law, which expanded the scope of offenses. However, Warmenhoven said hidden cameras in hotel rooms or rentals are still relatively rare, though they likely happen more often than most travelers assume.",
-      "url": "https://www.themarysue.com/couple-spots-a-small-lens-under-the-tv-in-their-tokyo-hotel-room-when-they-carefully-pull-it-off-they-claim-theres-an-sd-card-inside/",
-      "source": "The Mary Sue",
-      "image": "https://www.themarysue.com/wp-content/uploads/2026/11/tokyo-tower-during-sakura-season-ad-a-camera-in-a-white-room.jpg?fit=1280%2C720",
-      "publishedAt": "2026-11-16T21:00:00Z",
+      "title": "Man pleads no contest to video voyeurism charges stemming from incidents at URI",
+      "description": "A man accused of video voyeurism at the University of Rhode Island pleaded no contest to his charges on Tuesday. According to officials, Evan Bouphavong pleaded no contest to two counts of video voyeurism. University officials said in March that two voyeurism incidents were reported in residence hall showers. According to university officials, Bouphavong is not a student at URI. Bouphavong's sentencing will be deferred five years under conditions that he will get mental health counseling, have no contact with two victims, not trespass upon the property at URI, and pay court fees.",
+      "url": "https://turnto10.com/news/local/man-pleads-no-contest-to-video-voyeurism-charges-stemming-from-incidents-at-uri-university-rhode-island-residence-hall-showers-november-17-2026",
+      "source": "WJAR",
+      "image": "https://turnto10.com/resources/media2/16x9/1920/1320/center/90/02eed5a0-4fd8-4227-8465-bed1f0cb411f-UntitledOctober072026at11.35.343.png",
+      "publishedAt": "2026-11-17T20:16:16Z",
       "category": "Bathroom Peeping / Voyeurism Incidents",
       "categoryId": "bathroom-peeping",
       "priority": 1,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Why did a couple find a hidden camera under the TV at a Tokyo hotel\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-16T21:37:47.679Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Former Kennedale Teacher, Coach Strikes Plea Deal in Hidden Camera Trial",
-      "description": "A former Kennedale teacher accused of hiding a camera in a high school bathroom will spend a year behind bars after agreeing to a plea deal Friday.",
-      "url": "https://us.headtopics.com/news/former-kennedale-teacher-coach-strikes-plea-deal-in-hidden-89887750",
-      "source": "Headtopics",
-      "image": "https://i.headtopics.com/images/2026/11/16/nbcdfw/former-kennedale-teacher-coach-strikes-plea-deal-i-former-kennedale-teacher-coach-strikes-plea-deal-i-1D13D5C3F1F02BA84E7A96A97C108950-16x9.webp",
-      "publishedAt": "2026-11-16 07:29:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
       "confidence": 45,
       "confidenceLabel": "medium",
       "matchReasons": [
@@ -201,8 +159,30 @@
         "primary topic in title",
         "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Former Kennedale Teacher, Coach Strikes Plea Deal in Hidden Camera Trial\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-16T21:37:47.679Z"
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man pleads no contest to video voyeurism charges stemming from incidents at URI\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-17T20:27:12.219Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Woman trying on clothes in Old Navy changing room in Queens recorded by peeping Tom",
+      "description": "A woman trying on clothes at a Queens Old Navy was secretly recorded by a peeping Tom, police said Tuesday. But the suspect was also recorded -- and cops released footage of him Tuesday and asked the public's help identifying him and tracking him down. The victim was in the changing room of the Jamaica Old Navy on Jamaica Ave. near 160th St. about 6:50 p.m. Oct. 17 when she realized someone had positioned an electronic device over a wall, allowing the creep to record video of her. The victim immediately called police but the peeping Tom had fled by the time they arrived. He was wearing a black hoodie, blue jeans and gray-and-white sneakers. Anyone with information is asked to call Crime Stoppers at (800) 577-TIPS. All calls will be kept confidential.",
+      "url": "https://www.nydailynews.com/2026/11/17/woman-trying-on-clothes-in-old-navy-changing-room-in-queens-recorded-by-peeping-tom/",
+      "source": "Daily News",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2026/11/Peeping-tom.jpg?w=5333&h=3000",
+      "publishedAt": "2026-11-17T14:23:21Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Woman trying on clothes in Old Navy changing room in Queens recorded by peeping Tom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-17T20:27:12.219Z"
     }
   ]
 }
