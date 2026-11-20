@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:56:01.268Z",
+  "updatedAt": "2026-11-20T19:36:08.269Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,21 +11,21 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 4,
-    "pending": 8,
-    "rejected": 62,
-    "carriedForward": 4
+    "published": 2,
+    "pending": 0,
+    "rejected": 70,
+    "carriedForward": 2
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 2
+      "count": 1
     },
     {
       "id": "dorm-privacy",
       "label": "Dorm Bathroom Privacy + Shared Living",
-      "count": 2
+      "count": 1
     },
     {
       "id": "hidden-cameras",
@@ -77,27 +77,6 @@
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Judge won't seal former Kentucky Castle CEO's divorce proceedings",
-      "description": "A Jefferson Family Court judge denied sealing the divorce between a well-known bourbon maker and his wife. Julie Henderson filed for divorce on Oct. 19, just two weeks after news broke of her husband's alleged voyeurism. Wes Henderson is co-founder of Angel's Envy and the former CEO of The Kentucky Castle, which is owned by parent group TKC Distilling Co. TKC Distilling also owns True Story Whiskey. The company's board terminated Henderson from the hotel and distilling company on Oct. 3, after allegations in a sealed lawsuit surfaced regarding Henderson secretly recording family members and guests in the bathroom, bedroom and during sexual activity at a family vacation home in Florida. It also alleged recordings at the boutique hotel near Lexington. The Courier Journal obtained a copy of that lawsuit which claimed multiple cameras were \"disguised as fire alarms, a camera in a sound bar, cameras in a fan, a camera in a clock, and a camera placed inside a fire alarm, with the fire alarm completely duct-taped black and installed inside a bathroom air vent directly above the toilet of one of the bathrooms.\" The lawsuit also mentioned some of the recordings were allegedly of Henderson having adult relations with women other than his wife. The federal Department of Homeland Security investigations unit is looking into Henderson's alleged recording devices. Julie Henderson is a local fitness center owner, as well as an owner with her husband \"in the business ventures,\" per the divorce filing. Julie Henderson's attorney filed a protective order with Jefferson Family Court Judge Denise Brown asking the divorce be sealed because it would \"contain sensitive, highly confidential personal and financial information, and the public dissemination of which poses a substantial risk of ... embarrassment.\" In a Nov. 3 court filing, Brown denied the request by drawing diagonal lines across the order and writing: \"Parties may file individual motions to request filing is confidential or needs to be redacted.\" That means if Julie Henderson wants something to be kept confidential, her attorney will have to request the individual document be marked confidential or redacted when submitted into the court record. Julie Henderson's attorney did not immediately respond to a request for comment. Henderson's wife operated Burn Boot Camp locations in Kentucky Julie Henderson franchises several Louisville-area Burn Boot Camps. After the civil lawsuit was filed against Wes Henderson, Burn Boot Camp's headquarters began overseeing certain day-to-day operations of the local gyms, saying it was a decision made jointly with Julie Henderson, according to reports. Burn Boot Camp is a group-fitness program that combines high-intensity interval training and strength training. The company has gyms nationally, including six in Kentucky. Four of the locations -- off Hurstbourne Parkway and in Prospect, Crestwood and Jeffersonville, Indiana -- were operated by Julie Henderson. Burn Boot Camp has not been implicated in the voyeurism scandal. \"Burn takes the safety and privacy of its members seriously and has taken appropriate steps in response to the concerns that have been raised,\" Burn Boot Camp Vice President of Marketing Trish Peña said in an email to The Courier Journal. \"Because this involves matters concerning an independent franchisee and third parties, we do not have additional information to provide...\"Stephanie Kuzydym is an enterprise and investigative sports reporter. Reach her at skuzydym@courier-journal.com.",
-      "url": "https://eu.courier-journal.com/story/news/local/2026/11/13/judge-denies-request-to-seal-wes-hendersons-divorce-proceedings/92745556007/",
-      "source": "The Courier-Journal",
-      "image": "https://www.gannett-cdn.com/presto/2019/05/28/PLOU/694d737b-2f37-4042-97bb-ac50f25525a5-20180607_6103.jpg?auto=webp&crop=5658,3169,x0,y74&format=pjpg&width=1200",
-      "publishedAt": "2026-11-13T10:09:18Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 70,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Judge won't seal former Kentucky Castle CEO's divorce proceedings\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
       "title": "Hidden camera found in UNC Wilmington dorm bathroom; student removed",
       "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
       "url": "https://www.wspa.com/news/state-news/hidden-camera-found-in-unc-wilmington-dorm-bathroom-student-removed/",
@@ -116,204 +95,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in UNC Wilmington dorm bathroom; student removed\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera found in dorm bathroom at UNC Wilmington",
-      "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
-      "url": "https://myfox8.com/news/north-carolina/hidden-camera-found-in-dorm-bathroom-at-unc-wilmington/",
-      "source": "myfox8.com",
-      "image": "https://myfox8.com/wp-content/uploads/sites/17/2026/11/uncw_38379372_ver1.0.png?strip=1&w=640",
-      "publishedAt": "2026-11-13T13:32:09Z",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in dorm bathroom at UNC Wilmington\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
     }
   ],
-  "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Woman says, 'Tell me I'm paranoid,' about blinking green light in new toilet, then reveals landlord's shocking demand",
-      "description": "A woman who recently moved into a new apartment is questioning whether a blinking green light inside her bathroom ventilation fan could be a hidden camera. The TikTok user, known as @grun_stern, shared footage of the unusual discovery and later gave viewers a closer look at the fixture, although she admitted she had no proof that it was recording. The woman, who goes by Kait, also raised concerns about the apartment's application process, claiming she was required to undergo a biometric scan of her face. She said her landlord never answered questions about who had access to the information or how it was stored.Woman Spots Blinking Green Light Inside Bathroom VentKait first showed viewers a ventilation grille in her bathroom, drawing attention to a green light flashing behind its slats. Text accompanying the video read, \"I just moved into this apartment. Someone please tell me I'm paranoid.\" The footage prompted questions about whether the fixture could contain a recording device. However, the initial video did not show a camera.TikTok User Takes a Closer Look at Suspicious Bathroom FixtureIn a follow-up video, Kait climbed up to examine the ventilation unit more closely, explaining that her husband believed the light was simply an indicator connected to the fan. She was not entirely convinced, though. \"I don't know if it's a camera. It really might not be,\" she told viewers. The closer footage showed a green LED attached to the fan housing. A label on the component identified it as a Broan-NuTone 2100 Home Ventilating unit. However, neither the video nor Kait's comments established that the light indicated a camera or recording activity.Woman Says Apartment Application Required Biometric Face ScanKait also questioned the apartment's screening requirements, saying she had to complete a full facial scan before securing the rental. \"And I was like, what the f--k, that's weird,\" she recalled. The TikTok user said she had been renting for around 10 years and had never encountered that kind of requirement. She questioned why her facial information was being collected and what would happen to the data.Kait Claims Landlord Ignored Questions About Personal DataKait said she contacted the landlord by email to ask who was responsible for storing her biometric information and which third parties could access it. According to her, she never received a response. She also expressed reluctance to contact the authorities about the bathroom discovery. The two concerns remain separate in her account. There is no evidence that the biometric screening process was connected to the ventilation unit or that a recording device was installed in the bathroom. Neither the footage nor the available reporting establishes what caused the green light to blink. Kait's questions about the handling of her facial data also remain unanswered publicly.",
-      "url": "https://radaronline.com/p/woman-notices-blinking-green-light-new-toilet-tell-me-im-paranoid-reveals-landlord-allegedly-demanded/",
-      "source": "RadarOnline",
-      "image": "https://media.radaronline.com/brand-img/v2p1fDNjA/1200x628/woman-notices-blinking-green-light-new-toilet-tell-me-im-paranoid-reveals-landlord-allegedly-demanded-1795112093137.jpg",
-      "publishedAt": "2026-11-19T19:00:04Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 50,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"Woman says, 'Tell me I'm paranoid,' about blinking green light in new toilet, then reveals landlord's shocking demand\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://dayton247now.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "WKEF",
-      "image": "https://dayton247now.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://abc7amarillo.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "KVII",
-      "image": "https://abc7amarillo.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://bakersfieldnow.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "KBAK",
-      "image": "https://bakersfieldnow.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://thenationaldesk.com/news/americas-news-now/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "The National Desk",
-      "image": "https://thenationaldesk.com/resources/media2/16x9/590/986/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T13:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slips body fluids in woman's coffee mug: reports\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://stl30.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "KDNL",
-      "image": "https://stl30.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://turnto10.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "WJAR",
-      "image": "https://turnto10.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report",
-      "description": "A former Pennsylvania health care manager learned his fate after he was accused slipping bodily fluids inside a co-worker's coffee mug, according to reports. Timothy Haver, 45, on Tuesday was sentenced to one to two years in jail after pleading guilty to misdemeanor stalking in connection with the case, WPXI reported. The media outlet identified Haver as a former Highmark Health manager, adding that he will not have to register as a sex offender. The case reportedly began in 2025, when a woman working at the Pittsburgh company said she was being stalked and harassed. She told investigators she noticed an unknown substance in her mug and suspected it was bodily fluid, according to the outlet. With the woman's permission, Highmark Health police installed a hidden camera in her office, WPXI noted. The camera recorded Haver taking the mug from her desk and returning it multiple times, per the outlet, with the woman saying she found the substance in the mug each time. \"When police questioned Haver about why he was doing this, investigators say he told them that he 'felt this was the only way to get close to her,'\" WPXI reported. Haver's attorney reportedly said a plea agreement resulted in the withdrawal of charges that could have required his client to register as a sex offender. The attorney also said Haver was remorseful and hoped the woman could move on.",
-      "url": "https://wlos.com/news/nation-world/hidden-camera-shows-health-care-manager-slips-body-fluids-in-womans-coffee-mug-reports-timothy-haver-stalking-highmark-health-pittsburgh-pennsylvania-harassment-harrassed-unknown-substance-hidden-camera-desk-investigation-true-crime",
-      "source": "WLOS",
-      "image": "https://wlos.com/resources/media2/16x9/590/1320/1221x1312/90/1fde5809-e3da-4530-a7ec-74b86e6441c7-GettyImages511294910.jpg",
-      "publishedAt": "2026-11-19T18:26:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera shows health care manager slipping body fluids in woman's coffee mug: report\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-19T19:56:01.268Z"
-    }
-  ]
+  "pendingReview": []
 }
