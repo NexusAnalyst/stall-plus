@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:36:08.269Z",
+  "updatedAt": "2026-11-21T18:40:54.432Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 2,
-    "pending": 0,
-    "rejected": 70,
+    "pending": 4,
+    "rejected": 65,
     "carriedForward": 2
   },
   "categoryCounts": [
@@ -97,5 +97,94 @@
       "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in UNC Wilmington dorm bathroom; student removed\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
     }
   ],
-  "pendingReview": []
+  "pendingReview": [
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Disgraced bourbon baron sued by castle hotel guests fearful they were recorded on hidden camera",
+      "description": "The Kentucky bourbon millionaire accused of secretly filming his family in intimate situations -- as well as allegedly filming himself having sex with women other than his wife -- has been sued by guests of his gauche castle-hotel fearful that they, too, could have been caught on hidden camera. Virginia couple Brandi and Shawn Cupp have filed a proposed class action lawsuit against Wes Henderson, 60, the ousted CEO of TKC Distilling, the parent company of The Kentucky Castle, and against the hotel's owners. The lawsuit alleges \"the companies failed to protect guests from hidden recording devices and failed to warn them for more than a year after cameras tied to Henderson were first discovered,\" Thomas Law Offices, which represents the couple, said in a release. The couple took engagement photos at the Versailles, Ky., hotel, dined at the farm-to-table restaurant on its spacious grounds, and then stayed in one of the castle's 18 exclusive rooms from Nov. 28-29, 2025. \"Brandi and Shawn came to The Kentucky Castle to celebrate one of the happiest moments of their lives, and now they are left wondering whether that weekend was secretly recorded,\" said Tad Thomas, founder and managing partner of Thomas Law Offices. The Kentucky Bourbon Hall of Fame member was sued in June by family members who claim to have found 15 hidden cameras throughout his home in Melbourne, Fla., that recorded approximately 40 people changing clothes, using bathrooms, and engaging in sexual acts. Family members found a camera and looked through footage on an SD drive which \"captured intimate acts as well as images of themselves in various stages of undress and using the restroom,\" the Lexington Herald Leader reported. Henderson's family members handed the cameras over to police. Henderson -- who co-founded the whiskey brand Angel's Envy, which was sold to Bacardi in 2015 for a reported $150 million -- also allegedly used the hidden cameras to record himself having sexual intercourse with a woman who was not his wife. Julie Henderson, a fitness studio owner, filed for divorce from her disgraced hubby on Oct. 19, according to documents obtained by the Kansas City Star. Thomas Law Offices, which filed the new suit on behalf of the Virginia couple in Woodford Circuit Court, is seeking to represent everyone who paid for a room at The Kentucky Castle between June 1, 2025 and Oct. 2, 2026, according to the release. \"The people running this hotel had reason to know something was wrong as early as June 2025. For 16 months, guests kept checking in and no one told them a thing. Every one of those guests deserved a warning, and they still deserve answers,\" Thomas said. The lawsuit, which is asking for restitution and a jury trial in the case, brings claims of negligence, premises liability and vicarious liability against TKC Distilling and TKC Hospitality Group LLC, along with an invasion of privacy claim against Henderson and a fraudulent concealment claim against all defendants. TKC Hospitality has denied that any guests were surreptitiously recorded and that no recording devices were found during multiple searches. \"TKC Hospitality unequivocally rejects the allegations suggesting that guests were secretly recorded while staying at our property. There is no evidence supporting these claims,\" the company said in a Nov. 12 statement. \"No unauthorized recording devices or evidence of their previous existence were found following a Technical Surveillance Countermeasures sweep and multiple physical searches of the property,\" TKC Hospitality said. Homeland Security confirmed they are investigating. No criminal charges have been filed against Henderson, who was fired from his roles as CEO of TKC Hospitality Group and TKC Distilling in October. Henderson's son Kyle was announced as his replacement. Construction on the Kentucky Castle first started in 1969 and was conceived as a private residence for a couple who divorced in 1975. The castle was not completed until 2008. TKC Hospitality Group acquired The Kentucky Castle in 2023 for $19 million. Attempts to reach Henderson for comment were unsuccessful.",
+      "url": "https://nypost.com/2026/11/21/us-news/disgraced-bourbon-baron-sued-by-castle-hotel-guests-fearful-they-were-recorded-on-hidden-camera/",
+      "source": "New York Post",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149627518.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-21T18:21:49Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Disgraced bourbon baron sued by castle hotel guests fearful they were recorded on hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-21T18:40:54.432Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden camera discovered in Bronx Dollar General employee bathroom; workers demand answers",
+      "description": "The employee, who asked not to be identified out of fear of retaliation, believes a fellow worker may have placed the camera in the bathroom. She says the",
+      "url": "https://www.newsbreak.com/news-12-1587832/5020490362504-hidden-camera-discovered-in-bronx-dollar-general-employee-bathroom-workers-demand-answers",
+      "source": "Newsbreak",
+      "image": "https://img.particlenews.com/img/id/0DZNYm_1HIlNlJM00",
+      "publishedAt": "2026-11-21 00:00:00",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera discovered in Bronx Dollar General employee bathroom; workers demand answers\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-21T18:40:54.432Z"
+    },
+    {
+      "provider": "NewsAPI.org",
+      "title": "How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice",
+      "description": "Timothy Blamires, 33, fronted Melbourne Magistrates' Court on Friday, where he pleaded guilty to 12 charges including installing optical device and producing child abuse material.",
+      "url": "https://www.dailymail.com/news/article-16307773/Tim-Blamires-teacher-spy-cam-children-Melbourne-primary-school-guilty.html",
+      "source": "Dailymail.com",
+      "image": "https://i.dailymail.com/1s/2026/11/20/03/112625007-0-image-m-11_1795145235114.jpg",
+      "publishedAt": "2026-11-20T04:04:50Z",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-21T18:40:54.432Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Additional charges filed in video voyeurism investigation",
+      "description": "Lake Charles police announced Friday that additional charges have been filed in its investigation into alleged video voyeurism committed by a local business owner. According to investigators, Emmett \"Cary\" Sole Jr. is now facing 15 additional counts of video voyeurism, 17 total, and Judge T. Fazzio has increased his bond amount to $3.6 million. Authorities said the charges stem from a complaint received on Nov. 9 with digital evidence that showed a camera hidden in certain rooms of a local residence had captured a minor under the age of 17 \"unclothed.\" Separately from that incident, investigators said they received another complaint on Nov. 5 about a camera that had been found inside the bathroom at the Helen Street Bake House, located at 1736 Common Street. Sole is the registered owner of the Bake House, but police have not commented on whether Sole is believed to be connected to both incidents. On Friday, authorities said no arrests have been made regarding the Bake House investigation. Sole was first arrested on Nov. 11 and originally charged with two counts of video voyeurism of a child under the age of 17. Anyone with information on either case is encouraged to contact LCPD at 337-491-1311.",
+      "url": "https://americanpress.com/2026/11/20/additional-charges-filed-in-video-voyeurism-investigation/",
+      "source": "Lake Charles American Press",
+      "image": "https://americanpress.com/wp-content/uploads/sites/65/2026/11/Screen-Shot-2026-11-12-at-1.12.14-PM.png?w=406",
+      "publishedAt": "2026-11-21T00:05:11Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Additional charges filed in video voyeurism investigation\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-21T18:40:54.432Z"
+    }
+  ]
 }
