@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T18:40:54.432Z",
+  "updatedAt": "2026-11-22T19:01:01.358Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -11,21 +11,21 @@
     "errors": []
   },
   "reviewSummary": {
-    "published": 2,
-    "pending": 4,
-    "rejected": 65,
-    "carriedForward": 2
+    "published": 0,
+    "pending": 1,
+    "rejected": 68,
+    "carriedForward": 0
   },
   "categoryCounts": [
     {
       "id": "bathroom-peeping",
       "label": "Bathroom Peeping / Voyeurism Incidents",
-      "count": 1
+      "count": 0
     },
     {
       "id": "dorm-privacy",
       "label": "Dorm Bathroom Privacy + Shared Living",
-      "count": 1
+      "count": 0
     },
     {
       "id": "hidden-cameras",
@@ -53,95 +53,8 @@
       "count": 0
     }
   ],
-  "articles": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Man charged with filming resident in University of Maryland residence hall shower",
-      "description": "A Falls Church man was arrested after police said he filmed a resident in a shower at a University of Maryland residence hall. Seonghun Hong, 32, was charged with peeping tom, trespassing, visual surveillance in a private area and related offenses, police said. University of Maryland police said officers responded to Cumberland Hall shortly before 8 p.m. Thursday after a reported voyeurism incident. Police said Hong gained access to the dorm by \"tailgating\" and following someone else into the building. The resident told officers they were showering when a cellphone with its camera pointed toward them appeared \"over the top of the shower curtain.\" Police said the resident yelled at the suspect and saw he was wearing a black hooded sweatshirt before he left the bathroom. Hong was later arrested in the lobby of Cumberland Hall. Anyone with information is asked to contact Lt. Rosanne Hoaas with the University of Maryland police, at 301-405-9960 or email rhoaas@umpd.umd.edu.",
-      "url": "https://wtop.com/maryland/2026/11/man-charged-with-filming-resident-in-university-of-maryland-residence-hall-shower/",
-      "source": "WTOP",
-      "image": "https://wtop.com/wp-content/uploads/2026/10/umd.jpg",
-      "publishedAt": "2026-11-15T10:55:26Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 70,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms"
-      ],
-      "stallplusAngle": "Visible stall gaps turn routine restroom use into a privacy risk. \"Man charged with filming resident in University of Maryland residence hall shower\" supports messaging around dignity, sightline coverage, and practical restroom upgrades without renovation work."
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Hidden camera found in UNC Wilmington dorm bathroom; student removed",
-      "description": "WILMINGTON, N.C. (WNCN) -- A hidden camera was found in the bathroom of a dormitory at the University of North Carolina Wilmington, officials said Wednesday. According to university officials, UNCW Housing and Residence Life staff contacted UNC Wilmington police on Tuesday about a suspicious device reported by students in a single-occupant bathroom on the fourth floor of Pelican Hall. Campus police are investigating whether the camera was used to record people in the restroom. Officers seized electronic evidence and are working with partner agencies to conduct a forensic analysis of the evidence, according to university officials. Police said they identified a student as the owner of the camera. The student has been removed from the campus pending the outcome of the investigation, the university announced. \"We recognize this news is deeply concerning, especially for Pelican Hall residents,\" the university said in a statement. \"Every member of our campus community deserves safety and respect, especially in spaces where personal privacy is expected.\" No other devices were found in the bathrooms of Pelican Hall and there is no indication of an ongoing threat to the campus, according to university officials. Other residential bathrooms are also being searched, according to the university. The investigation remains ongoing. As of Tuesday, it is unknown whether anyone was recorded, for how long the alleged recording may have taken place, or whether any recordings were shared. Anyone with information is asked to contact UNC Wilmington police by emailing police@uncw.edu, calling 910-962-2222, or through the SafeZone app. Students seeking support may call CARE at 910-962-2273, the counseling center at 910-962-3746, or Title IX & Clery Compliance at 910-962-3557. Anyone who may have been affected will be contacted privately by the university. \"As always, students' safety, privacy, and wellbeing are our top priorities,\" the university said in a statement. \"Our primary focus is to keep our community safe and supported while carefully balancing fact-finding with what can be shared more broadly.\"",
-      "url": "https://www.wspa.com/news/state-news/hidden-camera-found-in-unc-wilmington-dorm-bathroom-student-removed/",
-      "source": "WSPA 7News",
-      "image": "https://www.wspa.com/wp-content/uploads/sites/53/2026/11/uncw_38379372_ver1.0.png?strip=1&w=640",
-      "publishedAt": "2026-11-14T21:08:04Z",
-      "category": "Dorm Bathroom Privacy + Shared Living",
-      "categoryId": "dorm-privacy",
-      "priority": 2,
-      "confidence": 75,
-      "confidenceLabel": "high",
-      "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Shared dorm and campus bathrooms raise student privacy concerns. \"Hidden camera found in UNC Wilmington dorm bathroom; student removed\" connects to portable and installed options for administrators and parents evaluating restroom upgrades."
-    }
-  ],
+  "articles": [],
   "pendingReview": [
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Disgraced bourbon baron sued by castle hotel guests fearful they were recorded on hidden camera",
-      "description": "The Kentucky bourbon millionaire accused of secretly filming his family in intimate situations -- as well as allegedly filming himself having sex with women other than his wife -- has been sued by guests of his gauche castle-hotel fearful that they, too, could have been caught on hidden camera. Virginia couple Brandi and Shawn Cupp have filed a proposed class action lawsuit against Wes Henderson, 60, the ousted CEO of TKC Distilling, the parent company of The Kentucky Castle, and against the hotel's owners. The lawsuit alleges \"the companies failed to protect guests from hidden recording devices and failed to warn them for more than a year after cameras tied to Henderson were first discovered,\" Thomas Law Offices, which represents the couple, said in a release. The couple took engagement photos at the Versailles, Ky., hotel, dined at the farm-to-table restaurant on its spacious grounds, and then stayed in one of the castle's 18 exclusive rooms from Nov. 28-29, 2025. \"Brandi and Shawn came to The Kentucky Castle to celebrate one of the happiest moments of their lives, and now they are left wondering whether that weekend was secretly recorded,\" said Tad Thomas, founder and managing partner of Thomas Law Offices. The Kentucky Bourbon Hall of Fame member was sued in June by family members who claim to have found 15 hidden cameras throughout his home in Melbourne, Fla., that recorded approximately 40 people changing clothes, using bathrooms, and engaging in sexual acts. Family members found a camera and looked through footage on an SD drive which \"captured intimate acts as well as images of themselves in various stages of undress and using the restroom,\" the Lexington Herald Leader reported. Henderson's family members handed the cameras over to police. Henderson -- who co-founded the whiskey brand Angel's Envy, which was sold to Bacardi in 2015 for a reported $150 million -- also allegedly used the hidden cameras to record himself having sexual intercourse with a woman who was not his wife. Julie Henderson, a fitness studio owner, filed for divorce from her disgraced hubby on Oct. 19, according to documents obtained by the Kansas City Star. Thomas Law Offices, which filed the new suit on behalf of the Virginia couple in Woodford Circuit Court, is seeking to represent everyone who paid for a room at The Kentucky Castle between June 1, 2025 and Oct. 2, 2026, according to the release. \"The people running this hotel had reason to know something was wrong as early as June 2025. For 16 months, guests kept checking in and no one told them a thing. Every one of those guests deserved a warning, and they still deserve answers,\" Thomas said. The lawsuit, which is asking for restitution and a jury trial in the case, brings claims of negligence, premises liability and vicarious liability against TKC Distilling and TKC Hospitality Group LLC, along with an invasion of privacy claim against Henderson and a fraudulent concealment claim against all defendants. TKC Hospitality has denied that any guests were surreptitiously recorded and that no recording devices were found during multiple searches. \"TKC Hospitality unequivocally rejects the allegations suggesting that guests were secretly recorded while staying at our property. There is no evidence supporting these claims,\" the company said in a Nov. 12 statement. \"No unauthorized recording devices or evidence of their previous existence were found following a Technical Surveillance Countermeasures sweep and multiple physical searches of the property,\" TKC Hospitality said. Homeland Security confirmed they are investigating. No criminal charges have been filed against Henderson, who was fired from his roles as CEO of TKC Hospitality Group and TKC Distilling in October. Henderson's son Kyle was announced as his replacement. Construction on the Kentucky Castle first started in 1969 and was conceived as a private residence for a couple who divorced in 1975. The castle was not completed until 2008. TKC Hospitality Group acquired The Kentucky Castle in 2023 for $19 million. Attempts to reach Henderson for comment were unsuccessful.",
-      "url": "https://nypost.com/2026/11/21/us-news/disgraced-bourbon-baron-sued-by-castle-hotel-guests-fearful-they-were-recorded-on-hidden-camera/",
-      "source": "New York Post",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149627518.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-21T18:21:49Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 60,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (2 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Disgraced bourbon baron sued by castle hotel guests fearful they were recorded on hidden camera\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-21T18:40:54.432Z"
-    },
-    {
-      "provider": "NewsData.io",
-      "title": "Hidden camera discovered in Bronx Dollar General employee bathroom; workers demand answers",
-      "description": "The employee, who asked not to be identified out of fear of retaliation, believes a fellow worker may have placed the camera in the bathroom. She says the",
-      "url": "https://www.newsbreak.com/news-12-1587832/5020490362504-hidden-camera-discovered-in-bronx-dollar-general-employee-bathroom-workers-demand-answers",
-      "source": "Newsbreak",
-      "image": "https://img.particlenews.com/img/id/0DZNYm_1HIlNlJM00",
-      "publishedAt": "2026-11-21 00:00:00",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden camera discovered in Bronx Dollar General employee bathroom; workers demand answers\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-21T18:40:54.432Z"
-    },
     {
       "provider": "NewsAPI.org",
       "title": "How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice",
@@ -162,29 +75,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-21T18:40:54.432Z"
-    },
-    {
-      "provider": "NewsAPI.ai",
-      "title": "Additional charges filed in video voyeurism investigation",
-      "description": "Lake Charles police announced Friday that additional charges have been filed in its investigation into alleged video voyeurism committed by a local business owner. According to investigators, Emmett \"Cary\" Sole Jr. is now facing 15 additional counts of video voyeurism, 17 total, and Judge T. Fazzio has increased his bond amount to $3.6 million. Authorities said the charges stem from a complaint received on Nov. 9 with digital evidence that showed a camera hidden in certain rooms of a local residence had captured a minor under the age of 17 \"unclothed.\" Separately from that incident, investigators said they received another complaint on Nov. 5 about a camera that had been found inside the bathroom at the Helen Street Bake House, located at 1736 Common Street. Sole is the registered owner of the Bake House, but police have not commented on whether Sole is believed to be connected to both incidents. On Friday, authorities said no arrests have been made regarding the Bake House investigation. Sole was first arrested on Nov. 11 and originally charged with two counts of video voyeurism of a child under the age of 17. Anyone with information on either case is encouraged to contact LCPD at 337-491-1311.",
-      "url": "https://americanpress.com/2026/11/20/additional-charges-filed-in-video-voyeurism-investigation/",
-      "source": "Lake Charles American Press",
-      "image": "https://americanpress.com/wp-content/uploads/sites/65/2026/11/Screen-Shot-2026-11-12-at-1.12.14-PM.png?w=406",
-      "publishedAt": "2026-11-21T00:05:11Z",
-      "category": "Bathroom Peeping / Voyeurism Incidents",
-      "categoryId": "bathroom-peeping",
-      "priority": 1,
-      "confidence": 45,
-      "confidenceLabel": "medium",
-      "matchReasons": [
-        "restroom context (1 terms)",
-        "category terms (1)",
-        "primary topic in title",
-        "published within 7 days"
-      ],
-      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Additional charges filed in video voyeurism investigation\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
-      "flaggedAt": "2026-11-21T18:40:54.432Z"
+      "flaggedAt": "2026-11-22T19:01:01.358Z"
     }
   ]
 }
