@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:01:01.358Z",
+  "updatedAt": "2026-11-23T23:22:28.719Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 0,
-    "pending": 1,
-    "rejected": 68,
+    "pending": 3,
+    "rejected": 66,
     "carriedForward": 0
   },
   "categoryCounts": [
@@ -56,6 +56,49 @@
   "articles": [],
   "pendingReview": [
     {
+      "provider": "NewsAPI.ai",
+      "title": "3 University of Alabama students say Mexican restaurant employee filmed them in restroom",
+      "description": "Three University of Alabama students are suing a downtown Tuscaloosa restaurant, alleging an employee secretly filmed them while they were using the restroom. The women, according to their attorneys and a lawsuit, walked into Jalapenos Downtown Cocina & Tequila Room expecting nothing more than dinner with friends during the week of final exams. Instead, the lawsuit contends, they found a cell phone hidden behind a potted plant and aimed directly at the toilet of a single-occupancy bathroom that had been recording women for an hour and a half. \"The phone belonged to a Jalapenos employee,\" said Birmingham attorney Freddy Rubio. \"When its video was recovered, it captured one woman after another in the must private moment imaginable, each of them unaware that a stranger was watching and recording them.\" The lawsuit, filed in Tuscaloosa Circuit Court, names as defendants Jalapenos Downtown Cocina & Tequila Room and employee 31-year-old Isabel Mendoza Perez. Mendoza has also been indicted on three counts of first-degree voyeurism, court records show. Rubio and Jason Yearout of Rubio Law Firm filed the lawsuit on behalf of three young women, claiming the restaurant had a duty to its patrons to exercise reasonable care in hiring, training, supervising and verifying the eligibility of employees placed in contact with the customers. The restaurant's owner did not respond to a request for comment. The incident happened on April 27, 2026. The group arrived at the restaurant at 6 p.m. They ate, paid, and decided to use the restroom before they left to go get ice cream, according to the lawsuit. They asked an employee for directions and were directed to the single-occupancy bathroom down a hallway on the far side of the restaurant. All three students used the bathroom, one at a time. When the third one finished and turned to wash her hands, she spotted an iPhone with its lenses trained on the toilet. The phone was behind a potted plant on the sink. The student picked it up and the screen showed a video still running. The timer showed it had been recording for one hour and 28 minutes, the suit states. \"Shaking and frightened, she stopped the recording and, in her panic, deleted the video,\" according to the lawsuit. \"She left the restroom to find the manager and called 911.\" \"The manager's response was not concern - it was containment,\" the suit states. \"He repeatedly denied that the phone could belong to an employee and pressed (the student) to surrender it so that he, rather than the police, could decide whose it was.\" When the police arrived, Mendoza told officers his phone had fallen while he was changing a lightbulb. The student told police they could find the video in the \"recently deleted\" folder which they did. The lawsuit states that the video showed Mendoza setting up and concealing the camera, and then a succession of unsuspecting women - including the three UA students - entering the restroom, lowering their clothing and using the restroom. \"On the same phone,\" the lawyers wrote, \"officers observed numerous photographs of naked women.\" The lawsuit alleges that Jalapenos hired Mendoza, assigned him duties that place him in and around the restaurant's restrooms, and gave him unsupervised access to patrols and to the private areas of its premises. \"On information and belief, Mendoza was not lawfully authorized to work in the United States,\" the lawsuit states. \"Jalapenos hired and employed him anyway.\" \"Because Jalapenos deliberately avoided the verification and screening that federal and Alabama law require - and that ordinary care independently demanded - it hired a man whose true identity, history and fitness it had never confirmed, could not vouch for and about whom knew essentially nothing,\" lawyers wrote. \"On information and belief, before April 27, 2026, Mendoza had engaged in similar misconduct or exhibited behavior that rendered him unfit to have unsupervised access to Jalapenos patrons,\" the suit states, \"and Jalapenos knew, or in the exercise of due and proper diligence would have learned, of facts giving it notice of the risk he posed.\" The lawsuit accuses the restaurant and/ or Mendoza of the following: negligent hiring, training, supervision and retention, invasion of privacy, negligence, wantonness, intentional infliction of emotional distress, breach of fiduciary duty, among other claims. The suit is seeking unspecified compensatory and punitive damages.",
+      "url": "https://www.al.com/news/2026/11/3-university-of-alabama-students-say-mexican-restaurant-employee-filmed-them-in-restroom.html",
+      "source": "al",
+      "image": "https://www.al.com/resizer/v2/Q64YD3SKBJGOZFEAAS6YU5H2XA.jpg?auth=c23176788ae5c1b345e1c97908af87a24c876bd4b0cc7db67e3f8affa3cc8b37&width=1280&smart=true",
+      "publishedAt": "2026-11-23T21:01:06Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 50,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), published within 7 days). \"3 University of Alabama students say Mexican restaurant employee filmed them in restroom\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-23T23:22:28.719Z"
+    },
+    {
+      "provider": "NewsData.io",
+      "title": "Hidden Camera Found in Bronx Dollar General Bathroom, Workers Say They're Still in the Dark",
+      "description": "Workers at a Jerome Avenue Dollar General in the Bronx say a hidden camera was found in their bathroom, and police are investigating.",
+      "url": "https://hoodline.com/2026/11/hidden-camera-found-in-bronx-dollar-general-bathroom-workers-say-they-re-still-in-the-dark/",
+      "source": "Hoodline",
+      "image": "https://img.hoodline.com/2026/11/hidden-camera-found-in-bronx-dollar-general-bathroom-workers-say-they-re-still-in-the-dark.webp",
+      "publishedAt": "2026-11-22 15:32:11",
+      "category": "Hidden Cameras in Public Spaces",
+      "categoryId": "hidden-cameras",
+      "priority": 3,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Hidden Camera Found in Bronx Dollar General Bathroom, Workers Say They're Still in the Dark\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
+      "flaggedAt": "2026-11-23T23:22:28.719Z"
+    },
+    {
       "provider": "NewsAPI.org",
       "title": "How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice",
       "description": "Timothy Blamires, 33, fronted Melbourne Magistrates' Court on Friday, where he pleaded guilty to 12 charges including installing optical device and producing child abuse material.",
@@ -75,7 +118,7 @@
         "published within 7 days"
       ],
       "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"How vile primary school teacher preyed on his young students with a creepy spy camera set up inside the boys toilets - and the sneaky way he tried to dodge justice\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-22T19:01:01.358Z"
+      "flaggedAt": "2026-11-23T23:22:28.719Z"
     }
   ]
 }
