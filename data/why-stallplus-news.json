@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:54:23.328Z",
+  "updatedAt": "2026-11-27T20:40:08.437Z",
   "generatedBy": "scripts/update-news.mjs",
   "note": "News is categorized for StallPlus messaging. Hidden camera and safety stories should be framed as additional privacy protection, not guaranteed prevention.",
   "providerStatus": {
@@ -12,8 +12,8 @@
   },
   "reviewSummary": {
     "published": 1,
-    "pending": 2,
-    "rejected": 62,
+    "pending": 11,
+    "rejected": 57,
     "carriedForward": 1
   },
   "categoryCounts": [
@@ -79,45 +79,245 @@
   "pendingReview": [
     {
       "provider": "NewsAPI.ai",
-      "title": "Indian Doctor Arrested for Allegedly Recording Nude Videos, $2 Million Bail Set",
-      "description": "Charges include disturbing hidden camera footage of children and women. Dr. Oumair Aejaz, a 40-year-old Indian doctor residing in the United States, has been arrested and is facing a $2 million bail (approximately 2,606,578 SGD) after being charged with multiple sex crimes. These charges include recording thousands of nude images and videos of children and women for six years. More than 13,000 videos were discovered on a single hard drive, and authorities seized an additional 15 storage devices during their investigation. Background of the Arrest Oumair Aejaz, who specializes in internal medicine, moved to the US from India in 2011 on a work visa. His medical career includes training at Sinai Grace Hospital in Michigan and subsequent employment at Henry Ford Macomb Hospital and Ascension Genesys Hospital. Most recently, he worked in various medical roles across Michigan. The investigation began on August 8 after Aejaz's wife alerted authorities with evidence of his illicit activities. Searches conducted at their home in Rochester Hills, Michigan, revealed that Aejaz had installed hidden cameras in bathrooms, changing rooms, and even his own home. According to Fox News, these cameras recorded disturbing footage of individuals, including young children as young as 2 years old and unconscious women. Authorities are also looking into whether some of these recordings were uploaded to cloud storage Charges, Legal Proceedings, and Ongoing Investigations On August 13, Aejaz was formally charged with several offenses, including one count of child sexually abusive activity, four counts of recording unclothed individuals, and five counts of using a computer to commit a crime. Additionally, prior to his arrest, he had no criminal record. The investigation into Aejaz's activities is ongoing, with authorities working to uncover the full extent of his actions and identify all potential victims. If you have a story or a tip-off, email [email protected] or get in touch via Whatsapp at 8882 5913. Wake Up Singapore is a volunteer-run site that covers alternative views in Singapore. If you want to volunteer with us, sign up here! If you can, please do consider buying a mug or two to support Wake Up Singapore's work!",
-      "url": "https://wakeup.sg/indian-doctor-arrested-oumair-aejaz/",
-      "source": "Wake Up Singapore",
-      "image": "https://media.wakeup.sg/wp-content/uploads/2024/08/indian-doctor-arrested-oumair-aejaz-featured-img.png",
-      "publishedAt": "2024-08-28T09:14:49Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 55,
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out.",
+      "url": "https://www.castanet.net/news/Metro-Vancouver/639275/Police-investigating-suspected-voyeurism-at-Vancouver-elementary-school",
+      "source": "Castanet",
+      "image": "https://www.castanet.net/content/2026/11/screenshot_2026-11-27_at_10.58.25am_p4310471.jpg",
+      "publishedAt": "2026-11-27T17:59:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "restroom context (3 terms)",
-        "category terms (1)"
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (restroom context (3 terms), category terms (1)). \"Indian Doctor Arrested for Allegedly Recording Nude Videos, $2 Million Bail Set\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-26T20:54:23.328Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
     },
     {
       "provider": "NewsAPI.ai",
-      "title": "Scandal over luxury handbag puts S. Korea's first lady in spotlight of foreign press",
-      "description": "President Yoon Suk-yeol and first lady Kim Keon-hee of South Korea sit in a car at the Amsterdam Airport Schiphol after arriving in the Netherlands for a state visit on Dec. 11. (Yonhap) Many international news outlets have turned their attention to the controversy over South Korean first lady Kim Keon-hee's apparent acceptance of a luxury handbag, with the Guardian reporting that \"the emerging handbag scandal could not have come at a worse time for the country's deeply unpopular president.\" \"No scripted narrative\" On Friday (local time) freelance journalist Raphael Rashid wrote in an article titled, \"The first lady and the Dior bag: the scandal shaking up South Korean politics\" for the Guardian: \"With elections for the country's national assembly less than three months away, South Korean media is awash with accusations and recriminations -- all of which stem from the alleged gift of a Dior handbag more than a year ago.\" Describing how the controversy was touched off, Rashid writes that the country's first lady \"is secretly filmed as she's presented with a lavish gift from a pastor who advocates for unification with North Korea. But this is no scripted narrative, rather a real political crisis that has plunged South Korea's conservative government into disarray.\" On the motivations of the pastor in question, Rashid writes that the man who shot the video \"claims that he overheard Kim engaged in a phone conversation which touched upon sensitive state affairs. Alarmed by the nature of the alleged discussion, he decided to secretly record their next meeting, employing a spy camera concealed within a wristwatch.\" The piece also put this case in the wider political context of South Korea, noting another recent scandal over an abuse of power: Park Geun-hye, the former president who was impeached over influence peddling. The news outlet went on to point out Kim's history, saying that the first lady is \"no stranger to controversy, having weathered a series of allegations, including plagiarism concerning her academic writings, résumé-padding and accusations of stock manipulation.\" \"The controversies,\" Rashid wrote, \"have proven a headache and a source of embarrassment for her husband.\" With a general election that will decide who has a majority in parliament slated for April 10, the journalist wrote, both of Korea's two major parties are \"going all out to secure support,\" noting that it's precisely in this context that the handbag scandal \"could not have come at a worse time for the country's deeply unpopular president.\" The Guardian specified that President Yoon Suk-yeol had earlier this month vetoed legislation that would have paved the way for a special prosecutor to investigate allegations that the first lady took part in stock manipulation, as well as citing the results of a poll that showed that seven out of 10 Korean believed that Yoon \"needs to explain his position regarding the controversy around the first lady.\" In a poll commissioned by YTN, Embrain Public surveyed 1,000 voting-age Koreans over two days last week, asking about their opinions on the need for Yoon to explain his position on scandals related to the first lady. Findings showed that 69% believed the president should explain, while 24% believed that such an explanation would be unnecessary. The survey had a confidence level of 95%, with a margin error of plus or minus 3 percentage points. The article also shared in detail how the controversy snowballed following a comparison of the first lady to Marie Antoinette by Kim Kyung-yul, a member of the ruling People Power Party's interim leadership board. After the comment, the party's interim leader, Han Dong-hoon, called the video a \"hidden camera sting,\" but also said that the matter was \"a matter of public concern.\" These comments by Han then led the presidential office to demand Han's resignation, which he refused. The issue was also covered by the BBC in an article titled \"South Korea: First lady's Dior bag shakes country's leadership,\" in which it wrote that the controversy over the incident has thrown the ruling party \"into disarray.\" The article also shared the insight of analysts, some of whom said the scandal \"threatens the prospects of President Yoon Suk-yeol's party in April's elections.\" The BBC reported that in the footage, pastor Choi Jae-young gifts the first lady with a Dior bag with an estimated value of 1,800 pounds (3 million won). The outlet went on to cite the same poll used in the Guardian article, pointing out that the \"country's eligible voters want an explanation from the president about his wife's actions,\" while \"the opposition Democratic Party has also seized on the issue to attack Yoon and his party.\" \"The scandal has also caused rifts within Yoon's party,\" the article went on to explain, once again showing how, after Han made a comment about the affair being \"a matter of public concern,\" the presidential office pushed him to resign. The article concluded by saying that Yoon and Han have made amends, and that Han remains in the PPP. These reports followed a previous one by the Wall Street Journal in an article titled \"A $2,200 Dior Handbag Shakes South Korea's Ruling Party.\" The Wall Street Journal said that while the video of Kim accepting a Dior bag at her office from a pastor was released last November, controversy over the video \"has heated up in recent days in South Korea's highly polarized political atmosphere.\" \"In the video, Choi walks into an office for an exhibition agency that was run by the first lady at the time. The pastor hands a Dior shopping bag to Kim as soon as they meet, saying it is a way to show his appreciation. 'Don't bring expensive gifts like this,' the first lady can be heard saying,\" the newspaper reported. The newspaper reported that since the video was released, the political opposition -- including the Democratic Party -- has gone on the attack, criticizing Kim's acceptance of the bag as a \"violation of South Korea's antigraft law, which makes it illegal for public officials and their spouses to accept gifts exceeding about $750 at once.\" The newspaper also offered a detailed account of happenings inside the PPP. \"One party member compared the first lady to Marie Antoinette, the queen of France before the French Revolution, before apologizing for the comment. The interim leader of Yoon's party, Han Dong-hoon, said last week the video was a hidden-camera trap but that the bag could be a matter of public concern. On Monday, he said he had rejected a request from the president's office to step down from his position.\" The Wall Street Journal pointed out that \"the bag controversy presents another political problem for Yoon,\" who is already struggling with low approval ratings. The Wall Street Journal also noted that \"Kim has been out of the public eye for more than a month\" since the scandal exploded and has not been attending public events. By Lee You-jin, staff reporter",
-      "url": "https://english.hani.co.kr/arti/english_edition/e_national/1126356.html",
-      "source": "한겨레신문",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/762/424/imgdb/original/2024/0129/6917065151598533.webp",
-      "publishedAt": "2026-11-26T12:30:38Z",
-      "category": "Hidden Cameras in Public Spaces",
-      "categoryId": "hidden-cameras",
-      "priority": 3,
-      "confidence": 40,
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out.",
+      "url": "https://www.castanetkamloops.net/news/Metro-Vancouver/639275/Police-investigating-suspected-voyeurism-at-Vancouver-elementary-school",
+      "source": "castanetkamloops.net",
+      "image": "https://www.castanet.net/content/2026/11/screenshot_2026-11-27_at_10.58.25am_p4310471.jpg",
+      "publishedAt": "2026-11-27T17:59:00Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
       "confidenceLabel": "medium",
       "matchReasons": [
-        "category terms (2)",
-        "published within 7 days",
-        "multiple category terms",
-        "failed category gate"
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
       ],
-      "stallplusAngle": "Flagged for review (category terms (2), published within 7 days, multiple category terms, failed category gate). \"Scandal over luxury handbag puts S. Korea's first lady in spotlight of foreign press\" may fit Hidden Cameras in Public Spaces if restroom context is confirmed.",
-      "flaggedAt": "2026-11-26T20:54:23.328Z"
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out. This report by The Canadian Press was first published Nov. 27, 2026.",
+      "url": "https://www.vancouverisawesome.com/bc-news/police-investigating-suspected-voyeurism-at-vancouver-elementary-school-13067023",
+      "source": "Vancouver Is Awesome",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/11/ee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out. This report by The Canadian Press was first published Nov. 27, 2026.",
+      "url": "https://www.piquenewsmagazine.com/bc-news/police-investigating-suspected-voyeurism-at-vancouver-elementary-school-13067023",
+      "source": "Pique Newsmagazine",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/11/ee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out. This report by The Canadian Press was first published Nov. 27, 2026.",
+      "url": "https://www.timescolonist.com/bc-news/police-investigating-suspected-voyeurism-at-vancouver-elementary-school-13067023",
+      "source": "Times Colonist",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/11/ee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out.",
+      "url": "https://www.bowenislandundercurrent.com/bc-news/police-investigating-suspected-voyeurism-at-vancouver-elementary-school-13067023",
+      "source": "Bowen Island Undercurrent",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/11/ee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services.",
+      "url": "https://nanaimonewsnow.com/2026/11/27/police-investigating-suspected-voyeurism-at-vancouver-elementary-school/",
+      "source": "NanaimoNewsNOW | Nanaimo news, sports, weather, real estate, classifieds and more",
+      "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F3e316491-6295-4ec3-89b5-0d11da3bceb0%2Fee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER -- Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out.",
+      "url": "https://ckpgtoday.ca/2026/11/27/police-investigating-suspected-voyeurism-at-vancouver-elementary-school/",
+      "source": "CKPG Today",
+      "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F3e316491-6295-4ec3-89b5-0d11da3bceb0%2Fee8f3499a5b454d19b17ef5d84e2dac4f57f5d3a2ae0f8995b0f8d4c8ffbc582.jpg",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Police investigating suspected voyeurism at Vancouver elementary school",
+      "description": "VANCOUVER - Police in Vancouver are investigating after a man allegedly engaged in voyeurism at a local elementary school. Vancouver police say it happened on Tuesday at a school in the area of Main Street and East 33rd Avenue. They say a 12-year-old girl reported to the school's liaison officer that the student was in a stall in the girl's bathroom when an unknown man \"peered over the divider.\" The student reported screaming and running out to get help, and she is now receiving support from Vancouver police's victim services. The suspect fled the scene and has not been located, and police have released images and a video of the man in hopes of spurring public help in identifying him. Police say the man is not believed to be connected to the community of the school, but it has not been completely ruled out. This report by The Canadian Press was first published Nov. 27, 2026.",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/27/police-investigating-suspected-voyeurism-at-vancouver-elementary-school",
+      "source": "Winnipeg Free Press",
+      "image": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/11/6b099ffba49f3e3709540948jpeg.jpg?w=1600",
+      "publishedAt": "2026-11-27T16:08:10Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 60,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (2 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (2 terms), category terms (1), primary topic in title, published within 7 days). \"Police investigating suspected voyeurism at Vancouver elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Vancouver police seek suspect after voyeurism incident at elementary school",
+      "description": "Police are asking for the public's help to identify a suspect after an alleged incident of voyeurism at an East Vancouver elementary school. The Vancouver Police Department says a school liaison officer was called to General Brock Elementary School near Main Street and East 33rd Avenue around 1:30 p.m. Tuesday to meet with a 12-year-old girl and her guardian. \"According to the report, the student was in a stall in the girls' washroom after lunch, believing she was alone, when an unknown man peered over the divider,\" police wrote in a statement Friday. \"The student screamed and ran out of the washroom, and the man fled the school.\" Police say the do not believe the man is connected to the school community, but that possibility has not been completely ruled out. The department has released images and video of the suspect in hopes of identifying him. The VPD says it is working with the Vancouver School Board to support the student and broader school community as the investigation continues. Anyone who recognizes the suspect is asked to call the VPD at 604-717-0614.",
+      "url": "https://www.ctvnews.ca/vancouver/article/vancouver-police-seek-suspect-after-voyeurism-incident-at-elementary-school/",
+      "source": "CTVNews",
+      "image": "https://www.ctvnews.ca/resizer/v2/JHZBQ4GTCRBNTP65ER4NCCUC7I.jpg?smart=true&auth=50449c38096ba4fcde05d05422395042fbedc4aac3c1e32e5f2198954b4e1fd7&width=1200&height=630",
+      "publishedAt": "2026-11-27T16:20:45Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Vancouver police seek suspect after voyeurism incident at elementary school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
+    },
+    {
+      "provider": "NewsAPI.ai",
+      "title": "Man wanted for voyeurism in girl's washroom at school",
+      "description": "The Vancouver Police Department (VPD) is seeking help from the public to identify a man who is suspected of voyeurism at a Vancouver elementary school. On Nov. 24, around 1:30 p.m., a Vancouver Police School Liaison Officer was called to an elementary school near Main Street and East 33rd Avenue. A 12-year-old girl reported that she was in the girls' washroom after lunch when an unknown man looked over the divider into her stall. The girl screamed and ran out of the washroom and the man ran out of the school, the release reads. The VPD says that they do not think that the man belongs to the school community. Police are releasing both video and still images of the suspect to see if someone can identify him. Investigators ask that if someone has information on who the man is they call the VPD at 604-717-0614.",
+      "url": "https://vancouver.citynews.ca/2026/11/27/van-voyeurism-suspect/",
+      "source": "CityNews Vancouver",
+      "image": "https://vancouver.citynews.ca/wp-content/blogs.dir/sites/9/2026/04/08/Vancouver-Police-Generic-VPD-2-1024x576.png",
+      "publishedAt": "2026-11-27T15:45:08Z",
+      "category": "Bathroom Peeping / Voyeurism Incidents",
+      "categoryId": "bathroom-peeping",
+      "priority": 1,
+      "confidence": 45,
+      "confidenceLabel": "medium",
+      "matchReasons": [
+        "restroom context (1 terms)",
+        "category terms (1)",
+        "primary topic in title",
+        "published within 7 days"
+      ],
+      "stallplusAngle": "Flagged for review (restroom context (1 terms), category terms (1), primary topic in title, published within 7 days). \"Man wanted for voyeurism in girl's washroom at school\" may fit Bathroom Peeping / Voyeurism Incidents if restroom context is confirmed.",
+      "flaggedAt": "2026-11-27T20:40:08.437Z"
     }
   ]
 }
